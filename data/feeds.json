@@ -1,0 +1,27 @@
+[
+  {
+    "name": "BBC World",
+    "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+    "category": "World"
+  },
+  {
+    "name": "BBC Last 50",
+    "url": "http://news.bbc.co.uk/rss/newsonline_uk_edition/latest_published_stories/rss.xml",
+    "category": "General"
+  },
+  {
+    "name": "Fox U.S.",
+    "url": "https://moxie.foxnews.com/google-publisher/us.xml",
+    "category": "U.S."
+  },
+  {
+    "name": "Fox Politics",
+    "url": "https://moxie.foxnews.com/google-publisher/politics.xml",
+    "category": "Politics"
+  },
+  {
+    "name": "Ars Technica",
+    "url": "http://feeds.arstechnica.com/arstechnica/index",
+    "category": "Tech"
+  }
+]
