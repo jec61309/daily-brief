@@ -1,45 +1,175 @@
 {
-  "date": "Saturday, March 14, 2026",
+  "date": "Sunday, March 15, 2026",
   "stories": [
     {
-      "title": "'Gruesome' war bets fuel calls for crackdown on prediction markets",
-      "category": "World",
-      "what": "Predictions markets have hosted millions of dollars of bets related to the war in Iran.",
-      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
-      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
-      "source": "https://www.bbc.com/news/articles/cjwz8051y0lo?at_medium=RSS&at_campaign=rss",
+      "title": "Top California librarian questioned about missing $650K tied to Dolly Parton child literacy program",
+      "category": "Politics",
+      "what": "California’s state librarian faces scrutiny after lawmakers said about $650,000 connected to a Dolly Parton Imagination Library literacy program cannot be accounted for.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/politics/top-california-librarian-questioned-about-missing-650k-tied-dolly-parton-child-literacy-program",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cjwz8051y0lo?at_medium=RSS&at_campaign=rss"
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/top-california-librarian-questioned-about-missing-650k-tied-dolly-parton-child-literacy-program"
         }
       ]
     },
     {
-      "title": "BBC visits aftermath of Israeli strike on Lebanon that killed family as IDF targets Hezbollah",
+      "title": "Latino voters are 'no longer sleeping,' Univision president warns GOP, Dems",
+      "category": "Politics",
+      "what": "Televisa Univision president calls Latino voters a \"sleeping giant that is no longer sleeping,\" urging parties to revamp their approach for 2026.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/latino-voters-no-longer-sleeping-univision-president-warns-gop-dems",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/latino-voters-no-longer-sleeping-univision-president-warns-gop-dems"
+        }
+      ]
+    },
+    {
+      "title": "French police detain brothers over 'lethal and antisemitic' plot",
       "category": "World",
-      "what": "A relative tells BBC those killed were civilians and not Hezbollah operatives, but the Israel Defence Forces says it was targeting \"terrorist infrastructure\".",
+      "what": "A loaded gun, hydrochloric acid and an Islamic State flag were found in their car, prosecutors say.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.com/news/articles/ckgl5d3d3kjo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/ckgl5d3d3kjo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Severe flooding kills 66 in Kenya, as heavy rains continue",
+      "category": "World",
+      "what": "Eleven people were rescued overnight after a minibus taxi got stuck in rising floodwaters in Nairobi.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.com/news/articles/cz6e5eng03yo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cz6e5eng03yo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Brother of Michigan synagogue attacker was Hezbollah commander, Israel alleges",
+      "category": "U.S.",
+      "what": "Ibrahim Muhammad Ghazali, brother of the Michigan synagogue attacker, was a Hezbollah commander killed in an Israeli strike, Israeli intelligence revealed.",
       "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
       "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.bbc.com/news/articles/c20lvn0ex6yo?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.foxnews.com/us/brother-michigan-synagogue-attacker-hezbollah-terrorist-israel-alleges",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c20lvn0ex6yo?at_medium=RSS&at_campaign=rss"
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/brother-michigan-synagogue-attacker-hezbollah-terrorist-israel-alleges"
         }
       ]
     },
     {
-      "title": "Treasure hunter freed from prison after refusing to turn over shipwreck gold",
-      "category": "World",
-      "what": "Tommy Thompson spent more than a decade in prison after refusing to disclose the whereabouts of 500 missing gold coins.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/cg4g7kn99q3o?at_medium=RSS&at_campaign=rss",
+      "title": "Pentagon identifies 6 US airmen killed in refueling tanker crash in Iraq after midair collision",
+      "category": "Politics",
+      "what": "The War Department confirmed the identifies of the six U.S. airmen who were killed when a KC-135 refueling aircraft crashed in western Iraq during a mission.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/politics/pentagon-identifies-6-us-airmen-killed-refueling-tanker-crash-iraq-after-mid-air-collision",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cg4g7kn99q3o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/cly0d510yz3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/pentagon-identifies-6-us-airmen-killed-refueling-tanker-crash-iraq-after-mid-air-collision"
+        }
+      ]
+    },
+    {
+      "title": "Ugandan opposition leader goes abroad after two months in hiding",
+      "category": "World",
+      "what": "Uganda's military chief has said Bobi Wine is wanted \"dead or alive\", although some ministers have denied he is being sought.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.com/news/articles/cwy8vk24wyvo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cwy8vk24wyvo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Zelensky accuses EU allies of 'blackmail' in oil pipeline row",
+      "category": "World",
+      "what": "Volodymyr Zelensky says restoring the flow of Russian oil via Ukraine into the EU would be like lifting sanctions on Russia.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.com/news/articles/c3v7q6d0nq0o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c3v7q6d0nq0o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "An engineering thesis disguised as a coupe: A history of the Honda Prelude",
+      "category": "Tech",
+      "what": "Technology like four-wheel steering and variable valve timing debuted in the Prelude.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/cars/2026/03/an-engineering-thesis-disguised-as-a-coupe-a-history-of-the-honda-prelude/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/cars/2026/03/an-engineering-thesis-disguised-as-a-coupe-a-history-of-the-honda-prelude/"
+        }
+      ]
+    },
+    {
+      "title": "Israeli forces kill Palestinian couple and two of their children in occupied West Bank",
+      "category": "World",
+      "what": "Mohammed, aged five, and Othman, aged seven, were killed alongside their parents, the Palestinian health ministry says.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.bbc.com/news/articles/cqxdndz75zvo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cqxdndz75zvo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "11-year-old accused of premeditated murder in brother’s death can’t be tried as adult, former DA says",
+      "category": "U.S.",
+      "what": "Shocking homicide case rocks Colorado community as 11-year-old accused of killing younger brother. Juvenile justice system faces rare legal challenge.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/11-year-old-accused-premeditated-murder-brothers-death-cant-tried-adult-former-da-says",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/11-year-old-accused-premeditated-murder-brothers-death-cant-tried-adult-former-da-says"
+        }
+      ]
+    },
+    {
+      "title": "Headless, handless body found on New York road 56 years ago identified through DNA; killer remains unknown",
+      "category": "U.S.",
+      "what": "A DNA breakthrough identified a headless body found in New York 56 years ago as Clyde Coppage from Pennsylvania, but his killer still remains at large.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/headless-handless-body-found-new-york-road-56-years-ago-identified-through-dna-killer-remains-unknown",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/headless-handless-body-found-new-york-road-56-years-ago-identified-through-dna-killer-remains-unknown"
         }
       ]
     },
@@ -54,118 +184,6 @@
         {
           "name": "Fox U.S.",
           "url": "https://www.foxnews.com/us/with-dogs-dancing-and-hair-iranians-defy-unholy-alliance-of-socialists-and-radicals-youre-hypocrites"
-        }
-      ]
-    },
-    {
-      "title": "Russia exploiting Iran war, Zelensky says after fresh bombardment",
-      "category": "World",
-      "what": "Volodymyr Zelensky cast concern over the supply of air-defence missiles after a heavy overnight attack kills at least five.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/c0mger2zkmwo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c0mger2zkmwo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Trump-backed Potomac sewage cleanup complete after massive spill ahead of summer America250 celebrations",
-      "category": "Politics",
-      "what": "Potomac River sewage spill repairs have been completed after President Donald Trump approved a federal disaster declaration allowing FEMA assistance.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/trump-backed-potomac-sewage-cleanup-complete-after-massive-spill-ahead-summer-america250-celebrations",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-backed-potomac-sewage-cleanup-complete-after-massive-spill-ahead-summer-america250-celebrations"
-        }
-      ]
-    },
-    {
-      "title": "Obama Presidential Center wants 100 unpaid volunteers while Valerie Jarrett makes $740K",
-      "category": "Politics",
-      "what": "The Obama Presidential Center seeks 100 unpaid volunteers as the $850 million Chicago facility prepares to open in June, promising $3.1 billion economic impact for South Side.",
-      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
-      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
-      "source": "https://www.foxnews.com/politics/obama-presidential-center-wants-100-unpaid-volunteers-as-valerie-jarrett-earns-740k",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/obama-presidential-center-wants-100-unpaid-volunteers-as-valerie-jarrett-earns-740k"
-        }
-      ]
-    },
-    {
-      "title": "Jasmine Crockett’s alleged security guard killed in standoff with Dallas SWAT team: reports",
-      "category": "U.S.",
-      "what": "A security guard who reportedly worked for Rep. Jasmine Crockett was killed in a Dallas SWAT standoff after being wanted for impersonating police.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/jasmine-crocketts-alleged-security-guard-killed-standoff-dallas-swat-team-reports",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/jasmine-crocketts-alleged-security-guard-killed-standoff-dallas-swat-team-reports"
-        }
-      ]
-    },
-    {
-      "title": "Rescuers blame weather and 'underprepared skiers' for rise in Alps avalanche deaths",
-      "category": "World",
-      "what": "The BBC joins a French Alps rescue team as the number of skiers killed this season passes 100.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/cev7111kx9wo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cev7111kx9wo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Virginia Democrats dig in on DHS funding line despite ISIS-linked shooting at ODU, illegal immigrant murder",
-      "category": "Politics",
-      "what": "Virginia Democratic Sens. Mark Warner and Tim Kaine oppose DHS funding without reforms despite a deadly shooting at Old Dominion University involving a suspect with ISIS links.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/virginia-democrats-dig-dhs-funding-line-despite-isis-linked-shooting-odu-illegal-immigrant-murder",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/virginia-democrats-dig-dhs-funding-line-despite-isis-linked-shooting-odu-illegal-immigrant-murder"
-        }
-      ]
-    },
-    {
-      "title": "State Department cuts fee to renounce US citizenship by 80% to $450",
-      "category": "U.S.",
-      "what": "The State Department slashed its U.S. citizenship renunciation fee by 80% from $2,350 to $450, effective Friday. A new rule reduces the cost burden for Americans.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/state-department-cuts-fee-renounce-us-citizenship-80-450",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/state-department-cuts-fee-renounce-us-citizenship-80-450"
-        }
-      ]
-    },
-    {
-      "title": "Teens accused of plotting twisted 'blood ritual' school killing giggle in cruiser about glam shot",
-      "category": "U.S.",
-      "what": "Lois Lippert and Isabelle Valdez were charged as adults after allegedly plotting a “blood ritual\" killing at their Florida high school before another student tipped off authorities.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/teens-accused-plotting-twisted-blood-ritual-school-killing-giggle-cruiser-about-glam-shot",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/teens-accused-plotting-twisted-blood-ritual-school-killing-giggle-cruiser-about-glam-shot"
         }
       ]
     },
@@ -194,20 +212,6 @@
         {
           "name": "Ars Technica",
           "url": "https://arstechnica.com/space/2026/03/flying-to-the-moon-for-the-first-time-in-54-years-is-risky-but-how-risky/"
-        }
-      ]
-    },
-    {
-      "title": "Woman sneezes out maggots after fly larvae get trapped in her deviated septum",
-      "category": "Tech",
-      "what": "She made a full recovery, despite the maggots.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/health/2026/03/woman-sneezes-out-maggots-after-fly-larvae-get-trapped-in-her-deviated-septum/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/health/2026/03/woman-sneezes-out-maggots-after-fly-larvae-get-trapped-in-her-deviated-septum/"
         }
       ]
     }
