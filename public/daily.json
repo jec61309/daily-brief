@@ -1,217 +1,213 @@
 {
-  "date": "Wednesday, March 18, 2026",
+  "date": "Thursday, March 19, 2026",
   "stories": [
     {
-      "title": "Republicans signal no retreat on SAVE Act as marathon Senate debate kicks off",
+      "title": "Gas price soars 25% after strikes on Qatar hub",
+      "category": "World",
+      "what": "Energy costs jump after fresh strikes hit key infrastructure in the Middle East,",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/c78x83lpgngo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c78x83lpgngo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Fetterman says Democrats lack leader, claims party driven by Trump Derangement Syndrome",
       "category": "Politics",
-      "what": "Sen. Mike Lee, R-Utah, said he believed lawmakers would continue debating the SAVE America Act until it \"damn well passes,\" despite heavy Democratic opposition.",
+      "what": "Democratic Sen. John Fetterman, an ardent supporter of Israel who also backs the U.S. attack against Iran, suggested that his party is lead by Trump Derangement Syndrome.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/republicans-signal-no-retreat-save-act-marathon-senate-debate-kicks-off",
+      "source": "https://www.foxnews.com/politics/fetterman-democrats-no-leader-trump-derangement-syndrome",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/republicans-signal-no-retreat-save-act-marathon-senate-debate-kicks-off"
+          "url": "https://www.foxnews.com/politics/fetterman-democrats-no-leader-trump-derangement-syndrome"
         }
       ]
     },
     {
-      "title": "Here's BMW's first all-electric 3 series, the 2027 i3",
-      "category": "Tech",
-      "what": "The iX3 SUV was very good; we think the i3 sedan will be even better.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/cars/2026/03/heres-bmws-first-all-electric-3-series-the-2027-i3/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/03/heres-bmws-first-all-electric-3-series-the-2027-i3/"
-        }
-      ]
-    },
-    {
-      "title": "Mullin faces Democrat grilling in first hurdle to lead DHS amid shutdown fight",
-      "category": "Politics",
-      "what": "Sen. Markwayne Mullin, R-Okla., faces confirmation hearing for Homeland Security chief as Democrats seek stringent immigration enforcement reforms.",
-      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
-      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
-      "source": "https://www.foxnews.com/politics/mullin-faces-democrat-grilling-first-hurdle-lead-dhs-amid-shutdown-fight",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/mullin-faces-democrat-grilling-first-hurdle-lead-dhs-amid-shutdown-fight"
-        }
-      ]
-    },
-    {
-      "title": "Tuberville defends post likening Mamdani to 9/11 attacks: 'I just go by his rhetoric'",
-      "category": "Politics",
-      "what": "Sen. Tommy Tuberville, R-Ala., defended his controversial social media post comparing New York City Mayor Zohran Mamdani, who is Muslim, to the 9/11 terror attacks.",
-      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
-      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
-      "source": "https://www.foxnews.com/politics/tuberville-defends-post-likening-mamdani-9-11-attacks-i-just-go-his-rhetoric",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/tuberville-defends-post-likening-mamdani-9-11-attacks-i-just-go-his-rhetoric"
-        }
-      ]
-    },
-    {
-      "title": "FBI rescues missing teen from Florida hotel after month-long hunt for accused kidnapper",
-      "category": "U.S.",
-      "what": "FBI rescues missing 16-year-old Ohio girl after month-long search, arresting Tennessee suspect accused of kidnapping in coordinated multistate operation.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/fbi-rescues-missing-teen-florida-hotel-month-long-hunt-accused-kidnapper",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/fbi-rescues-missing-teen-florida-hotel-month-long-hunt-accused-kidnapper"
-        }
-      ]
-    },
-    {
-      "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
+      "title": "Ecuador gang leader wanted for murder of presidential candidate arrested",
       "category": "World",
-      "what": "National Counterterrorism Center Director Joe Kent says Trump \"started this war due to pressure from Israel and its powerful American lobby\".",
+      "what": "Officials believe the man - known as Lobo Menor - is linked to the killing of Fernando Villavicencio in 2023.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/cy8g81k5xzgo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cy8g81k5xzgo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "'Tell me to my face': Top moments in Mullin's heated confirmation hearing to be Trump's next DHS chief",
+      "category": "Politics",
+      "what": "Fireworks erupted during Sen. Markwayne Mullin's, R-Okla., confirmation hearing with Sen. John Fetterman, D-Pa., emerging as a potential key Democratic vote.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.foxnews.com/politics/tell-me-my-face-top-moments-mullins-heated-confirmation-hearing-trumps-next-dhs-chief",
       "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss"
-        },
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/white-house-after-top-counterterrorism-official-quits-says-trump-had-strong-evidence-iran-would-attack-us"
+          "url": "https://www.foxnews.com/politics/tell-me-my-face-top-moments-mullins-heated-confirmation-hearing-trumps-next-dhs-chief"
         }
       ]
     },
     {
-      "title": "Pittsburgh police officers accused of ignoring ICE agents’ struggle with suspect",
+      "title": "NYPD officer assigned to Mayor Mamdani’s security suspended after off-duty shooting",
       "category": "U.S.",
-      "what": "Pittsburgh police were allegedly told to stand down as ICE agents struggled with a suspect during a detention attempt. The chief has launched an investigation into the claims.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/pittsburgh-police-officers-accused-ignoring-ice-agents-struggle-suspect",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/pittsburgh-police-officers-accused-ignoring-ice-agents-struggle-suspect"
-        }
-      ]
-    },
-    {
-      "title": "Florida executes convict in 2008 rape, killing of woman, whose final call sparked 911 reforms",
-      "category": "U.S.",
-      "what": "Florida executed Michael Lee King for the 2008 murder of Denise Amber Lee, who called 911 begging for help while tied up in his car during the crime.",
+      "what": "A New York City police officer allegedly shot a man in the head while off-duty in the Bronx and has been suspended without pay as the department investigates.",
       "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
       "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/florida-executes-convict-2008-rape-killing-woman-whose-final-call-sparked-911-reforms",
+      "source": "https://www.foxnews.com/us/nypd-officer-mamdani-security-bronx-shooting",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/florida-executes-convict-2008-rape-killing-woman-whose-final-call-sparked-911-reforms"
+          "url": "https://www.foxnews.com/us/nypd-officer-mamdani-security-bronx-shooting"
         }
       ]
     },
     {
-      "title": "India's cheap weight-loss drugs could reshape global obesity fight",
+      "title": "Trump continues to push for release of Tina Peters as Colorado governor weighs clemency",
+      "category": "Politics",
+      "what": "President Donald Trump continues to pressure Colorado's governor to free Tina Peters, who is serving a nine-year sentence for a security breach of voting systems.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/trump-tina-peters-colorado-clemency-push",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/trump-tina-peters-colorado-clemency-push"
+        }
+      ]
+    },
+    {
+      "title": "South Africans say criminal gangs are exploiting the water crisis",
       "category": "World",
-      "what": "With India’s semaglutide patent expiring on 20 March, about 50 branded generics are expected to enter the market.",
-      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
-      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
-      "source": "https://www.bbc.com/news/articles/cx2g4411en3o?at_medium=RSS&at_campaign=rss",
+      "what": "Residents of some areas have been without mains water for weeks.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.com/news/articles/cvg3gjx22j0o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cx2g4411en3o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/cvg3gjx22j0o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Republicans push campus carry laws in nearly a dozen states as college shootings reignite debate",
-      "category": "U.S.",
-      "what": "The college gun debate intensifies as lawmakers in eight states weigh campus carry bills. Critics cite safety risks, while supporters argue for armed citizens.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/republicans-push-campus-carry-laws-nearly-dozen-states-college-shootings-reignite-debate",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/republicans-push-campus-carry-laws-nearly-dozen-states-college-shootings-reignite-debate"
-        }
-      ]
-    },
-    {
-      "title": "Total repression and air strikes bring unrelenting dread for Iranians",
+      "title": "How the Iran war has left Europe facing yet another energy crisis",
       "category": "World",
-      "what": "Tehran residents tell the BBC they're caught between US-Israeli bombing and an Iranian regime trying to reassert its power.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/cn9e0wrglgdo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cn9e0wrglgdo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Apple can delist apps \"with or without cause,\" judge says in loss for Musi app",
-      "category": "Tech",
-      "what": "Judge tosses Musi case against Apple, sanctions lawyers for \"mak[ing] up facts.\"",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://arstechnica.com/tech-policy/2026/03/judge-upholds-apple-delisting-of-free-musi-app-that-streams-songs-from-youtube/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/03/judge-upholds-apple-delisting-of-free-musi-app-that-streams-songs-from-youtube/"
-        }
-      ]
-    },
-    {
-      "title": "How World ID wants to put a unique human identity on every AI agent",
-      "category": "Tech",
-      "what": "Iris-scan backed tokens could help stop agent swarms from overwhelming online systems.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/ai/2026/03/world-id-wants-you-to-put-a-cryptographically-unique-human-identity-behind-your-ai-agents/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/03/world-id-wants-you-to-put-a-cryptographically-unique-human-identity-behind-your-ai-agents/"
-        }
-      ]
-    },
-    {
-      "title": "Italy warns Russian tanker could explode in Mediterranean at any time",
-      "category": "World",
-      "what": "Italy is one of nine EU countries urging the European Commission to act over the Arctic Metagaz, drifting out of control in the Mediterranean Sea.",
+      "what": "It is not the first time that there has been deep energy-linked frustration in the heart of Europe.",
       "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
       "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.bbc.com/news/articles/cn9e9dxw3e1o?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.com/news/articles/c24de9e97vno?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cn9e9dxw3e1o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/c24de9e97vno?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "US Attorney General Bondi formally summoned to Congress in Epstein case",
+      "title": "Colorado school staffer accused of sexually abusing 13-year-old student, now on the run",
+      "category": "U.S.",
+      "what": "A Colorado school staffer allegedly abused a 13-year-old student for months. She is now on the run, facing 12 felony charges including sexual assault on a child.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/colorado-school-staffer-sexual-abuse-student-wanted",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/colorado-school-staffer-sexual-abuse-student-wanted"
+        }
+      ]
+    },
+    {
+      "title": "US civil rights leader Cesar Chavez accused of sexual abuse ",
       "category": "World",
-      "what": "It comes weeks after a Republican lawmaker accused the justice department of a \"cover-up\" in releasing the Epstein files.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.com/news/articles/cwyky51jwl0o?at_medium=RSS&at_campaign=rss",
+      "what": "The allegations have prompted the cancellations of events and celebrations planned in his honour later this month.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/cp8r8rggxmmo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cwyky51jwl0o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/cp8r8rggxmmo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Millionaire developer found dead in ritzy beach home; bizarrely dressed suspect arrested after standoff",
+      "category": "U.S.",
+      "what": "A millionaire developer, 92, was found dead in a Southern California beach home after a bizarrely dressed suspect surrendered after an hours-long SWAT standoff, authorities say.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/millionaire-developer-found-dead-ritzy-beach-home-bizarrely-dressed-suspect-arrested-after-standoff",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/millionaire-developer-found-dead-ritzy-beach-home-bizarrely-dressed-suspect-arrested-after-standoff"
+        }
+      ]
+    },
+    {
+      "title": "Hero police officers storm inferno to save 5 passengers from fireball crash",
+      "category": "U.S.",
+      "what": "Michigan police officers heroically rescued five people from a fiery car crash in Canton Township, and four officers were injured during the rescue.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/hero-police-officers-storm-inferno-save-5-passengers-fireball-crash",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/hero-police-officers-storm-inferno-save-5-passengers-fireball-crash"
+        }
+      ]
+    },
+    {
+      "title": "Kagi Translate's AI answers the question \"What would horny Margaret Thatcher say?\"",
+      "category": "Tech",
+      "what": "Remember when it was fun to play around with LLMs?",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/ai/2026/03/kagi-translates-ai-answers-the-question-what-would-horny-margaret-thatcher-say/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/03/kagi-translates-ai-answers-the-question-what-would-horny-margaret-thatcher-say/"
+        }
+      ]
+    },
+    {
+      "title": "Musk’s tactic of blaming users for Grok sex images may be foiled by EU law",
+      "category": "Tech",
+      "what": "Planned EU ban on nudify apps would likely force Musk to make Grok less \"spicy.\"",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/tech-policy/2026/03/eu-moves-to-ban-nudify-apps-after-grok-made-them-mainstream/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/03/eu-moves-to-ban-nudify-apps-after-grok-made-them-mainstream/"
+        }
+      ]
+    },
+    {
+      "title": "Coal plant forced to stay open due to emergency order isn't even running",
+      "category": "Tech",
+      "what": "Department of Energy's attempts to prop up coal can look pretty pointless.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/science/2026/03/coal-plant-forced-to-stay-open-due-to-emergency-order-isnt-even-running/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/03/coal-plant-forced-to-stay-open-due-to-emergency-order-isnt-even-running/"
         }
       ]
     }
