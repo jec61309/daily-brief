@@ -1,175 +1,199 @@
 {
-  "date": "Sunday, March 22, 2026",
+  "date": "Monday, March 23, 2026",
   "stories": [
     {
-      "title": "Iranian missiles injure 160 in towns near Israeli nuclear site",
+      "title": "Stocks slide and oil rises as US and Iran threaten to escalate war",
       "category": "World",
-      "what": "Israel is investigating how ballistic missiles got through the country's sophisticated air defences.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
+      "what": "The International Energy Agency chief says the war could lead to the world's worst energy crisis in decades.",
+      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
+      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
+      "source": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Colorado River management plans to be determined by government after negotiations stall",
+      "title": "Dem Senate candidate in the hot seat after anti-meat comment resurfaces: 'This will haunt him'",
+      "category": "Politics",
+      "what": "Democratic Senate candidate James Talarico faced fierce backlash after a resurfaced video showed him urging Texans to go meat-free to fight climate change.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/dem-senate-candidate-hot-seat-after-anti-meat-comment-resurfaces-this-will-haunt-him",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/dem-senate-candidate-hot-seat-after-anti-meat-comment-resurfaces-this-will-haunt-him"
+        }
+      ]
+    },
+    {
+      "title": "Two pilots dead after plane and ground vehicle collide at New York's LaGuardia Airport",
+      "category": "World",
+      "what": "The plane, arriving from Montreal, collided with a firefighting vehicle responding to a separate incident.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.com/news/articles/cy01g522ww4o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cy01g522ww4o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Kenyan police investigate alleged disappearance of ex-foreign minister",
+      "category": "World",
+      "what": "The reported disappearance of Raphael Tuju has led to claims he may have been abducted.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.com/news/articles/c3ex8vglvkxo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c3ex8vglvkxo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "HK police can now demand phone passwords under new national security rules",
+      "category": "World",
+      "what": "Those who do not comply can be jailed for up to a year and fined up to HK$100,000 ($12,700; £9,600).",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.com/news/articles/ce8j9yj52lro?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/ce8j9yj52lro?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Air Canada jet hits fire truck, killing 2 and forcing New York's LaGuardia airport to close",
       "category": "U.S.",
-      "what": "The federal government is moving forward with plans on how to manage the Colorado River after negotiations on access stalled between seven Western states and 30 tribal nations.",
+      "what": "An Air Canada Express regional jet crashed into a Port Authority vehicle after landing at New York's LaGuardia Airport, killing two people and forcing the airport to close.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/air-canada-jet-hits-vehicle-forcing-new-yorks-laguardia-airport-close",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/air-canada-jet-hits-vehicle-forcing-new-yorks-laguardia-airport-close"
+        }
+      ]
+    },
+    {
+      "title": "9 suspects arrested after $7M in stolen cargo seized in Southern California bust",
+      "category": "U.S.",
+      "what": "Nine suspects were arrested after authorities recovered $7 million in stolen cargo and $1 million in cash as part of a cargo theft bust in California.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/california-cargo-theft-7m-stolen-goods-arrests",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/california-cargo-theft-7m-stolen-goods-arrests"
+        }
+      ]
+    },
+    {
+      "title": "UN warns Earth's climate being 'pushed beyond its limits' as El Niño looms",
+      "category": "World",
+      "what": "The Earth's climate is further out of balance than at any time in recorded history, the UN's weather agency says.",
       "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
       "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.foxnews.com/us/colorado-river-management-plans-determined-government-negotiations-stall",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/colorado-river-management-plans-determined-government-negotiations-stall"
-        }
-      ]
-    },
-    {
-      "title": "Pence: Trump upended ‘some aspects’ of GOP agenda but ‘hasn't really changed the Republican Party’",
-      "category": "Politics",
-      "what": "Mike Pence says preserving conservative principles amid rising GOP populism is the calling of his life, ahead of his new book on the conservative agenda.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/pence-trump-upended-some-aspects-gop-agenda-hasnt-really-changed-republican-party",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/pence-trump-upended-some-aspects-gop-agenda-hasnt-really-changed-republican-party"
-        }
-      ]
-    },
-    {
-      "title": "Socialists battle to hold Paris as France holds mayoral elections",
-      "category": "World",
-      "what": "The capital could shift to the right after 25 years under the Socialists if Rachida Dati defeats Emmanuel Grégoire.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.com/news/articles/c87wgw27201o?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.com/news/articles/c203rdxkezwo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c87wgw27201o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/c203rdxkezwo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Man found not guilty by reason of insanity in killing of pregnant Seattle woman, unborn child",
+      "title": "Man charged in $90M Medicare fraud scheme; DOJ says suspect may have entered US illegally",
       "category": "U.S.",
-      "what": "Cordell Goosby was found not guilty by reason of insanity in the 2023 shooting death of pregnant Seattle woman Eina Kwon, which subsequently killed her unborn child.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/man-found-not-guilty-reason-insanity-killing-pregnant-seattle-woman-unborn-child",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/man-found-not-guilty-reason-insanity-killing-pregnant-seattle-woman-unborn-child"
-        }
-      ]
-    },
-    {
-      "title": "Trump gives Iran 48-hour ultimatum to reopen Strait of Hormuz or face strikes on power plants",
-      "category": "Politics",
-      "what": "Trump warns Iran it has 48 hours to fully reopen the Strait of Hormuz or the U.S. will strike and obliterate its power plants, starting with the largest.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/trump-gives-iran-48-hour-ultimatum-reopen-strait-hormuz-face-strikes-power-plants",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-gives-iran-48-hour-ultimatum-reopen-strait-hormuz-face-strikes-power-plants"
-        }
-      ]
-    },
-    {
-      "title": "National blackout hits Cuba for second time in a week",
-      "category": "World",
-      "what": "Another total failure of its power grid underlines Cuba's hardship under a US-imposed fuel blockade.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/cvg0l44yxrvo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cvg0l44yxrvo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Venezuelan migrant arrested after Loyola Chicago student fatally shot near campus",
-      "category": "U.S.",
-      "what": "Authorities arrest a Venezuelan migrant following the shooting death of Loyola University Chicago student Sheridan Gorman, who was killed near campus.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/venezuelan-migrant-arrested-after-loyola-chicago-student-fatally-shot-near-campus",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/venezuelan-migrant-arrested-after-loyola-chicago-student-fatally-shot-near-campus"
-        }
-      ]
-    },
-    {
-      "title": "Robert Mueller, ex-FBI chief who led Trump-Russia investigation, dies at 81",
-      "category": "World",
-      "what": "A former FBI director, Mueller led the high-profile inquiry into alleged Russian interference in the 2016 US election",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.com/news/articles/c8dlj6gv0q6o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c8dlj6gv0q6o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/former-fbi-director-robert-mueller-dies-81-trump-reacts"
-        }
-      ]
-    },
-    {
-      "title": "Dead passenger allegedly stored in heated galley for 13 hours on British Airways flight, 'foul smell' reported",
-      "category": "U.S.",
-      "what": "A passenger reportedly died on British Airways Flight BA32, with her body stored in a heated galley for 13 hours on the Hong Kong-to-London route.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/dead-passenger-allegedly-stored-heated-galley-13-hours-british-airways-flight-foul-smell-reported",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/dead-passenger-allegedly-stored-heated-galley-13-hours-british-airways-flight-foul-smell-reported"
-        }
-      ]
-    },
-    {
-      "title": "Trump administration urges judge to dissolve injunction blocking Abrego Garcia's deportation to Liberia",
-      "category": "Politics",
-      "what": "The DOJ urged a judge to dissolve an injunction blocking Kilmar Abrego Garcia's detention, claiming the court's own order is the sole impediment to his deportation to Liberia.",
+      "what": "A former California resident has been indicted on federal health care fraud charges for allegedly submitting $90 million in false Medicare Advantage claims.",
       "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
       "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/trump-administration-urges-judge-dissolve-injunction-blocking-abrego-garcias-deportation-liberia",
+      "source": "https://www.foxnews.com/us/medicare-fraud-azerbaijan-suspect-90m-doj",
       "sources": [
         {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-administration-urges-judge-dissolve-injunction-blocking-abrego-garcias-deportation-liberia"
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/medicare-fraud-azerbaijan-suspect-90m-doj"
         }
       ]
     },
     {
-      "title": "Thousands evacuated as Hawaii faces worst flooding in 20 years",
-      "category": "World",
-      "what": "\"Don't take this storm lightly,\" Hawaii Governor Josh Green warned on Saturday, as more rain is expected on Oahu and Maui.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/c20qj970gwro?at_medium=RSS&at_campaign=rss",
+      "title": "Illegal immigrant charged with killing Loyola student released under Biden, DHS says",
+      "category": "U.S.",
+      "what": "DHS confirmed Venezuelan national Jose Medina-Medina, charged wit killing Loyola student Sheridan Gorman, entered the U.S. under the Biden administration and was caught and released.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/illegal-immigrant-accused-killing-loyola-student-caught-released-under-biden-dhs-says",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c20qj970gwro?at_medium=RSS&at_campaign=rss"
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/illegal-immigrant-accused-killing-loyola-student-caught-released-under-biden-dhs-says"
+        }
+      ]
+    },
+    {
+      "title": "As cattle herds shrink and beef prices rise, investors back AI cow collars",
+      "category": "Politics",
+      "what": "A New Zealand agtech startup's AI-powered cattle collars are drawing major investor interest as beef prices climb 18% and labor shortages hit farms.",
+      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
+      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
+      "source": "https://www.foxnews.com/politics/cattle-herds-shrink-beef-prices-rise-investors-back-ai-cow-collars",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/cattle-herds-shrink-beef-prices-rise-investors-back-ai-cow-collars"
+        }
+      ]
+    },
+    {
+      "title": "Schumer knocks Trump on Iran, plan to send ICE to airports: 'Asking for trouble'",
+      "category": "Politics",
+      "what": "Senate Minority Leader Chuck Schumer called President Donald Trump's plan to deploy ICE agents to U.S. airports \"impulsive\" on Sunday.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/schumer-knocks-trump-iran-plan-send-ice-airports-asking-trouble",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/schumer-knocks-trump-iran-plan-send-ice-airports-asking-trouble"
+        }
+      ]
+    },
+    {
+      "title": "There can (still) be only one: Highlander is 40",
+      "category": "Tech",
+      "what": "Sure, it's cheesy in many respects, but its central mythology still resonates even decades later.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/culture/2026/03/there-can-still-be-only-one-highlander-is-40/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/culture/2026/03/there-can-still-be-only-one-highlander-is-40/"
+        }
+      ]
+    },
+    {
+      "title": "Mining the deep ocean",
+      "category": "Tech",
+      "what": "Policymakers debate if we even need deep ocean mining and if we can do it safely.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/science/2026/03/mining-the-deep-ocean/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/03/mining-the-deep-ocean/"
         }
       ]
     },
@@ -184,34 +208,6 @@
         {
           "name": "Ars Technica",
           "url": "https://arstechnica.com/science/2026/03/we-keep-finding-the-raw-material-of-dna-in-asteroids-whats-it-telling-us/"
-        }
-      ]
-    },
-    {
-      "title": "DOGE goes nuclear: How Trump invited Silicon Valley into America’s nuclear power regulator",
-      "category": "Tech",
-      "what": "“Assume the NRC is going to do whatever we tell the NRC to do.”",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://arstechnica.com/science/2026/03/doge-goes-nuclear-how-trump-invited-silicon-valley-into-americas-nuclear-power-regulator/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/03/doge-goes-nuclear-how-trump-invited-silicon-valley-into-americas-nuclear-power-regulator/"
-        }
-      ]
-    },
-    {
-      "title": "You're likely already infected with a brain-eating virus you've never heard of",
-      "category": "Tech",
-      "what": "Fatal brain infection was thought to be from profound immune suppression. Not anymore.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/health/2026/03/youre-likely-already-infected-with-a-brain-eating-virus-youve-never-heard-of/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/health/2026/03/youre-likely-already-infected-with-a-brain-eating-virus-youve-never-heard-of/"
         }
       ]
     }
