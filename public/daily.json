@@ -1,217 +1,213 @@
 {
-  "date": "Tuesday, March 24, 2026",
+  "date": "Wednesday, March 25, 2026",
   "stories": [
     {
-      "title": "Ignored ICE detainers ‘put lives at risk,’ DHS says, targeting Newsom, Pritzker, Healey",
-      "category": "Politics",
-      "what": "As congressional Democrats continue to vote to defund DHS, the agency is calling out the \"dangerous derangement\" of sanctuary state leaders \"putting American lives at risk.\"",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/ignored-ice-detainers-put-lives-risk-dhs-says-targeting-newsom-pritzker-healey",
+      "title": "Dozens of bodies, mostly infants, discovered in Kenya mass grave",
+      "category": "World",
+      "what": "Some of the 32 bodies, including 25 children, are believed to have come from local hospitals and mortuaries.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/clydj9gj24jo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/ignored-ice-detainers-put-lives-risk-dhs-says-targeting-newsom-pritzker-healey"
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/clydj9gj24jo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Chicago police detail how illegal immigrant accused of killing college student was caught: arrest report",
-      "category": "U.S.",
-      "what": "Jose Medina, accused of killing Chicago college student Sheridan Gorman, was allegedly identified after surveillance caught his distinctive limp on camera.",
+      "title": "Trump urges RNC chair's wife to run for Congress, pledges endorsement: 'RUN, SYDNEY, RUN!'",
+      "category": "Politics",
+      "what": "President Donald Trump encouraged Sydney Gruters, wife of Republican National Committee Chair Joe Gruters, to run in Florida's 16th Congressional District, pledging to back her if she runs.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/trump-endorses-sydney-gruters-florida-house",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/trump-endorses-sydney-gruters-florida-house"
+        }
+      ]
+    },
+    {
+      "title": "Retiring Border Patrol Chief Bovino says he wishes he ‘caught even more’ illegals",
+      "category": "Politics",
+      "what": "Retiring Border Patrol Chief Greg Bovino revealed that one of his few regrets is that he did not arrest more illegal aliens, according to an interview with The New York Times.",
       "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
       "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/chicago-police-detail-how-illegal-immigrant-accused-killing-college-student-caught-arrest-report",
+      "source": "https://www.foxnews.com/politics/retiring-border-patrol-chief-bovino-says-he-wishes-he-caught-even-more-illegals",
       "sources": [
         {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/chicago-police-detail-how-illegal-immigrant-accused-killing-college-student-caught-arrest-report"
-        },
-        {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/chicago-lawmaker-ripped-over-disgusting-response-to-college-student-killed-by-alleged-illegal-immigrant"
+          "url": "https://www.foxnews.com/politics/retiring-border-patrol-chief-bovino-says-he-wishes-he-caught-even-more-illegals"
         }
       ]
     },
     {
-      "title": "Trump’s Iran strategy showcases ‘doctrine of unpredictability’ amid strike threats and sudden pause",
+      "title": "Chicago killing reignites sanctuary city fight as Angel parent heads to Senate hearing",
       "category": "Politics",
-      "what": "Trump claims diplomatic progress paused U.S. strikes on Iran, but Tehran denies any talks, calling it \"psychological warfare\" as a five-day window continues.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/trumps-iran-strategy-showcases-doctrine-unpredictability-amid-strike-threats-sudden-pause",
+      "what": "The hearing on sanctuary city policies, which will be led by Sen. Eric Schmitt, R-Mo., comes after the death of Sheridan Gorman, who was allegedly killed by an illegal immigrant.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/politics/chicago-killing-reignites-sanctuary-city-fight-angel-parent-heads-senate-hearing",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trumps-iran-strategy-showcases-doctrine-unpredictability-amid-strike-threats-sudden-pause"
+          "url": "https://www.foxnews.com/politics/chicago-killing-reignites-sanctuary-city-fight-angel-parent-heads-senate-hearing"
         }
       ]
     },
     {
-      "title": "Australia and EU agree sweeping trade deal in face of global uncertainty",
-      "category": "World",
-      "what": "Australia and the EU sign sweeping trade and security deals after years of negotiations.",
-      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
-      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
-      "source": "https://www.bbc.com/news/articles/cly6g6l6lq7o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cly6g6l6lq7o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "China dials back on fuel price hikes to 'reduce burden' on drivers",
-      "category": "World",
-      "what": "It comes as countries across the region are taking various measures to weather the soaring cost of fuel.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.bbc.com/news/articles/cwyvxejqyx4o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cwyvxejqyx4o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Colombian military plane crash kills at least 66",
-      "category": "World",
-      "what": "Colombia's defence minister says it was a \"tragic accident\" but the cause is not yet clear.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.bbc.com/news/articles/c8dlmrjn1l2o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c8dlmrjn1l2o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Ultimatums, diplomacy and a trip to Graceland as Trump eyes a deal with Iran",
-      "category": "World",
-      "what": "America may be a nation at war, but the president's activities have been a mix of diplomacy and diversions - with the occasional swing toward the surreal.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.com/news/articles/c895v5pq5p1o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c895v5pq5p1o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "US Senate confirms Markwayne Mullin as homeland security chief",
-      "category": "World",
-      "what": "The US senator will now oversee the embattled department after a series of immigration enforcement blunders.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.com/news/articles/c98kd9x705eo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c98kd9x705eo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Park Police officer shot in Southeast DC suffers non life-threatening injuries as probe unfolds",
-      "category": "U.S.",
-      "what": "A US Park Police officer was shot in Southeast Washington, D.C., the D.C. Police Union confirmed, prompting road closures near Queens Stroll Place SE.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/federal-officer-critical-condition-dc-shooting-authorities-search-answers",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/federal-officer-critical-condition-dc-shooting-authorities-search-answers"
-        }
-      ]
-    },
-    {
-      "title": "Mullin confirmed as DHS chief as lawmakers near solution on shutdown standoff",
-      "category": "Politics",
-      "what": "Even with a new DHS chief, Senate Democrats aren't backing down from their demands for stringent reforms to ICE. And now President Donald Trump wants to pair funding with voter ID legislation.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/mullin-confirmed-dhs-chief-shutdown-tensions-continue-escalate",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/mullin-confirmed-dhs-chief-shutdown-tensions-continue-escalate"
-        }
-      ]
-    },
-    {
-      "title": "NJ man crawls through window, attempts to sexually assault girl before being subdued by resident: police",
-      "category": "U.S.",
-      "what": "A New Jersey resident is being credited with stopping a horrific home invasion after subduing a suspect who allegedly tried to sexually assault a sleeping girl.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/nj-man-crawls-window-attempts-sexually-assault-girl-subdued-resident-police",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/nj-man-crawls-window-attempts-sexually-assault-girl-subdued-resident-police"
-        }
-      ]
-    },
-    {
-      "title": "Sheriff shrugs off missteps in Nancy Guthrie case, calls for captor to ‘let her go’ as family pleads for help",
-      "category": "U.S.",
-      "what": "As Nancy Guthrie's disappearance nears two months, her family says \"someone knows something\" and urges the Tucson community to share tips and video.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/sheriff-shrugs-off-missteps-nancy-guthrie-case-calls-captor-let-her-go-family-pleads-help",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/sheriff-shrugs-off-missteps-nancy-guthrie-case-calls-captor-let-her-go-family-pleads-help"
-        }
-      ]
-    },
-    {
-      "title": "A mission NASA might kill is still returning fascinating science from Jupiter",
+      "title": "How chemists turned bourbon waste into supercapacitors",
       "category": "Tech",
-      "what": "\"We can’t quite afford to support everything that we have done in the past.\"",
+      "what": "Hydrothermal carbonization can directly convert sloppy stillage into hard or activated carbon.",
       "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
       "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/space/2026/03/a-mission-nasa-might-kill-is-still-returning-fascinating-science-from-jupiter/",
+      "source": "https://arstechnica.com/science/2026/03/how-chemists-turned-bourbon-waste-into-super-capacitors/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/03/a-mission-nasa-might-kill-is-still-returning-fascinating-science-from-jupiter/"
+          "url": "https://arstechnica.com/science/2026/03/how-chemists-turned-bourbon-waste-into-super-capacitors/"
         }
       ]
     },
     {
-      "title": "Trump's MAHA pick for surgeon general flounders amid GOP doubts",
-      "category": "Tech",
-      "what": "She stalled over MAHA woo-woo, anti-vaccine views, and lacking medical background.",
+      "title": "Marcos promises 'flow of oil' as Philippines declares energy emergency",
+      "category": "World",
+      "what": "The President says the country will procure one million barrels of oil to add to the current stock.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/c3ex8ez3717o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c3ex8ez3717o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Graffiti conviction for Australian woman who stuck googly eyes on sculpture",
+      "category": "World",
+      "what": "The woman had taken MDMA and three litres of vodka when she vandalised the piece nicknamed Blue Blob.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/cwydx34kzlvo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cwydx34kzlvo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Boss of financial giant BlackRock warns of global recession if oil price hits $150",
+      "category": "World",
+      "what": "Larry Fink says if oil prices stay high for a sustained period it will have \"profound implications\" for the world economy.",
+      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
+      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
+      "source": "https://www.bbc.com/news/articles/c9wqrdkx8ppo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c9wqrdkx8ppo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Danish PM fails to secure majority in party's weakest election showing since 1903",
+      "category": "World",
+      "what": "The party, which has been in power since 2019, gained the most votes but faces tough talks on forming a new government.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://arstechnica.com/health/2026/03/trumps-maha-pick-for-surgeon-general-flounders-amid-gop-doubts/",
+      "source": "https://www.bbc.com/news/articles/c74v5qynl9vo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/health/2026/03/trumps-maha-pick-for-surgeon-general-flounders-amid-gop-doubts/"
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c74v5qynl9vo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Nvidia CEO tries to explain why DLSS 5 isn’t just “AI slop”",
-      "category": "Tech",
-      "what": "If game makers don’t like it, “they could decide not to use it, you know?\"",
+      "title": "Driver hops curb, strikes 9 students during after school pickup in Iowa",
+      "category": "U.S.",
+      "what": "Nine students were injured after a vehicle struck them in a pickup line after school in Ankeny, Iowa, officials said. The driver was not injured in the incident.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/gaming/2026/03/nvidia-ceo-tries-to-explain-why-dlss-5-isnt-just-ai-slop/",
+      "source": "https://www.foxnews.com/us/driver-hops-curb-strikes-9-students-during-after-school-pickup-iowa",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/driver-hops-curb-strikes-9-students-during-after-school-pickup-iowa"
+        }
+      ]
+    },
+    {
+      "title": "\"The last straw\"—RFK Jr.'s anti-vaccine ally angrily quits CDC panel after spat",
+      "category": "Tech",
+      "what": "Robert Malone quit a vaccine panel, blaming an HHS spokesperson for \"trashing\" him.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/health/2026/03/rfk-jr-anti-vaccine-ally-dramatically-quits-cdc-panel-complaining-of-drama/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/gaming/2026/03/nvidia-ceo-tries-to-explain-why-dlss-5-isnt-just-ai-slop/"
+          "url": "https://arstechnica.com/health/2026/03/rfk-jr-anti-vaccine-ally-dramatically-quits-cdc-panel-complaining-of-drama/"
+        }
+      ]
+    },
+    {
+      "title": "Two arrested after US Park Police officer shot in apparent DC ambush: report",
+      "category": "U.S.",
+      "what": "Two D.C. residents face federal charges after a U.S. Park Police officer was shot in southeast Washington while reportedly sitting in an unmarked Tesla.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/two-arrested-after-us-park-police-officer-shot-apparent-dc-ambush",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/two-arrested-after-us-park-police-officer-shot-apparent-dc-ambush"
+        }
+      ]
+    },
+    {
+      "title": "Judge grants $1 murder bond for Georgia woman accused of using pills to induce second-trimester abortion",
+      "category": "U.S.",
+      "what": "A Georgia judge granted a $1 murder bond for a woman accused of using pills to end a pregnancy at approximately five months gestation, calling the charge \"extremely problematic.\"",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/judge-grants-1-murder-bond-georgia-woman-accused-using-pills-induce-second-trimester-abortion",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/judge-grants-1-murder-bond-georgia-woman-accused-using-pills-induce-second-trimester-abortion"
+        }
+      ]
+    },
+    {
+      "title": "FBI’s ‘Operation Box Cutter’ indicts Chinese pharma firms, terror-linked cartel assets in fentanyl takedown",
+      "category": "U.S.",
+      "what": "FBI Director Kash Patel revealed a historic crackdown on Chinese pharmaceutical companies allegedly supplying the Gulf cartel with fentanyl precursors.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/fbis-operation-box-cutter-indicts-chinese-pharma-firms-terror-linked-cartel-assest-fentanyl-takedown",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/fbis-operation-box-cutter-indicts-chinese-pharma-firms-terror-linked-cartel-assest-fentanyl-takedown"
+        }
+      ]
+    },
+    {
+      "title": "Final analysis of 2025 Iberian blackout: Policies left Spain at risk",
+      "category": "Tech",
+      "what": "Too much hardware was allowed to disconnect right at the edge of normal conditions.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/science/2026/03/final-analysis-of-2025-iberian-blackout-policies-left-spain-at-risk/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/03/final-analysis-of-2025-iberian-blackout-policies-left-spain-at-risk/"
         }
       ]
     }
