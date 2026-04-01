@@ -1,213 +1,213 @@
 {
-  "date": "Tuesday, March 31, 2026",
+  "date": "Wednesday, April 1, 2026",
   "stories": [
     {
-      "title": "Eurovision Song Contest launches first-ever Asia edition",
+      "title": "Israel intensifies Lebanon attacks and hits areas not in Hezbollah's control",
       "category": "World",
-      "what": "Broadcasters from 10 countries, including South Korea and the Philippines, will be taking part.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/cx2rwq53zxyo?at_medium=RSS&at_campaign=rss",
+      "what": "Attacks on Lebanon have continued, as Israel has announced its intention to control swathes of the south.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.bbc.com/news/articles/cvg07j6yeweo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cx2rwq53zxyo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/cvg07j6yeweo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "WATCH IT: Speaker Johnson hears from Uber driver on ‘no tax on tips’ benefit: ‘big difference’",
-      "category": "Politics",
-      "what": "An Uber Eats driver said the \"no tax on tips\" deduction gave him a 20% larger refund, as Speaker Mike Johnson spotlighted the tax break ahead of Tax Day.",
+      "title": "Jimmy Gracey's chain necklace never recovered after Spanish police rule death accidental",
+      "category": "U.S.",
+      "what": "Jimmy Gracey's gold chain and rhinestone cross remain missing, and a former FBI analyst said the evidence must be filtered through the lens of the grieving Gracey family.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/politics/no-tax-on-tips-uber-driver-johnson-tax-break",
+      "source": "https://www.foxnews.com/us/jimmy-gracey-chain-necklace-never-recovered-after-spanish-police-rule-death-accidental",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/jimmy-gracey-chain-necklace-never-recovered-after-spanish-police-rule-death-accidental"
+        }
+      ]
+    },
+    {
+      "title": "SCOTUS to weigh Trump birthright citizenship order for millions — here's what's at stake",
+      "category": "Politics",
+      "what": "The Supreme Court will weigh the legality of Trump's effort to end birthright citizenship — a landmark case that could impact millions of Americans.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/politics/scotus-slated-weigh-future-birthright-citizenship-protections-millions-heres-what-stake",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/no-tax-on-tips-uber-driver-johnson-tax-break"
+          "url": "https://www.foxnews.com/politics/scotus-slated-weigh-future-birthright-citizenship-protections-millions-heres-what-stake"
         }
       ]
     },
     {
-      "title": "Zelensky says allies asked him to scale back attacks on Russian energy",
-      "category": "World",
-      "what": "Ukraine's president says partners asked if the attacks could be \"reduced\" as prices soar due to the Iran war.",
-      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
-      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
-      "source": "https://www.bbc.com/news/articles/c0e7lrxrelwo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c0e7lrxrelwo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Congressman writes to King Charles urging him to meet Epstein victims during US visit",
-      "category": "World",
-      "what": "While the trip is not officially confirmed, the King and Queen Camilla are reportedly planning to visit the US at the end of April.",
+      "title": "EXCLUSIVE: Unearthed videos expose how Trump-endorsed candidate championed DEI in university hiring process",
+      "category": "Politics",
+      "what": "Trump-endorsed Senate hopeful Julia Letlow says she spent years fighting DEI in the House and will keep it up in the Senate,",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.com/news/articles/cn78xp0m75zo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cn78xp0m75zo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Sexual violence part of 'everyday life' in parts of Sudan, charity says",
-      "category": "World",
-      "what": "Victims describe how they have been targeted while carrying out everyday activities.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/c5ywgn2n3nqo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c5ywgn2n3nqo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Florida county's Democratic Party chair accused of hitting man in head with bullhorn at 'No Kings' protest",
-      "category": "U.S.",
-      "what": "The Hernando County Democratic Party chair was arrested for allegedly striking a disabled veteran with a bullhorn at a \"No Kings\" protest over the weekend.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/florida-countys-democratic-party-chair-accused-hitting-man-head-bullhorn-no-kings-protest",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/florida-countys-democratic-party-chair-accused-hitting-man-head-bullhorn-no-kings-protest"
-        }
-      ]
-    },
-    {
-      "title": "'A succulent Chinese meal' - iconic Australian quote immortalised in national film archive",
-      "category": "World",
-      "what": "The theatrical monologue given by Jack Karlson as he was arrested in 1991 has been officially recognised as a \"lasting piece of cultural folklore\".",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/c3exvk1207ko?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c3exvk1207ko?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Teacher of the Year finalist gets 14 years for sexual relationship with student she kept contacting",
-      "category": "U.S.",
-      "what": "Former Colorado Teacher of the Year finalist Tera Johnson-Swartz was sentenced to 14 years in prison for child sexual exploitation and cybercrime.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/teacher-year-finalist-gets-14-years-sexual-relationship-student-she-kept-contacting",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/teacher-year-finalist-gets-14-years-sexual-relationship-student-she-kept-contacting"
-        }
-      ]
-    },
-    {
-      "title": "Fugitive illegal alien convict on the run after attempting to strike ICE officer with vehicle: DHS",
-      "category": "Politics",
-      "what": "Illegal alien Xa Lee tried to strike an ICE officer with his car in Sacramento, California, during an arrest attempt, and the fugitive remains at large.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/fugitive-illegal-alien-convict-run-attempting-strike-ice-officer-vehicle-dhs",
+      "source": "https://www.foxnews.com/politics/exclusive-unearthed-videos-expose-how-trump-endorsed-candidate-championed-dei-university-hiring-process",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/fugitive-illegal-alien-convict-run-attempting-strike-ice-officer-vehicle-dhs"
+          "url": "https://www.foxnews.com/politics/exclusive-unearthed-videos-expose-how-trump-endorsed-candidate-championed-dei-university-hiring-process"
         }
       ]
     },
     {
-      "title": "DHS slams California 'sanctuary' county after mom allegedly murdered by 2 Honduran nationals",
+      "title": "President Trump says US could finish Iran operation within two to three weeks",
       "category": "Politics",
-      "what": "Department of Homeland Security slams Santa Clara County for ignoring ICE detainers after two Honduran nationals allegedly murdered a 24-year-old mother under California's sanctuary law.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/politics/dhs-slams-california-sanctuary-county-after-mom-allegedly-murdered-2-honduran-nationals",
+      "what": "United States President Donald Trump indicated on Tuesday that he thinks America will be finished with attacks on Iran in two to three weeks.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/trump-iran-conflict-end-timeline-nuclear-goal",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/dhs-slams-california-sanctuary-county-after-mom-allegedly-murdered-2-honduran-nationals"
+          "url": "https://www.foxnews.com/politics/trump-iran-conflict-end-timeline-nuclear-goal"
         }
       ]
     },
     {
-      "title": "Woman dies after falling from 60-foot cliff along popular Smoky Mountains trail",
-      "category": "U.S.",
-      "what": "A 65-year-old woman reportedly died after falling from a 60-foot cliff on the Alum Cave Trail at Great Smoky Mountains National Park on Saturday.",
+      "title": "Russian military plane crash kills 29 in occupied Crimea",
+      "category": "World",
+      "what": "Russian authorities say a technical malfunction caused the An-26 to crash into a cliff.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/woman-dies-after-falling-from-60-foot-cliff-along-popular-smoky-mountains-trail",
+      "source": "https://www.bbc.com/news/articles/cly6387xgqxo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/woman-dies-after-falling-from-60-foot-cliff-along-popular-smoky-mountains-trail"
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cly6387xgqxo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Video shows police drone track down madman after alleged rampage with stabbing, shooting, crash into store",
+      "title": "China is trying to play peacemaker in the Iran war - will it work?",
+      "category": "World",
+      "what": "It's a turnaround for Beijing, whose official response has been muted so far. Why is China stepping in now?",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.bbc.com/news/articles/cze0kz7gr84o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cze0kz7gr84o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Thousands lose their jobs in deep cuts at tech giant Oracle ",
+      "category": "World",
+      "what": "It is thought that thousands of people may have lost their jobs at Oracle, one of the world's largest tech companies.",
+      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
+      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
+      "source": "https://www.bbc.com/news/articles/cm296jzzl9yo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cm296jzzl9yo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Megan Thee Stallion taken to hospital during Moulin Rouge performance",
+      "category": "World",
+      "what": "The rapper \"started feeling very ill\" mid-way through the show in New York, her representative told US media.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/c86e1403793o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c86e1403793o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Florida Supreme Court keeps ex-cop's execution on hold after DNA test fails to give a clear answer",
       "category": "U.S.",
-      "what": "Las Vegas police released drone video showing officers tracking a violent suspect after a domestic incident involving an alleged vehicle ramming and stabbing.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/video-shows-police-drone-track-down-madman-after-alleged-rampage-stabbing-shooting-crash-store",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/video-shows-police-drone-track-down-madman-after-alleged-rampage-stabbing-shooting-crash-store"
-        }
-      ]
-    },
-    {
-      "title": "Water utility announces it's ditching fluoride—then reveals it did so years ago",
-      "category": "Tech",
-      "what": "The water utility highlighted unsubstantiated health concerns.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/health/2026/03/water-utility-announces-its-ditching-fluoride-then-reveals-it-did-so-years-ago/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/health/2026/03/water-utility-announces-its-ditching-fluoride-then-reveals-it-did-so-years-ago/"
-        }
-      ]
-    },
-    {
-      "title": "Authors' lucky break in court may help class action over Meta torrenting",
-      "category": "Tech",
-      "what": "Judge gave authors an easier attack on Meta’s torrenting. Meta hopes SCOTUS ruling will block it.",
+      "what": "Florida's Supreme Court denied a request to lift James Duckett's execution stay after DNA testing of key evidence came back inconclusive Friday.",
       "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
       "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://arstechnica.com/tech-policy/2026/03/meta-hopes-scotus-piracy-ruling-will-help-it-beat-lawsuit-over-torrenting-ai-data/",
+      "source": "https://www.foxnews.com/us/florida-supreme-court-keeps-ex-cops-execution-hold-dna-test-fails-give-clear-answer",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/03/meta-hopes-scotus-piracy-ruling-will-help-it-beat-lawsuit-over-torrenting-ai-data/"
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/florida-supreme-court-keeps-ex-cops-execution-hold-dna-test-fails-give-clear-answer"
         }
       ]
     },
     {
-      "title": "F1 in Japan: Oh no, what have they done to all the fast corners?",
+      "title": "NASA is leading the way to the Moon, but the military won't be far behind",
       "category": "Tech",
-      "what": "F1 cars don't have enough energy in a lap to attack fast corners, and that's bad.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/cars/2026/03/f1-in-japan-oh-no-what-have-they-done-to-all-the-fast-corners/",
+      "what": "\"I just don't want to get caught flat-footed when we start to have to protect US interests out there.\"",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://arstechnica.com/space/2026/03/nasa-is-leading-the-way-to-the-moon-but-the-military-wont-be-far-behind/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/03/f1-in-japan-oh-no-what-have-they-done-to-all-the-fast-corners/"
+          "url": "https://arstechnica.com/space/2026/03/nasa-is-leading-the-way-to-the-moon-but-the-military-wont-be-far-behind/"
+        }
+      ]
+    },
+    {
+      "title": "Wisconsin mother stabs teen daughter to death to 'protect' her from Elon Musk: authorities",
+      "category": "U.S.",
+      "what": "A Wisconsin mother allegedly stabbed her 14-year-old daughter to death, telling police she did it to protect the girl from tech executive Elon Musk.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/wisconsin-mother-stabs-teen-daughter-death-protect-her-from-elon-musk",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/wisconsin-mother-stabs-teen-daughter-death-protect-her-from-elon-musk"
+        }
+      ]
+    },
+    {
+      "title": "Man charged in 'particularly heinous' killing of DC resident found bound and set on fire in ritzy area: police",
+      "category": "U.S.",
+      "what": "Rico Rashaad Barnes was arrested in the robbery-murder of Syed Hammad Hussain, whose D.C. apartment was allegedly ransacked and set ablaze after his death.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/man-charged-particularly-heinous-killing-dc-resident-found-bound-set-fire-ritzy-area-police",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/man-charged-particularly-heinous-killing-dc-resident-found-bound-set-fire-ritzy-area-police"
+        }
+      ]
+    },
+    {
+      "title": "Running local models on Macs gets faster with Ollama's MLX support",
+      "category": "Tech",
+      "what": "Apple Silicon Macs get a performance boost thanks to better unified memory usage.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/apple/2026/03/running-local-models-on-macs-gets-faster-with-ollamas-mlx-support/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/apple/2026/03/running-local-models-on-macs-gets-faster-with-ollamas-mlx-support/"
+        }
+      ]
+    },
+    {
+      "title": "RFK Jr. wants Americans to use peptides that were banned over safety risks",
+      "category": "Tech",
+      "what": "The FDA is reportedly planning to allow production of 14 previously banned peptides.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/health/2026/03/rfk-jr-s-fda-expected-to-lift-restrictions-on-risky-unproven-peptides/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/03/rfk-jr-s-fda-expected-to-lift-restrictions-on-risky-unproven-peptides/"
         }
       ]
     }
