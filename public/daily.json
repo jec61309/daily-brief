@@ -1,124 +1,178 @@
 {
-  "date": "Wednesday, April 1, 2026",
+  "date": "Thursday, April 2, 2026",
   "stories": [
     {
-      "title": "Israel intensifies Lebanon attacks and hits areas not in Hezbollah's control",
-      "category": "World",
-      "what": "Attacks on Lebanon have continued, as Israel has announced its intention to control swathes of the south.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.bbc.com/news/articles/cvg07j6yeweo?at_medium=RSS&at_campaign=rss",
+      "title": "Former Rep. MTG vents that she's 'so beyond done,' characterizing Trump's address as 'WAR WAR WAR'",
+      "category": "Politics",
+      "what": "Former Rep. Marjorie Taylor Greene said in a post on X that all she heard in President Donald Trump's Wednesday night address \"was WAR WAR WAR.\"",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/mtg-trump-speech-war-iran-criticism",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cvg07j6yeweo?at_medium=RSS&at_campaign=rss"
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/mtg-trump-speech-war-iran-criticism"
         }
       ]
     },
     {
-      "title": "Jimmy Gracey's chain necklace never recovered after Spanish police rule death accidental",
+      "title": "FLASHBACK: Dem senate candidate was critical vote in confirming judge who tied voter ID to 'White supremacy'",
+      "category": "Politics",
+      "what": "Sherrod Brown faces heat over his vote confirming Judge Natasha Merle, who linked voter ID laws to White supremacy, as he seeks to reclaim his Ohio Senate seat.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/politics/flashback-dem-sen-candidate-was-critical-vote-in-confirming-judge-who-tied-voter-id-to-white-supremacy",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/flashback-dem-sen-candidate-was-critical-vote-in-confirming-judge-who-tied-voter-id-to-white-supremacy"
+        }
+      ]
+    },
+    {
+      "title": "GOP infighting, Democrats' unmet demands and a CLEAR windfall: Who's winning and losing the DHS shutdown",
+      "category": "Politics",
+      "what": "TSA agents slept in cars and sold plasma, GOP divisions deepened, and CLEAR sign-ups surged — the DHS shutdown's winners and losers revealed.",
+      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
+      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
+      "source": "https://www.foxnews.com/politics/gop-infighting-democrats-unmet-demands-clear-windfall-whos-winning-losing-dhs-shutdown",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/gop-infighting-democrats-unmet-demands-clear-windfall-whos-winning-losing-dhs-shutdown"
+        }
+      ]
+    },
+    {
+      "title": "Fort Hood soldiers shift to underground training to prepare for battlefield medical care",
       "category": "U.S.",
-      "what": "Jimmy Gracey's gold chain and rhinestone cross remain missing, and a former FBI analyst said the evidence must be filtered through the lens of the grieving Gracey family.",
+      "what": "Fort Hood soldiers are training in underground tunnels to prepare for mass casualty scenarios, reflecting lessons learned from modern drone warfare.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/jimmy-gracey-chain-necklace-never-recovered-after-spanish-police-rule-death-accidental",
+      "source": "https://www.foxnews.com/us/fort-hood-underground-medical-training-drone-warfare",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/jimmy-gracey-chain-necklace-never-recovered-after-spanish-police-rule-death-accidental"
+          "url": "https://www.foxnews.com/us/fort-hood-underground-medical-training-drone-warfare"
         }
       ]
     },
     {
-      "title": "SCOTUS to weigh Trump birthright citizenship order for millions — here's what's at stake",
-      "category": "Politics",
-      "what": "The Supreme Court will weigh the legality of Trump's effort to end birthright citizenship — a landmark case that could impact millions of Americans.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/scotus-slated-weigh-future-birthright-citizenship-protections-millions-heres-what-stake",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/scotus-slated-weigh-future-birthright-citizenship-protections-millions-heres-what-stake"
-        }
-      ]
-    },
-    {
-      "title": "EXCLUSIVE: Unearthed videos expose how Trump-endorsed candidate championed DEI in university hiring process",
-      "category": "Politics",
-      "what": "Trump-endorsed Senate hopeful Julia Letlow says she spent years fighting DEI in the House and will keep it up in the Senate,",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/exclusive-unearthed-videos-expose-how-trump-endorsed-candidate-championed-dei-university-hiring-process",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/exclusive-unearthed-videos-expose-how-trump-endorsed-candidate-championed-dei-university-hiring-process"
-        }
-      ]
-    },
-    {
-      "title": "President Trump says US could finish Iran operation within two to three weeks",
-      "category": "Politics",
-      "what": "United States President Donald Trump indicated on Tuesday that he thinks America will be finished with attacks on Iran in two to three weeks.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/trump-iran-conflict-end-timeline-nuclear-goal",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-iran-conflict-end-timeline-nuclear-goal"
-        }
-      ]
-    },
-    {
-      "title": "Russian military plane crash kills 29 in occupied Crimea",
-      "category": "World",
-      "what": "Russian authorities say a technical malfunction caused the An-26 to crash into a cliff.",
+      "title": "Local Dem leader says he was not 'an aggressor' after arrest for hitting man with bullhorn at 'No Kings' rally",
+      "category": "U.S.",
+      "what": "The Hernando County, Florida, Democratic Party chair says he did not act as an aggressor after allegedly hitting a man with a bullhorn at a \"No Kings\" protest.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/cly6387xgqxo?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.foxnews.com/us/local-dem-leader-says-he-not-an-aggressor-after-arrest-hitting-man-bullhorn-no-kings-rally",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cly6387xgqxo?at_medium=RSS&at_campaign=rss"
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/local-dem-leader-says-he-not-an-aggressor-after-arrest-hitting-man-bullhorn-no-kings-rally"
         }
       ]
     },
     {
-      "title": "China is trying to play peacemaker in the Iran war - will it work?",
+      "title": "Explosions at Burundi ammunition depot kill 13 civilians - army",
       "category": "World",
-      "what": "It's a turnaround for Beijing, whose official response has been muted so far. Why is China stepping in now?",
+      "what": "Powerful blasts destroyed homes and sparked panic in the city of Bujumbura on Tuesday night.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/c5y7x7qre0zo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c5y7x7qre0zo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Magnitude 7.4 earthquake hits off Indonesia, killing one",
+      "category": "World",
+      "what": "The quake struck between the islands of Manado and Ternate. Tsunami warnings have now been lifted.",
       "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
       "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.bbc.com/news/articles/cze0kz7gr84o?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.com/news/articles/cn53krrrr24o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cze0kz7gr84o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/cn53krrrr24o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Thousands lose their jobs in deep cuts at tech giant Oracle ",
+      "title": "Trump leaves key questions unanswered as he seeks to calm nerves over Iran war",
       "category": "World",
-      "what": "It is thought that thousands of people may have lost their jobs at Oracle, one of the world's largest tech companies.",
-      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
-      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
-      "source": "https://www.bbc.com/news/articles/cm296jzzl9yo?at_medium=RSS&at_campaign=rss",
+      "what": "There were some glaring omissions in the president's primetime address, writes the BBC's Gary O'Donoghue.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.com/news/articles/cnv81ven263o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cm296jzzl9yo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/cnv81ven263o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/trump-says-iran-no-longer-threat-after-32-days-outlines-next-phase-us-war"
+        }
+      ]
+    },
+    {
+      "title": "7-month-old baby killed by stray bullet in Brooklyn shooting, police say",
+      "category": "U.S.",
+      "what": "Seven-month-old Kaori Patterson-Moore was killed by a stray bullet in Brooklyn after a gunman on a moped opened fire on a crowded street, police say.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/7-month-old-baby-killed-stray-bullet-brooklyn-shooting-police-say",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/7-month-old-baby-killed-stray-bullet-brooklyn-shooting-police-say"
+        }
+      ]
+    },
+    {
+      "title": "NYPD cop's killer convicted of manslaughter, not guilty of murder after split jury ordered to deliberate more",
+      "category": "U.S.",
+      "what": "The man charged for killing NYPD Detective Jonathan Diller during a 2024 Queens traffic stop was convicted of manslaughter but acquitted of murder.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/nypd-cops-killer-convicted-manslaughter-not-guilty-murder-after-split-jury-ordered-deliberate-more",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/nypd-cops-killer-convicted-manslaughter-not-guilty-murder-after-split-jury-ordered-deliberate-more"
+        }
+      ]
+    },
+    {
+      "title": "Artemis II, NASA's boldest mission in generations, launches crew to the Moon",
+      "category": "Tech",
+      "what": "Liftoff of Artemis II with four astronauts occurred at 6:35 pm EDT (22:35 UTC) on Wednesday.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/space/2026/04/four-astronauts-depart-for-the-moon-with-a-fiery-send-off-from-cape-canaveral/",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/artemis-ii-vs-apollo-why-mission-loops-moon-doesnt-land"
+        },
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/trump-hypes-moon-mission-artemis-ii-prepares-lift-off-under-pressure-from-past-failures"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/04/four-astronauts-depart-for-the-moon-with-a-fiery-send-off-from-cape-canaveral/"
         }
       ]
     },
     {
       "title": "Megan Thee Stallion taken to hospital during Moulin Rouge performance",
       "category": "World",
-      "what": "The rapper \"started feeling very ill\" mid-way through the show in New York, her representative told US media.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "what": "The rapper says she felt faint while performing in the Broadway show and was later diagnosed with \"extreme exhaustion\".",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
       "source": "https://www.bbc.com/news/articles/c86e1403793o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
@@ -128,86 +182,48 @@
       ]
     },
     {
-      "title": "Florida Supreme Court keeps ex-cop's execution on hold after DNA test fails to give a clear answer",
-      "category": "U.S.",
-      "what": "Florida's Supreme Court denied a request to lift James Duckett's execution stay after DNA testing of key evidence came back inconclusive Friday.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/florida-supreme-court-keeps-ex-cops-execution-hold-dna-test-fails-give-clear-answer",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/florida-supreme-court-keeps-ex-cops-execution-hold-dna-test-fails-give-clear-answer"
-        }
-      ]
-    },
-    {
-      "title": "NASA is leading the way to the Moon, but the military won't be far behind",
-      "category": "Tech",
-      "what": "\"I just don't want to get caught flat-footed when we start to have to protect US interests out there.\"",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://arstechnica.com/space/2026/03/nasa-is-leading-the-way-to-the-moon-but-the-military-wont-be-far-behind/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/03/nasa-is-leading-the-way-to-the-moon-but-the-military-wont-be-far-behind/"
-        }
-      ]
-    },
-    {
-      "title": "Wisconsin mother stabs teen daughter to death to 'protect' her from Elon Musk: authorities",
-      "category": "U.S.",
-      "what": "A Wisconsin mother allegedly stabbed her 14-year-old daughter to death, telling police she did it to protect the girl from tech executive Elon Musk.",
+      "title": "Watch the moment Artemis II blasts into space",
+      "category": "World",
+      "what": "After delays and technical issues, the first crewed Moon mission in 50 years finally took off from Florida and is now in Earth's orbit.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/wisconsin-mother-stabs-teen-daughter-death-protect-her-from-elon-musk",
+      "source": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/wisconsin-mother-stabs-teen-daughter-death-protect-her-from-elon-musk"
+          "url": "https://www.foxnews.com/us/artemis-ii-launches-astronauts-around-moon-first-deep-space-mission-since-apollo"
         }
       ]
     },
     {
-      "title": "Man charged in 'particularly heinous' killing of DC resident found bound and set on fire in ritzy area: police",
-      "category": "U.S.",
-      "what": "Rico Rashaad Barnes was arrested in the robbery-murder of Syed Hammad Hussain, whose D.C. apartment was allegedly ransacked and set ablaze after his death.",
+      "title": "Nvidia rolls out its fix for PC gaming's \"compiling shaders\" wait times",
+      "category": "Tech",
+      "what": "Microsoft, Intel are also working on their own solutions for the issue.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/man-charged-particularly-heinous-killing-dc-resident-found-bound-set-fire-ritzy-area-police",
+      "source": "https://arstechnica.com/gaming/2026/04/nvidias-new-app-lets-you-precompile-gaming-shaders-during-machine-idle-time/",
       "sources": [
         {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/man-charged-particularly-heinous-killing-dc-resident-found-bound-set-fire-ritzy-area-police"
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gaming/2026/04/nvidias-new-app-lets-you-precompile-gaming-shaders-during-machine-idle-time/"
         }
       ]
     },
     {
-      "title": "Running local models on Macs gets faster with Ollama's MLX support",
+      "title": "Here's what that Claude Code source leak reveals about Anthropic's plans",
       "category": "Tech",
-      "what": "Apple Silicon Macs get a performance boost thanks to better unified memory usage.",
+      "what": "A persistent agent, stealth \"Undercover\" mode, and... a virtual assistant named Buddy?",
       "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
       "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/apple/2026/03/running-local-models-on-macs-gets-faster-with-ollamas-mlx-support/",
+      "source": "https://arstechnica.com/ai/2026/04/heres-what-that-claude-code-source-leak-reveals-about-anthropics-plans/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/apple/2026/03/running-local-models-on-macs-gets-faster-with-ollamas-mlx-support/"
-        }
-      ]
-    },
-    {
-      "title": "RFK Jr. wants Americans to use peptides that were banned over safety risks",
-      "category": "Tech",
-      "what": "The FDA is reportedly planning to allow production of 14 previously banned peptides.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/health/2026/03/rfk-jr-s-fda-expected-to-lift-restrictions-on-risky-unproven-peptides/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/health/2026/03/rfk-jr-s-fda-expected-to-lift-restrictions-on-risky-unproven-peptides/"
+          "url": "https://arstechnica.com/ai/2026/04/heres-what-that-claude-code-source-leak-reveals-about-anthropics-plans/"
         }
       ]
     }
