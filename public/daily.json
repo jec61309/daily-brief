@@ -1,134 +1,46 @@
 {
-  "date": "Saturday, April 4, 2026",
+  "date": "Sunday, April 5, 2026",
   "stories": [
     {
-      "title": "Mike Rowe doubles down after blasting Kimmel’s ‘tone-deaf’ plumber jokes",
-      "category": "Politics",
-      "what": "Mike Rowe doubled down on his criticism of Jimmy Kimmel’s “tone deaf\" monologues mocking new Homeland Security Secretary Markwayne Mullin for being a former plumber.",
-      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
-      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
-      "source": "https://www.foxnews.com/politics/mike-rowe-doubles-down-after-blasting-kimmels-tone-deaf-plumber-jokes",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/mike-rowe-doubles-down-after-blasting-kimmels-tone-deaf-plumber-jokes"
-        }
-      ]
-    },
-    {
-      "title": "Sheriff under fire amid Nancy Guthrie case allegedly brought loaded firearm to airport checkpoint",
-      "category": "U.S.",
-      "what": "Sheriff Chris Nanos allegedly brought a loaded firearm through a TSA checkpoint, and a Tucson resident says he avoided consequences a regular citizen would face.",
+      "title": "What we know so far about rescue of US airman in Iran",
+      "category": "World",
+      "what": "The US has rescued the missing crew member of the US F-15 fighter jet which was shot down over southern Iran.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/sheriff-fire-amid-nancy-guthrie-case-allegedly-brought-loaded-firearm-airport-checkpoint",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/sheriff-fire-amid-nancy-guthrie-case-allegedly-brought-loaded-firearm-airport-checkpoint"
-        }
-      ]
-    },
-    {
-      "title": "Trump seeks $152m to reopen notorious Alcatraz prison ",
-      "category": "World",
-      "what": "Former Speaker of the House Nancy Pelosi calls the plan a \"stupid notion that would be nothing more than a waste of taxpayer dollars\".",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.com/news/articles/c3dlpk0zzy1o?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c3dlpk0zzy1o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Rescue team in Iran face 'harrowing and dangerous' search for US crew member",
-      "category": "World",
-      "what": "A former US marine tells the BBC the priority of any recovery team would be to look for signs of life.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/us-pilot-rescued-from-downed-f-15-fighter-jet-iran-search-second-crew-member-ongoing"
-        }
-      ]
-    },
-    {
-      "title": "Russia chose 'Easter escalation' over ceasefire, says Zelensky ",
-      "category": "World",
-      "what": "Six civilians were killed and 40 others injured as Russia launched hundreds of drones and missiles.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.bbc.com/news/articles/cew70wjvv9do?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cew70wjvv9do?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth ",
-      "category": "World",
-      "what": "The snap was taken aboard the Orion capsule by its commander, Reid Wiseman, as the crew head towards the Moon.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/artemis-ii-astronauts-nearly-halfway-moon-nasa-shares-stunning-photos-orion-spacecraft"
-        }
-      ]
-    },
-    {
-      "title": "Trump says ‘America needs God’ in Good Friday message touting ‘resurgence of religion'",
-      "category": "Politics",
-      "what": "In a Good Friday address, President Donald Trump claimed religion is growing again in the U.S. for the first time in decades as Holy Week and Easter are celebrated.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/trump-says-america-needs-god-good-friday-message-touts-resurgence-religion",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-says-america-needs-god-good-friday-message-touts-resurgence-religion"
-        }
-      ]
-    },
-    {
-      "title": "California 4-year-old boy survives attack by coyote that bit and tried to drag him away",
+      "title": "Man who put up $100K to find Nancy Guthrie says tipsters should skip the sheriff and call Crime Stoppers",
       "category": "U.S.",
-      "what": "A 4-year-old boy had seven puncture wounds after a coyote attacked him in Southern California. The repeat offender was later euthanized.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/california-4-year-old-boy-survives-attack-coyote-bit-tried-drag-him-away",
+      "what": "Crime Stoppers is offering a $102,500 reward for anonymous tips in the case of Nancy Guthrie, who was allegedly taken from her Tucson home in February.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.foxnews.com/us/man-put-100k-find-nancy-guthrie-says-tipsters-skip-sheriff-call-crime-stoppers",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/california-4-year-old-boy-survives-attack-coyote-bit-tried-drag-him-away"
+          "url": "https://www.foxnews.com/us/man-put-100k-find-nancy-guthrie-says-tipsters-skip-sheriff-call-crime-stoppers"
         }
       ]
     },
     {
-      "title": "Trump proposes steep cut to NASA budget as astronauts head for the Moon",
-      "category": "Tech",
-      "what": "Congress will likely reject the White House's NASA cuts, just as it did last year.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://arstechnica.com/space/2026/04/trump-proposes-steep-cut-to-nasa-budget-as-astronauts-head-for-the-moon/",
+      "title": "Artemis II astronauts face toilet trouble as they head toward the moon",
+      "category": "U.S.",
+      "what": "The Artemis II crew is experiencing a recurring toilet malfunction on the Orion spacecraft due to a suspected ice blockage during their 10-day trip to orbit the moon.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.foxnews.com/us/artemis-ii-astronauts-face-toilet-trouble-head-toward-moon",
       "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/artemis-ii-astronauts-face-toilet-trouble-head-toward-moon"
+        },
         {
           "name": "Ars Technica",
           "url": "https://arstechnica.com/space/2026/04/trump-proposes-steep-cut-to-nasa-budget-as-astronauts-head-for-the-moon/"
@@ -136,44 +48,156 @@
       ]
     },
     {
-      "title": "Coast Guard captured on camera rescuing federal agents, boaters after 2 vessels capsize off Puerto Rico",
-      "category": "U.S.",
-      "what": "U.S. Coast Guard and Puerto Rico police rescued three federal agents and two boaters after two vessels capsized off Isla de Cabras Tuesday night.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/coast-guard-caught-camera-rescuing-federal-agents-boaters-2-vessels-capsize-puerto-rico",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/coast-guard-caught-camera-rescuing-federal-agents-boaters-2-vessels-capsize-puerto-rico"
-        }
-      ]
-    },
-    {
-      "title": "After 16 years in power, could Viktor Orban finally be unseated?",
-      "category": "World",
-      "what": "Hungary is going to the polls in nine days - after 16 years in power, can Viktor Orban be unseated?",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/czd7y1n3jyjo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/czd7y1n3jyjo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Colorado lawyers say court e-file system now makes them certify they won’t assist ICE",
+      "title": "DHS slams Democrat Sen Chris Van Hollen claim, says illegal alien caused crash while fleeing ICE",
       "category": "Politics",
-      "what": "Colorado reportedly requires lawyers to certify they won't assist ICE as a condition for accessing the state's court e-filing system, sparking outrage.",
+      "what": "DHS pushes back on Sen. Van Hollen's claims about an asylum seeker, saying the man allegedly evaded ICE officers and caused a crash in Baltimore.",
       "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
       "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/colorado-lawyers-say-court-e-file-system-now-makes-them-certify-wont-assist-ice",
+      "source": "https://www.foxnews.com/politics/dhs-slams-democrat-sen-chris-van-hollen-claim-illegal-alien-caused-crash-fleeing-ice",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/colorado-lawyers-say-court-e-file-system-now-makes-them-certify-wont-assist-ice"
+          "url": "https://www.foxnews.com/politics/dhs-slams-democrat-sen-chris-van-hollen-claim-illegal-alien-caused-crash-fleeing-ice"
+        }
+      ]
+    },
+    {
+      "title": "Cambodia unveils statue to honour famous landmine-sniffing rat",
+      "category": "World",
+      "what": "The statue honours the late African giant pouched rat who sniffed out more than 100 landmines during his lifetime.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/c0rx7xzd10xo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c0rx7xzd10xo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Illegal migrant charged in deadly 124 mph chase that killed pregnant teen, unborn child",
+      "category": "U.S.",
+      "what": "DHS announced an ICE detainer was filed against an illegal immigrant accused in a high-speed chase crash that killed a pregnant 17-year-old and her unborn child.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/illegal-migrant-charged-deadly-124-mph-chase-killed-pregnant-teen-unborn-child",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/illegal-migrant-charged-deadly-124-mph-chase-killed-pregnant-teen-unborn-child"
+        }
+      ]
+    },
+    {
+      "title": "Artemis II is going so well that we're left to talk about frozen urine",
+      "category": "Tech",
+      "what": "\"I think the fixation on the toilet is kind of human nature.\"",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/space/2026/04/artemis-ii-is-going-so-well-that-were-left-to-talk-about-frozen-urine/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/04/artemis-ii-is-going-so-well-that-were-left-to-talk-about-frozen-urine/"
+        }
+      ]
+    },
+    {
+      "title": "ICE wanted to build a detention centre -  this small farming town said no",
+      "category": "World",
+      "what": "Residents say they support the administration's immigration agenda - but not its plans to build a detention centre in their backyard.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.com/news/articles/cje47vy0w3ko?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cje47vy0w3ko?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Man charged over fatal shooting of baby in pram in New York",
+      "category": "World",
+      "what": "Two men have been arrested over the shooting of a seven-month-old baby in Williamsburg.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/cx267dnex7ko?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cx267dnex7ko?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "AI videos fuel rhetoric as Orbán bids for four more years in Hungary",
+      "category": "World",
+      "what": "Videos have targeted Viktor Orbán's election rival, who could unseat him after 16 years in office.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.com/news/articles/c5yj97yd6v5o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c5yj97yd6v5o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Massive manhunt underway in New Hampshire town after gunman allegedly wounds police officer, fires on family",
+      "category": "U.S.",
+      "what": "A shelter-in-place order was issued in Raymond, New Hampshire, after an armed suspect allegedly wounded an officer during a shooting.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/massive-manhunt-underway-new-hampshire-town-gunman-allegedly-wounds-police-officer-fires-family",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/massive-manhunt-underway-new-hampshire-town-gunman-allegedly-wounds-police-officer-fires-family"
+        }
+      ]
+    },
+    {
+      "title": "A de facto pro forma: Why Washington fixated on these sessions as the DHS shutdown dragged on through a recess",
+      "category": "Politics",
+      "what": "Why pro forma sessions dominated Washington this week as the House and Senate struggled to align on a DHS funding bill during the shutdown drama.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/de-facto-pro-forma-why-washington-fixated-sessions-dhs-shutdown-dragged-through-recess",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/de-facto-pro-forma-why-washington-fixated-sessions-dhs-shutdown-dragged-through-recess"
+        }
+      ]
+    },
+    {
+      "title": "FBI's Patel delivers blunt warning to law enforcement attackers: 'We're going to put you down'",
+      "category": "Politics",
+      "what": "FBI Director Kash Patel vowed to \"put down\" anyone who touches a cop, warning criminals will face the full force of law enforcement nationwide.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.foxnews.com/politics/fbi-patel-delivers-blunt-warning-law-enforcement-attackers",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/fbi-patel-delivers-blunt-warning-law-enforcement-attackers"
+        }
+      ]
+    },
+    {
+      "title": "Tech companies are trying to neuter Colorado’s landmark right-to-repair law",
+      "category": "Tech",
+      "what": "A state bill is a glimpse of how corporations are limiting people's ability to make their own fixes and upgrades.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/tech-policy/2026/04/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/04/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/"
         }
       ]
     },
@@ -188,34 +212,6 @@
         {
           "name": "Ars Technica",
           "url": "https://arstechnica.com/science/2026/04/ice-age-dice-show-early-native-americans-may-have-understood-probability/"
-        }
-      ]
-    },
-    {
-      "title": "As Artemis II zooms to the Moon, everything seems to be going swimmingly",
-      "category": "Tech",
-      "what": "The cabin was colder on Thursday, but the crew has been able to adjust the temperature.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/space/2026/04/as-artemis-ii-zooms-to-the-moon-everything-seems-to-be-going-swimmingly/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/04/as-artemis-ii-zooms-to-the-moon-everything-seems-to-be-going-swimmingly/"
-        }
-      ]
-    },
-    {
-      "title": "Florida man charged with murder after allegedly stabbing woman to death in random attack in quiet neighborhood",
-      "category": "U.S.",
-      "what": "Authorities say Kersten Francilus, 25, randomly stabbed a woman to death in a South Florida neighborhood after going door to door asking odd questions.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/florida-man-charged-murder-allegedly-stabbing-woman-death-random-attack-quiet-neighborhood",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/florida-man-charged-murder-allegedly-stabbing-woman-death-random-attack-quiet-neighborhood"
         }
       ]
     }
