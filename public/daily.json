@@ -1,91 +1,189 @@
 {
-  "date": "Sunday, April 5, 2026",
+  "date": "Monday, April 6, 2026",
   "stories": [
     {
-      "title": "What we know so far about rescue of US airman in Iran",
-      "category": "World",
-      "what": "The US has rescued the missing crew member of the US F-15 fighter jet which was shot down over southern Iran.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Man who put up $100K to find Nancy Guthrie says tipsters should skip the sheriff and call Crime Stoppers",
-      "category": "U.S.",
-      "what": "Crime Stoppers is offering a $102,500 reward for anonymous tips in the case of Nancy Guthrie, who was allegedly taken from her Tucson home in February.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.foxnews.com/us/man-put-100k-find-nancy-guthrie-says-tipsters-skip-sheriff-call-crime-stoppers",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/man-put-100k-find-nancy-guthrie-says-tipsters-skip-sheriff-call-crime-stoppers"
-        }
-      ]
-    },
-    {
-      "title": "Artemis II astronauts face toilet trouble as they head toward the moon",
-      "category": "U.S.",
-      "what": "The Artemis II crew is experiencing a recurring toilet malfunction on the Orion spacecraft due to a suspected ice blockage during their 10-day trip to orbit the moon.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.foxnews.com/us/artemis-ii-astronauts-face-toilet-trouble-head-toward-moon",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/artemis-ii-astronauts-face-toilet-trouble-head-toward-moon"
-        },
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/04/trump-proposes-steep-cut-to-nasa-budget-as-astronauts-head-for-the-moon/"
-        }
-      ]
-    },
-    {
-      "title": "DHS slams Democrat Sen Chris Van Hollen claim, says illegal alien caused crash while fleeing ICE",
+      "title": "Ayanna Pressley ripped for calling evictions an 'act of violence'",
       "category": "Politics",
-      "what": "DHS pushes back on Sen. Van Hollen's claims about an asylum seeker, saying the man allegedly evaded ICE officers and caused a crash in Baltimore.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/dhs-slams-democrat-sen-chris-van-hollen-claim-illegal-alien-caused-crash-fleeing-ice",
+      "what": "Rep. Ayanna Pressley faced backlash and hypocrisy allegations after calling eviction \"an act of violence\" while appearing to benefit from rental properties.",
+      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
+      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
+      "source": "https://www.foxnews.com/politics/ayanna-pressley-ripped-calling-evictions-act-violence",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/dhs-slams-democrat-sen-chris-van-hollen-claim-illegal-alien-caused-crash-fleeing-ice"
+          "url": "https://www.foxnews.com/politics/ayanna-pressley-ripped-calling-evictions-act-violence"
         }
       ]
     },
     {
-      "title": "Cambodia unveils statue to honour famous landmine-sniffing rat",
+      "title": "Savannah Guthrie returns to NBC's Today show, as search for mother goes on",
       "category": "World",
-      "what": "The statue honours the late African giant pouched rat who sniffed out more than 100 landmines during his lifetime.",
+      "what": "Nancy Guthrie disappeared from her home in Tucson, Arizona, in what authorities believe was an abduction.",
       "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
       "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/c0rx7xzd10xo?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.com/news/articles/c04xqglg7xgo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c0rx7xzd10xo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/c04xqglg7xgo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Illegal migrant charged in deadly 124 mph chase that killed pregnant teen, unborn child",
+      "title": "GOP races to pass ICE, Border Patrol funding bill as priorities pile up, divisions emerge",
+      "category": "Politics",
+      "what": "President Donald Trump demanded Republicans pass a reconciliation bill by June 1 to fund ICE and border agents, bypassing Democrats who refuse to fund immigration operations.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/gop-races-pass-ice-border-patrol-funding-bill-priorities-pile-up-divisions-emerge",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/gop-races-pass-ice-border-patrol-funding-bill-priorities-pile-up-divisions-emerge"
+        }
+      ]
+    },
+    {
+      "title": "Nigerian army rescues 31 held after Easter church attack",
+      "category": "World",
+      "what": "Five civilians were killed by the gunmen and their bodies were recovered at the scene, the army said.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.com/news/articles/cgld111d9jpo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cgld111d9jpo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Why the Strait of Hormuz matters as Trump issues fresh ultimatum to Iran",
+      "category": "Politics",
+      "what": "President Donald Trump gives Iran deadline to reopen Strait of Hormuz to all vessels or face strikes as oil, gas, diesel and jet fuel prices climb worldwide.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/why-strait-hormuz-matters-trump-issues-fresh-ultimatum-iran",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/why-strait-hormuz-matters-trump-issues-fresh-ultimatum-iran"
+        }
+      ]
+    },
+    {
+      "title": "New Hampshire suspect who shot officer and triggered massive manhunt killed in police gunfight",
       "category": "U.S.",
-      "what": "DHS announced an ICE detainer was filed against an illegal immigrant accused in a high-speed chase crash that killed a pregnant 17-year-old and her unborn child.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/illegal-migrant-charged-deadly-124-mph-chase-killed-pregnant-teen-unborn-child",
+      "what": "Suspect who allegedly shot a New Hampshire police officer is killed in a gunfight after a massive manhunt that included a shelter-in-place order.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/new-hampshire-suspect-who-shot-officer-triggered-massive-manhunt-killed-police-gunfight",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/illegal-migrant-charged-deadly-124-mph-chase-killed-pregnant-teen-unborn-child"
+          "url": "https://www.foxnews.com/us/new-hampshire-suspect-who-shot-officer-triggered-massive-manhunt-killed-police-gunfight"
+        }
+      ]
+    },
+    {
+      "title": "US Secret Service investigates reports of gunfire near White House",
+      "category": "World",
+      "what": "Officials said \"a heightened security posture is in place\", but no injuries were reported and no suspects had been identified.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.com/news/articles/cge0213dyj5o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cge0213dyj5o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Trump declares victory after rescue but threats to US operation in Iran still loom",
+      "category": "World",
+      "what": "The rescue could impact how Trump views a ground operation to take Kharg Island or to seize enriched uranium sites.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Savannah Guthrie's Easter message reveals anguish as mom missing 63 days",
+      "category": "U.S.",
+      "what": "Savannah Guthrie delivers an emotional Easter message about faith and doubt as her mother Nancy Guthrie remains missing after 63 days in Arizona.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/savannah-guthries-easter-message-reveals-anguish-mom-missing-63-days",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/savannah-guthries-easter-message-reveals-anguish-mom-missing-63-days"
+        }
+      ]
+    },
+    {
+      "title": "How rescue of US airman in remote part of Iran unfolded",
+      "category": "World",
+      "what": "The operation to extract him from the ground in hostile territory was hugely complex and involved multiple US government agencies.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/inside-daring-rescue-airmen-behind-enemy-lines-cia-assisted-deception-campaign"
+        }
+      ]
+    },
+    {
+      "title": "Billboard trolling Dale Warner goes viral after his murder conviction in wife Dee's case",
+      "category": "U.S.",
+      "what": "A Michigan billboard reading \"Help Dale Find Dee\" is going viral after Dale Warner was convicted of second-degree murder in his wife's 2021 disappearance.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.foxnews.com/us/billboard-trolling-dale-warner-goes-viral-after-his-murder-conviction-wife-dees-case",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/billboard-trolling-dale-warner-goes-viral-after-his-murder-conviction-wife-dees-case"
+        }
+      ]
+    },
+    {
+      "title": "Philadelphia man stabs Planet Fitness worker after getting banned from gym: police",
+      "category": "U.S.",
+      "what": "Davier Massey, 28, faces attempted murder charges after allegedly stabbing a Planet Fitness employee multiple times at a gym he was banned from.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/philadelphia-man-stabs-planet-fitness-worker-after-getting-banned-from-gym-police",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/philadelphia-man-stabs-planet-fitness-worker-after-getting-banned-from-gym-police"
+        }
+      ]
+    },
+    {
+      "title": "CBP facility codes sure seem to have leaked via online flashcards",
+      "category": "Tech",
+      "what": "Quizlet flashcards seem to include sensitive information about gate security at CBP locations.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/security/2026/04/cbp-facility-codes-sure-seem-to-have-leaked-via-online-flashcards/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/04/cbp-facility-codes-sure-seem-to-have-leaked-via-online-flashcards/"
         }
       ]
     },
@@ -104,90 +202,6 @@
       ]
     },
     {
-      "title": "ICE wanted to build a detention centre -  this small farming town said no",
-      "category": "World",
-      "what": "Residents say they support the administration's immigration agenda - but not its plans to build a detention centre in their backyard.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/cje47vy0w3ko?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cje47vy0w3ko?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Man charged over fatal shooting of baby in pram in New York",
-      "category": "World",
-      "what": "Two men have been arrested over the shooting of a seven-month-old baby in Williamsburg.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/cx267dnex7ko?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cx267dnex7ko?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "AI videos fuel rhetoric as Orbán bids for four more years in Hungary",
-      "category": "World",
-      "what": "Videos have targeted Viktor Orbán's election rival, who could unseat him after 16 years in office.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.com/news/articles/c5yj97yd6v5o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c5yj97yd6v5o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Massive manhunt underway in New Hampshire town after gunman allegedly wounds police officer, fires on family",
-      "category": "U.S.",
-      "what": "A shelter-in-place order was issued in Raymond, New Hampshire, after an armed suspect allegedly wounded an officer during a shooting.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/massive-manhunt-underway-new-hampshire-town-gunman-allegedly-wounds-police-officer-fires-family",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/massive-manhunt-underway-new-hampshire-town-gunman-allegedly-wounds-police-officer-fires-family"
-        }
-      ]
-    },
-    {
-      "title": "A de facto pro forma: Why Washington fixated on these sessions as the DHS shutdown dragged on through a recess",
-      "category": "Politics",
-      "what": "Why pro forma sessions dominated Washington this week as the House and Senate struggled to align on a DHS funding bill during the shutdown drama.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/de-facto-pro-forma-why-washington-fixated-sessions-dhs-shutdown-dragged-through-recess",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/de-facto-pro-forma-why-washington-fixated-sessions-dhs-shutdown-dragged-through-recess"
-        }
-      ]
-    },
-    {
-      "title": "FBI's Patel delivers blunt warning to law enforcement attackers: 'We're going to put you down'",
-      "category": "Politics",
-      "what": "FBI Director Kash Patel vowed to \"put down\" anyone who touches a cop, warning criminals will face the full force of law enforcement nationwide.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.foxnews.com/politics/fbi-patel-delivers-blunt-warning-law-enforcement-attackers",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/fbi-patel-delivers-blunt-warning-law-enforcement-attackers"
-        }
-      ]
-    },
-    {
       "title": "Tech companies are trying to neuter Colorado’s landmark right-to-repair law",
       "category": "Tech",
       "what": "A state bill is a glimpse of how corporations are limiting people's ability to make their own fixes and upgrades.",
@@ -198,20 +212,6 @@
         {
           "name": "Ars Technica",
           "url": "https://arstechnica.com/tech-policy/2026/04/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/"
-        }
-      ]
-    },
-    {
-      "title": "Ice Age dice show early Native Americans may have understood probability",
-      "category": "Tech",
-      "what": "Ice Age hunter-gatherer \"were intentionally relying on random outcomes in repeatable, rule-based ways.\"",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/science/2026/04/ice-age-dice-show-early-native-americans-may-have-understood-probability/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/04/ice-age-dice-show-early-native-americans-may-have-understood-probability/"
         }
       ]
     }
