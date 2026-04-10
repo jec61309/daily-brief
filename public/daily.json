@@ -1,217 +1,213 @@
 {
-  "date": "Thursday, April 9, 2026",
+  "date": "Friday, April 10, 2026",
   "stories": [
     {
-      "title": "Spanberger ripped after taking credit for billions in investments secured under GOP predecessor: 'Pathetic'",
+      "title": "Rep Randy Fine joins House Freedom Caucus: 'Strongest group of conservative patriots in Congress'",
       "category": "Politics",
-      "what": "Virginia Dem Governor Abigail Spanberger touted $7.1 billion in investment and 3,250 new jobs this week, but the investments were actually announced under her GOP predecessor.",
-      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
-      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
-      "source": "https://www.foxnews.com/politics/spanberger-ripped-after-taking-credit-billions-investments-secured-under-gop-predecessor-pathetic",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/spanberger-ripped-after-taking-credit-billions-investments-secured-under-gop-predecessor-pathetic"
-        }
-      ]
-    },
-    {
-      "title": "Trump trashes MTG after Republican wins contest to fill her old seat 'despite the stench left by Greene'",
-      "category": "Politics",
-      "what": "President Trump blasts former Rep. Marjorie Taylor Greene after Clay Fuller wins the special election runoff to fill her old congressional seat in Georgia.",
+      "what": "Republican Rep. Randy Fine, who represents Florida's 6th Congressional District, has announced that he joined the conservative House Freedom Caucus.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/trump-trashes-mtg-republican-wins-contest-fill-old-seat-despite-stench-left-greene",
+      "source": "https://www.foxnews.com/politics/rep-randy-fine-joins-house-freedom-caucus-strongest-group-conservative-patriots-congress",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-trashes-mtg-republican-wins-contest-fill-old-seat-despite-stench-left-greene"
+          "url": "https://www.foxnews.com/politics/rep-randy-fine-joins-house-freedom-caucus-strongest-group-conservative-patriots-congress"
         }
       ]
     },
     {
-      "title": "Trapped miner rescued from flooded Mexican tunnel after 14 days",
+      "title": "American couple's Bahamas dinghy was ill-equipped for conditions night of wife's disappearance: friend",
+      "category": "U.S.",
+      "what": "A friend says Brian and Lynette Hooker's 8-foot dinghy was undersized and underpowered for the rough conditions the night she vanished in the Bahamas.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/american-couples-bahamas-dinghy-ill-equipped-conditions-night-wifes-disappearance-friend",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/american-couples-bahamas-dinghy-ill-equipped-conditions-night-wifes-disappearance-friend"
+        }
+      ]
+    },
+    {
+      "title": "DoorDash data offers snapshot of economy voters are feeling ahead of midterms",
+      "category": "Politics",
+      "what": "A new DoorDash report reveals families are spending more strategically as prices stabilize, with affordability varying significantly across U.S. cities.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/doordash-data-offers-snapshot-economy-voters-feeling-ahead-midterms",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/doordash-data-offers-snapshot-economy-voters-feeling-ahead-midterms"
+        }
+      ]
+    },
+    {
+      "title": "Hormuz choke point persists as Iran halts oil traffic despite Trump ceasefire",
+      "category": "Politics",
+      "what": "The Strait of Hormuz remains effectively closed despite a ceasefire deal, with 800 tankers among 3,200 vessels backed up and mariners stranded.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/hormuz-choke-point-persists-iran-halts-oil-traffic-despite-trump-ceasefire",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/hormuz-choke-point-persists-iran-halts-oil-traffic-despite-trump-ceasefire"
+        }
+      ]
+    },
+    {
+      "title": "Melania Trump denies ties to Jeffrey Epstein and urges hearing for survivors",
       "category": "World",
-      "what": "The 42-year-old gold miner was standing in waist-high water when rescuers found him in a flooded tunnel.",
+      "what": "She called rumours that Epstein introduced her to Donald Trump \"mean-spirited attempts to defame my reputation\".",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.com/news/articles/c3ex07l1qvpo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c3ex07l1qvpo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "US has let in 4,499 refugees since October - all but three were South African",
+      "category": "World",
+      "what": "Trump has given priority to Afrikaners, a white minority group he says is being persecuted. South Africa has objected to his characterisation.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.com/news/articles/c4g89kkvenqo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c4g89kkvenqo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Artemis II nears end of historic mission with splashdown off California coast",
+      "category": "U.S.",
+      "what": "Artemis II is set to splash down off San Diego as Navy crews prepare to recover the Orion capsule and the four astronauts inside, drawing crowds along the coast.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/artemis-ii-nears-end-historic-mission-splashdown-off-california-coast",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/artemis-ii-nears-end-historic-mission-splashdown-off-california-coast"
+        }
+      ]
+    },
+    {
+      "title": "Taiwan opposition leader meets Xi Jinping in Beijing",
+      "category": "World",
+      "what": "Cheng Li-wun is the Kuomintang's first sitting leader to visit China in a decade.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/cly9z8w4q55o?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.com/news/articles/cj94y87k2ljo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cly9z8w4q55o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/cj94y87k2ljo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Colorado’s latest Supreme Court loss adds to growing string of culture war defeats",
-      "category": "Politics",
-      "what": "Colorado's conversion therapy ban was struck down by the Supreme Court on First Amendment grounds, marking the latest in a series of high-profile legal defeats for the state.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/colorados-latest-supreme-court-loss-adds-growing-string-culture-war-defeats",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/colorados-latest-supreme-court-loss-adds-growing-string-culture-war-defeats"
-        }
-      ]
-    },
-    {
-      "title": "Oil prices rise as concerns grow over 'fragile' US-Iran ceasefire",
-      "category": "World",
-      "what": "Crude prices have reversed from sharp falls on Wednesday when plans to pause the war first emerged.",
-      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
-      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
-      "source": "https://www.bbc.com/news/articles/cq6j0rnvlzeo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cq6j0rnvlzeo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "He's Australia's most decorated soldier. Now he's at the centre of a historic war crimes case",
-      "category": "World",
-      "what": "Ben Roberts-Smith's case is not only unprecedented for Australia but \"extraordinary\" for the globe too, scholars say.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.bbc.com/news/articles/czjwp1vjn9lo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/czjwp1vjn9lo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Michigan woman arrested for allegedly starving, torturing disabled sister-in-law she locked in basement",
+      "title": "Coast Guard seizes over 4,500 pounds of cocaine worth $34M from suspected narco-terrorist vessel on Easter",
       "category": "U.S.",
-      "what": "A Michigan woman was arrested after she allegedly kept her disabled sister-in-law locked in a basement for two years and nearly starved her to death.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/michigan-woman-arrested-allegedly-starving-torturing-disabled-sister-in-law-she-locked-basement",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/michigan-woman-arrested-allegedly-starving-torturing-disabled-sister-in-law-she-locked-basement"
-        }
-      ]
-    },
-    {
-      "title": "Artemis crew returning to Earth with 'all the good stuff' from Moon discoveries",
-      "category": "World",
-      "what": "The four astronauts said they were returning to Earth with \"so many more pictures, so many more stories\".",
+      "what": "DHS says the Coast Guard recovered more than 4,500 pounds of cocaine off the coast of Ecuador as part of Operation Pacific Viper counter-drug efforts.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/c70dr45dj1lo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c70dr45dj1lo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/04/the-moon-is-already-on-google-maps-did-artemis-ii-really-tell-us-anything-new/"
-        }
-      ]
-    },
-    {
-      "title": "South Carolina pastor, wife arrested after alleged sexual, physical abuse of foster children",
-      "category": "U.S.",
-      "what": "A South Carolina pastor and his wife were arrested after a foster child reported that the pastor sexually abused them while at the couple's home.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/south-carolina-pastor-wife-arrested-after-alleged-sexual-physical-abuse-foster-children",
+      "source": "https://www.foxnews.com/us/coast-guard-seizes-4500-pounds-cocaine-worth-34m-suspected-narco-terrorist-vessel-easter",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/south-carolina-pastor-wife-arrested-after-alleged-sexual-physical-abuse-foster-children"
+          "url": "https://www.foxnews.com/us/coast-guard-seizes-4500-pounds-cocaine-worth-34m-suspected-narco-terrorist-vessel-easter"
         }
       ]
     },
     {
-      "title": "Man charged after allegedly threatening to kill Ohio dad 'in the name of Allah' in terrifying video encounter",
-      "category": "U.S.",
-      "what": "Anthony Long allegedly told an Ohio father he would kill him \"in the name of Allah\" in a terrifying encounter caught on camera.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/man-charged-allegedly-threatening-kill-ohio-dad-name-allah-terrifying-video-encounter",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/man-charged-allegedly-threatening-kill-ohio-dad-name-allah-terrifying-video-encounter"
-        }
-      ]
-    },
-    {
-      "title": "Former Fort Bragg employee charged with leaking classified military information to journalist",
-      "category": "U.S.",
-      "what": "Courtney Williams is accused of leaking top-secret military tactics to an investigative journalist, according to a federal complaint.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/former-fort-bragg-employee-charged-leaking-classified-military-information-journalist",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/former-fort-bragg-employee-charged-leaking-classified-military-information-journalist"
-        }
-      ]
-    },
-    {
-      "title": "Trump criticises Nato as alliance chief describes meeting as 'very frank' ",
+      "title": "Trump says Iran's handling of Strait of Hormuz is 'not the agreement we have'",
       "category": "World",
-      "what": "The US president says Nato \"wasn't there when we needed them\" during the Iran war.",
+      "what": "The US president accused Iran of \"doing a very poor job\" with the waterway as Israel and Lebanon to begin peace talks.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.com/news/articles/c05d8j9r5ejo?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c05d8j9r5ejo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Trump admin makes sweeping request for medical records of federal workers",
-      "category": "Tech",
-      "what": "The unprecedented proposal would give the Trump admin access to doctors' notes.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://arstechnica.com/health/2026/04/trump-admin-seeks-medical-records-of-federal-workers-for-vague-reasons/",
+      "title": "Child among 4 dead as accused arsonist allegedly drank beer during chaos",
+      "category": "U.S.",
+      "what": "Roman Amatitla was charged with murder and arson after allegedly setting a random Queens building fire that killed four, including a 3-year-old girl.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/child-among-4-dead-accused-arsonist-allegedly-drank-beer-during-chaos",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/health/2026/04/trump-admin-seeks-medical-records-of-federal-workers-for-vague-reasons/"
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/child-among-4-dead-accused-arsonist-allegedly-drank-beer-during-chaos"
         }
       ]
     },
     {
-      "title": "LinkedIn scanning users' browser extensions sparks controversy and two lawsuits",
+      "title": "Orion helium leak no threat to Artemis II reentry, but will require redesign",
       "category": "Tech",
-      "what": "LinkedIn says claims fabricated by extension maker suspended for scraping data.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://arstechnica.com/tech-policy/2026/04/linkedin-scanning-users-browser-extensions-sparks-controversy-and-two-lawsuits/",
+      "what": "After leaks on Artemis I and II, Orion's next flight to the Moon will need new valves.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/space/2026/04/nasa-homes-in-on-likely-redesign-to-fix-orion-spacecrafts-leaky-valves/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/04/linkedin-scanning-users-browser-extensions-sparks-controversy-and-two-lawsuits/"
+          "url": "https://arstechnica.com/space/2026/04/nasa-homes-in-on-likely-redesign-to-fix-orion-spacecrafts-leaky-valves/"
         }
       ]
     },
     {
-      "title": "Iran-linked hackers disrupt operations at US critical infrastructure sites",
+      "title": "Hip-hop pioneer, Afrika Bambaataa,  dies aged 68",
+      "category": "World",
+      "what": "The Bronx born rapper's global hit Planet Rock is credited with shaping hip-hop in the 1980s.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/c2evppm30p7o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c2evppm30p7o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "RFK Jr. rewrites CDC panel's charter, opening door to anti-vaccine quacks",
       "category": "Tech",
-      "what": "As the US and Israel's war has ramped up, so too have hacks on US industrial sites.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/",
+      "what": "ACIP's charter now full of anti-vaccine terms and welcomes fringe groups to CDC.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/health/2026/04/rfk-jr-rewrites-cdc-panels-charter-opening-door-to-anti-vaccine-quacks/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/"
+          "url": "https://arstechnica.com/health/2026/04/rfk-jr-rewrites-cdc-panels-charter-opening-door-to-anti-vaccine-quacks/"
+        }
+      ]
+    },
+    {
+      "title": "AI on the couch: Anthropic gives Claude 20 hours of psychiatry",
+      "category": "Tech",
+      "what": "Mythos is \"the most psychologically settled model we have trained to date.\"",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/ai/2026/04/why-anthropic-sent-its-claude-ai-to-an-actual-psychiatrist/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/04/why-anthropic-sent-its-claude-ai-to-an-actual-psychiatrist/"
         }
       ]
     }
