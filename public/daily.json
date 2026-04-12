@@ -1,105 +1,175 @@
 {
-  "date": "Saturday, April 11, 2026",
+  "date": "Sunday, April 12, 2026",
   "stories": [
     {
-      "title": "Trump adversary running for Senate borrows his filibuster playbook",
-      "category": "Politics",
-      "what": "Maine Gov. Janet Mills' Senate platform includes filibuster reform that mirrors President Donald Trump and conservatives' own push for a talking filibuster in the Republican-led Senate.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/trump-adversary-running-senate-borrows-his-filibuster-playbook",
+      "title": "Justin Bieber headlines Coachella with nostalgia-fuelled set",
+      "category": "World",
+      "what": "The star spent much of the gig singing along to YouTube videos of early hits like Baby and Never say Never.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/c75kx5dw395o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-adversary-running-senate-borrows-his-filibuster-playbook"
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c75kx5dw395o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Missing American’s husband had 'spotty' cell service during 8-hour trek to report disappearance: telecom boss",
+      "title": "Asha Bhosle: The sound of Bollywood dies aged 92",
+      "category": "World",
+      "what": "Her infectious voice got fans dancing and singing, becoming the soundtrack for generations of Indians.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "The states revealed as best to start a family amid cratering belief in the American Dream",
+      "category": "Politics",
+      "what": "Red states outperform blue states in family stability, economic mobility, and education, according to a new 2026 Family Structure Index report.",
+      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
+      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
+      "source": "https://www.foxnews.com/politics/states-revealed-best-start-family-amid-cratering-belief-american-dream",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/states-revealed-best-start-family-amid-cratering-belief-american-dream"
+        }
+      ]
+    },
+    {
+      "title": "Hungarians vote in big numbers on whether to end Orbán rule and elect rival",
+      "category": "World",
+      "what": "Most polls favour Péter Magyar, who fronts a grassroots party, and early figures point to a record turnout of voters.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Ukraine and Russia accuse each other of hundreds of ceasefire violations",
+      "category": "World",
+      "what": "Ukrainian President Volodymyr Zelensky says his nation's forces would respond \"symmetrically\" to Russian attacks.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.com/news/articles/cz78y73v830o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cz78y73v830o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Resurfaced clips from top Democrats echoing Trump on birthright citizenship spark online uproar: 'Wow'",
+      "category": "Politics",
+      "what": "Videos of Democrats Harry Reid and Dianne Feinstein criticizing birthright citizenship resurface as the Supreme Court debates Trump's executive order.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/politics/resurfaced-clips-top-democrats-echoing-trump-birthright-citizenship-spark-online-uproar-wow",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/resurfaced-clips-top-democrats-echoing-trump-birthright-citizenship-spark-online-uproar-wow"
+        }
+      ]
+    },
+    {
+      "title": "'Christmas Vacation' and Congress: 'We're all in misery' amid the ongoing DHS shutdown",
+      "category": "Politics",
+      "what": "Fox News' Chad Pergram discusses Congress' prolonged DHS shutdown and the risky tactics associated with it as political divisions threaten deeper government funding crises.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/christmas-vacation-congress-were-all-misery-amid-ongoing-dhs-shutdown",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/christmas-vacation-congress-were-all-misery-amid-ongoing-dhs-shutdown"
+        }
+      ]
+    },
+    {
+      "title": "At least 30 feared dead in crush at Haitian tourist site",
+      "category": "World",
+      "what": "The incident occurred at a \"tourist event attended by many young people\", Haiti's prime minister says.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.com/news/articles/cwyj8d49wzxo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cwyj8d49wzxo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Artemis II crew reflects emotionally on lunar mission after safe return: 'Bonded forever'",
       "category": "U.S.",
-      "what": "Brian Hooker spent 8 hours paddling a dinghy across a Bahamas channel after his wife Lynette reportedly fell overboard before he notified authorities.",
+      "what": "The four Artemis II crew members spoke for the first time on Saturday since returning to Earth on Friday after 10 historic days in space.",
       "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
       "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/missing-americans-husband-spotty-cell-service-8-hour-trek-report-disappearance-telecom-boss",
+      "source": "https://www.foxnews.com/us/artemis-ii-crew-reflects-emotionally-mission-after-safe-return-bonded-forever",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cr51z54d5rpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/artemis-ii-crew-reflects-emotionally-mission-after-safe-return-bonded-forever"
+        }
+      ]
+    },
+    {
+      "title": "Self-proclaimed ‘prophet’ with underage ‘wives’ exposed after couple he trusted helped uncover abuse ring",
+      "category": "U.S.",
+      "what": "Cult expert Christine Marie and her husband Tolga Kates documented Samuel Bateman's world, helping expose the alleged FLDS offshoot leader's abuse of underage girls.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/self-proclaimed-prophet-underage-wives-exposed-couple-trusted-helped-uncover-abuse-ring",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/missing-americans-husband-spotty-cell-service-8-hour-trek-report-disappearance-telecom-boss"
+          "url": "https://www.foxnews.com/us/self-proclaimed-prophet-underage-wives-exposed-couple-trusted-helped-uncover-abuse-ring"
         }
       ]
     },
     {
-      "title": "Djibouti's president wins unprecedented sixth term with 97.8% of vote",
-      "category": "World",
-      "what": "Ismail Omar Guelleh, 78, has extended his already 27-year rule in a poll boycotted by the main opposition candidates.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.com/news/articles/cgj0wg423n6o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cgj0wg423n6o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "'You are my god', Japan's PM tells British rock band Deep Purple",
-      "category": "World",
-      "what": "Hard rock enthusiast Sanae Takaichi beamed as she met the rockers in her Tokyo office.",
+      "title": "Machete-wielding suspect claiming to be 'Lucifer' shot by police after allegedly stabbing 3 at transit hub",
+      "category": "U.S.",
+      "what": "A machete-wielding man claiming to be Lucifer attacked three people at Grand Central Terminal before NYPD officers fatally shot him, police say.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/cre12n72nwno?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.foxnews.com/us/machete-wielding-suspect-claiming-lucifer-shot-police-allegedly-stabbing-3-transit-hub",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cre12n72nwno?at_medium=RSS&at_campaign=rss"
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/machete-wielding-suspect-claiming-lucifer-shot-police-allegedly-stabbing-3-transit-hub"
         }
       ]
     },
     {
-      "title": "Trump backs Hilton ahead of California GOP vote, testing Bianco’s grip on party endorsement",
-      "category": "Politics",
-      "what": "California Republicans vote this Sunday to endorse a candidate for governor after Trump backed Steve Hilton over rival Sheriff Chad Bianco last week.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/trump-backs-hilton-ahead-california-gop-vote-testing-biancos-grip-party-endorsement",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-backs-hilton-ahead-california-gop-vote-testing-biancos-grip-party-endorsement"
-        }
-      ]
-    },
-    {
-      "title": "Watchdog, GOP lawmaker warn NY voter registration systems lacks key safeguards",
-      "category": "Politics",
-      "what": "Election integrity group RITE and Rep. Claudia Tenney threatened federal court action over alleged New York voter registration violations.",
+      "title": "Minnesota fraud suspect skips court, forfeits bond, throwing $11M Medicaid case into doubt",
+      "category": "U.S.",
+      "what": "A man accused of defrauding Minnesota's Medicaid program of nearly $11 million skipped a court hearing, forfeiting his bond and triggering a warrant.",
       "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
       "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/watchdog-gop-lawmaker-warn-ny-voter-registration-systems-lacks-key-safeguards",
+      "source": "https://www.foxnews.com/us/minnesota-fraud-suspect-skips-court-forfeits-bond-throwing-11m-medicaid-case-doubt",
       "sources": [
         {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/watchdog-gop-lawmaker-warn-ny-voter-registration-systems-lacks-key-safeguards"
-        }
-      ]
-    },
-    {
-      "title": "Melania Trump's speech propels Epstein crisis back to forefront",
-      "category": "World",
-      "what": "She has now placed herself squarely into the Epstein story and at odds with the administration, which wants to end the investigation.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.com/news/articles/cwy3w9y8gyjo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cwy3w9y8gyjo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/epstein-survivors-push-back-melania-trump-hearing-call-comer-vows-hearings"
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/minnesota-fraud-suspect-skips-court-forfeits-bond-throwing-11m-medicaid-case-doubt"
         }
       ]
     },
@@ -112,30 +182,8 @@
       "source": "https://arstechnica.com/space/2026/04/the-artemis-ii-mission-has-ended-where-does-nasa-go-from-here/",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cj0v119zp19o?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "name": "Ars Technica",
           "url": "https://arstechnica.com/space/2026/04/the-artemis-ii-mission-has-ended-where-does-nasa-go-from-here/"
-        }
-      ]
-    },
-    {
-      "title": "Frontrunner for California governor denies sexual assault allegations",
-      "category": "World",
-      "what": "The congressman is a leading Democratic candidate who is now facing calls to drop out of the race.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.com/news/articles/c20qg3g9554o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c20qg3g9554o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/pelosi-california-dems-slam-swalwell-bombshell-sexual-assault-allegations-indefensible"
         }
       ]
     },
@@ -154,20 +202,6 @@
       ]
     },
     {
-      "title": "Final push for votes as challenger to Hungary's Orbán senses victory",
-      "category": "World",
-      "what": "As Péter Magyar's opposition movement leads in the polls, tens of thousands of anti-Orbán supporters fill Heroes' Square in Budapest.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.com/news/articles/c0q9527y41lo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c0q9527y41lo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
       "title": "Californians sue over AI tool that records doctor visits",
       "category": "Tech",
       "what": "Plaintiffs say transcription tool processed confidential chats offsite.",
@@ -178,48 +212,6 @@
         {
           "name": "Ars Technica",
           "url": "https://arstechnica.com/tech-policy/2026/04/californians-sue-over-ai-tool-that-records-doctor-visits/"
-        }
-      ]
-    },
-    {
-      "title": "Fox News True Crime Newsletter: Bahamas missing woman mystery, Athena Strand bodycam, Gilgo Beach guilty plea",
-      "category": "U.S.",
-      "what": "Stay up to date with the Fox News True Crime Newsletter, which brings you the latest cases ripped from the headlines, from crime to courts, legal and scandal.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/fox-news-true-crime-newsletter-bahamas-missing-woman-mystery-athena-strand-bodycam-gilgo-beach-guilty-plea",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/fox-news-true-crime-newsletter-bahamas-missing-woman-mystery-athena-strand-bodycam-gilgo-beach-guilty-plea"
-        }
-      ]
-    },
-    {
-      "title": "Teens suspected of murdering congressional intern linked by DNA on shell casings, prosecutors say",
-      "category": "U.S.",
-      "what": "DNA evidence allegedly links two teenagers to the fatal shooting of a University of Massachusetts student working as a congressional intern in D.C.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/us/teens-suspected-murdering-congressional-intern-linked-dna-shell-casings-prosecutors-say",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/teens-suspected-murdering-congressional-intern-linked-dna-shell-casings-prosecutors-say"
-        }
-      ]
-    },
-    {
-      "title": "NYC judge seeks to make example of officer who threw cooler at fleeing suspect, causing fatal crash",
-      "category": "U.S.",
-      "what": "Ex-NYPD Officer Erik Duran was sentenced to three to nine years for manslaughter after throwing a cooler at a fleeing suspect, a rare on-duty conviction.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/nyc-judge-seeks-make-example-officer-who-threw-cooler-fleeing-suspect-causing-fatal-crash",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/nyc-judge-seeks-make-example-officer-who-threw-cooler-fleeing-suspect-causing-fatal-crash"
         }
       ]
     }
