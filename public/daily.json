@@ -1,175 +1,185 @@
 {
-  "date": "Sunday, April 12, 2026",
+  "date": "Monday, April 13, 2026",
   "stories": [
     {
-      "title": "Justin Bieber headlines Coachella with nostalgia-fuelled set",
+      "title": "Orbán era swept away by Péter Magyar's Hungary election landslide",
       "category": "World",
-      "what": "The star spent much of the gig singing along to YouTube videos of early hits like Baby and Never say Never.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/c75kx5dw395o?at_medium=RSS&at_campaign=rss",
+      "what": "Viktor Orbán's 16-year rule is over, defeated by a 45-year-old ex-party insider who convinced a majority of Hungarians to oust him.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c75kx5dw395o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Asha Bhosle: The sound of Bollywood dies aged 92",
-      "category": "World",
-      "what": "Her infectious voice got fans dancing and singing, becoming the soundtrack for generations of Indians.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "The states revealed as best to start a family amid cratering belief in the American Dream",
+      "title": "Melania Trump’s Epstein remarks turn up the heat on DOJ, Acting AG Todd Blanche to do more",
       "category": "Politics",
-      "what": "Red states outperform blue states in family stability, economic mobility, and education, according to a new 2026 Family Structure Index report.",
+      "what": "Melania Trump's appeal for Congress to hear from Jeffrey Epstein survivors is adding pressure on the DOJ and its new acting director as lawmakers and alleged victims demand more action.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/melania-trumps-epstein-remarks-turn-up-heat-doj-acting-ag-todd-blanche-do-more",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/melania-trumps-epstein-remarks-turn-up-heat-doj-acting-ag-todd-blanche-do-more"
+        }
+      ]
+    },
+    {
+      "title": "Nigeria Air Force orders investigation after dozens killed in airstrike",
+      "category": "World",
+      "what": "The Nigerian Air Force said it has launched investigations after it struck a village market while targeting militants.",
       "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
       "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
-      "source": "https://www.foxnews.com/politics/states-revealed-best-start-family-amid-cratering-belief-american-dream",
+      "source": "https://www.bbc.com/news/articles/cgk021z3ejpo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/states-revealed-best-start-family-amid-cratering-belief-american-dream"
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cgk021z3ejpo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Hungarians vote in big numbers on whether to end Orbán rule and elect rival",
+      "title": "Pope says he has 'no fear' of Trump after scathing criticism",
       "category": "World",
-      "what": "Most polls favour Péter Magyar, who fronts a grassroots party, and early figures point to a record turnout of voters.",
+      "what": "The US president accuses Leo of being \"weak on crime and terrible for foreign policy\".",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Ukraine and Russia accuse each other of hundreds of ceasefire violations",
-      "category": "World",
-      "what": "Ukrainian President Volodymyr Zelensky says his nation's forces would respond \"symmetrically\" to Russian attacks.",
+      "title": "US military conducts more deadly strikes against vessels of alleged 'narco-terrorists'",
+      "category": "Politics",
+      "what": "SOUTHCOM says two deadly strikes targeted vessels on known narcotrafficking routes in the Eastern Pacific, killing five alleged narcoterrorists.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/cz78y73v830o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cz78y73v830o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Resurfaced clips from top Democrats echoing Trump on birthright citizenship spark online uproar: 'Wow'",
-      "category": "Politics",
-      "what": "Videos of Democrats Harry Reid and Dianne Feinstein criticizing birthright citizenship resurface as the Supreme Court debates Trump's executive order.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/resurfaced-clips-top-democrats-echoing-trump-birthright-citizenship-spark-online-uproar-wow",
+      "source": "https://www.foxnews.com/politics/us-military-strikes-narco-terrorist-vessels",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/resurfaced-clips-top-democrats-echoing-trump-birthright-citizenship-spark-online-uproar-wow"
+          "url": "https://www.foxnews.com/politics/us-military-strikes-narco-terrorist-vessels"
         }
       ]
     },
     {
-      "title": "'Christmas Vacation' and Congress: 'We're all in misery' amid the ongoing DHS shutdown",
+      "title": "Crowds gather ahead of Bollywood legend Asha Bhosle's funeral",
+      "category": "World",
+      "what": "The singer, who died at the age of 92, will be cremated with full state honours on Monday.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/ce8jw46p2x4o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/ce8jw46p2x4o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Snubbed by Trump, GOP candidates fighting for re-election act like they have his backing anyway",
       "category": "Politics",
-      "what": "Fox News' Chad Pergram discusses Congress' prolonged DHS shutdown and the risky tactics associated with it as political divisions threaten deeper government funding crises.",
+      "what": "Republican incumbents facing primary challenges are leaning into Trump imagery in campaign ads, even when the president has endorsed their rivals.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/christmas-vacation-congress-were-all-misery-amid-ongoing-dhs-shutdown",
+      "source": "https://www.foxnews.com/politics/snubbed-trump-gop-candidates-fighting-re-election-act-like-backing-anyway",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/christmas-vacation-congress-were-all-misery-amid-ongoing-dhs-shutdown"
+          "url": "https://www.foxnews.com/politics/snubbed-trump-gop-candidates-fighting-re-election-act-like-backing-anyway"
         }
       ]
     },
     {
-      "title": "At least 30 feared dead in crush at Haitian tourist site",
+      "title": "Katya Adler: Jubilation in Budapest will be felt in Europe but leaves Moscow cold",
       "category": "World",
-      "what": "The incident occurred at a \"tourist event attended by many young people\", Haiti's prime minister says.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/cwyj8d49wzxo?at_medium=RSS&at_campaign=rss",
+      "what": "European leaders share Hungarians' joy over the ousting of Vladimir Putin's EU ally, writes the BBC's Europe editor.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/cn0wzxqyx17o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cwyj8d49wzxo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/cn0wzxqyx17o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Artemis II crew reflects emotionally on lunar mission after safe return: 'Bonded forever'",
+      "title": "Dinghy route taken by missing American woman and jailed husband recreated as details of disappearance emerge",
       "category": "U.S.",
-      "what": "The four Artemis II crew members spoke for the first time on Saturday since returning to Earth on Friday after 10 historic days in space.",
+      "what": "Brian Hooker remains in a Freeport, Bahamas, jail as police investigate the disappearance of his wife off Elbow Cay.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/dinghy-route-taken-by-missing-american-woman-and-jailed-husband-recreated-as-details-of-disappearance-emerge",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/dinghy-route-taken-by-missing-american-woman-and-jailed-husband-recreated-as-details-of-disappearance-emerge"
+        }
+      ]
+    },
+    {
+      "title": "Starving toddler ate diapers and drywall before dying in filthy room while parents lived clean, police say",
+      "category": "U.S.",
+      "what": "An Indiana couple was arrested and hit with neglect and murder charges after their starving toddler died from eating diapers and drywall to survive.",
       "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
       "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/artemis-ii-crew-reflects-emotionally-mission-after-safe-return-bonded-forever",
+      "source": "https://www.foxnews.com/us/starved-toddler-died-neglect-after-eating-diapers-drywall-filthy-room-parents-room-kept-clean",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cr51z54d5rpo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/artemis-ii-crew-reflects-emotionally-mission-after-safe-return-bonded-forever"
+          "url": "https://www.foxnews.com/us/starved-toddler-died-neglect-after-eating-diapers-drywall-filthy-room-parents-room-kept-clean"
         }
       ]
     },
     {
-      "title": "Self-proclaimed ‘prophet’ with underage ‘wives’ exposed after couple he trusted helped uncover abuse ring",
+      "title": "Manhunt underway after gunmen storm Chick-fil-A leaving 1 dead",
       "category": "U.S.",
-      "what": "Cult expert Christine Marie and her husband Tolga Kates documented Samuel Bateman's world, helping expose the alleged FLDS offshoot leader's abuse of underage girls.",
+      "what": "Authorities say a deadly shooting at a New Jersey Chick-fil-A was targeted as suspects remain at large. One person died and six others were injured.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/self-proclaimed-prophet-underage-wives-exposed-couple-trusted-helped-uncover-abuse-ring",
+      "source": "https://www.foxnews.com/us/manhunt-underway-after-gunmen-storm-chick-fil-a-leaving-1-dead",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/self-proclaimed-prophet-underage-wives-exposed-couple-trusted-helped-uncover-abuse-ring"
+          "url": "https://www.foxnews.com/us/manhunt-underway-after-gunmen-storm-chick-fil-a-leaving-1-dead"
         }
       ]
     },
     {
-      "title": "Machete-wielding suspect claiming to be 'Lucifer' shot by police after allegedly stabbing 3 at transit hub",
+      "title": "Atlanta teen arrested for murder after fatal shooting of 12-year-old inside home",
       "category": "U.S.",
-      "what": "A machete-wielding man claiming to be Lucifer attacked three people at Grand Central Terminal before NYPD officers fatally shot him, police say.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/machete-wielding-suspect-claiming-lucifer-shot-police-allegedly-stabbing-3-transit-hub",
+      "what": "A 14-year-old was arrested for murder in the shooting death of a 12-year-old boy inside a southeast Atlanta home, police say. The investigation is ongoing.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/atlanta-teen-arrested-murder-after-fatal-shooting-12-year-old-inside-home",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/machete-wielding-suspect-claiming-lucifer-shot-police-allegedly-stabbing-3-transit-hub"
+          "url": "https://www.foxnews.com/us/atlanta-teen-arrested-murder-after-fatal-shooting-12-year-old-inside-home"
         }
       ]
     },
     {
-      "title": "Minnesota fraud suspect skips court, forfeits bond, throwing $11M Medicaid case into doubt",
-      "category": "U.S.",
-      "what": "A man accused of defrauding Minnesota's Medicaid program of nearly $11 million skipped a court hearing, forfeiting his bond and triggering a warrant.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/minnesota-fraud-suspect-skips-court-forfeits-bond-throwing-11m-medicaid-case-doubt",
+      "title": "Shock from Iran war has Trump's vision for US energy dominance flailing",
+      "category": "Tech",
+      "what": "Record domestic oil and gas production hasn't saved US drivers from price spikes.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://arstechnica.com/science/2026/04/shock-from-iran-war-has-trumps-vision-for-us-energy-dominance-flailing/",
       "sources": [
         {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/minnesota-fraud-suspect-skips-court-forfeits-bond-throwing-11m-medicaid-case-doubt"
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/04/shock-from-iran-war-has-trumps-vision-for-us-energy-dominance-flailing/"
         }
       ]
     },
@@ -198,20 +208,6 @@
         {
           "name": "Ars Technica",
           "url": "https://arstechnica.com/space/2026/04/four-astronauts-are-back-home-after-a-daring-ride-around-the-moon/"
-        }
-      ]
-    },
-    {
-      "title": "Californians sue over AI tool that records doctor visits",
-      "category": "Tech",
-      "what": "Plaintiffs say transcription tool processed confidential chats offsite.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/tech-policy/2026/04/californians-sue-over-ai-tool-that-records-doctor-visits/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/04/californians-sue-over-ai-tool-that-records-doctor-visits/"
         }
       ]
     }
