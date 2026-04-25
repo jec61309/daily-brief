@@ -1,213 +1,213 @@
 {
-  "date": "Friday, April 24, 2026",
+  "date": "Saturday, April 25, 2026",
   "stories": [
     {
-      "title": "Key suspect in notorious Tadamon massacre during Syria civil war arrested",
+      "title": "Seven dead in major Russian attack on Ukraine",
       "category": "World",
-      "what": "Amjad Youssef was wanted over the mass killing of blindfolded civilians in April 2013 in the district of Damascus.",
+      "what": "The city of Dnipro was hardest hit, with officials saying four died in a strike on a residential building.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "US turns to drones after retiring minesweepers to reopen Strait of Hormuz amid Iran crisis",
+      "category": "Politics",
+      "what": "The U.S. is racing to reopen the Strait of Hormuz as Iran reportedly lays mines in the critical waterway, testing the Navy's shift to unmanned systems.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/politics/us-turns-drones-after-retiring-minesweepers-reopen-strait-hormuz-amid-iran-crisis",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/us-turns-drones-after-retiring-minesweepers-reopen-strait-hormuz-amid-iran-crisis"
+        }
+      ]
+    },
+    {
+      "title": "Mali army says armed groups launch coordinated attacks across country",
+      "category": "World",
+      "what": "Witnesses report explosions and sustained gunfire near a military base outside the capital, Bamako.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Michigan governor hopeful pressed on past SPLC work after DOJ indictment: 'What did Jocelyn know?'",
+      "category": "Politics",
+      "what": "Michigan Secretary of State Jocelyn Benson faces GOP pressure over her past SPLC ties after the group was indicted on fraud-related charges this week.",
+      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
+      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
+      "source": "https://www.foxnews.com/politics/michigan-governor-hopeful-pressed-past-splc-work-doj-indictment-jocelyn-know-",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/michigan-governor-hopeful-pressed-past-splc-work-doj-indictment-jocelyn-know-"
+        }
+      ]
+    },
+    {
+      "title": "DeSantis under pressure as Florida redraw could tip House balance in GOP map fight",
+      "category": "Politics",
+      "what": "Florida becomes the likely final battleground in the GOP-Democrat fight over congressional redistricting ahead of the 2026 midterm elections.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/desantis-under-pressure-florida-redraw-could-tip-house-balance-gop-map-fight",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/desantis-under-pressure-florida-redraw-could-tip-house-balance-gop-map-fight"
+        }
+      ]
+    },
+    {
+      "title": "Palestinians in West Bank and some in Gaza vote in local elections",
+      "category": "World",
+      "what": "Local elections are held in the occupied West Bank and in one Gazan city, though Hamas and other groups are not taking part.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "31 sloths die in Florida before opening of attraction ",
+      "category": "World",
+      "what": "Many died due to conditions at a Florida warehouse where they'd been shipped, while others arrived from South America dead, authorities say.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.com/news/articles/cz675j3y151o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cz675j3y151o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "US military kills two suspected narco-terrorists in strike on drug-trafficking vessel in the Pacific",
+      "category": "U.S.",
+      "what": "U.S. Southern Command says a lethal strike on a suspected narco-trafficking vessel in the Eastern Pacific killed two suspected narco-terrorists.",
       "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
       "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Briton in Netflix's 'Con Mum' faces fresh charges in Singapore",
-      "category": "World",
-      "what": "Dionne Marie Hanna, 85, is accused of duping more than two dozen people - including her own son.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/c87wz7445wno?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c87wz7445wno?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
-      "category": "World",
-      "what": "An internal Pentagon email reportedly outlines options to punish allies over a perceived lack of support for Iran war.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Social media erupts after Mamdani's far-left supporters turn on him over homeless shelter: 'Oops'",
-      "category": "Politics",
-      "what": "East Village voters who backed Mayor Zohran Mamdani by a 40-point margin are now suing to stop a homeless shelter plan, drawing conservative criticism online.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/social-media-erupts-after-mamdanis-far-left-supporters-turn-on-him-homeless-shelter",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/social-media-erupts-after-mamdanis-far-left-supporters-turn-on-him-homeless-shelter"
-        }
-      ]
-    },
-    {
-      "title": "UK biobank data incident caused by 'a few bad apples', boss says",
-      "category": "World",
-      "what": "Professor Sir Rory Collins said he was \"angry\" and \"upset\" about the incident, as both the bank's boss and a participant.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/clyedyn6pz7o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/clyedyn6pz7o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Virginia’s map war lays bare state's sharp partisan turn as legal fight looms",
-      "category": "Politics",
-      "what": "Virginia's redistricting fight heads to the state Supreme Court after a county judge blocked certification of a narrowly approved ballot measure.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/virginias-map-war-lays-bare-states-sharp-partisan-turn-legal-fight-looms",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/virginias-map-war-lays-bare-states-sharp-partisan-turn-legal-fight-looms"
-        }
-      ]
-    },
-    {
-      "title": "Zodiac Killer may be tied to Black Dahlia case after ‘code cracked,’ new suspect emerges",
-      "category": "U.S.",
-      "what": "An independent investigator claims he decoded the Zodiac Killer's cipher and found evidence allegedly connecting it to the 1947 Black Dahlia murder.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/zodiac-killer-may-tied-black-dahlia-case-code-cracked-new-suspect-emerges",
+      "source": "https://www.foxnews.com/us/us-military-kills-two-suspected-narco-terrorists-strike-drug-trafficking-vessel-pacific",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/zodiac-killer-may-tied-black-dahlia-case-code-cracked-new-suspect-emerges"
+          "url": "https://www.foxnews.com/us/us-military-kills-two-suspected-narco-terrorists-strike-drug-trafficking-vessel-pacific"
         }
       ]
     },
     {
-      "title": "Defense Department scientist’s accidental death raises questions as probe into missing scientists grows",
-      "category": "Politics",
-      "what": "A government chemist who researched Novichok nerve agents died in a 2022 incident ruled accidental, but colleagues and family say it doesn't add up.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/politics/defense-department-scientists-accidental-death-raises-questions-probe-missing-scientists-grows",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/defense-department-scientists-accidental-death-raises-questions-probe-missing-scientists-grows"
-        }
-      ]
-    },
-    {
-      "title": "Judge dismisses Smokey Robinson's defamation claim against rape accusers",
-      "category": "World",
-      "what": "The veteran singer had made a counterclaim after four housekeepers sued him for alleged sexual assault.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.bbc.com/news/articles/c0e70e4wr00o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c0e70e4wr00o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Elite school teacher known as 'Mr Wonderful' accused of heinous crimes against students",
-      "category": "U.S.",
-      "what": "A former teacher who was nicknamed \"Mr. Wonderful\" has been charged with three counts of rape involving two former students who allege years of abuse and grooming.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/elite-school-teacher-known-mr-wonderful-accused-heinous-crimes-against-students",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/elite-school-teacher-known-mr-wonderful-accused-heinous-crimes-against-students"
-        }
-      ]
-    },
-    {
-      "title": "ICE nabs illegal aliens convicted of child sex crimes and meth trafficking in nationwide enforcement sweep",
-      "category": "U.S.",
-      "what": "DHS says ICE arrested individuals convicted of sexual assault, drug trafficking and other serious crimes during National Crime Victims Week enforcement.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/ice-nabs-illegal-aliens-convicted-child-sex-crimes-meth-trafficking-nationwide-enforcement-sweep",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/ice-nabs-illegal-aliens-convicted-child-sex-crimes-meth-trafficking-nationwide-enforcement-sweep"
-        }
-      ]
-    },
-    {
-      "title": "Long Island PTA mom accused of stealing $50K from elementary school while she served as NYPD officer",
-      "category": "U.S.",
-      "what": "A PTA mom accused of embezzling over $50,000 from a Long Island elementary school was reportedly employed as an NYPD officer at the time of the alleged theft.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/long-island-pta-mom-accused-stealing-50k-elementary-school-served-nypd-officer",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/long-island-pta-mom-accused-stealing-50k-elementary-school-served-nypd-officer"
-        }
-      ]
-    },
-    {
-      "title": "Visitors to this private space station won't be wearing shorts and T-shirts",
+      "title": "This is who's developing Golden Dome's orbital interceptors—if they're ever built",
       "category": "Tech",
-      "what": "Can you wear white after Labor Day if your destination is Earth orbit?",
-      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
-      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
-      "source": "https://arstechnica.com/space/2026/04/vast-reveals-flight-suit-tests-timepiece-for-commercial-space-station/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/04/vast-reveals-flight-suit-tests-timepiece-for-commercial-space-station/"
-        }
-      ]
-    },
-    {
-      "title": "US accuses China of “industrial-scale” AI theft. China says it’s “slander.”",
-      "category": "Tech",
-      "what": "Trump-Xi summit may be rocked by US mulling huge sanctions.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://arstechnica.com/tech-policy/2026/04/us-accuses-china-of-industrial-scale-ai-theft-china-says-its-slander/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/04/us-accuses-china-of-industrial-scale-ai-theft-china-says-its-slander/"
-        }
-      ]
-    },
-    {
-      "title": "Carbon nanotube wiring gets closer to competing with copper",
-      "category": "Tech",
-      "what": "While this material degrades over time, it could point to better ones.",
+      "what": "\"If boost-phase intercept from space is not affordable and scalable, we will not produce it.\"",
       "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
       "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/science/2026/04/researchers-get-carbon-nanotube-wiring-to-conduct-more-like-copper/",
+      "source": "https://arstechnica.com/space/2026/04/this-is-whos-developing-golden-domes-orbital-interceptors-if-theyre-ever-built/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/04/researchers-get-carbon-nanotube-wiring-to-conduct-more-like-copper/"
+          "url": "https://arstechnica.com/space/2026/04/this-is-whos-developing-golden-domes-orbital-interceptors-if-theyre-ever-built/"
+        }
+      ]
+    },
+    {
+      "title": "The viral manifesto of 'anti-woke' tech boss with NHS and defence contracts",
+      "category": "World",
+      "what": "The boss of the controversial tech company with UK government contracts published a 22-point plan on the future of the West.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.com/news/articles/c4gjkj7975po?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c4gjkj7975po?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Grinning suspect cuffed after alleged fiery street takeover, drag race caught on camera",
+      "category": "U.S.",
+      "what": "The Queens DA announced the arrest of Asil Assaidi, who allegedly helped wreak havoc during a drag racing street takeover involving more than 100 vehicles.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/grinning-suspect-cuffed-alleged-fiery-street-takeover-drag-race-caught-camera",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/grinning-suspect-cuffed-alleged-fiery-street-takeover-drag-race-caught-camera"
+        }
+      ]
+    },
+    {
+      "title": "Texas substitute teacher accused of improper relationship with student, alarming parents",
+      "category": "U.S.",
+      "what": "Authorities arrested former substitute teacher Angela Palmares in Texas after she was allegedly involved in an improper relationship with a student.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/texas-substitute-teacher-accused-improper-relationship-student-alarming-parents",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/texas-substitute-teacher-accused-improper-relationship-student-alarming-parents"
+        }
+      ]
+    },
+    {
+      "title": "DHS blames ‘weak’ Biden border policies after piracy-linked Somali illegal immigrant nabbed at northern border",
+      "category": "U.S.",
+      "what": "CBP officers arrested Said Jama Ahmed, a Somali illegal immigrant linked to a 2012 piracy case and facing an outstanding warrant for passport fraud, near the U.S.-Canada border.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/dhs-blames-weak-biden-border-policies-piracy-linked-somali-illegal-immigrant-nabbed-northern-border",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/dhs-blames-weak-biden-border-policies-piracy-linked-somali-illegal-immigrant-nabbed-northern-border"
+        }
+      ]
+    },
+    {
+      "title": "Google will invest as much as $40 billion in Anthropic",
+      "category": "Tech",
+      "what": "This follows a similar, but smaller, investment by Amazon just days ago.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/"
+        }
+      ]
+    },
+    {
+      "title": "Europe—not US—first to authorize Moderna's combo mRNA flu-COVID vaccine",
+      "category": "Tech",
+      "what": "Amid RFK Jr.'s anti-vaccine agenda, Moderna withdrew its FDA application last year.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/health/2026/04/europe-not-us-first-to-authorize-modernas-combo-mrna-flu-covid-vaccine/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/04/europe-not-us-first-to-authorize-modernas-combo-mrna-flu-covid-vaccine/"
         }
       ]
     }
