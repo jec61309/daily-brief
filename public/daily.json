@@ -1,40 +1,68 @@
 {
-  "date": "Saturday, April 25, 2026",
+  "date": "Sunday, April 26, 2026",
   "stories": [
     {
-      "title": "Seven dead in major Russian attack on Ukraine",
-      "category": "World",
-      "what": "The city of Dnipro was hardest hit, with officials saying four died in a strike on a residential building.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
+      "title": "Work of scientists in ‘suspicious’ disappearances is prime target for hostile foes: retired FBI agent",
+      "category": "U.S.",
+      "what": "Retired high-level FBI official says American nuclear scientist disappearances fit a suspicious pattern potentially linked to foreign intelligence threats.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/work-scientists-suspicious-disappearances-prime-target-hostile-foes-retired-fbi-agent",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss"
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/work-scientists-suspicious-disappearances-prime-target-hostile-foes-retired-fbi-agent"
         }
       ]
     },
     {
-      "title": "US turns to drones after retiring minesweepers to reopen Strait of Hormuz amid Iran crisis",
+      "title": "'Discriminatory' National Park fee plan slammed by Democrats turns into conservation win, Burgum says",
       "category": "Politics",
-      "what": "The U.S. is racing to reopen the Strait of Hormuz as Iran reportedly lays mines in the critical waterway, testing the Navy's shift to unmanned systems.",
+      "what": "Secretary Doug Burgum's national park pricing plan for foreign visitors has raised over $2 million in new revenue despite Democratic opposition, DOI says.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/politics/us-turns-drones-after-retiring-minesweepers-reopen-strait-hormuz-amid-iran-crisis",
+      "source": "https://www.foxnews.com/politics/discriminatory-national-park-fee-plan-slammed-democrats-turns-conservation-win-burgum-says",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/us-turns-drones-after-retiring-minesweepers-reopen-strait-hormuz-amid-iran-crisis"
+          "url": "https://www.foxnews.com/politics/discriminatory-national-park-fee-plan-slammed-democrats-turns-conservation-win-burgum-says"
         }
       ]
     },
     {
-      "title": "Mali army says armed groups launch coordinated attacks across country",
-      "category": "World",
-      "what": "Witnesses report explosions and sustained gunfire near a military base outside the capital, Bamako.",
+      "title": "Dad of illegal immigrant DUI victim issues warning to Americans over lax driver's license laws",
+      "category": "U.S.",
+      "what": "Joe Abraham warns Americans after his daughter was killed by an illegal immigrant drunken driver, urging stricter driver's license laws and proper vetting.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/dad-illegal-immigrant-dui-victim-issues-warning-americans-lax-drivers-license-laws",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/dad-illegal-immigrant-dui-victim-issues-warning-americans-lax-drivers-license-laws"
+        }
+      ]
+    },
+    {
+      "title": "California DOGE leader slams Newsom, Bonta over state’s massive fraud issues: “Every day is opposite day\"",
+      "category": "Politics",
+      "what": "CAL DOGE director Jenny Rae Le Roux slams Gov. Newsom and AG Bonta, alleging they failed to crack down on widespread fraud across California programs.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/politics/california-doge-leader-slams-newsom-bonta-states-massive-fraud-issues-every-day-opposite-day",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/california-doge-leader-slams-newsom-bonta-states-massive-fraud-issues-every-day-opposite-day"
+        }
+      ]
+    },
+    {
+      "title": "Armed groups launch coordinated attacks across Mali",
+      "category": "World",
+      "what": "Witnesses report clashes in the centre and north, in what has been described as the largest jihadist attack in years.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
       "source": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
@@ -44,72 +72,136 @@
       ]
     },
     {
-      "title": "Michigan governor hopeful pressed on past SPLC work after DOJ indictment: 'What did Jocelyn know?'",
-      "category": "Politics",
-      "what": "Michigan Secretary of State Jocelyn Benson faces GOP pressure over her past SPLC ties after the group was indicted on fraud-related charges this week.",
-      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
-      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
-      "source": "https://www.foxnews.com/politics/michigan-governor-hopeful-pressed-past-splc-work-doj-indictment-jocelyn-know-",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/michigan-governor-hopeful-pressed-past-splc-work-doj-indictment-jocelyn-know-"
-        }
-      ]
-    },
-    {
-      "title": "DeSantis under pressure as Florida redraw could tip House balance in GOP map fight",
-      "category": "Politics",
-      "what": "Florida becomes the likely final battleground in the GOP-Democrat fight over congressional redistricting ahead of the 2026 midterm elections.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/desantis-under-pressure-florida-redraw-could-tip-house-balance-gop-map-fight",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/desantis-under-pressure-florida-redraw-could-tip-house-balance-gop-map-fight"
-        }
-      ]
-    },
-    {
-      "title": "Palestinians in West Bank and some in Gaza vote in local elections",
-      "category": "World",
-      "what": "Local elections are held in the occupied West Bank and in one Gazan city, though Hamas and other groups are not taking part.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "31 sloths die in Florida before opening of attraction ",
-      "category": "World",
-      "what": "Many died due to conditions at a Florida warehouse where they'd been shipped, while others arrived from South America dead, authorities say.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.com/news/articles/cz675j3y151o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cz675j3y151o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "US military kills two suspected narco-terrorists in strike on drug-trafficking vessel in the Pacific",
+      "title": "Mississippi middle schoolers stop runaway bus after driver loses consciousness from asthma attack",
       "category": "U.S.",
-      "what": "U.S. Southern Command says a lethal strike on a suspected narco-trafficking vessel in the Eastern Pacific killed two suspected narco-terrorists.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.foxnews.com/us/us-military-kills-two-suspected-narco-terrorists-strike-drug-trafficking-vessel-pacific",
+      "what": "Dozens of Mississippi middle school students sprang into action to stop a school bus after their driver suffered an asthma attack and lost consciousness.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/mississippi-middle-schoolers-stop-runaway-bus-driver-loses-consciousness-asthma-attack",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/us-military-kills-two-suspected-narco-terrorists-strike-drug-trafficking-vessel-pacific"
+          "url": "https://www.foxnews.com/us/mississippi-middle-schoolers-stop-runaway-bus-driver-loses-consciousness-asthma-attack"
+        }
+      ]
+    },
+    {
+      "title": "Correspondents’ dinner chaos hits high-profile guests already marked by political violence",
+      "category": "Politics",
+      "what": "Trump spoke about repeated assassination attempts after chaos broke out Saturday, with RFK Jr. and Steve Scalise among those escorted from the room.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/correspondents-dinner-chaos-hits-high-profile-guests-already-marked-political-violence",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/correspondents-dinner-chaos-hits-high-profile-guests-already-marked-political-violence"
+        }
+      ]
+    },
+    {
+      "title": "What it was like in the room as shots rang out at correspondents' dinner",
+      "category": "World",
+      "what": "The BBC's Gary O'Donoghue describes the moment he and others dived for cover as shots rang out at the venue.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/c62j23wzeqeo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c62j23wzeqeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/trump-headline-2026-white-house-correspondents-dinner-first-time-president"
+        }
+      ]
+    },
+    {
+      "title": "Who is Cole Allen? California man named as suspect in White House Correspondents' Dinner shooting",
+      "category": "U.S.",
+      "what": "Cole Allen is suspected of firing shots inside the Washington Hilton during the White House Correspondents' Dinner, striking one Secret Service agent before they neutralized him.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/us/cole-allen-identified-suspect-white-house-correspondents-dinner-shooting",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/cole-allen-identified-suspect-white-house-correspondents-dinner-shooting"
+        }
+      ]
+    },
+    {
+      "title": "Netanyahu orders army to 'vigorously attack' Hezbollah in Lebanon",
+      "category": "World",
+      "what": "The Israeli PM's directive comes as six people were killed by strikes in Lebanon despite a ceasefire being extended by three weeks.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
+      "category": "World",
+      "what": "Iran had earlier said there were no plans for a direct meeting with a US delegation led by Steve Witkoff and Jared Kushner.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/trump-cancels-witkoff-kushners-pakistan-trip-iran-talks-says-regime-suffering-infighting-"
+        }
+      ]
+    },
+    {
+      "title": "Orbán steps down from Hungarian parliament after landslide defeat",
+      "category": "World",
+      "what": "The outgoing prime minister will not take up his seat after leading his party back into opposition.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/cd9v1wll8qqo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cd9v1wll8qqo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Artemis II broke Fred Haise's distance record, but he is happy to pass it on",
+      "category": "Tech",
+      "what": "\"It wasn't a big deal. It just coincided with the fact that Moon was farther away from the Earth.\"",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/science/2026/04/artemis-ii-broke-fred-haises-distance-record-but-he-is-happy-to-pass-it-on/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/04/artemis-ii-broke-fred-haises-distance-record-but-he-is-happy-to-pass-it-on/"
+        }
+      ]
+    },
+    {
+      "title": "Palantir employees are talking about company's \"descent into fascism\"",
+      "category": "Tech",
+      "what": "Slack messages, interviews with current and former works paint picture of company in turmoil.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/tech-policy/2026/04/palantir-employees-are-talking-about-companys-descent-into-fascism/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/04/palantir-employees-are-talking-about-companys-descent-into-fascism/"
         }
       ]
     },
@@ -124,90 +216,6 @@
         {
           "name": "Ars Technica",
           "url": "https://arstechnica.com/space/2026/04/this-is-whos-developing-golden-domes-orbital-interceptors-if-theyre-ever-built/"
-        }
-      ]
-    },
-    {
-      "title": "The viral manifesto of 'anti-woke' tech boss with NHS and defence contracts",
-      "category": "World",
-      "what": "The boss of the controversial tech company with UK government contracts published a 22-point plan on the future of the West.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/c4gjkj7975po?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c4gjkj7975po?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Grinning suspect cuffed after alleged fiery street takeover, drag race caught on camera",
-      "category": "U.S.",
-      "what": "The Queens DA announced the arrest of Asil Assaidi, who allegedly helped wreak havoc during a drag racing street takeover involving more than 100 vehicles.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/grinning-suspect-cuffed-alleged-fiery-street-takeover-drag-race-caught-camera",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/grinning-suspect-cuffed-alleged-fiery-street-takeover-drag-race-caught-camera"
-        }
-      ]
-    },
-    {
-      "title": "Texas substitute teacher accused of improper relationship with student, alarming parents",
-      "category": "U.S.",
-      "what": "Authorities arrested former substitute teacher Angela Palmares in Texas after she was allegedly involved in an improper relationship with a student.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/texas-substitute-teacher-accused-improper-relationship-student-alarming-parents",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/texas-substitute-teacher-accused-improper-relationship-student-alarming-parents"
-        }
-      ]
-    },
-    {
-      "title": "DHS blames ‘weak’ Biden border policies after piracy-linked Somali illegal immigrant nabbed at northern border",
-      "category": "U.S.",
-      "what": "CBP officers arrested Said Jama Ahmed, a Somali illegal immigrant linked to a 2012 piracy case and facing an outstanding warrant for passport fraud, near the U.S.-Canada border.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/dhs-blames-weak-biden-border-policies-piracy-linked-somali-illegal-immigrant-nabbed-northern-border",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/dhs-blames-weak-biden-border-policies-piracy-linked-somali-illegal-immigrant-nabbed-northern-border"
-        }
-      ]
-    },
-    {
-      "title": "Google will invest as much as $40 billion in Anthropic",
-      "category": "Tech",
-      "what": "This follows a similar, but smaller, investment by Amazon just days ago.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/"
-        }
-      ]
-    },
-    {
-      "title": "Europe—not US—first to authorize Moderna's combo mRNA flu-COVID vaccine",
-      "category": "Tech",
-      "what": "Amid RFK Jr.'s anti-vaccine agenda, Moderna withdrew its FDA application last year.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/health/2026/04/europe-not-us-first-to-authorize-modernas-combo-mrna-flu-covid-vaccine/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/health/2026/04/europe-not-us-first-to-authorize-modernas-combo-mrna-flu-covid-vaccine/"
         }
       ]
     }
