@@ -1,217 +1,221 @@
 {
-  "date": "Monday, April 27, 2026",
+  "date": "Tuesday, April 28, 2026",
   "stories": [
     {
-      "title": "GOP gubernatorial hopeful's pro-Trump pitch to voters clashes with paper trail inside his own company",
-      "category": "Politics",
-      "what": "Georgia gubernatorial hopeful Rick Jackson claims to be Trump's biggest supporter, but his healthcare company allegedly opposes key Trump policies like the one big beautiful bill.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/gop-governor-hopefuls-pro-trump-pitch-voters-clashes-paper-trail-inside-own-company",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/gop-governor-hopefuls-pro-trump-pitch-voters-clashes-paper-trail-inside-own-company"
-        }
-      ]
-    },
-    {
-      "title": "Meet the players who lost big money on Peter Molyneux’s failed Legacy",
-      "category": "Tech",
-      "what": "After millions in NFT sales, the hyped “play to earn” game was effectively dead in weeks.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/gaming/2026/04/how-legacy-became-a-costly-crypto-bust-for-players-and-a-business-win-for-peter-molyneux/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/gaming/2026/04/how-legacy-became-a-costly-crypto-bust-for-players-and-a-business-win-for-peter-molyneux/"
-        }
-      ]
-    },
-    {
-      "title": "Ex-Biden official's campaign faces heat as missing children scandal resurfaces: 'Voters deserve better'",
-      "category": "Politics",
-      "what": "Xavier Becerra's gubernatorial bid is shadowed by controversy over migrant children reportedly lost during his time as HHS Secretary under Biden.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/ex-biden-officials-campaign-faces-heat-missing-children-scandal-resurfaces-voters-deserve-better",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/ex-biden-officials-campaign-faces-heat-missing-children-scandal-resurfaces-voters-deserve-better"
-        }
-      ]
-    },
-    {
-      "title": "Oil prices rise as US-Iran peace talks stall",
-      "category": "World",
-      "what": "President Trump said the US had cancelled plans to send a team to Pakistan for negotiations.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.com/news/articles/c15d57pv925o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c15d57pv925o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Ukraine's drone commander has Russian oil, troops and morale in his sights",
-      "category": "World",
-      "what": "In a rare interview, Commander Robert Brovdi shared how his unit accounts for a third of all targets destroyed on the battlefield.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/c1d9wvd2e4ro?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c1d9wvd2e4ro?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "King Charles heads to Trump White House as America marks 250 years since breaking from the crown",
-      "category": "Politics",
-      "what": "King Charles III heads to the White House to meet President Trump in a historic U.S. state visit, the first by a British king since King George VI visited in 1939.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/king-charles-heads-trump-white-house-america-marks-250-years-since-breaking-from-crown",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/king-charles-heads-trump-white-house-america-marks-250-years-since-breaking-from-crown"
-        }
-      ]
-    },
-    {
-      "title": "Michael Jackson biopic smashes box office record",
-      "category": "World",
-      "what": "The film received poor reviews but has stormed the box office, taking $217m (£160m) globally.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/crl1lpzp4z5o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/crl1lpzp4z5o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Suspected gunman at Washington press dinner identified as 31-year-old Californian",
-      "category": "World",
-      "what": "The man arrested at the event attended by President Trump has been named in US media as Cole Tomas Allen from California.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.com/news/articles/cr717nglye0o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cr717nglye0o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "At least 42 killed in Chad after water well dispute escalates",
-      "category": "World",
-      "what": "The dispute was initially between two families before escalating into a cycle of reprisal attacks.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/cr717plvxvgo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cr717plvxvgo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "New York woman convicted for throwing dynamite at boyfriend, blowing off his hand as he tried to get rid of it",
+      "title": "King Charles set for historic address to Congress in first US visit as monarch and more top headlines",
       "category": "U.S.",
-      "what": "A New York woman was convicted after throwing a handmade stick of dynamite at her boyfriend as he was sleeping, causing his hand to be blown off.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/new-york-woman-convicted-throwing-dynamite-boyfriend-blowing-off-his-hand-he-tried-get-rid",
+      "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/us/king-charles-set-historic-address-congress-first-us-visit-monarch-more-top-headlines",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/new-york-woman-convicted-throwing-dynamite-boyfriend-blowing-off-his-hand-he-tried-get-rid"
-        }
-      ]
-    },
-    {
-      "title": "White House Correspondents' Dinner shooting: Timeline traces how suspect’s alleged cross-country plan unfolded",
-      "category": "U.S.",
-      "what": "A timeline of events surrounding the White House Correspondents' Dinner shooting shows how suspect Cole Allen allegedly targeted the Trump administration.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/us/white-house-correspondents-dinner-shooting-timeline-traces-suspects-alleged-cross-country-plan-unfolded",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/white-house-correspondents-dinner-shooting-timeline-traces-suspects-alleged-cross-country-plan-unfolded"
+          "url": "https://www.foxnews.com/us/king-charles-set-historic-address-congress-first-us-visit-monarch-more-top-headlines"
         },
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/suspected-white-house-correspondents-dinner-gunman-checked-hilton-hotel-one-day-before-shooting"
+          "url": "https://www.foxnews.com/politics/king-charles-set-historic-address-congress-first-us-visit-monarch"
         }
       ]
     },
     {
-      "title": "Strange New Worlds S4 teaser strikes a more serious tone",
-      "category": "Tech",
-      "what": "\"I have ever been prone to seek adventure and to investigate where wiser men would have left well enough alone.\"",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/culture/2026/04/strange-new-worlds-s4-teaser-strikes-a-more-serious-tone/",
+      "title": "Man admits plotting attack on Taylor Swift concert in Vienna",
+      "category": "World",
+      "what": "The state prosecutor told the court that police found an almost completed bomb in a search of the man's house.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.bbc.com/news/articles/c05d5qgprjzo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/culture/2026/04/strange-new-worlds-s4-teaser-strikes-a-more-serious-tone/"
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c05d5qgprjzo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Prime Video drops full trailer for Spider-Noir",
-      "category": "Tech",
-      "what": "It's \"a detective story, but the detective happens to also have spider powers.”—EP Chris Miller",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/culture/2026/04/prime-video-drops-full-trailer-for-spider-noir/",
+      "title": "Former Florida Gov. Charlie Crist is running for mayor of St. Pete",
+      "category": "Politics",
+      "what": "Former Florida Gov. Charlie Crist is running for mayor of St. Petersburg, after a decisive loss in the state's 2022 gubernatorial contest.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.foxnews.com/politics/former-florida-gov-charlie-crist-running-mayor-st-pete",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/culture/2026/04/prime-video-drops-full-trailer-for-spider-noir/"
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/former-florida-gov-charlie-crist-running-mayor-st-pete"
         }
       ]
     },
     {
-      "title": "Unearthed video reveals Cole Allen as quiet inventor years before alleged bid to assassinate Trump",
-      "category": "U.S.",
-      "what": "Unearthed video shows alleged gunman Cole Allen as a young Caltech inventor years before the White House Correspondents' Dinner assassination attempt.",
+      "title": "AI boom tests GOP’s midterm affordability pitch as price pain spreads",
+      "category": "Politics",
+      "what": "GOP lawmakers say a chip shortage fueled by the global AI race is pushing up consumer prices, undermining their cost-of-living message for 2026 midterms.",
+      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
+      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
+      "source": "https://www.foxnews.com/politics/ai-boom-tests-gops-midterm-affordability-pitch-price-pain-spreads",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/ai-boom-tests-gops-midterm-affordability-pitch-price-pain-spreads"
+        }
+      ]
+    },
+    {
+      "title": "Republicans scramble to fund Secret Service after Trump assassination attempt amid record-breaking shutdown",
+      "category": "Politics",
+      "what": "Republicans demanded swift Secret Service funding after the third apparent assassination attempt on Trump amid the DHS shutdown.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/us/unearthed-video-reveals-cole-allen-quiet-inventor-years-before-alleged-bid-assassinate-trump",
+      "source": "https://www.foxnews.com/politics/republicans-scramble-fund-secret-service-after-trump-assassination-attempt-amid-record-breaking-shutdown",
       "sources": [
         {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/unearthed-video-reveals-cole-allen-quiet-inventor-years-before-alleged-bid-assassinate-trump"
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/republicans-scramble-fund-secret-service-after-trump-assassination-attempt-amid-record-breaking-shutdown"
         }
       ]
     },
     {
-      "title": "Two gunmen suspected after Indiana University-area shooting leaves 9 injured, police say",
+      "title": "Unabomber investigator reveals likely breaking point of alleged would-be Trump assassin",
       "category": "U.S.",
-      "what": "Two men are believed to have fired shots during a large gathering near Indiana University in Bloomington, leaving nine people injured, police said.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/two-gunmen-suspected-indiana-university-area-shooting-leaves-9-injured-police-say",
+      "what": "Former FBI agent says Cole Allen, who allegedly charged a Secret Service checkpoint and fired shots, was driven by depression rather than a psychotic break.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/us/unabomber-investigator-reveals-likely-breaking-point-alleged-would-trump-assassin",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/two-gunmen-suspected-indiana-university-area-shooting-leaves-9-injured-police-say"
+          "url": "https://www.foxnews.com/us/unabomber-investigator-reveals-likely-breaking-point-alleged-would-trump-assassin"
+        }
+      ]
+    },
+    {
+      "title": "Russian superyacht sails through Strait of Hormuz despite blockade",
+      "category": "World",
+      "what": "The 141m-long vessel, linked to a close ally of Russian President Vladimir Putin, cleared the waterway despite an ongoing blockade.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Jimmy Kimmel rejects White House criticism over Melania widow joke",
+      "category": "World",
+      "what": "In a parody aired days before the White House Correspondents' Dinner, Kimmel called Melania an \"expectant widow\".",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Rescuers race to free survivors trapped inside train after fatal Indonesia crash",
+      "category": "World",
+      "what": "Two trains collided on the outskirts of the Indonesian capital on Monday, killing at least 15 people.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.com/news/articles/ckgegg8r0v1o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/ckgegg8r0v1o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Wisconsin teacher placed on leave after social media post advocating to 'make Americans great assassins again'",
+      "category": "U.S.",
+      "what": "A Wisconsin teacher was placed on administrative leave after a controversial post suggesting he wanted to \"make Americans great assassins again.\"",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/wisconsin-teacher-placed-leave-after-social-media-post-advocating-make-americans-great-assassins-again",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/wisconsin-teacher-placed-leave-after-social-media-post-advocating-make-americans-great-assassins-again"
+        }
+      ]
+    },
+    {
+      "title": "Suspect charged with attempted assassination of Trump at Washington dinner ",
+      "category": "World",
+      "what": "Investigators say the 31-year-old California man wanted to kill as many high-level officials as possible.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.com/news/articles/cew7wez72vxo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cew7wez72vxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/cole-allen-charged-trump-assassination-attempt-first-court-appearance-whca-dinner-shooting"
+        }
+      ]
+    },
+    {
+      "title": "Put it in pencil: NASA's Artemis III mission will launch no earlier than late 2027",
+      "category": "Tech",
+      "what": "SpaceX and Blue Origin tell NASA their lunar landers will be ready for Artemis III in late 2027.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/space/2026/04/put-it-in-pencil-nasas-artemis-iii-mission-will-launch-no-earlier-than-late-2027/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/04/put-it-in-pencil-nasas-artemis-iii-mission-will-launch-no-earlier-than-late-2027/"
+        }
+      ]
+    },
+    {
+      "title": "Pastor known for marriage advice arrested at rumored swingers community accused of having multiple wives",
+      "category": "U.S.",
+      "what": "A Florida pastor who authored a book on strengthening marriages was arrested at The Villages following allegations that he married multiple women.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/pastor-known-marriage-advice-arrested-rumored-swingers-community-accused-having-multiple-wives",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/pastor-known-marriage-advice-arrested-rumored-swingers-community-accused-having-multiple-wives"
+        }
+      ]
+    },
+    {
+      "title": "Open source package with 1 million monthly downloads stole user credentials",
+      "category": "Tech",
+      "what": "If you're one of millions using element-data, it's time to check for compromise.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/security/2026/04/open-source-package-with-1-million-monthly-downloads-stole-user-credentials/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/04/open-source-package-with-1-million-monthly-downloads-stole-user-credentials/"
+        }
+      ]
+    },
+    {
+      "title": "Musk and Altman face off in trial that will determine OpenAI's future",
+      "category": "Tech",
+      "what": "Musk’s shifting stance on AI dangers may complicate trial over OpenAI’s mission.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/tech-policy/2026/04/musk-and-altman-face-off-in-trial-that-will-determine-openais-future/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/04/musk-and-altman-face-off-in-trial-that-will-determine-openais-future/"
         }
       ]
     }
