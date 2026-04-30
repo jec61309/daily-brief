@@ -1,217 +1,213 @@
 {
-  "date": "Wednesday, April 29, 2026",
+  "date": "Thursday, April 30, 2026",
   "stories": [
     {
-      "title": "Republicans eye picking up $400M tab for Trump's ballroom as some Dems open to 'discuss' idea",
+      "title": "Federal appeals court refuses to rehear Trump appeal of $83M E Jean Carroll defamation judgment",
       "category": "Politics",
-      "what": "GOP senators push $400 million in funding for Trump's White House ballroom after a gunman targeted the White House Correspondents’ Association Dinner.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/republicans-eye-picking-400m-tab-trumps-ballroom-dems-open-discuss-idea-",
+      "what": "A federal court denied President Donald Trump's motion to rehear his $83 million defamation case, opening the path to a Supreme Court appeal.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/politics/federal-appeals-court-refuses-rehear-trump-appeal-83m-e-jean-carroll-defamation-judgment",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/republicans-eye-picking-400m-tab-trumps-ballroom-dems-open-discuss-idea-"
+          "url": "https://www.foxnews.com/politics/federal-appeals-court-refuses-rehear-trump-appeal-83m-e-jean-carroll-defamation-judgment"
         }
       ]
     },
     {
-      "title": "Former FBI director James Comey's bombshell indictment and more top headlines",
+      "title": "Hunter Biden's ex-lawyer ordered to pay $50K to former Trump aide after harassment claims crumble",
+      "category": "Politics",
+      "what": "Kevin Morris is being ordered to pay $50,000 to Marco Polo's Garrett Ziegler after his lawsuit accusing Ziegler of impersonation failed in California court.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/politics/hunter-bidens-ex-lawyer-ordered-pay-50k-former-trump-aide-harassment-claims-crumble",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/hunter-bidens-ex-lawyer-ordered-pay-50k-former-trump-aide-harassment-claims-crumble"
+        }
+      ]
+    },
+    {
+      "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
+      "category": "World",
+      "what": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Jasmine Crockett backs Colin Allred in Texas Democratic US House primary runoff",
+      "category": "Politics",
+      "what": "Democratic Rep. Jasmine Crockett backs former Rep. Colin Allred ahead of his May Democratic U.S. House primary runoff in the Lone Star State.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/jasmine-crockett-backs-colin-allred-texas-democratic-us-house-primary-runoff",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/jasmine-crockett-backs-colin-allred-texas-democratic-us-house-primary-runoff"
+        }
+      ]
+    },
+    {
+      "title": "Stolen chemical-dispersing drones could have facilitated 'action against the homeland,' fmr DHS official warns",
       "category": "U.S.",
-      "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/former-fbi-director-james-comeys-bombshell-indictment-more-top-headlines",
+      "what": "Federal authorities recovered 15 stolen industrial drones capable of dispersing liquid chemicals, but a former DHS official says key questions remain.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/stolen-chemical-dispersing-drones-could-facilitated-action-homeland-fmr-dhs-official-warns",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/former-fbi-director-james-comeys-bombshell-indictment-more-top-headlines"
+          "url": "https://www.foxnews.com/us/stolen-chemical-dispersing-drones-could-facilitated-action-homeland-fmr-dhs-official-warns"
         }
       ]
     },
     {
-      "title": "France urges citizens to leave Mali after rebel attacks",
+      "title": "Israel intercepts Gaza flotilla near Crete and detains 175 activists",
       "category": "World",
-      "what": "The UK has issued similar advice, telling citizens who stay, that they do so at their own risk.",
+      "what": "Pro-Palestinian activists say 22 boats carrying aid for Gaza were illegally intercepted in international waters near the Greek island.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.bbc.com/news/articles/c4g4lk9m77vo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c4g4lk9m77vo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "'I did not expect it': Kenya's Sabastian Sawe welcomed home with jubilant celebrations",
+      "category": "World",
+      "what": "The first man to run a marathon in under two hours in a competitive race received a hero's welcome from supporters and family when he arrived home.",
       "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
       "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/cp3pdgvpn27o?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.com/news/articles/cddp4y0rzjdo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cp3pdgvpn27o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/cddp4y0rzjdo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Musk accuses Altman of stealing a charity as courtroom battle begins",
+      "title": "King and Queen lay flowers at 9/11 Memorial in New York",
       "category": "World",
-      "what": "The case over OpenAI's history and public commitments could have major implications for the future of AI.",
+      "what": "King Charles and Queen Camilla on their state visit to the US visit the memorial in New York.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/cd7pxnv4j7ro?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cd7pxnv4j7ro?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Police say they believe abducted child was murdered as body found in Outback",
+      "category": "World",
+      "what": "The five-year-old girl was last seen on Saturday at an Aboriginal town camp near Alice Springs.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/cvgzd1yp2n6o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cvgzd1yp2n6o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Georgia man says he suffered severe medical neglect leading to amputations at scrutinized Atlanta jail",
+      "category": "U.S.",
+      "what": "A Georgia man said he lost his fingers and lower legs to amputation after allegedly being denied critical medical care at the Fulton County Jail.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/georgia-man-says-he-suffered-severe-medical-neglect-leading-amputations-scrutinized-atlanta-jail",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/georgia-man-says-he-suffered-severe-medical-neglect-leading-amputations-scrutinized-atlanta-jail"
+        }
+      ]
+    },
+    {
+      "title": "Small-town Virginia mayor reportedly arrested for allegedly showing up drunk to train derailment",
+      "category": "U.S.",
+      "what": "Rich Creek Mayor Paul Morrison allegedly arrived drunk at a Norfolk Southern train derailment site and was subsequently arrested for public intoxication.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/small-town-virginia-mayor-reportedly-arrested-allegedly-showing-drunk-scene-train-derailment",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/small-town-virginia-mayor-reportedly-arrested-allegedly-showing-drunk-scene-train-derailment"
+        }
+      ]
+    },
+    {
+      "title": "Romanian national learns fate for swatting US officials, including members of Congress, judges",
+      "category": "U.S.",
+      "what": "Thomasz Szabo, 27, was sentenced to four years in prison for swatting calls and bomb threats targeting members of Congress and other U.S. officials.",
       "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
       "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.bbc.com/news/articles/cz027nyz529o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cz027nyz529o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "House Republican from Florida announces he won't seek re-election this year",
-      "category": "Politics",
-      "what": "Republican Rep. Daniel Webster of Florida, who has served in the House since 2011, announces he will not run for re-election this year.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/house-republican-florida-announces-wont-seek-re-election-year",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/house-republican-florida-announces-wont-seek-re-election-year"
-        }
-      ]
-    },
-    {
-      "title": "Johnson scrambles as Trump, Senate Republicans pressure House to fund DHS",
-      "category": "Politics",
-      "what": "Congressional Republicans are increasingly divided over how to end the record-breaking DHS shutdown as Speaker Johnson demanded changes to a Senate bill.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/johnson-scrambles-trump-senate-republicans-pressure-house-fund-dhs",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/johnson-scrambles-trump-senate-republicans-pressure-house-fund-dhs"
-        }
-      ]
-    },
-    {
-      "title": "Alleged Trump assassination plot: Analysis shows 1 in 5 left-wing posts cry hoax, admin shreds ‘moron’ claims",
-      "category": "U.S.",
-      "what": "Online conspiracy theories spiked after a gunman allegedly attempted to assassinate President Trump at the White House Correspondents' Association Dinner Saturday.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/us/alleged-trump-assassination-plot-analysis-shows-1-5-left-wing-posts-cry-hoax-admin-shreds-moron-claims",
+      "source": "https://www.foxnews.com/us/romanian-national-learns-fate-swatting-us-officials-including-members-congress-judges",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/alleged-trump-assassination-plot-analysis-shows-1-5-left-wing-posts-cry-hoax-admin-shreds-moron-claims"
+          "url": "https://www.foxnews.com/us/romanian-national-learns-fate-swatting-us-officials-including-members-congress-judges"
         }
       ]
     },
     {
-      "title": "Endangered antelopes flown to Kenya from Czech zoo in 'historic homecoming'",
-      "category": "World",
-      "what": "The mountain bongo is a rare antelope endemic to Kenyan highland forests, with less than 100 in the wild.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/c202l3gzvp7o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c202l3gzvp7o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Two dead after small plane crashes into Australia airport hangar",
-      "category": "World",
-      "what": "The aircraft burst into flames after it crashed at Parafield Airport in Adelaide.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/ce9pzlvyvejo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/ce9pzlvyvejo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Outrage after Indian man carries his sister's skeleton to a bank to prove her death",
-      "category": "World",
-      "what": "A video from Odisha state of Jitu Munda taking the remains to the bank went viral this week, leading to anger.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/clypl5jrjqlo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/clypl5jrjqlo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Florida man allegedly shot woman in neck, dragged her back inside before hiding in backyard pool",
-      "category": "U.S.",
-      "what": "Florida man Robert Anthony Morgan allegedly shot a woman in the neck and threatened her mother after the shooting, Wildwood police say.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/florida-man-allegedly-shot-woman-neck-dragged-back-inside-hiding-backyard-pool",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/florida-man-allegedly-shot-woman-neck-dragged-back-inside-hiding-backyard-pool"
-        }
-      ]
-    },
-    {
-      "title": "Illegal immigrant accused of killing newlywed couple in Oregon crash arrested by ICE after jail release",
-      "category": "U.S.",
-      "what": "Illegal immigrant Rajinder Kumar was arrested by ICE after being released from jail by Oregon officials, DHS says. He is accused of causing a crash that killed a newlywed couple.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/illegal-immigrant-accused-killing-newlywed-couple-oregon-crash-arrested-ice-jail-release",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/illegal-immigrant-accused-killing-newlywed-couple-oregon-crash-arrested-ice-jail-release"
-        }
-      ]
-    },
-    {
-      "title": "Anti-Trump Instagram pic of seashells now enough to indict ex-FBI directors",
+      "title": "ABC can beat Trump FCC's license threat if owner Disney is willing to fight",
       "category": "Tech",
-      "what": "The clown car is all gassed up.",
+      "what": "Broadcast license renewals are \"all but automatic\" due to 1996 change in US law.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://arstechnica.com/tech-policy/2026/04/anti-trump-instagram-pic-of-seashells-now-enough-to-indict-ex-fbi-directors/",
+      "source": "https://arstechnica.com/tech-policy/2026/04/abc-can-beat-trump-fccs-license-threat-if-owner-disney-is-willing-to-fight/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/04/anti-trump-instagram-pic-of-seashells-now-enough-to-indict-ex-fbi-directors/"
+          "url": "https://arstechnica.com/tech-policy/2026/04/abc-can-beat-trump-fccs-license-threat-if-owner-disney-is-willing-to-fight/"
         }
       ]
     },
     {
-      "title": "Flesh-eating bacteria devour man's arm and leg in just three days",
+      "title": "OpenAI Codex system prompt includes explicit directive to \"never talk about goblins\"",
       "category": "Tech",
-      "what": "When doctors saw him, his limbs were discolored and crackling.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/health/2026/04/flesh-eating-bacteria-devour-mans-arm-and-leg-in-just-three-days/",
+      "what": "Directions also include system instructions to act like \"you have a vivid inner life.\"",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/ai/2026/04/openai-codex-system-prompt-includes-explicit-directive-to-never-talk-about-goblins/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/health/2026/04/flesh-eating-bacteria-devour-mans-arm-and-leg-in-just-three-days/"
+          "url": "https://arstechnica.com/ai/2026/04/openai-codex-system-prompt-includes-explicit-directive-to-never-talk-about-goblins/"
         }
       ]
     },
     {
-      "title": "FCC orders review of ABC licenses after Kimmel joke offends Trump and first lady",
+      "title": "Howdy's dated $3/month ad-free streaming service said to have 1M subscribers",
       "category": "Tech",
-      "what": "Kimmel joke calling Melania an \"expectant widow\" followed quickly by FCC order.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://arstechnica.com/tech-policy/2026/04/fcc-orders-review-of-abc-licenses-after-kimmel-joke-offends-trump-and-first-lady/",
+      "what": "Most are keeping their subscriptions after signing up, too, research firm says.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/gadgets/2026/04/howdys-dated-3-month-ad-free-streaming-service-said-to-have-1m-subscribers/",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c4g0zwxl3k0o?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/04/fcc-orders-review-of-abc-licenses-after-kimmel-joke-offends-trump-and-first-lady/"
+          "url": "https://arstechnica.com/gadgets/2026/04/howdys-dated-3-month-ad-free-streaming-service-said-to-have-1m-subscribers/"
         }
       ]
     }
