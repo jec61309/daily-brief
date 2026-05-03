@@ -1,183 +1,203 @@
 {
-  "date": "Saturday, May 2, 2026",
+  "date": "Sunday, May 3, 2026",
   "stories": [
     {
-      "title": "Secret Service 'model worked' during WHCA Dinner shooting but 'luck' played a role, experts say",
-      "category": "U.S.",
-      "what": "Questions swirl over Secret Service security after an armed gunman allegedly attempted to assassinate Trump at the White House Correspondents' Association Dinner.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/us/secret-service-model-worked-whca-dinner-shooting-luck-played-role-experts-say",
+      "title": "Nigeria summons South African envoy over attacks on its nationals",
+      "category": "World",
+      "what": "There has been a wave of anti-migrant protests in South Africa, some of which have turned violent.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cm2pmk0r3pjo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Cole Allen's cross-country train musings show 'scattered' mindset of accused would-be Trump killer: expert",
+      "category": "U.S.",
+      "what": "Court filings reveal Cole Allen's phone notes during his cross-country Amtrak trip before he allegedly attempted to assassinate President Donald Trump.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/cole-allen-cross-country-train-musings-show-scattered-mindset-accused-would-trump-killer-expert",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/cole-allen-cross-country-train-musings-show-scattered-mindset-accused-would-trump-killer-expert"
+        }
+      ]
+    },
+    {
+      "title": "The ballot box showdowns this month that you need to watch",
+      "category": "Politics",
+      "what": "The 2026 primary season heats up in May with races across a dozen states testing Trump's grip on the GOP ahead of critical midterm elections.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/ballot-box-showdowns-month-need-watch",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/ballot-box-showdowns-month-need-watch"
+        }
+      ]
+    },
+    {
+      "title": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
+      "category": "World",
+      "what": "The chairs of the House and Senate armed services committees said withdrawing 5,000 service personnel risked undermining deterrence.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Huge crowd attends free Shakira Copacabana beach concert",
+      "category": "World",
+      "what": "Shakira's appearance followed shows by Lady Gaga and Madonna, who have also performed on Copacabana beach in previous years.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/videos/c8r8j50zxnno?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/videos/c8r8j50zxnno?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Man charged with murder and sexual assault of 5-year-old Australian girl",
+      "category": "World",
+      "what": "The girl's death sparked an outbreak of violence in the central Australian town from where she disappeared.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/cy92qennznjo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cy92qennznjo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Massive fire destroys University of South Florida laboratory building: 'Total loss'",
+      "category": "U.S.",
+      "what": "A massive fire broke out at the University of South Florida's Marine Science Laboratory in St. Petersburg, with no injuries reported, authorities said.",
+      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
+      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
+      "source": "https://www.foxnews.com/us/massive-fire-destroys-university-south-florida-laboratory-building-total-loss",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/massive-fire-destroys-university-south-florida-laboratory-building-total-loss"
+        }
+      ]
+    },
+    {
+      "title": "Student charged after 5 stabbed at high school in violent altercation over vape pen",
+      "category": "U.S.",
+      "what": "A Tacoma student is charged as an adult with first-degree assault after a stabbing at Foss High School allegedly injured four students and a guard.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/student-charged-5-stabbed-high-school-violent-altercation-vape-pen",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/student-charged-5-stabbed-high-school-violent-altercation-vape-pen"
+        }
+      ]
+    },
+    {
+      "title": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
+      "category": "World",
+      "what": "President Zelensky has been visiting the Gulf to demonstrate his country's military nous.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/secret-service-model-worked-whca-dinner-shooting-luck-played-role-experts-say"
+          "url": "https://www.foxnews.com/us/activist-remains-perched-atop-dc-bridge-protesting-iran-war-ai-development-spirit-moves"
         }
       ]
     },
     {
-      "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says ",
-      "category": "World",
-      "what": "Four women and a child are among the dead, as fighting between Israel and Iran-backed Hezbollah continues despite a ceasefire.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
+      "title": "Car loaded with explosives slams into lavish Portland social club, bomb squad still pulling out live devices",
+      "category": "U.S.",
+      "what": "One person is dead after a fiery crash at Portland’s Multnomah Athletic Club in Oregon, where police say possible explosives were found inside the vehicle.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/1-dead-after-car-slams-lavish-portland-social-club-investigators-uncover-possible-explosives",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss"
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/1-dead-after-car-slams-lavish-portland-social-club-investigators-uncover-possible-explosives"
         }
       ]
     },
     {
-      "title": "Inside the far left 'breeding ground' universities alleged WHCD called home for years",
+      "title": "Communist and socialist groups call for 'revolution' and seizure of property at Minneapolis May Day rally",
       "category": "Politics",
-      "what": "The educational background of alleged WHCA shooter Cole Allen sparks scrutiny of far-left campus culture at Cal State University Dominguez Hills.",
+      "what": "A Minneapolis May Day rally organized for immigrant rights drew communist and socialist groups demanding revolution, rent caps and wealth redistribution.",
       "why": "This matters because it may influence legislation, executive action, or the national political mood.",
       "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
-      "source": "https://www.foxnews.com/politics/inside-far-left-breeding-ground-universities-alleged-whcd-called-home-years",
+      "source": "https://www.foxnews.com/politics/communist-socialist-groups-call-revolution-seizure-property-minneapolis-may-day-rally",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/inside-far-left-breeding-ground-universities-alleged-whcd-called-home-years"
+          "url": "https://www.foxnews.com/politics/communist-socialist-groups-call-revolution-seizure-property-minneapolis-may-day-rally"
         }
       ]
     },
     {
-      "title": "Inside the Kentucky Derby: What fans don’t see at Churchill Downs on race day",
+      "title": "Research roundup: 6 cool science stories we almost missed",
+      "category": "Tech",
+      "what": "Crushing soda cans for science, why dolphins swim so fast, how urine helps mushrooms communicate, and more",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/science/2026/05/research-roundup-6-cool-science-stories-we-almost-missed-4/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/05/research-roundup-6-cool-science-stories-we-almost-missed-4/"
+        }
+      ]
+    },
+    {
+      "title": "Power the Future sends letter to lawmakers over data",
       "category": "Politics",
-      "what": "Derby Day at Churchill Downs begins long before the crowd arrives, with horses training at the track since March and a backside community of 600 workers on-site.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/politics/inside-kentucky-derby-fans-dont-see-churchill-downs-race-day",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/inside-kentucky-derby-fans-dont-see-churchill-downs-race-day"
-        }
-      ]
-    },
-    {
-      "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
-      "category": "World",
-      "what": "The decision to reduce the US deployment to Germany comes amid a row between the two allies over Iran.",
+      "what": "Power the Future, a pro-energy group, is asking Rep. Comer and Sen. Paul to probe nonprofit funding it alleges is fueling anti-data center campaigns across 24 states.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/pentagon-orders-withdrawal-5000-us-troops-germany-trump-escalates-feud-merz"
-        }
-      ]
-    },
-    {
-      "title": "Dems circle the wagons by blaming GOP for their gerrymandering response ahead of midterms: 'Very desperate'",
-      "category": "Politics",
-      "what": "Democrats are defending redistricting plans as a response to GOP efforts after the Supreme Court struck down a Louisiana congressional district map.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/dems-circle-wagons-blaming-gop-for-their-redistricting-response-midterms",
+      "source": "https://www.foxnews.com/politics/power-future-sends-letter-lawmakers-data",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/dems-circle-wagons-blaming-gop-for-their-redistricting-response-midterms"
+          "url": "https://www.foxnews.com/politics/power-future-sends-letter-lawmakers-data"
         }
       ]
     },
     {
-      "title": "Spirit Airlines shutting down after rescue talks collapse",
-      "category": "World",
-      "what": "The airline had been in talks with the Trump administration about a $500m bailout.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.com/news/articles/cqxlnrqjvzyo?at_medium=RSS&at_campaign=rss",
+      "title": "Infrasound waves stop kitchen fires, but can they replace sprinklers?",
+      "category": "Tech",
+      "what": "Acoustic fire suppression goes commercial.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/gadgets/2026/05/startup-says-sound-waves-can-replace-fire-sprinklers-experts-arent-so-sure/",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cqxlnrqjvzyo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "'If we sleep, they bite': Rats and weasels infest camps for displaced Gazans",
-      "category": "World",
-      "what": "In the Gaza Strip, the daily battles are now with rats, weasels, and other pests spreading diseases.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Trump claims other presidents flouted war powers law. It's a mixed record",
-      "category": "World",
-      "what": "Both Bushes and Reagan won authorisation for wars, but Obama and Clinton ducked the requirement.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-aims-reset-war-powers-clock-controversial-bid-bypass-congress"
-        }
-      ]
-    },
-    {
-      "title": "Four noncitizens charged with illegally voting in 2020, 2022 and 2024 federal elections in New Jersey",
-      "category": "U.S.",
-      "what": "Four noncitizens in New Jersey were charged with illegally voting in the 2020 and 2024 presidential elections and making false citizenship statements.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/four-noncitizens-charged-illegally-voting-2020-2022-2024-federal-elections-new-jersey",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/four-noncitizens-charged-illegally-voting-2020-2022-2024-federal-elections-new-jersey"
-        }
-      ]
-    },
-    {
-      "title": "Domino’s driver runs down customer over tip dispute, caught on camera: police",
-      "category": "U.S.",
-      "what": "Police say a Missouri Domino's driver became enraged over not receiving a tip and allegedly used his car to strike a customer during a delivery.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/dominos-driver-runs-customer-tip-dispute-caught-camera-police",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/dominos-driver-runs-customer-tip-dispute-caught-camera-police"
-        }
-      ]
-    },
-    {
-      "title": "WATCH: Driver smirks in mugshot after allegedly hitting group of cyclists in caught-on-camera road rage",
-      "category": "U.S.",
-      "what": "An elderly man allegedly hit a group of cyclists in a caught-on-camera road rage incident in Georgia, leaving one rider with a fractured lower spine.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/watch-driver-smirks-mugshot-allegedly-hitting-group-cyclists-caught-camera-road-rage",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/watch-driver-smirks-mugshot-allegedly-hitting-group-cyclists-caught-camera-road-rage"
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/05/startup-says-sound-waves-can-replace-fire-sprinklers-experts-arent-so-sure/"
         }
       ]
     },
@@ -192,34 +212,6 @@
         {
           "name": "Ars Technica",
           "url": "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/"
-        }
-      ]
-    },
-    {
-      "title": "The RAMpocalypse has bought Microsoft valuable time in the fight against SteamOS",
-      "category": "Tech",
-      "what": "Op-ed: Valve has made a dent in Windows' gaming share, but can it keep going?",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/gaming/2026/05/the-rampocalypse-has-bought-microsoft-valuable-time-in-the-fight-against-steamos/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/gaming/2026/05/the-rampocalypse-has-bought-microsoft-valuable-time-in-the-fight-against-steamos/"
-        }
-      ]
-    },
-    {
-      "title": "Ubuntu infrastructure has been down for more than a day",
-      "category": "Tech",
-      "what": "The outage has hampered communication concerning a critical vulnerability that gives root.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/"
         }
       ]
     }
