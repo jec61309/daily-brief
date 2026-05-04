@@ -1,8 +1,106 @@
 {
-  "date": "Sunday, May 3, 2026",
+  "date": "Monday, May 4, 2026",
   "stories": [
     {
-      "title": "Nigeria summons South African envoy over attacks on its nationals",
+      "title": "California leaders mum on $1B high-speed rail detour aimed at preserving disgraced labor leader's memorial",
+      "category": "Politics",
+      "what": "California's hundred-billion dollar high-speed rail project is facing scrutiny for a $1 billion detour meant to preserve the gravesite of disgraced labor leader Cesar Chavez.",
+      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
+      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
+      "source": "https://www.foxnews.com/politics/californias-leaders-mum-high-speed-rail-detour-aimed-preserving-disgraced-labor-leaders-memorial",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/californias-leaders-mum-high-speed-rail-detour-aimed-preserving-disgraced-labor-leaders-memorial"
+        }
+      ]
+    },
+    {
+      "title": "Iran issues threat after Trump announces Strait of Hormuz 'humanitarian gesture' and more top headlines",
+      "category": "U.S.",
+      "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/us/iran-issues-threat-after-trump-announces-strait-hormuz-humanitarian-gesture-more-top-headlines",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/iran-issues-threat-after-trump-announces-strait-hormuz-humanitarian-gesture-more-top-headlines"
+        }
+      ]
+    },
+    {
+      "title": "New alliances shakes up Nigerian political landscape",
+      "category": "World",
+      "what": "Peter Obi and Rabiu Kwankwaso, who came third and fourth respectively in the last elections, switch parties.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.com/news/articles/c0q20xzwppdo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c0q20xzwppdo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Jon Ossoff silent on SPLC indictment after taking more than $700K from affiliate of indicted group",
+      "category": "Politics",
+      "what": "Sen. Jon Ossoff faces GOP attacks over his ties to the Southern Poverty Law Center following its indictment for alleged fraud and money laundering schemes.",
+      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
+      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
+      "source": "https://www.foxnews.com/politics/jon-ossoff-silent-splc-indictment-taking-700k-affiliate-indicted-group",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/jon-ossoff-silent-splc-indictment-taking-700k-affiliate-indicted-group"
+        }
+      ]
+    },
+    {
+      "title": "Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations",
+      "category": "World",
+      "what": "The attack comes as the Kremlin prepares to hold a scaled-back military parade on Saturday.",
+      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
+      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
+      "source": "https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Out of control, unqualified illegal alien truckers endangering kids on US roads, insider warns: ‘Just madness’",
+      "category": "Politics",
+      "what": "A trucking industry insider warns about unqualified CDL holders on U.S. highways, calling sham driving school abuse and lax standards \"just madness.\"",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/politics/out-control-unqualified-illegal-alien-truckers-endangering-kids-us-roads-insider-warns-just-madness",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/out-control-unqualified-illegal-alien-truckers-endangering-kids-us-roads-insider-warns-just-madness"
+        }
+      ]
+    },
+    {
+      "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
+      "category": "World",
+      "what": "The World Health Organization said one case of hantavirus infection had been confirmed, with five more suspected cases under investigation.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Nigeria plans to repatriate nationals willing to leave South Africa after attacks",
       "category": "World",
       "what": "There has been a wave of anti-migrant protests in South Africa, some of which have turned violent.",
       "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
@@ -16,146 +114,62 @@
       ]
     },
     {
-      "title": "Cole Allen's cross-country train musings show 'scattered' mindset of accused would-be Trump killer: expert",
-      "category": "U.S.",
-      "what": "Court filings reveal Cole Allen's phone notes during his cross-country Amtrak trip before he allegedly attempted to assassinate President Donald Trump.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/cole-allen-cross-country-train-musings-show-scattered-mindset-accused-would-trump-killer-expert",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/cole-allen-cross-country-train-musings-show-scattered-mindset-accused-would-trump-killer-expert"
-        }
-      ]
-    },
-    {
-      "title": "The ballot box showdowns this month that you need to watch",
-      "category": "Politics",
-      "what": "The 2026 primary season heats up in May with races across a dozen states testing Trump's grip on the GOP ahead of critical midterm elections.",
+      "title": "Former New York City mayor Rudy Giuliani in critical condition in hospital",
+      "category": "World",
+      "what": "The long-time champion of Trump and former New York mayor is in hospital, according to his spokesman.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/ballot-box-showdowns-month-need-watch",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/ballot-box-showdowns-month-need-watch"
-        }
-      ]
-    },
-    {
-      "title": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
-      "category": "World",
-      "what": "The chairs of the House and Senate armed services committees said withdrawing 5,000 service personnel risked undermining deterrence.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.com/news/articles/c7941rgy4lyo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Huge crowd attends free Shakira Copacabana beach concert",
-      "category": "World",
-      "what": "Shakira's appearance followed shows by Lady Gaga and Madonna, who have also performed on Copacabana beach in previous years.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/videos/c8r8j50zxnno?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/videos/c8r8j50zxnno?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Man charged with murder and sexual assault of 5-year-old Australian girl",
-      "category": "World",
-      "what": "The girl's death sparked an outbreak of violence in the central Australian town from where she disappeared.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/cy92qennznjo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cy92qennznjo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Massive fire destroys University of South Florida laboratory building: 'Total loss'",
-      "category": "U.S.",
-      "what": "A massive fire broke out at the University of South Florida's Marine Science Laboratory in St. Petersburg, with no injuries reported, authorities said.",
-      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
-      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
-      "source": "https://www.foxnews.com/us/massive-fire-destroys-university-south-florida-laboratory-building-total-loss",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/massive-fire-destroys-university-south-florida-laboratory-building-total-loss"
-        }
-      ]
-    },
-    {
-      "title": "Student charged after 5 stabbed at high school in violent altercation over vape pen",
-      "category": "U.S.",
-      "what": "A Tacoma student is charged as an adult with first-degree assault after a stabbing at Foss High School allegedly injured four students and a guard.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/student-charged-5-stabbed-high-school-violent-altercation-vape-pen",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/student-charged-5-stabbed-high-school-violent-altercation-vape-pen"
-        }
-      ]
-    },
-    {
-      "title": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
-      "category": "World",
-      "what": "President Zelensky has been visiting the Gulf to demonstrate his country's military nous.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/c7941rgy4lyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/activist-remains-perched-atop-dc-bridge-protesting-iran-war-ai-development-spirit-moves"
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/rudy-giuliani-hospitalized-critical-stable-condition-hes-fighting"
         }
       ]
     },
     {
-      "title": "Car loaded with explosives slams into lavish Portland social club, bomb squad still pulling out live devices",
+      "title": "Iowa woman died following hernia repair after nurses dismissed painful post-surgery symptoms: lawsuit",
       "category": "U.S.",
-      "what": "One person is dead after a fiery crash at Portland’s Multnomah Athletic Club in Oregon, where police say possible explosives were found inside the vehicle.",
+      "what": "The family of an Iowa woman who died after hernia repair surgery alleges nurses dismissed fecal drainage and sepsis symptoms as normal in medical malpractice lawsuit.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/iowa-woman-died-hernia-repair-nurses-dismissed-painful-post-surgery-symptoms-lawsuit",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/iowa-woman-died-hernia-repair-nurses-dismissed-painful-post-surgery-symptoms-lawsuit"
+        }
+      ]
+    },
+    {
+      "title": "Shooting during party at Oklahoma's Arcadia Lake leaves at least 10 wounded, police say",
+      "category": "U.S.",
+      "what": "At least 10 people were rushed to hospitals after a shooting at a party near Arcadia Lake outside Oklahoma City on Sunday, according to police officials.",
       "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
       "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/1-dead-after-car-slams-lavish-portland-social-club-investigators-uncover-possible-explosives",
+      "source": "https://www.foxnews.com/us/shooting-party-oklahomas-arcadia-lake-leaves-least-10-wounded-police-say",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/1-dead-after-car-slams-lavish-portland-social-club-investigators-uncover-possible-explosives"
+          "url": "https://www.foxnews.com/us/shooting-party-oklahomas-arcadia-lake-leaves-least-10-wounded-police-say"
         }
       ]
     },
     {
-      "title": "Communist and socialist groups call for 'revolution' and seizure of property at Minneapolis May Day rally",
-      "category": "Politics",
-      "what": "A Minneapolis May Day rally organized for immigrant rights drew communist and socialist groups demanding revolution, rent caps and wealth redistribution.",
-      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
-      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
-      "source": "https://www.foxnews.com/politics/communist-socialist-groups-call-revolution-seizure-property-minneapolis-may-day-rally",
+      "title": "Anti-ICE demonstrators detained after protesting arrest of illegal immigrant facing assault, drug charges",
+      "category": "U.S.",
+      "what": "Nearly 10 people were detained in Brooklyn after anti-ICE protesters gathered outside a hospital following the arrest of an illegal immigrant, DHS says.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/anti-ice-demonstrators-detained-protesting-arrest-illegal-immigrant-facing-assault-drug-charges",
       "sources": [
         {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/communist-socialist-groups-call-revolution-seizure-property-minneapolis-may-day-rally"
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/anti-ice-demonstrators-detained-protesting-arrest-illegal-immigrant-facing-assault-drug-charges"
         }
       ]
     },
@@ -170,20 +184,6 @@
         {
           "name": "Ars Technica",
           "url": "https://arstechnica.com/science/2026/05/research-roundup-6-cool-science-stories-we-almost-missed-4/"
-        }
-      ]
-    },
-    {
-      "title": "Power the Future sends letter to lawmakers over data",
-      "category": "Politics",
-      "what": "Power the Future, a pro-energy group, is asking Rep. Comer and Sen. Paul to probe nonprofit funding it alleges is fueling anti-data center campaigns across 24 states.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/power-future-sends-letter-lawmakers-data",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/power-future-sends-letter-lawmakers-data"
         }
       ]
     },
