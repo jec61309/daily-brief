@@ -1,96 +1,72 @@
 {
-  "date": "Monday, May 4, 2026",
+  "date": "Tuesday, May 5, 2026",
   "stories": [
     {
-      "title": "California leaders mum on $1B high-speed rail detour aimed at preserving disgraced labor leader's memorial",
+      "title": "Massie ally sparks backlash after accusing Trump-backed challenger of abusing VA benefits",
       "category": "Politics",
-      "what": "California's hundred-billion dollar high-speed rail project is facing scrutiny for a $1 billion detour meant to preserve the gravesite of disgraced labor leader Cesar Chavez.",
-      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
-      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
-      "source": "https://www.foxnews.com/politics/californias-leaders-mum-high-speed-rail-detour-aimed-preserving-disgraced-labor-leaders-memorial",
+      "what": "Rep. Thomas Massie's ally is receiving blowback for attacking challenger Ed Gallrein, a former SEAL Team SIX member, over his VA disability benefits rating.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/massie-ally-sparks-backlash-after-accusing-trump-backed-challenger-abusing-va-benefits",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/californias-leaders-mum-high-speed-rail-detour-aimed-preserving-disgraced-labor-leaders-memorial"
+          "url": "https://www.foxnews.com/politics/massie-ally-sparks-backlash-after-accusing-trump-backed-challenger-abusing-va-benefits"
         }
       ]
     },
     {
-      "title": "Iran issues threat after Trump announces Strait of Hormuz 'humanitarian gesture' and more top headlines",
+      "title": "Two killed and many injured after car driven into crowd in German city of Leipzig",
+      "category": "World",
+      "what": "A 33-year-old German citizen was detained following the incident, the authorities say.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Trump opens Strait of Hormuz with ‘Project Freedom’ and more top headlines",
       "category": "U.S.",
       "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/us/iran-issues-threat-after-trump-announces-strait-hormuz-humanitarian-gesture-more-top-headlines",
+      "source": "https://www.foxnews.com/us/trump-opens-strait-hormuz-project-freedom-more-top-headlines",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/iran-issues-threat-after-trump-announces-strait-hormuz-humanitarian-gesture-more-top-headlines"
-        }
-      ]
-    },
-    {
-      "title": "New alliances shakes up Nigerian political landscape",
-      "category": "World",
-      "what": "Peter Obi and Rabiu Kwankwaso, who came third and fourth respectively in the last elections, switch parties.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.com/news/articles/c0q20xzwppdo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c0q20xzwppdo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Jon Ossoff silent on SPLC indictment after taking more than $700K from affiliate of indicted group",
-      "category": "Politics",
-      "what": "Sen. Jon Ossoff faces GOP attacks over his ties to the Southern Poverty Law Center following its indictment for alleged fraud and money laundering schemes.",
-      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
-      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
-      "source": "https://www.foxnews.com/politics/jon-ossoff-silent-splc-indictment-taking-700k-affiliate-indicted-group",
-      "sources": [
+          "url": "https://www.foxnews.com/us/trump-opens-strait-hormuz-project-freedom-more-top-headlines"
+        },
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/jon-ossoff-silent-splc-indictment-taking-700k-affiliate-indicted-group"
+          "url": "https://www.foxnews.com/politics/trump-opens-hormuz-under-fire-project-freedom-iran-warns-attacks"
         }
       ]
     },
     {
-      "title": "Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations",
-      "category": "World",
-      "what": "The attack comes as the Kremlin prepares to hold a scaled-back military parade on Saturday.",
-      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
-      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
-      "source": "https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Out of control, unqualified illegal alien truckers endangering kids on US roads, insider warns: ‘Just madness’",
+      "title": "Sen Lindsey Graham floats idea of more US attacks against Iranian 'war machine'",
       "category": "Politics",
-      "what": "A trucking industry insider warns about unqualified CDL holders on U.S. highways, calling sham driving school abuse and lax standards \"just madness.\"",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/out-control-unqualified-illegal-alien-truckers-endangering-kids-us-roads-insider-warns-just-madness",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/out-control-unqualified-illegal-alien-truckers-endangering-kids-us-roads-insider-warns-just-madness"
-        }
-      ]
-    },
-    {
-      "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
-      "category": "World",
-      "what": "The World Health Organization said one case of hantavirus infection had been confirmed, with five more suspected cases under investigation.",
+      "what": "Republican Sen. Lindsey Graham of South Carolina floated the idea of further U.S. military attacks against the Islamic Republic of Iran.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/politics/sen-lindsey-graham-floats-idea-us-attacks-iranian-war-machine",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/sen-lindsey-graham-floats-idea-us-attacks-iranian-war-machine"
+        }
+      ]
+    },
+    {
+      "title": "Second hantavirus case confirmed after deaths on cruise ship",
+      "category": "World",
+      "what": "The operator of the MV Hondius ship says a Dutch couple and a German national have died.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
       "source": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
@@ -100,118 +76,142 @@
       ]
     },
     {
-      "title": "Nigeria plans to repatriate nationals willing to leave South Africa after attacks",
-      "category": "World",
-      "what": "There has been a wave of anti-migrant protests in South Africa, some of which have turned violent.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss",
+      "title": "Border Patrol arrests two illegal aliens convicted of child sex offenses near San Diego in back-to-back busts",
+      "category": "Politics",
+      "what": "Border Patrol agents arrested two illegal aliens convicted of child sex offenses near San Diego last week, with both now being processed for removal.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/politics/border-patrol-arrests-two-illegal-aliens-convicted-child-sex-offenses-near-san-diego-back-back-busts",
       "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Former New York City mayor Rudy Giuliani in critical condition in hospital",
-      "category": "World",
-      "what": "The long-time champion of Trump and former New York mayor is in hospital, according to his spokesman.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.com/news/articles/c7941rgy4lyo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c7941rgy4lyo?at_medium=RSS&at_campaign=rss"
-        },
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/rudy-giuliani-hospitalized-critical-stable-condition-hes-fighting"
+          "url": "https://www.foxnews.com/politics/border-patrol-arrests-two-illegal-aliens-convicted-child-sex-offenses-near-san-diego-back-back-busts"
         }
       ]
     },
     {
-      "title": "Iowa woman died following hernia repair after nurses dismissed painful post-surgery symptoms: lawsuit",
+      "title": "A 'fun' superstar stuns rivals and reshapes politics in an Indian state",
+      "category": "World",
+      "what": "Film star Vijay has defied naysayers to almost sweep Tamil Nadu polls, marking a break in the political order.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/c8xwjx54zggo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c8xwjx54zggo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Arkansas school director sentenced for being 'ringleader' of child fight club",
       "category": "U.S.",
-      "what": "The family of an Iowa woman who died after hernia repair surgery alleges nurses dismissed fecal drainage and sepsis symptoms as normal in medical malpractice lawsuit.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/iowa-woman-died-hernia-repair-nurses-dismissed-painful-post-surgery-symptoms-lawsuit",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/iowa-woman-died-hernia-repair-nurses-dismissed-painful-post-surgery-symptoms-lawsuit"
-        }
-      ]
-    },
-    {
-      "title": "Shooting during party at Oklahoma's Arcadia Lake leaves at least 10 wounded, police say",
-      "category": "U.S.",
-      "what": "At least 10 people were rushed to hospitals after a shooting at a party near Arcadia Lake outside Oklahoma City on Sunday, according to police officials.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/shooting-party-oklahomas-arcadia-lake-leaves-least-10-wounded-police-say",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/shooting-party-oklahomas-arcadia-lake-leaves-least-10-wounded-police-say"
-        }
-      ]
-    },
-    {
-      "title": "Anti-ICE demonstrators detained after protesting arrest of illegal immigrant facing assault, drug charges",
-      "category": "U.S.",
-      "what": "Nearly 10 people were detained in Brooklyn after anti-ICE protesters gathered outside a hospital following the arrest of an illegal immigrant, DHS says.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/anti-ice-demonstrators-detained-protesting-arrest-illegal-immigrant-facing-assault-drug-charges",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/anti-ice-demonstrators-detained-protesting-arrest-illegal-immigrant-facing-assault-drug-charges"
-        }
-      ]
-    },
-    {
-      "title": "Research roundup: 6 cool science stories we almost missed",
-      "category": "Tech",
-      "what": "Crushing soda cans for science, why dolphins swim so fast, how urine helps mushrooms communicate, and more",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/science/2026/05/research-roundup-6-cool-science-stories-we-almost-missed-4/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/05/research-roundup-6-cool-science-stories-we-almost-missed-4/"
-        }
-      ]
-    },
-    {
-      "title": "Infrasound waves stop kitchen fires, but can they replace sprinklers?",
-      "category": "Tech",
-      "what": "Acoustic fire suppression goes commercial.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/gadgets/2026/05/startup-says-sound-waves-can-replace-fire-sprinklers-experts-arent-so-sure/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/05/startup-says-sound-waves-can-replace-fire-sprinklers-experts-arent-so-sure/"
-        }
-      ]
-    },
-    {
-      "title": "Study: AI models that consider user's feeling are more likely to make errors",
-      "category": "Tech",
-      "what": "Overtuning can cause models to \"prioritize user satisfaction over truthfulness.”",
+      "what": "An Arkansas school director was sentenced to 30 days in jail and nine years of probation after prosecutors accused her of running a child fight club.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/",
+      "source": "https://www.foxnews.com/us/arkansas-school-director-sentenced-being-ringleader-child-fight-club",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/arkansas-school-director-sentenced-being-ringleader-child-fight-club"
+        }
+      ]
+    },
+    {
+      "title": "Popular Australian author pleads guilty over child exploitation material",
+      "category": "World",
+      "what": "The Jasper Jones and Runt author was arrested in January during a police raid at his Perth home.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.com/news/articles/cg7pz2xj4l3o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cg7pz2xj4l3o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Deadly China plane crash was caused by fuel cut-off, says report",
+      "category": "World",
+      "what": "The Boeing 737 plane crashed into a Chinese hillside in 2022, killing all 132 people on board.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.bbc.com/news/articles/ckgpy223y9go?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/ckgpy223y9go?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Police dog follows his nose to find missing autistic teen screaming for help",
+      "category": "U.S.",
+      "what": "Hero police dog K-9 Ruger followed his nose to rescue a missing autistic teen in Jacksonville, Florida, after the boy vanished from his home.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/police-dog-follows-his-nose-find-missing-autistic-teen-screaming-help",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/police-dog-follows-his-nose-find-missing-autistic-teen-screaming-help"
+        }
+      ]
+    },
+    {
+      "title": "Ohio daycare worker convicted of horrific physical abuse of toddlers sentenced to years in prison",
+      "category": "U.S.",
+      "what": "Ohio daycare worker Katelyn Ann Strohacker has been sentenced to 8 to 12 years in prison after being convicted on 31 counts of kidnapping and child endangerment.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/ohio-daycare-worker-convicted-horrific-physical-abuse-toddlers-sentenced-years-prison",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/ohio-daycare-worker-convicted-horrific-physical-abuse-toddlers-sentenced-years-prison"
+        }
+      ]
+    },
+    {
+      "title": "\"Notepad++ for Mac\" release is disavowed by the creator of the original",
+      "category": "Tech",
+      "what": "\"To be clear: Notepad++ has never released a macOS version.\"",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/gadgets/2026/05/unofficial-vibe-coded-notepad-for-mac-draws-objections-from-original-author/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/"
+          "url": "https://arstechnica.com/gadgets/2026/05/unofficial-vibe-coded-notepad-for-mac-draws-objections-from-original-author/"
+        }
+      ]
+    },
+    {
+      "title": "Canadian election databases use \"canary traps\"—and they work",
+      "category": "Tech",
+      "what": "Intentional errors can be useful.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://arstechnica.com/tech-policy/2026/05/in-canada-a-canary-trap-springs-shut-and-ids-election-database-leak/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/05/in-canada-a-canary-trap-springs-shut-and-ids-election-database-leak/"
+        }
+      ]
+    },
+    {
+      "title": "GameStop offers $56 billion for eBay, struggles to explain how it'll pay for it",
+      "category": "Tech",
+      "what": "Amid falling revenue and store closures, GameStop wants to buy the much larger eBay.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/tech-policy/2026/05/gamestop-offers-56-billion-for-ebay-struggles-to-explain-how-itll-pay-for-it/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/05/gamestop-offers-56-billion-for-ebay-struggles-to-explain-how-itll-pay-for-it/"
         }
       ]
     }
