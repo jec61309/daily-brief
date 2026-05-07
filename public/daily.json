@@ -1,217 +1,213 @@
 {
-  "date": "Wednesday, May 6, 2026",
+  "date": "Thursday, May 7, 2026",
   "stories": [
     {
-      "title": "Former ICE official loses GOP primary in key battleground district Republicans are hoping to flip",
+      "title": "Three women linked to Islamic State arrested in Australia on return from Syria",
+      "category": "World",
+      "what": "Three women who allegedly supported IS were arrested after they flew home to Australia for the first time in years.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/czj2emlv2kjo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/czj2emlv2kjo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "China announces suspended death sentences for former defence ministers",
+      "category": "World",
+      "what": "The announcement follows recent ousting of several top officials in China's military.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.bbc.com/news/articles/clypjx383j2o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/clypjx383j2o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Karen Bass refuses to give 'yes or no' answer on whether noncitizens should vote in LA: 'It depends'",
       "category": "Politics",
-      "what": "Former state Rep. Derek Merrin defeats ex-ICE deputy director Madison Sheahan in Ohio's competitive 9th District Republican congressional primary.",
+      "what": "Los Angeles mayoral candidates clashed over whether noncitizens should vote in local elections, with Karen Bass saying \"it depends\" and Spencer Pratt answering with a simple \"no.\"",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/former-ice-official-loses-gop-primary-key-battleground-district-republicans-hoping-flip",
+      "source": "https://www.foxnews.com/politics/karen-bass-refuses-give-yes-no-answer-whether-noncitizens-should-vote-la-it-depends",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/former-ice-official-loses-gop-primary-key-battleground-district-republicans-hoping-flip"
+          "url": "https://www.foxnews.com/politics/karen-bass-refuses-give-yes-no-answer-whether-noncitizens-should-vote-la-it-depends"
         }
       ]
     },
     {
-      "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
-      "category": "World",
-      "what": "Reports have raised hopes of an agreement between the US and Iran after days of escalation.",
-      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
-      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
-      "source": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Vivek Ramaswamy wins Republican nomination for Ohio governor",
-      "category": "World",
-      "what": "The staunch Trump ally emerged victorious in one of a series of closely-watched primary contests held in the US Midwest.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.com/news/articles/c4g0xe4qlzxo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c4g0xe4qlzxo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-backed-vivek-ramaswamy-wins-ohio-gop-gubernatorial-primary-face-democrat-amy-acton"
-        }
-      ]
-    },
-    {
-      "title": "Trump announces temporary pause of 'Project Freedom' amid progress toward Iran deal and more top headlines",
+      "title": "Trump's Iran crackdown faces its biggest test as US rival dares Washington to act and more top headlines",
       "category": "U.S.",
       "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/us/trump-announces-temporary-pause-project-freedom-progress-iran-more-top-headlines",
+      "source": "https://www.foxnews.com/us/trumps-iran-crackdown-faces-its-biggest-test-us-rival-dares-washington-more-top-headlines",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/trump-announces-temporary-pause-project-freedom-progress-iran-more-top-headlines"
+          "url": "https://www.foxnews.com/us/trumps-iran-crackdown-faces-its-biggest-test-us-rival-dares-washington-more-top-headlines"
         }
       ]
     },
     {
-      "title": "Who is Judge Zia Faruqui? What we know about the federal magistrate who apologized to Cole Allen",
-      "category": "U.S.",
-      "what": "Magistrate Judge Faruqui, who apologized to suspected Trump assassin Cole Allen, has a history of DEI advocacy and clashes with the Trump administration.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/judge-zia-faruqui-what-we-know-about-federal-magistrate-who-apologized-cole-allen",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/judge-zia-faruqui-what-we-know-about-federal-magistrate-who-apologized-cole-allen"
-        }
-      ]
-    },
-    {
-      "title": "Youths accused of breaking into NYC Church of Scientology building in latest viral 'speedrunning' trend",
-      "category": "U.S.",
-      "what": "The Church of Scientology accuses participants in a viral 'speedrunning' trend of trespassing and harassment after a group forced entry into NYC building.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/youths-accused-breaking-nyc-church-scientology-building-latest-viral-speedrunning-trend",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/youths-accused-breaking-nyc-church-scientology-building-latest-viral-speedrunning-trend"
-        }
-      ]
-    },
-    {
-      "title": "Howard Lutnick forced to face Jeffrey Epstein ties during House Oversight hearing",
+      "title": "University rushes ICE alert system months before deadline after pressure from far-left students",
       "category": "Politics",
-      "what": "Commerce Secretary Howard Lutnick will face questions about his ties to Jeffrey Epstein in a voluntary House Oversight Committee interview Wednesday.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/howard-lutnick-forced-face-jeffrey-epstein-ties-house-oversight-hearing",
+      "what": "The University of Oregon caved to student demands by adding ICE alerts to its campus emergency system months before the state-mandated September deadline.",
+      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
+      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
+      "source": "https://www.foxnews.com/politics/university-rushes-ice-alert-system-months-before-deadline-after-pressure-far-left-students",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/howard-lutnick-forced-face-jeffrey-epstein-ties-house-oversight-hearing"
+          "url": "https://www.foxnews.com/politics/university-rushes-ice-alert-system-months-before-deadline-after-pressure-far-left-students"
         }
       ]
     },
     {
-      "title": "GOP senator in brutal primary praised Islamic charity after feds cut terror-scrutinized parent, review finds",
-      "category": "Politics",
-      "what": "Sen. John Cornyn praised Islamic Relief USA multiple times, even as its parent group faced terror links and antisemitism allegations worldwide.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/gop-senator-brutal-primary-praised-islamic-charity-after-feds-cut-terror-scrutinized-parent-review-finds",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/gop-senator-brutal-primary-praised-islamic-charity-after-feds-cut-terror-scrutinized-parent-review-finds"
-        }
-      ]
-    },
-    {
-      "title": "China calls for Strait to be reopened 'as soon as possible' in Iran talks",
+      "title": "'My heart is in a million pieces': Vigils in Australia for five-year-old allegedly killed in Outback",
       "category": "World",
-      "what": "Wang Yi is holding talks with Iran's foreign minister Aragchi who is on his first trip to China since the war began.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/c0m21mndm71o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c0m21mndm71o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "California man sentenced to prison for using pickaxe to kill teen brother with cerebral palsy",
-      "category": "U.S.",
-      "what": "A 26-year-old man was sentenced to 15 years to life for the pickaxe murder of his half-brother, who had cerebral palsy and used a wheelchair.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/california-man-sentenced-prison-using-pickaxe-kill-teen-brother-cerebral-palsy",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/california-man-sentenced-prison-using-pickaxe-kill-teen-brother-cerebral-palsy"
-        }
-      ]
-    },
-    {
-      "title": "What is Trump's 'Project Freedom' in the Strait of Hormuz?",
-      "category": "World",
-      "what": "The US president said the operation has been paused after starting on Monday.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.com/news/articles/c4g437depzpo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c4g437depzpo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "IS families in Syria have booked tickets home to Australia, minister says",
-      "category": "World",
-      "what": "The four women and nine children with links to Islamic State have spent years in a Syrian camp.",
+      "what": "Kumanjayi Little Baby was found dead after going missing from an Aboriginal town camp in Alice Springs.",
       "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
       "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/cn0pyny6jk0o?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.com/news/articles/cdeplz29p7go?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cn0pyny6jk0o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/cdeplz29p7go?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "OpenAI president forced to read his personal diary entries to jury",
-      "category": "Tech",
-      "what": "Elon Musk argued the journals show the moment when OpenAI abandoned its mission.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/tech-policy/2026/05/openai-president-explains-to-jury-why-his-diary-entries-sound-greedy/",
+      "title": "DR Congo president hints at extending his term and delaying polls",
+      "category": "World",
+      "what": "\"If the people want me to have a third term, I will accept,\" Tshisekedi says, with him due to step down in 2028.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/c202dkkk70po?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/05/openai-president-explains-to-jury-why-his-diary-entries-sound-greedy/"
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c202dkkk70po?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Silicon Valley bets $200M on AI data centers floating in the ocean",
-      "category": "Tech",
-      "what": "Panthalassa aims to test floating AI computing nodes in the Pacific in 2026.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/ai/2026/05/silicon-valley-bets-on-floating-ai-data-centers-powered-by-ocean-waves/",
+      "title": "Americans keep moving to Texas and Florida — but one other red state is growing even faster",
+      "category": "Politics",
+      "what": "IRS data reveals South Carolina is the fastest-growing state as Americans move south for lower taxes, jobs and quality of life, reshaping economies.",
+      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
+      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
+      "source": "https://www.foxnews.com/politics/americans-keep-moving-texas-florida-one-red-state-growing-even-faster",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/05/silicon-valley-bets-on-floating-ai-data-centers-powered-by-ocean-waves/"
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/americans-keep-moving-texas-florida-one-red-state-growing-even-faster"
         }
       ]
     },
     {
-      "title": "Character.AI sued over chatbot that claims to be a real doctor with a license",
-      "category": "Tech",
-      "what": "State says chatbot claimed to practice medicine, gave invalid license number.",
+      "title": "Luigi Mangione effect: String of suspects invoke alleged CEO assassin amid growing wave of violence",
+      "category": "U.S.",
+      "what": "The man accused of setting the deadly Palisades Fire allegedly admired Luigi Mangione, joining a growing list of accused criminals who invoked his name.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/luigi-mangione-effect-string-suspects-invoke-alleged-ceo-assassin-amid-growing-wave-violence",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/luigi-mangione-effect-string-suspects-invoke-alleged-ceo-assassin-amid-growing-wave-violence"
+        }
+      ]
+    },
+    {
+      "title": "Hantavirus-hit cruise ship on way to Canary Islands after three evacuated",
+      "category": "World",
+      "what": "A British man is among three evacuees sent to the Netherlands after displaying symptoms while aboard the MV Hondius.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Oregon burglary suspect nabbed after crashing SUV during police chase: video",
+      "category": "U.S.",
+      "what": "A burglary suspect in Oregon now faces charges including DUII, identity theft and reckless driving after crashing into another vehicle during a police pursuit, deputies said.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/tech-policy/2026/05/character-ai-sued-over-chatbot-that-claims-to-be-a-real-doctor-with-a-license/",
+      "source": "https://www.foxnews.com/us/oregon-burglary-suspect-nabbed-after-crashing-suv-during-police-chase-video",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/oregon-burglary-suspect-nabbed-after-crashing-suv-during-police-chase-video"
+        }
+      ]
+    },
+    {
+      "title": "DHS urges Wisconsin ‘sanctuary' county to keep illegal immigrant accused in elderly sexual assaults jailed",
+      "category": "U.S.",
+      "what": "A Nicaraguan national accused of sexually assaulting elderly care facility residents is under an ICE detainer as DHS criticizes a Wisconsin county it describes as a \"sanctuary\" jurisdiction",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/dhs-urges-wisconsin-sanctuary-county-keep-illegal-immigrant-accused-elderly-sexual-assaults-jailed",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/dhs-urges-wisconsin-sanctuary-county-keep-illegal-immigrant-accused-elderly-sexual-assaults-jailed"
+        }
+      ]
+    },
+    {
+      "title": "SpaceX is starting to move on from the world's most successful rocket",
+      "category": "Tech",
+      "what": "Vandenberg Space Force Base in California is set to become SpaceX's busiest launch site—for now.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/space/2026/05/spacex-is-starting-to-move-on-from-the-worlds-most-successful-rocket/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/05/character-ai-sued-over-chatbot-that-claims-to-be-a-real-doctor-with-a-license/"
+          "url": "https://arstechnica.com/space/2026/05/spacex-is-starting-to-move-on-from-the-worlds-most-successful-rocket/"
+        }
+      ]
+    },
+    {
+      "title": "Anthropic raises Claude Code usage limits, credits new deal with SpaceX",
+      "category": "Tech",
+      "what": "Deal follows others with Microsoft, Amazon, and more.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/"
+        }
+      ]
+    },
+    {
+      "title": "TSMC taps wind power as AI chip demand soars, Taiwan feels energy crunch",
+      "category": "Tech",
+      "what": "TSMC backs renewables during record demand for energy-hungry chip manufacturing.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/gadgets/2026/05/tsmc-taps-wind-power-as-ai-chip-demand-soars-taiwan-feels-energy-crunch/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/05/tsmc-taps-wind-power-as-ai-chip-demand-soars-taiwan-feels-energy-crunch/"
         }
       ]
     }
