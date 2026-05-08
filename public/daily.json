@@ -1,213 +1,213 @@
 {
-  "date": "Thursday, May 7, 2026",
+  "date": "Friday, May 8, 2026",
   "stories": [
     {
-      "title": "Three women linked to Islamic State arrested in Australia on return from Syria",
+      "title": "US jet fuel could be used in Europe to ease possible shortages",
       "category": "World",
-      "what": "Three women who allegedly supported IS were arrested after they flew home to Australia for the first time in years.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/czj2emlv2kjo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/czj2emlv2kjo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "China announces suspended death sentences for former defence ministers",
-      "category": "World",
-      "what": "The announcement follows recent ousting of several top officials in China's military.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.bbc.com/news/articles/clypjx383j2o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/clypjx383j2o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Karen Bass refuses to give 'yes or no' answer on whether noncitizens should vote in LA: 'It depends'",
-      "category": "Politics",
-      "what": "Los Angeles mayoral candidates clashed over whether noncitizens should vote in local elections, with Karen Bass saying \"it depends\" and Spencer Pratt answering with a simple \"no.\"",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/karen-bass-refuses-give-yes-no-answer-whether-noncitizens-should-vote-la-it-depends",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/karen-bass-refuses-give-yes-no-answer-whether-noncitizens-should-vote-la-it-depends"
-        }
-      ]
-    },
-    {
-      "title": "Trump's Iran crackdown faces its biggest test as US rival dares Washington to act and more top headlines",
-      "category": "U.S.",
-      "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/us/trumps-iran-crackdown-faces-its-biggest-test-us-rival-dares-washington-more-top-headlines",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/trumps-iran-crackdown-faces-its-biggest-test-us-rival-dares-washington-more-top-headlines"
-        }
-      ]
-    },
-    {
-      "title": "University rushes ICE alert system months before deadline after pressure from far-left students",
-      "category": "Politics",
-      "what": "The University of Oregon caved to student demands by adding ICE alerts to its campus emergency system months before the state-mandated September deadline.",
-      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
-      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
-      "source": "https://www.foxnews.com/politics/university-rushes-ice-alert-system-months-before-deadline-after-pressure-far-left-students",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/university-rushes-ice-alert-system-months-before-deadline-after-pressure-far-left-students"
-        }
-      ]
-    },
-    {
-      "title": "'My heart is in a million pieces': Vigils in Australia for five-year-old allegedly killed in Outback",
-      "category": "World",
-      "what": "Kumanjayi Little Baby was found dead after going missing from an Aboriginal town camp in Alice Springs.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/cdeplz29p7go?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cdeplz29p7go?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "DR Congo president hints at extending his term and delaying polls",
-      "category": "World",
-      "what": "\"If the people want me to have a third term, I will accept,\" Tshisekedi says, with him due to step down in 2028.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/c202dkkk70po?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c202dkkk70po?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Americans keep moving to Texas and Florida — but one other red state is growing even faster",
-      "category": "Politics",
-      "what": "IRS data reveals South Carolina is the fastest-growing state as Americans move south for lower taxes, jobs and quality of life, reshaping economies.",
-      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
-      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
-      "source": "https://www.foxnews.com/politics/americans-keep-moving-texas-florida-one-red-state-growing-even-faster",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/americans-keep-moving-texas-florida-one-red-state-growing-even-faster"
-        }
-      ]
-    },
-    {
-      "title": "Luigi Mangione effect: String of suspects invoke alleged CEO assassin amid growing wave of violence",
-      "category": "U.S.",
-      "what": "The man accused of setting the deadly Palisades Fire allegedly admired Luigi Mangione, joining a growing list of accused criminals who invoked his name.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/luigi-mangione-effect-string-suspects-invoke-alleged-ceo-assassin-amid-growing-wave-violence",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/luigi-mangione-effect-string-suspects-invoke-alleged-ceo-assassin-amid-growing-wave-violence"
-        }
-      ]
-    },
-    {
-      "title": "Hantavirus-hit cruise ship on way to Canary Islands after three evacuated",
-      "category": "World",
-      "what": "A British man is among three evacuees sent to the Netherlands after displaying symptoms while aboard the MV Hondius.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Oregon burglary suspect nabbed after crashing SUV during police chase: video",
-      "category": "U.S.",
-      "what": "A burglary suspect in Oregon now faces charges including DUII, identity theft and reckless driving after crashing into another vehicle during a police pursuit, deputies said.",
+      "what": "The price of jet fuel most European airlines currently use has jumped by half since the start of the war.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/oregon-burglary-suspect-nabbed-after-crashing-suv-during-police-chase-video",
+      "source": "https://www.bbc.com/news/articles/cp8pk2m4nlxo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/oregon-burglary-suspect-nabbed-after-crashing-suv-during-police-chase-video"
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cp8pk2m4nlxo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "DHS urges Wisconsin ‘sanctuary' county to keep illegal immigrant accused in elderly sexual assaults jailed",
-      "category": "U.S.",
-      "what": "A Nicaraguan national accused of sexually assaulting elderly care facility residents is under an ICE detainer as DHS criticizes a Wisconsin county it describes as a \"sanctuary\" jurisdiction",
+      "title": "South Africa president faces call to resign after court ruling",
+      "category": "World",
+      "what": "The Constitutional Court says MPs were was wrong to block impeachment proceedings against Cyril Ramaphosa.",
       "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
       "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/dhs-urges-wisconsin-sanctuary-county-keep-illegal-immigrant-accused-elderly-sexual-assaults-jailed",
+      "source": "https://www.bbc.com/news/articles/cy4287vpvl7o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cy4287vpvl7o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Fox News ‘Antisemitism Exposed’ Newsletter: Haters caught on video",
+      "category": "U.S.",
+      "what": "Fox News' \"Antisemitism Exposed\" newsletter brings you stories on the rising anti-Jewish prejudice across the U.S. and the world.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-haters-caught-video",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/dhs-urges-wisconsin-sanctuary-county-keep-illegal-immigrant-accused-elderly-sexual-assaults-jailed"
+          "url": "https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-haters-caught-video"
         }
       ]
     },
     {
-      "title": "SpaceX is starting to move on from the world's most successful rocket",
-      "category": "Tech",
-      "what": "Vandenberg Space Force Base in California is set to become SpaceX's busiest launch site—for now.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/space/2026/05/spacex-is-starting-to-move-on-from-the-worlds-most-successful-rocket/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/05/spacex-is-starting-to-move-on-from-the-worlds-most-successful-rocket/"
-        }
-      ]
-    },
-    {
-      "title": "Anthropic raises Claude Code usage limits, credits new deal with SpaceX",
-      "category": "Tech",
-      "what": "Deal follows others with Microsoft, Amazon, and more.",
+      "title": "Russia and Ukraine accuse each other of breaching Victory Day ceasefire",
+      "category": "World",
+      "what": "The two sides report responding to hundreds of drone attacks, just hours into a truce to cover celebrations of the Soviet Union's victory over Nazi Germany.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/",
+      "source": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/"
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "TSMC taps wind power as AI chip demand soars, Taiwan feels energy crunch",
-      "category": "Tech",
-      "what": "TSMC backs renewables during record demand for energy-hungry chip manufacturing.",
+      "title": "US intel community agreed before war 'Iran wasn't developing a nuclear weapon': ex-counterterrorism chief",
+      "category": "Politics",
+      "what": "Former National Counterterrorism Center Director Joe Kent said the U.S. intelligence community agreed prior to the war that Iran was not developing a nuclear weapon.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/gadgets/2026/05/tsmc-taps-wind-power-as-ai-chip-demand-soars-taiwan-feels-energy-crunch/",
+      "source": "https://www.foxnews.com/politics/us-intel-community-agreed-before-war-iran-wasnt-developing-nuclear-weapon-ex-counterterrorism-chief",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/us-intel-community-agreed-before-war-iran-wasnt-developing-nuclear-weapon-ex-counterterrorism-chief"
+        }
+      ]
+    },
+    {
+      "title": "California county finds nearly 600 unopened ballots months after Newsom-backed redistricting measure passed",
+      "category": "Politics",
+      "what": "Nearly 600 unopened ballots were discovered in a locked California drop box months after the statewide Proposition 50 redistricting vote was certified.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/california-county-finds-nearly-600-uncounted-ballots-months-after-newsom-backed-redistricting-measure-passed",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/california-county-finds-nearly-600-uncounted-ballots-months-after-newsom-backed-redistricting-measure-passed"
+        }
+      ]
+    },
+    {
+      "title": "Nancy Guthrie case: Retired lieutenant suggests Mexico ties were downplayed to keep feds off case early",
+      "category": "U.S.",
+      "what": "Tensions between the FBI and Pima County sheriff persist as investigators search for Nancy Guthrie, missing since her suspected abduction on Feb. 1.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/nancy-guthrie-case-retired-lieutenant-suggests-mexico-ties-downplayed-keep-feds-case-early",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/nancy-guthrie-case-retired-lieutenant-suggests-mexico-ties-downplayed-keep-feds-case-early"
+        }
+      ]
+    },
+    {
+      "title": "Three dead after volcano erupts on Indonesian island",
+      "category": "World",
+      "what": "Officials had previously issued warnings on climbing the active volcano due to safety concerns.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.bbc.com/news/articles/cp3p418x513o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cp3p418x513o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Oil prices rise after US and Iran exchange fire in Hormuz strait",
+      "category": "World",
+      "what": "US President Donald Trump says the ceasefire between Washington and Tehran is still in place.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Trump praises Susie Wiles’ cancer fight in surprise gala video: ‘Winning it decisively’",
+      "category": "Politics",
+      "what": "White House Chief of Staff Susie Wiles disclosed her cancer diagnosis at a gala where Trump praised her courage, toughness and decisive recovery.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/trump-praises-susie-wiles-cancer-fight-surprise-gala-video-winning-decisively",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/trump-praises-susie-wiles-cancer-fight-surprise-gala-video-winning-decisively"
+        }
+      ]
+    },
+    {
+      "title": "Man indicted for allegedly posting gruesome death threats against Kristi Noem, Pam Bondi on social media",
+      "category": "U.S.",
+      "what": "Georgia prosecutors said a man posted gruesome death threats on X targeting Kristi Noem and Pam Bondi, leading to a four-count federal indictment.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/man-indicted-allegedly-posting-gruesome-death-threats-kristi-noem-pam-bondi-social-media",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/man-indicted-allegedly-posting-gruesome-death-threats-kristi-noem-pam-bondi-social-media"
+        }
+      ]
+    },
+    {
+      "title": "Paralyzed subway victim confronts attacker, calls his actions 'evil' at sentencing",
+      "category": "U.S.",
+      "what": "Emine Yilmaz Ozsoy confronts the man who shoved her into a moving NYC subway train, leaving her paralyzed, as a judge sentences him to 20 years in prison.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/paralyzed-subway-victim-confronts-attacker-calls-actions-evil-sentencing",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/paralyzed-subway-victim-confronts-attacker-calls-actions-evil-sentencing"
+        }
+      ]
+    },
+    {
+      "title": "DHS can’t create vast DNA database to track ICE critics, lawsuit says",
+      "category": "Tech",
+      "what": "Lawsuit accuses DHS of plugging DNA database into ICE surveillance machine.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://arstechnica.com/tech-policy/2026/05/ice-protesters-sue-to-stop-dhs-from-seizing-dna-samples/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/05/tsmc-taps-wind-power-as-ai-chip-demand-soars-taiwan-feels-energy-crunch/"
+          "url": "https://arstechnica.com/tech-policy/2026/05/ice-protesters-sue-to-stop-dhs-from-seizing-dna-samples/"
+        }
+      ]
+    },
+    {
+      "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
+      "category": "Tech",
+      "what": "The developer of Firefox says it has \"completely bought in\" on AI-assisted bug discovery.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/"
+        }
+      ]
+    },
+    {
+      "title": "Google unveils screenless Fitbit Air and Google Health app to replace Fitbit",
+      "category": "Tech",
+      "what": "The $100 Fitbit Air is available for preorder today.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/gadgets/2026/05/google-unveils-screenless-fitbit-air-and-google-health-app-to-replace-fitbit/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/05/google-unveils-screenless-fitbit-air-and-google-health-app-to-replace-fitbit/"
         }
       ]
     }
