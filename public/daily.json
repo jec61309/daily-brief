@@ -1,171 +1,207 @@
 {
-  "date": "Sunday, May 10, 2026",
+  "date": "Monday, May 11, 2026",
   "stories": [
     {
-      "title": "Spain starts evacuating virus-hit cruise ship in Tenerife",
+      "title": "US and French nationals test positive for hantavirus after leaving ship",
       "category": "World",
-      "what": "Spanish passengers are the first to leave the MV Hondius, after an outbreak saw three people die and several infected.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
+      "what": "The American national has arrived in Nebraska, while a French woman is isolating in Paris.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Nancy Guthrie was alive when abducted, blood evidence shows 'last stand' on front porch: retired FBI agent",
-      "category": "U.S.",
-      "what": "Blood spatter evidence shows Nancy Guthrie made a last stand on her porch before being abducted, and the suspect made key mistakes, retired FBI agent says.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/nancy-guthrie-alive-abducted-blood-evidence-shows-last-stand-front-porch-retired-fbi-agent",
-      "sources": [
+          "url": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss"
+        },
         {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/nancy-guthrie-alive-abducted-blood-evidence-shows-last-stand-front-porch-retired-fbi-agent"
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/05/everything-you-need-to-know-about-the-hantavirus-cruise-ship-outbreak/"
         }
       ]
     },
     {
-      "title": "Where Trump, GOP vs Democrats redistricting battle heads next in wake of key court rulings",
+      "title": "Trump criticizes 2 Supreme Court justices by name over tariff ruling",
       "category": "Politics",
-      "what": "Trump hails Virginia Supreme Court ruling that strikes down redistricting ballot measure as a huge win for Republicans defending their House majority.",
+      "what": "President Trump criticizes Justices Gorsuch and Barrett on Truth Social, saying their tariff ruling cost the U.S. $159 billion and showed disloyalty.",
       "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
       "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/trump-gop-vs-democrats-redistricting-battle-heads-next-wake-key-court-rulings",
+      "source": "https://www.foxnews.com/politics/trump-criticizes-supreme-court-justices-name-tariff-ruling",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-gop-vs-democrats-redistricting-battle-heads-next-wake-key-court-rulings"
+          "url": "https://www.foxnews.com/politics/trump-criticizes-supreme-court-justices-name-tariff-ruling"
         }
       ]
     },
     {
-      "title": "Suspected boat explosion injures 11 in Miami",
-      "category": "World",
-      "what": "Officials are investigating what caused the explosion at a popular marina in southern Florida.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/c7076k4e31do?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c7076k4e31do?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Buddhist monk arrested over alleged rape of teen in Sri Lanka",
-      "category": "World",
-      "what": "The Venerable Pallegama Hemarathana Thero holds one of the most revered positions in the Buddhist world.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/cy42kp0x92jo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cy42kp0x92jo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Harris accuses Trump allies of trying to ‘rig’ 2026 midterms after Virginia court tosses redistricting measure",
-      "category": "Politics",
-      "what": "Kamala Harris claims Virginia Supreme Court ruling on redistricting maps boosts Trump's alleged effort to rig the 2026 midterm elections for Republicans.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/harris-accuses-trump-allies-trying-rig-2026-midterms-virginia-court-tosses-redistricting-measure",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/harris-accuses-trump-allies-trying-rig-2026-midterms-virginia-court-tosses-redistricting-measure"
-        }
-      ]
-    },
-    {
-      "title": "Minnesota nonprofit accused of siphoning $6.5M to fund Vegas trips, luxury cars, private liquor store",
+      "title": "Trump rejects Iran proposal as 'totally unacceptable' and more top headlines",
       "category": "U.S.",
-      "what": "We Push for Peace nonprofit allegedly collapsed after directors pocketed $6.5 million meant for community violence prevention work in Minnesota.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/minnesota-nonprofit-accused-siphoning-65m-fund-vegas-trips-luxury-cars-private-liquor-store",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/minnesota-nonprofit-accused-siphoning-65m-fund-vegas-trips-luxury-cars-private-liquor-store"
-        }
-      ]
-    },
-    {
-      "title": "Alabama mother sentenced to life for hiring hitman to kill her child's father over custody dispute",
-      "category": "U.S.",
-      "what": "Alabama woman Jaclyn Skuce gets life in prison for hiring a hitman to kill Anthony Sheppard to prevent him from gaining custody of their child.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/alabama-mother-sentenced-life-hiring-hitman-kill-childs-father-custody-dispute",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/alabama-mother-sentenced-life-hiring-hitman-kill-childs-father-custody-dispute"
-        }
-      ]
-    },
-    {
-      "title": "Nearly a dozen injured after possible boat explosion at popular Florida tourist destination",
-      "category": "U.S.",
-      "what": "Eleven people were hospitalized after a possible boat explosion at Haulover Sandbar in North Miami Beach, Florida, during peak boating season.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/nearly-dozen-injured-possible-boat-explosion-popular-florida-tourist-destination",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/nearly-dozen-injured-possible-boat-explosion-popular-florida-tourist-destination"
-        }
-      ]
-    },
-    {
-      "title": "Lebanon says Israeli strikes killed 39 ",
-      "category": "World",
-      "what": "Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month.",
-      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
-      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
-      "source": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Seth Moulton closing gap on progressive Democrat Ed Markey in Massachusetts Senate primary",
-      "category": "Politics",
-      "what": "A new Emerson College poll shows Sen. Ed Markey's lead over Rep. Seth Moulton shrinking to 5 points in the Massachusetts Democratic Senate primary.",
+      "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/seth-moulton-closing-gap-progressive-democrat-ed-markey-massachusetts-senate-primary",
+      "source": "https://www.foxnews.com/us/trump-rejects-iran-proposal-totally-unacceptable-more-top-headlines",
       "sources": [
         {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/seth-moulton-closing-gap-progressive-democrat-ed-markey-massachusetts-senate-primary"
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/trump-rejects-iran-proposal-totally-unacceptable-more-top-headlines"
         }
       ]
     },
     {
-      "title": "Greece conducts controlled blast of mystery naval drone explosives",
+      "title": "Sony's failed war against Internet piracy may doom other copyright lawsuits",
+      "category": "Tech",
+      "what": "Cable firm Cox's Supreme Court win may help all tech providers, not just ISPs.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://arstechnica.com/tech-policy/2026/05/sonys-failed-war-against-internet-piracy-may-doom-other-copyright-lawsuits/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/05/sonys-failed-war-against-internet-piracy-may-doom-other-copyright-lawsuits/"
+        }
+      ]
+    },
+    {
+      "title": "Ailing Iranian Nobel laureate given bail and hospital transfer",
       "category": "World",
-      "what": "The unmanned vessel, suspected to be of Ukrainian origin, was found by fishermen in a cave on Thursday.",
+      "what": "Iranian authorities granted human rights activist Narges Mohammadi bail amid growing concern over her poor health in prison.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/c9364r4r902o?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.com/news/articles/c1j257w87neo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c9364r4r902o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/c1j257w87neo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Portrait looted by Nazis found in home of Dutch SS leader's descendants",
+      "category": "World",
+      "what": "The painting is believed to have been plundered by high-ranking Nazi Hermann Goering during World War Two.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.com/news/articles/cgmpj0p9k08o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cgmpj0p9k08o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "The unexpected force keeping beef prices high and why the pressure could last for years",
+      "category": "Politics",
+      "what": "A 75-year low in the U.S. cattle herd is driving beef prices higher, and economists say the tight supply situation could take years to resolve.",
+      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
+      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
+      "source": "https://www.foxnews.com/politics/unexpected-force-keeping-beef-prices-high-pressure-could-last-years",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/unexpected-force-keeping-beef-prices-high-pressure-could-last-years"
+        }
+      ]
+    },
+    {
+      "title": "Nancy Guthrie case: Former cop shows how missing mom could vanish just yards from homes",
+      "category": "U.S.",
+      "what": "A retired Pima County lieutenant reveals how Tucson's desert washes could serve as escape routes in the kidnapping of Nancy Guthrie, age 84.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/nancy-guthrie-case-former-cop-shows-missing-mom-could-vanish-yards-homes",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/nancy-guthrie-case-former-cop-shows-missing-mom-could-vanish-yards-homes"
+        }
+      ]
+    },
+    {
+      "title": "Police find body believed to be of fugitive Australian shooter",
+      "category": "World",
+      "what": "A body found in New South Wales is thought to be that of a man wanted over a triple murder.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/cdjp9vzxlz7o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cdjp9vzxlz7o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Philippine VP Sara Duterte impeached for a second time",
+      "category": "World",
+      "what": "If convicted in a Senate trial, which is uncertain, she will be disqualified from running for president.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.com/news/articles/cqlp21q4yq4o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cqlp21q4yq4o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Pennsylvania man accused of fatal arson after woman allegedly rejected his advances",
+      "category": "U.S.",
+      "what": "A Pennsylvania man allegedly set a home on fire after allegedly being rejected by a woman, killing an Army veteran and injuring two others, according to police.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/pennsylvania-man-accused-fatal-arson-after-woman-allegedly-rejected-his-advances",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/pennsylvania-man-accused-fatal-arson-after-woman-allegedly-rejected-his-advances"
+        }
+      ]
+    },
+    {
+      "title": "Hegseth says Pentagon will review Mark Kelly's public statements about classified briefing amid ongoing feud",
+      "category": "Politics",
+      "what": "Pentagon chief Pete Hegseth suggested Sen. Mark Kelly may have violated his oath by discussing a classified Pentagon briefing on weapons stockpiles.",
+      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
+      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
+      "source": "https://www.foxnews.com/politics/hegseth-says-pentagon-review-mark-kellys-public-statements-about-classified-briefing-amid-ongoing-feud",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/hegseth-says-pentagon-review-mark-kellys-public-statements-about-classified-briefing-amid-ongoing-feud"
+        }
+      ]
+    },
+    {
+      "title": "Students' pre-prom gathering turns into deadly nightmare as bullets fly",
+      "category": "U.S.",
+      "what": "Tennessee pre-prom gathering turns deadly as student killed and four others wounded after gunfire erupts at crowded park in Brownsville.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/students-pre-prom-gathering-turns-deadly-nightmare-bullets-fly",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/students-pre-prom-gathering-turns-deadly-nightmare-bullets-fly"
+        }
+      ]
+    },
+    {
+      "title": "Huge landslide created a 500-meter-high tsunami in a major tourist area",
+      "category": "Tech",
+      "what": "Fortunately, it happened early in the morning, so nobody was around.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/science/2026/05/how-a-melting-glacier-led-to-a-500-meter-high-tsunami/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/05/how-a-melting-glacier-led-to-a-500-meter-high-tsunami/"
         }
       ]
     },
@@ -180,34 +216,6 @@
         {
           "name": "Ars Technica",
           "url": "https://arstechnica.com/ai/2026/05/the-new-wild-west-of-ai-kids-toys/"
-        }
-      ]
-    },
-    {
-      "title": "Manufacturing qubits that can move",
-      "category": "Tech",
-      "what": "It's hard to mix electronic manufacturing and flexible geometry.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/science/2026/05/manufacturing-qubits-that-can-move/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/05/manufacturing-qubits-that-can-move/"
-        }
-      ]
-    },
-    {
-      "title": "ABC refuses to capitulate to Trump admin, fights FCC probe into The View",
-      "category": "Tech",
-      "what": "FCC chair hasn't been able to bully ABC and owner Disney into submission.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://arstechnica.com/tech-policy/2026/05/abc-fights-trump-fccs-attempt-to-control-content-of-broadcast-tv-shows/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/05/abc-fights-trump-fccs-attempt-to-control-content-of-broadcast-tv-shows/"
         }
       ]
     }
