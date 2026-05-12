@@ -1,221 +1,217 @@
 {
-  "date": "Monday, May 11, 2026",
+  "date": "Tuesday, May 12, 2026",
   "stories": [
     {
-      "title": "US and French nationals test positive for hantavirus after leaving ship",
+      "title": "US in closely guarded talks to open new bases in Greenland",
       "category": "World",
-      "what": "The American national has arrived in Nebraska, while a French woman is isolating in Paris.",
+      "what": "It is seeking to open three bases in the south of the Arctic territory, according to multiple officials familiar with the talks.",
       "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
       "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.com/news/articles/cx21669452lo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/health/2026/05/everything-you-need-to-know-about-the-hantavirus-cruise-ship-outbreak/"
+          "url": "https://www.bbc.com/news/articles/cx21669452lo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Trump criticizes 2 Supreme Court justices by name over tariff ruling",
-      "category": "Politics",
-      "what": "President Trump criticizes Justices Gorsuch and Barrett on Truth Social, saying their tariff ruling cost the U.S. $159 billion and showed disloyalty.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/trump-criticizes-supreme-court-justices-name-tariff-ruling",
+      "title": "Uganda's president sworn in for record seventh term",
+      "category": "World",
+      "what": "Yoweri Museveni, 81, won disputed elections in January to extend his 40-year rule.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.com/news/articles/cqxp23272j3o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-criticizes-supreme-court-justices-name-tariff-ruling"
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cqxp23272j3o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Trump rejects Iran proposal as 'totally unacceptable' and more top headlines",
+      "title": "France seeks to move beyond colonial ties by meeting African leaders in Kenya",
+      "category": "World",
+      "what": "In a first since these meetings started in the 1970s, this move reflects a change in France's thinking.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/cpqpernnx8xo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cpqpernnx8xo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Trump reportedly eyes renewed military action as Iran negotiations break down and more top headlines",
       "category": "U.S.",
       "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/us/trump-rejects-iran-proposal-totally-unacceptable-more-top-headlines",
+      "source": "https://www.foxnews.com/us/trump-reportedly-eyes-renewed-military-action-iran-negotiations-break-down-more-top-headlines",
       "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss"
-        },
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/trump-rejects-iran-proposal-totally-unacceptable-more-top-headlines"
+          "url": "https://www.foxnews.com/us/trump-reportedly-eyes-renewed-military-action-iran-negotiations-break-down-more-top-headlines"
         }
       ]
     },
     {
-      "title": "Sony's failed war against Internet piracy may doom other copyright lawsuits",
-      "category": "Tech",
-      "what": "Cable firm Cox's Supreme Court win may help all tech providers, not just ISPs.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://arstechnica.com/tech-policy/2026/05/sonys-failed-war-against-internet-piracy-may-doom-other-copyright-lawsuits/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/05/sonys-failed-war-against-internet-piracy-may-doom-other-copyright-lawsuits/"
-        }
-      ]
-    },
-    {
-      "title": "Ailing Iranian Nobel laureate given bail and hospital transfer",
-      "category": "World",
-      "what": "Iranian authorities granted human rights activist Narges Mohammadi bail amid growing concern over her poor health in prison.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/c1j257w87neo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c1j257w87neo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Portrait looted by Nazis found in home of Dutch SS leader's descendants",
-      "category": "World",
-      "what": "The painting is believed to have been plundered by high-ranking Nazi Hermann Goering during World War Two.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/cgmpj0p9k08o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cgmpj0p9k08o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "The unexpected force keeping beef prices high and why the pressure could last for years",
+      "title": "Pete Hegseth faces Congress over Pentagon's unprecedented $1.5 trillion budget as Democrats vow to block it",
       "category": "Politics",
-      "what": "A 75-year low in the U.S. cattle herd is driving beef prices higher, and economists say the tight supply situation could take years to resolve.",
-      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
-      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
-      "source": "https://www.foxnews.com/politics/unexpected-force-keeping-beef-prices-high-pressure-could-last-years",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/unexpected-force-keeping-beef-prices-high-pressure-could-last-years"
-        }
-      ]
-    },
-    {
-      "title": "Nancy Guthrie case: Former cop shows how missing mom could vanish just yards from homes",
-      "category": "U.S.",
-      "what": "A retired Pima County lieutenant reveals how Tucson's desert washes could serve as escape routes in the kidnapping of Nancy Guthrie, age 84.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/nancy-guthrie-case-former-cop-shows-missing-mom-could-vanish-yards-homes",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/nancy-guthrie-case-former-cop-shows-missing-mom-could-vanish-yards-homes"
-        }
-      ]
-    },
-    {
-      "title": "Police find body believed to be of fugitive Australian shooter",
-      "category": "World",
-      "what": "A body found in New South Wales is thought to be that of a man wanted over a triple murder.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/cdjp9vzxlz7o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cdjp9vzxlz7o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Philippine VP Sara Duterte impeached for a second time",
-      "category": "World",
-      "what": "If convicted in a Senate trial, which is uncertain, she will be disqualified from running for president.",
+      "what": "Pete Hegseth will face a high-stakes House hearing on the Pentagon's unprecedented $1.5 trillion request amid bipartisan concerns over the proposed budget and Iran War.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.com/news/articles/cqlp21q4yq4o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cqlp21q4yq4o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Pennsylvania man accused of fatal arson after woman allegedly rejected his advances",
-      "category": "U.S.",
-      "what": "A Pennsylvania man allegedly set a home on fire after allegedly being rejected by a woman, killing an Army veteran and injuring two others, according to police.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/pennsylvania-man-accused-fatal-arson-after-woman-allegedly-rejected-his-advances",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/pennsylvania-man-accused-fatal-arson-after-woman-allegedly-rejected-his-advances"
-        }
-      ]
-    },
-    {
-      "title": "Hegseth says Pentagon will review Mark Kelly's public statements about classified briefing amid ongoing feud",
-      "category": "Politics",
-      "what": "Pentagon chief Pete Hegseth suggested Sen. Mark Kelly may have violated his oath by discussing a classified Pentagon briefing on weapons stockpiles.",
-      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
-      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
-      "source": "https://www.foxnews.com/politics/hegseth-says-pentagon-review-mark-kellys-public-statements-about-classified-briefing-amid-ongoing-feud",
+      "source": "https://www.foxnews.com/politics/pete-hegseth-faces-congress-pentagons-unprecedented-15-trillion-budget-democrats-vow-block",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/hegseth-says-pentagon-review-mark-kellys-public-statements-about-classified-briefing-amid-ongoing-feud"
+          "url": "https://www.foxnews.com/politics/pete-hegseth-faces-congress-pentagons-unprecedented-15-trillion-budget-democrats-vow-block"
         }
       ]
     },
     {
-      "title": "Students' pre-prom gathering turns into deadly nightmare as bullets fly",
+      "title": "EU needs to delay social media access for children - von der Leyen",
+      "category": "World",
+      "what": "She told an EU summit that an expert panel was due to come up with steps on how to protect minors online by July.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/c9q3x19ddl7o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c9q3x19ddl7o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Once again, SpaceX has set a new record for the tallest rocket ever built",
+      "category": "Tech",
+      "what": "SpaceX cleared an important milestone Monday on the road to launching a new version of Starship.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/space/2026/05/spacex-completes-fueling-test-setting-stage-for-first-launch-of-starship-v3/",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/05/spacex-completes-fueling-test-setting-stage-for-first-launch-of-starship-v3/"
+        }
+      ]
+    },
+    {
+      "title": "Canvas hack: company pays criminals to delete students' stolen data",
+      "category": "World",
+      "what": "The company behind Canvas says it has \"reached an agreement\" with the hackers who disrupted thousands of colleges and universities.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/cdepzg83x87o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cdepzg83x87o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Fragile relationship with House GOP has Senate Republicans warning 'something needs to change'",
+      "category": "Politics",
+      "what": "Senate Republicans say communication with the House GOP must improve as they prepare to fund ICE and Border Patrol through budget reconciliation.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/fragile-relationship-house-gop-senate-republicans-warning-something-needs-change",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/fragile-relationship-house-gop-senate-republicans-warning-something-needs-change"
+        }
+      ]
+    },
+    {
+      "title": "Nancy Guthrie missing 100 days as sheriff says 'nothing new' and volunteer groups are shut out of search",
       "category": "U.S.",
-      "what": "Tennessee pre-prom gathering turns deadly as student killed and four others wounded after gunfire erupts at crowded park in Brownsville.",
+      "what": "Nancy Guthrie, 84, has been missing from her Tucson home for 100 days with no suspects identified, as volunteer search groups seek to join the effort.",
       "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
       "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/students-pre-prom-gathering-turns-deadly-nightmare-bullets-fly",
+      "source": "https://www.foxnews.com/us/nancy-guthrie-missing-100-days-sheriff-says-nothing-new-volunteer-groups-shut-search",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/students-pre-prom-gathering-turns-deadly-nightmare-bullets-fly"
+          "url": "https://www.foxnews.com/us/nancy-guthrie-missing-100-days-sheriff-says-nothing-new-volunteer-groups-shut-search"
         }
       ]
     },
     {
-      "title": "Huge landslide created a 500-meter-high tsunami in a major tourist area",
+      "title": "Agitators swarm hotel believed to house FBI Director Kash Patel",
+      "category": "U.S.",
+      "what": "Demonstrators descended on a Portland hotel believed to be hosting FBI Director Kash Patel, who was in town for a close friend's funeral.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/us/agitators-swarm-hotel-believed-house-fbi-director-kash-patel",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/agitators-swarm-hotel-believed-house-fbi-director-kash-patel"
+        }
+      ]
+    },
+    {
+      "title": "From Nebraska to West Virginia to New Jersey: Primary clashes set stage for fierce midterm fight",
+      "category": "Politics",
+      "what": "Tuesday's primaries in Nebraska, West Virginia and New Jersey set the stage for 2026 midterm battles over control of Congress and key state offices.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/nebraska-west-virginia-new-jersey-primary-clashes-set-stage-fierce-midterm-fight",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/nebraska-west-virginia-new-jersey-primary-clashes-set-stage-fierce-midterm-fight"
+        }
+      ]
+    },
+    {
+      "title": "Liberal arts college drops prof’s name from campus hall after grave dig controversy",
+      "category": "U.S.",
+      "what": "Swarthmore College drops professor's name from building after revelations he excavated a Native American burial site and promoted racial hierarchies.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.foxnews.com/us/liberal-arts-college-drops-profs-name-campus-hall-grave-dig-controversy",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/liberal-arts-college-drops-profs-name-campus-hall-grave-dig-controversy"
+        }
+      ]
+    },
+    {
+      "title": "Linux bitten by second severe vulnerability in as many weeks",
       "category": "Tech",
-      "what": "Fortunately, it happened early in the morning, so nobody was around.",
+      "what": "Production-version patches are coming online and should be installed pronto.",
       "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
       "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/science/2026/05/how-a-melting-glacier-led-to-a-500-meter-high-tsunami/",
+      "source": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/05/how-a-melting-glacier-led-to-a-500-meter-high-tsunami/"
+          "url": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/"
         }
       ]
     },
     {
-      "title": "The new Wild West of AI kids’ toys",
+      "title": "Audi has a new Q9 flagship coming soon: Here's its interior",
       "category": "Tech",
-      "what": "These connected companions could disrupt everything from make-believe to bedtime stories. No wonder some lawmakers want them banned.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/ai/2026/05/the-new-wild-west-of-ai-kids-toys/",
+      "what": "Audi made sure to consult American tastes for its first full-size SUV.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/cars/2026/05/take-a-look-inside-audis-new-big-three-row-q9-suv/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/05/the-new-wild-west-of-ai-kids-toys/"
+          "url": "https://arstechnica.com/cars/2026/05/take-a-look-inside-audis-new-big-three-row-q9-suv/"
         }
       ]
     }
