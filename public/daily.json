@@ -1,217 +1,213 @@
 {
-  "date": "Thursday, May 14, 2026",
+  "date": "Friday, May 15, 2026",
   "stories": [
     {
-      "title": "Dem Senate hopeful’s ‘physician’ campaign pitch under fire after license records reveal key gaps",
-      "category": "Politics",
-      "what": "Dr. Abdul El-Sayed campaigns as a physician in Michigan's Democratic Senate primary, but public records indicate he never held a medical license in Michigan or New York.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/dem-senate-hopefuls-physician-campaign-pitch-under-fire-after-license-records-reveal-key-gaps",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/dem-senate-hopefuls-physician-campaign-pitch-under-fire-after-license-records-reveal-key-gaps"
-        }
-      ]
-    },
-    {
-      "title": "Rescuers pull dead from rubble of Kyiv flats after massive Russian strikes",
-      "category": "World",
-      "what": "A girl, 12, is among the dead after Russia launched attacks across Ukraine overnight, officials say.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Alex Murdaugh wins new trial after court clerk allegedly told jurors not to be 'fooled' by defense",
+      "title": "Fox News Digital's News Quiz: May 15, 2026",
       "category": "U.S.",
-      "what": "Alex Murdaugh gets a new trial after the South Carolina Supreme Court overturns his murder convictions due to jury tampering by a court official.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/alex-murdaugh-wins-new-trial-court-clerk-allegedly-told-jurors-fooled-defense",
+      "what": "Test your knowledge of COVID-19 pandemic origins, a town losing its last casino and more trending headlines in this week's digital News Quiz challenge.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/fox-news-digitals-news-quiz-may-15-2026",
       "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cedpvnq7wn1o?at_medium=RSS&at_campaign=rss"
-        },
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/alex-murdaugh-wins-new-trial-court-clerk-allegedly-told-jurors-fooled-defense"
+          "url": "https://www.foxnews.com/us/fox-news-digitals-news-quiz-may-15-2026"
         }
       ]
     },
     {
-      "title": "Desperate Trump taps \"Tim Apple,\" Jensen Huang, Elon Musk to attend Xi summit",
-      "category": "Tech",
-      "what": "Xi meeting may force Trump to pivot on semiconductor tariffs and Taiwan.",
+      "title": "Trump and Xi conclude 'very successful' talks but no deals announced",
+      "category": "World",
+      "what": "There were plenty of choreographed ceremonies but no trade breakthroughs after the two-day visit.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://arstechnica.com/tech-policy/2026/05/desperate-trump-taps-tim-apple-jensen-huang-elon-musk-to-attend-xi-summit/",
+      "source": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "The perfect commuter bike? Velotric's Discover 3 makes its case.",
+      "category": "Tech",
+      "what": "A customized mid-motor and Shimano's new Cues components are a winning combination.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/cars/2026/05/the-perfect-commuter-bike-velotrics-discover-3-makes-its-case/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/05/desperate-trump-taps-tim-apple-jensen-huang-elon-musk-to-attend-xi-summit/"
+          "url": "https://arstechnica.com/cars/2026/05/the-perfect-commuter-bike-velotrics-discover-3-makes-its-case/"
         }
       ]
     },
     {
-      "title": "Massie's ex-girlfriend alleges he arranged her Capitol Hill job, then offered $5,000 to drop termination suit",
+      "title": "Trump wraps widely-watched trip to China, departing on Air Force One after high-stakes Xi meeting",
       "category": "Politics",
-      "what": "Ex-girlfriend of Rep. Thomas Massie alleges he offered $5,000 to settle a wrongful termination lawsuit as Kentucky primary voting is already underway.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/massies-ex-girlfriend-alleges-he-arranged-her-capitol-hill-job-offered-5000-drop-termination-suit",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/massies-ex-girlfriend-alleges-he-arranged-her-capitol-hill-job-offered-5000-drop-termination-suit"
-        }
-      ]
-    },
-    {
-      "title": "Top 4 explosive moments from CIA whistleblower's testimony on alleged COVID-19 lab leak cover-up",
-      "category": "Politics",
-      "what": "CIA whistleblower James Erdman testified that the Biden administration allegedly buried analysis showing a lab leak was the likely origin of COVID-19.",
+      "what": "Summary not available yet.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/top-4-explosive-moments-cia-whistleblowers-testimony-alleged-covid-19-lab-leak-cover",
+      "source": "https://www.foxnews.com/politics/trump-wraps-widely-watched-trip-chin-departing-air-force-one-high-stakes-xi-meeting",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/top-4-explosive-moments-cia-whistleblowers-testimony-alleged-covid-19-lab-leak-cover"
+          "url": "https://www.foxnews.com/politics/trump-wraps-widely-watched-trip-chin-departing-air-force-one-high-stakes-xi-meeting"
         }
       ]
     },
     {
-      "title": "Feds could bring charges in Bahamas disappearance case without ever finding body, expert says",
-      "category": "U.S.",
-      "what": "A maritime law expert says federal investigators could still file charges in Lynette Hooker's disappearance even if her body is never found.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/feds-could-bring-charges-bahamas-disappearance-case-without-ever-finding-body-expert-says",
+      "title": "GOP can't agree on key part of Trump's housing affordability push as infighting continues",
+      "category": "Politics",
+      "what": "Trump urged Congress to pass housing affordability legislation, but House Republicans balked at the Senate bill and pitched a modified rival proposal.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/gop-cant-agree-key-part-trumps-housing-affordability-push-infighting-continues",
       "sources": [
         {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/feds-could-bring-charges-bahamas-disappearance-case-without-ever-finding-body-expert-says"
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/gop-cant-agree-key-part-trumps-housing-affordability-push-infighting-continues"
         }
       ]
     },
     {
-      "title": "Cuba has run out of diesel and oil, energy minister says",
+      "title": "Claude Code's product lead talks usage limits, transparency, and the \"lean harness\"",
+      "category": "Tech",
+      "what": "\"We have no grand plan,\" says Anthropic's Cat Wu—but that's by design.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/ai/2026/05/claude-codes-product-lead-talks-usage-limits-transparency-and-the-lean-harness/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/05/claude-codes-product-lead-talks-usage-limits-transparency-and-the-lean-harness/"
+        }
+      ]
+    },
+    {
+      "title": "New outbreak of Ebola kills 65 in eastern DR Congo",
       "category": "World",
-      "what": "The minister says the situation in Cuba is \"extremely tense\", as a US-led blockade of oil to the country causes widespread power cuts.",
+      "what": "Africa's top health agency says around 246 cases have been reported.",
       "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
       "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "What to know as Trump visits Xi in China",
-      "category": "World",
-      "what": "Trump has landed in Beijing for the first visit by a US leader since his own in 2017.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.com/news/articles/cyv2n7l1z14o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cyv2n7l1z14o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Watch: What happened on day one of Trump's China visit?",
-      "category": "World",
-      "what": "China welcomed US President Donald Trump with cheering children and a troop parade on Thursday, before a nearly two-hour long meeting with Xi-Jinping.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.com/news/videos/c707xn4ew3po?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/videos/c707xn4ew3po?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "'They shot my neighbour in the head' - the lakeside city traumatised by war",
-      "category": "World",
-      "what": "Rebel fighters and Rwandan troops are accused of committing atrocities after capturing the DR Congo city of Uvira in December.",
+      "title": "Israel, Jews targeted worldwide as well-funded leftist, Islamist groups join for ‘Nakba 78’ protests",
+      "category": "Politics",
+      "what": "About 425 anti-Israel groups are mobilizing coordinated Nakba 78 protests worldwide, with 736 events planned across 39 countries this weekend.",
       "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
       "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.bbc.com/news/articles/cy42dgj0x32o?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.foxnews.com/politics/israel-jews-targeted-worldwide-well-funded-leftist-islamist-groups-join-nakba-78-protests",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/israel-jews-targeted-worldwide-well-funded-leftist-islamist-groups-join-nakba-78-protests"
+        }
+      ]
+    },
+    {
+      "title": "Australia court doubles payout for trans woman in landmark discrimination case",
+      "category": "World",
+      "what": "Roxanne Tickle has been awarded AU$40,000 in damages for being kicked off the Giggle for Girls app.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.bbc.com/news/articles/cdjpzgppr7mo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cy42dgj0x32o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/cdjpzgppr7mo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "AG aims to retry Alex Murdaugh ‘quickly’; both sides enter courtroom chess match with each other’s game plans",
+      "title": "Criminal profiler reveals 'extremely rare' red flag in case of suspected serial killer migrant in Texas",
       "category": "U.S.",
-      "what": "AG Alan Wilson says South Carolina will retry Alex Murdaugh after the state Supreme Court threw out his murder convictions due to clerk misconduct.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/ag-aims-retry-alex-murdaugh-quickly-sides-enter-courtroom-chess-match-others-gameplans",
+      "what": "Criminal profiler warns suspected Texas serial killer migrant allegedly started killing at 18, calling it extremely rare and fearing additional victims.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.foxnews.com/us/criminal-profiler-reveals-extremely-rare-red-flag-case-suspected-serial-killer-migrant-texas",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/ag-aims-retry-alex-murdaugh-quickly-sides-enter-courtroom-chess-match-others-gameplans"
+          "url": "https://www.foxnews.com/us/criminal-profiler-reveals-extremely-rare-red-flag-case-suspected-serial-killer-migrant-texas"
         }
       ]
     },
     {
-      "title": "California death row inmates watching porn on taxpayer-funded tablets, evading security controls: report",
+      "title": "Bronx man convicted of running secret Chinese police station in Manhattan used to monitor dissidents",
       "category": "U.S.",
-      "what": "Condemned California prisoners reportedly watch pornography on taxpayer-funded tablets meant for education, according to inmates and news reports.",
+      "what": "A New York man was convicted of running a secret Chinese police station in Manhattan used to monitor dissidents, federal prosecutors said Wednesday.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/bronx-man-convicted-running-secret-chinese-police-station-manhattan-used-monitor-dissidents",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/bronx-man-convicted-running-secret-chinese-police-station-manhattan-used-monitor-dissidents"
+        }
+      ]
+    },
+    {
+      "title": "Five Italians die during cave scuba dive in Maldives",
+      "category": "World",
+      "what": "Four of the Italians were part of a team from the University of Genoa.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "India's Adanis agree to pay $18m to settle civil fraud case in the US",
+      "category": "World",
+      "what": "The US securities regulator had accused the Adanis of paying bribes and misleading investors, which they denied.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/c4g82p5ygp8o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c4g82p5ygp8o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Man shot at In-N-Out drive-thru drove family to safety with bullet lodged in head",
+      "category": "U.S.",
+      "what": "Oregon police arrested two men in connection with the shooting of a father struck by a bullet while pulling out of an In-N-Out drive-thru in February.",
       "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
       "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/california-death-row-inmates-watching-porn-taxpayer-funded-tablets-evading-security-controls",
+      "source": "https://www.foxnews.com/us/man-shot-in-n-out-drive-thru-drove-family-safety-bullet-lodged-head",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/california-death-row-inmates-watching-porn-taxpayer-funded-tablets-evading-security-controls"
+          "url": "https://www.foxnews.com/us/man-shot-in-n-out-drive-thru-drove-family-safety-bullet-lodged-head"
         }
       ]
     },
     {
-      "title": "Solar drone with jumbo jet wingspan broke a flight record—then it crashed",
+      "title": "Men use \"vocal fry\" more than women, counter to stereotype",
       "category": "Tech",
-      "what": "The final flight and complex legacy of a pioneering solar-powered aircraft.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/gadgets/2026/05/solar-drone-with-jumbo-jet-wingspan-broke-a-flight-record-then-it-crashed/",
+      "what": "Study suggests \"the bias is real but socially constructed, rather than grounded in how women actually sound.\"",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/science/2026/05/men-use-vocal-fry-more-than-women-counter-to-stereotype/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/05/solar-drone-with-jumbo-jet-wingspan-broke-a-flight-record-then-it-crashed/"
-        }
-      ]
-    },
-    {
-      "title": "FCC angers small carriers by helping AT&T and Starlink buy EchoStar spectrum",
-      "category": "Tech",
-      "what": "Approval is no surprise after FCC chair pressured EchoStar to sell licenses.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/tech-policy/2026/05/fcc-angers-small-carriers-by-helping-att-and-starlink-buy-echostar-spectrum/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/05/fcc-angers-small-carriers-by-helping-att-and-starlink-buy-echostar-spectrum/"
+          "url": "https://arstechnica.com/science/2026/05/men-use-vocal-fry-more-than-women-counter-to-stereotype/"
         }
       ]
     }
