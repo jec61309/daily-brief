@@ -1,94 +1,136 @@
 {
-  "date": "Friday, May 15, 2026",
+  "date": "Saturday, May 16, 2026",
   "stories": [
     {
-      "title": "Fox News Digital's News Quiz: May 15, 2026",
-      "category": "U.S.",
-      "what": "Test your knowledge of COVID-19 pandemic origins, a town losing its last casino and more trending headlines in this week's digital News Quiz challenge.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/fox-news-digitals-news-quiz-may-15-2026",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/fox-news-digitals-news-quiz-may-15-2026"
-        }
-      ]
-    },
-    {
-      "title": "Trump and Xi conclude 'very successful' talks but no deals announced",
+      "title": "Senior IS leader killed in joint operation, US and Nigeria say",
       "category": "World",
-      "what": "There were plenty of choreographed ceremonies but no trade breakthroughs after the two-day visit.",
+      "what": "President Donald Trump said the operation eliminated \"the most active terrorist in the world\", Abu-Bilal al-Minuki.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "The perfect commuter bike? Velotric's Discover 3 makes its case.",
-      "category": "Tech",
-      "what": "A customized mid-motor and Shimano's new Cues components are a winning combination.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/cars/2026/05/the-perfect-commuter-bike-velotrics-discover-3-makes-its-case/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/05/the-perfect-commuter-bike-velotrics-discover-3-makes-its-case/"
-        }
-      ]
-    },
-    {
-      "title": "Trump wraps widely-watched trip to China, departing on Air Force One after high-stakes Xi meeting",
-      "category": "Politics",
-      "what": "Summary not available yet.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/trump-wraps-widely-watched-trip-chin-departing-air-force-one-high-stakes-xi-meeting",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-wraps-widely-watched-trip-chin-departing-air-force-one-high-stakes-xi-meeting"
-        }
-      ]
-    },
-    {
-      "title": "GOP can't agree on key part of Trump's housing affordability push as infighting continues",
-      "category": "Politics",
-      "what": "Trump urged Congress to pass housing affordability legislation, but House Republicans balked at the Senate bill and pitched a modified rival proposal.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/gop-cant-agree-key-part-trumps-housing-affordability-push-infighting-continues",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/gop-cant-agree-key-part-trumps-housing-affordability-push-infighting-continues"
-        }
-      ]
-    },
-    {
-      "title": "Claude Code's product lead talks usage limits, transparency, and the \"lean harness\"",
-      "category": "Tech",
-      "what": "\"We have no grand plan,\" says Anthropic's Cat Wu—but that's by design.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/ai/2026/05/claude-codes-product-lead-talks-usage-limits-transparency-and-the-lean-harness/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/05/claude-codes-product-lead-talks-usage-limits-transparency-and-the-lean-harness/"
-        }
-      ]
-    },
-    {
-      "title": "New outbreak of Ebola kills 65 in eastern DR Congo",
+      "title": "Hamas confirms top commander killed in Israeli air strike",
       "category": "World",
-      "what": "Africa's top health agency says around 246 cases have been reported.",
+      "what": "Friday's strike is the latest launched by Israel on Gaza despite a ceasefire with Hamas.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Oklahoma woman discovers husband was a Canadian man who faked his death 37 years earlier in a barn fire",
+      "category": "U.S.",
+      "what": "An Oklahoma woman discovers her husband faked his death in Canada 37 years earlier, abandoning his wife and children before creating a new identity.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/oklahoma-woman-discovers-husband-canadian-man-faked-death-37-years-earlier-barn-fire",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/oklahoma-woman-discovers-husband-canadian-man-faked-death-37-years-earlier-barn-fire"
+        }
+      ]
+    },
+    {
+      "title": "Hunter Biden resurfaces in LA, reacts to questions about Biden tapes, UFO files",
+      "category": "Politics",
+      "what": "Hunter Biden was approached by a videographer in West Los Angeles and asked about litigation to force release of President Joe Biden's interview tapes.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/hunter-biden-resurfaces-la-reacts-questions-about-biden-tapes-ufo-files",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/hunter-biden-resurfaces-la-reacts-questions-about-biden-tapes-ufo-files"
+        }
+      ]
+    },
+    {
+      "title": "EXCLUSIVE VIDEO: Bishop Barron to address 'true threat to democracy' at Trump prayer event",
+      "category": "Politics",
+      "what": "Bishop Barron will address what he calls the marginalization of God at Trump's Rededicate 250 prayer event on the National Mall this Sunday.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/exclusive-video-bishop-barron-address-true-threat-democracy-trump-prayer-event",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/exclusive-video-bishop-barron-address-true-threat-democracy-trump-prayer-event"
+        }
+      ]
+    },
+    {
+      "title": "Long Island Rail Road workers go on strike, leaving 330,000 commuters without service on busiest US rail line",
+      "category": "U.S.",
+      "what": "The Long Island Rail Road strike leaves 330,000 daily commuters without service as unions and the MTA clash over a proposed fourth-year wage increase.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/long-island-rail-road-workers-go-strike-leaving-330000-commuters-without-service-busiest-us-rail-line",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/long-island-rail-road-workers-go-strike-leaving-330000-commuters-without-service-busiest-us-rail-line"
+        }
+      ]
+    },
+    {
+      "title": "After Indiana purge, Trump sets sights on Louisiana’s Bill Cassidy",
+      "category": "Politics",
+      "what": "Sen. Bill Cassidy fights for political survival in Louisiana's GOP primary as Trump and allies back Rep. Julia Letlow to unseat the incumbent.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/walkup-saturday-may-16-indiana-purge-trump-sets-sights-louisianas-bill-cassidy",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/walkup-saturday-may-16-indiana-purge-trump-sets-sights-louisianas-bill-cassidy"
+        }
+      ]
+    },
+    {
+      "title": "Man killed by 13ft great white shark in Western Australia",
+      "category": "World",
+      "what": "The man was bitten just before 10:00 (03:00 BST) at Horseshoe Reef - north-west of the popular Rottnest Island near the city of Perth, local police said.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.com/news/articles/c1m2xy3dr20o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c1m2xy3dr20o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
+      "category": "World",
+      "what": "The US president says he wants Beijing and Taipei to \"cool down\" tensions over the self-governing island.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "New outbreak of Ebola kills 80 in eastern DR Congo",
+      "category": "World",
+      "what": "Africa's top health agency says around 246 cases have been reported - a case has also been reported in Uganda.",
       "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
       "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
       "source": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss",
@@ -96,118 +138,80 @@
         {
           "name": "BBC World",
           "url": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Israel, Jews targeted worldwide as well-funded leftist, Islamist groups join for ‘Nakba 78’ protests",
-      "category": "Politics",
-      "what": "About 425 anti-Israel groups are mobilizing coordinated Nakba 78 protests worldwide, with 736 events planned across 39 countries this weekend.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.foxnews.com/politics/israel-jews-targeted-worldwide-well-funded-leftist-islamist-groups-join-nakba-78-protests",
-      "sources": [
+        },
         {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/israel-jews-targeted-worldwide-well-funded-leftist-islamist-groups-join-nakba-78-protests"
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/05/ebola-outbreak-confirmed-in-congo-and-uganda-246-suspected-cases-65-deaths/"
         }
       ]
     },
     {
-      "title": "Australia court doubles payout for trans woman in landmark discrimination case",
-      "category": "World",
-      "what": "Roxanne Tickle has been awarded AU$40,000 in damages for being kicked off the Giggle for Girls app.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.bbc.com/news/articles/cdjpzgppr7mo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cdjpzgppr7mo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Criminal profiler reveals 'extremely rare' red flag in case of suspected serial killer migrant in Texas",
+      "title": "Waymo driverless cars overrun Atlanta neighborhood, circling cul-de-sacs and alarming families with kids",
       "category": "U.S.",
-      "what": "Criminal profiler warns suspected Texas serial killer migrant allegedly started killing at 18, calling it extremely rare and fearing additional victims.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.foxnews.com/us/criminal-profiler-reveals-extremely-rare-red-flag-case-suspected-serial-killer-migrant-texas",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/criminal-profiler-reveals-extremely-rare-red-flag-case-suspected-serial-killer-migrant-texas"
-        }
-      ]
-    },
-    {
-      "title": "Bronx man convicted of running secret Chinese police station in Manhattan used to monitor dissidents",
-      "category": "U.S.",
-      "what": "A New York man was convicted of running a secret Chinese police station in Manhattan used to monitor dissidents, federal prosecutors said Wednesday.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/bronx-man-convicted-running-secret-chinese-police-station-manhattan-used-monitor-dissidents",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/bronx-man-convicted-running-secret-chinese-police-station-manhattan-used-monitor-dissidents"
-        }
-      ]
-    },
-    {
-      "title": "Five Italians die during cave scuba dive in Maldives",
-      "category": "World",
-      "what": "Four of the Italians were part of a team from the University of Genoa.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "India's Adanis agree to pay $18m to settle civil fraud case in the US",
-      "category": "World",
-      "what": "The US securities regulator had accused the Adanis of paying bribes and misleading investors, which they denied.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/c4g82p5ygp8o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c4g82p5ygp8o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Man shot at In-N-Out drive-thru drove family to safety with bullet lodged in head",
-      "category": "U.S.",
-      "what": "Oregon police arrested two men in connection with the shooting of a father struck by a bullet while pulling out of an In-N-Out drive-thru in February.",
+      "what": "Atlanta's Buckhead neighborhood was overrun by empty Waymo driverless cars circling through cul-de-sacs due to a routing behavior issue.",
       "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
       "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/man-shot-in-n-out-drive-thru-drove-family-safety-bullet-lodged-head",
+      "source": "https://www.foxnews.com/us/waymo-driverless-cars-overrun-atlanta-neighborhood-circling-cul-de-sacs-alarming-families-kids",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/man-shot-in-n-out-drive-thru-drove-family-safety-bullet-lodged-head"
+          "url": "https://www.foxnews.com/us/waymo-driverless-cars-overrun-atlanta-neighborhood-circling-cul-de-sacs-alarming-families-kids"
         }
       ]
     },
     {
-      "title": "Men use \"vocal fry\" more than women, counter to stereotype",
+      "title": "Fox News Campus Radicals Newsletter: Detransitioner drama, sex toy giveaways, shocking bathroom find",
+      "category": "U.S.",
+      "what": "Stay up to date with the Fox News Campus Radicals newsletter.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/fox-news-campus-radicals-newsletter-detransitioner-drama-sex-toy-giveaways-shocking-bathroom-find",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/fox-news-campus-radicals-newsletter-detransitioner-drama-sex-toy-giveaways-shocking-bathroom-find"
+        }
+      ]
+    },
+    {
+      "title": "Russia pressures university students to become wartime drone pilots",
       "category": "Tech",
-      "what": "Study suggests \"the bias is real but socially constructed, rather than grounded in how women actually sound.\"",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/science/2026/05/men-use-vocal-fry-more-than-women-counter-to-stereotype/",
+      "what": "Universities promise no frontline duty and perks if students enlist in military.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://arstechnica.com/gadgets/2026/05/russia-pressures-university-students-to-become-wartime-drone-pilots/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/05/men-use-vocal-fry-more-than-women-counter-to-stereotype/"
+          "url": "https://arstechnica.com/gadgets/2026/05/russia-pressures-university-students-to-become-wartime-drone-pilots/"
+        }
+      ]
+    },
+    {
+      "title": "Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval",
+      "category": "Tech",
+      "what": "Lawyers accused of rushing historic settlement to seize $320 million in fees.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/"
+        }
+      ]
+    },
+    {
+      "title": "US hantavirus case was false positive; outbreak cases drop from 11 to 10",
+      "category": "Tech",
+      "what": "WHO announced today that the operation to safely transfer passengers is complete.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/health/2026/05/us-hantavirus-case-was-false-positive-outbreak-cases-drop-from-11-to-10/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/05/us-hantavirus-case-was-false-positive-outbreak-cases-drop-from-11-to-10/"
         }
       ]
     }
