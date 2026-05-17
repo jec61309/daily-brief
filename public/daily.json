@@ -1,143 +1,45 @@
 {
-  "date": "Saturday, May 16, 2026",
+  "date": "Sunday, May 17, 2026",
   "stories": [
     {
-      "title": "Senior IS leader killed in joint operation, US and Nigeria say",
+      "title": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
       "category": "World",
-      "what": "President Donald Trump said the operation eliminated \"the most active terrorist in the world\", Abu-Bilal al-Minuki.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Hamas confirms top commander killed in Israeli air strike",
-      "category": "World",
-      "what": "Friday's strike is the latest launched by Israel on Gaza despite a ceasefire with Hamas.",
+      "what": "Ukraine's president says the strikes are a \"justified\" response to deadly Russian attacks on Ukrainian cities.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Oklahoma woman discovers husband was a Canadian man who faked his death 37 years earlier in a barn fire",
+      "title": "Air Force intel vet allegedly spiraled into Iran’s terror underworld: Timeline of deceit, hunt for spy suspect",
       "category": "U.S.",
-      "what": "An Oklahoma woman discovers her husband faked his death in Canada 37 years earlier, abandoning his wife and children before creating a new identity.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/oklahoma-woman-discovers-husband-canadian-man-faked-death-37-years-earlier-barn-fire",
+      "what": "The FBI offers a $200,000 reward for tips on Monica Witt, a former U.S. Air Force intelligence officer wanted on espionage charges tied to Iran.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/air-force-intel-vet-allegedly-spiraled-iran-terror-underworld-timeline-deceit-hunt-spy-suspect",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/oklahoma-woman-discovers-husband-canadian-man-faked-death-37-years-earlier-barn-fire"
+          "url": "https://www.foxnews.com/us/air-force-intel-vet-allegedly-spiraled-iran-terror-underworld-timeline-deceit-hunt-spy-suspect"
         }
       ]
     },
     {
-      "title": "Hunter Biden resurfaces in LA, reacts to questions about Biden tapes, UFO files",
-      "category": "Politics",
-      "what": "Hunter Biden was approached by a videographer in West Los Angeles and asked about litigation to force release of President Joe Biden's interview tapes.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/hunter-biden-resurfaces-la-reacts-questions-about-biden-tapes-ufo-files",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/hunter-biden-resurfaces-la-reacts-questions-about-biden-tapes-ufo-files"
-        }
-      ]
-    },
-    {
-      "title": "EXCLUSIVE VIDEO: Bishop Barron to address 'true threat to democracy' at Trump prayer event",
-      "category": "Politics",
-      "what": "Bishop Barron will address what he calls the marginalization of God at Trump's Rededicate 250 prayer event on the National Mall this Sunday.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/exclusive-video-bishop-barron-address-true-threat-democracy-trump-prayer-event",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/exclusive-video-bishop-barron-address-true-threat-democracy-trump-prayer-event"
-        }
-      ]
-    },
-    {
-      "title": "Long Island Rail Road workers go on strike, leaving 330,000 commuters without service on busiest US rail line",
-      "category": "U.S.",
-      "what": "The Long Island Rail Road strike leaves 330,000 daily commuters without service as unions and the MTA clash over a proposed fourth-year wage increase.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/long-island-rail-road-workers-go-strike-leaving-330000-commuters-without-service-busiest-us-rail-line",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/long-island-rail-road-workers-go-strike-leaving-330000-commuters-without-service-busiest-us-rail-line"
-        }
-      ]
-    },
-    {
-      "title": "After Indiana purge, Trump sets sights on Louisiana’s Bill Cassidy",
-      "category": "Politics",
-      "what": "Sen. Bill Cassidy fights for political survival in Louisiana's GOP primary as Trump and allies back Rep. Julia Letlow to unseat the incumbent.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/walkup-saturday-may-16-indiana-purge-trump-sets-sights-louisianas-bill-cassidy",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/walkup-saturday-may-16-indiana-purge-trump-sets-sights-louisianas-bill-cassidy"
-        }
-      ]
-    },
-    {
-      "title": "Man killed by 13ft great white shark in Western Australia",
+      "title": "WHO declares Ebola outbreak in DR Congo a global health emergency",
       "category": "World",
-      "what": "The man was bitten just before 10:00 (03:00 BST) at Horseshoe Reef - north-west of the popular Rottnest Island near the city of Perth, local police said.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/c1m2xy3dr20o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c1m2xy3dr20o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
-      "category": "World",
-      "what": "The US president says he wants Beijing and Taipei to \"cool down\" tensions over the self-governing island.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "New outbreak of Ebola kills 80 in eastern DR Congo",
-      "category": "World",
-      "what": "Africa's top health agency says around 246 cases have been reported - a case has also been reported in Uganda.",
+      "what": "The agency added that the outbreak, with around 246 cases and 80 deaths, does not meet the criteria of pandemic emergency.",
       "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
       "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Ars Technica",
@@ -146,30 +48,142 @@
       ]
     },
     {
-      "title": "Waymo driverless cars overrun Atlanta neighborhood, circling cul-de-sacs and alarming families with kids",
-      "category": "U.S.",
-      "what": "Atlanta's Buckhead neighborhood was overrun by empty Waymo driverless cars circling through cul-de-sacs due to a routing behavior issue.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/waymo-driverless-cars-overrun-atlanta-neighborhood-circling-cul-de-sacs-alarming-families-kids",
+      "title": "Man drives car into pedestrians in Italy, injuring eight",
+      "category": "World",
+      "what": "Eight people were injured, four seriously, before passers-by gave chase and stopped the man.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/waymo-driverless-cars-overrun-atlanta-neighborhood-circling-cul-de-sacs-alarming-families-kids"
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Fox News Campus Radicals Newsletter: Detransitioner drama, sex toy giveaways, shocking bathroom find",
+      "title": "Trump threatens to pull Boebert endorsement, calls congresswoman ‘weak minded’ over Massie support",
+      "category": "Politics",
+      "what": "President Trump blasted Rep. Lauren Boebert on Truth Social and threatened to endorse a challenger against her after she joined Rep. Thomas Massie for a campaign event.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/trump-threatens-pull-boebert-endorsement-calls-congresswoman-weak-minded-over-massie-support",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/trump-threatens-pull-boebert-endorsement-calls-congresswoman-weak-minded-over-massie-support"
+        }
+      ]
+    },
+    {
+      "title": "Trump celebrates after UN climate committee moves away from its most extreme global warming scenario",
+      "category": "Politics",
+      "what": "President Trump blasts Democratic climate policies after scientists move away from one of the most extreme UN-backed global warming scenarios.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/trump-celebrates-un-climate-committee-moves-away-extreme-global-warming-scenario",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/trump-celebrates-un-climate-committee-moves-away-extreme-global-warming-scenario"
+        }
+      ]
+    },
+    {
+      "title": "Trump-backed challenger defeats Republican senator who voted to convict president",
+      "category": "World",
+      "what": "Trump threw his full support behind Julia Letlow in Louisiana's high-stakes contest, branding the incumbent \"disloyal\".",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.com/news/articles/cx21d4pxq23o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cx21d4pxq23o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Trump scores major Republican primary victory as Cassidy ousted in Louisiana",
+      "category": "Politics",
+      "what": "Trump-backed Rep. Julia Letlow and Louisiana Treasurer John Fleming top Sen. Bill Cassidy, who is defeated in bid for GOP Senate nomination",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/trump-scores-major-republican-primary-victory-cassidy-ousted-louisiana-",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/trump-scores-major-republican-primary-victory-cassidy-ousted-louisiana-"
+        }
+      ]
+    },
+    {
+      "title": "Massachusetts governor asks US Navy to help retrieve bodies, evidence from sunken fishing vessel",
       "category": "U.S.",
-      "what": "Stay up to date with the Fox News Campus Radicals newsletter.",
+      "what": "Gov. Maura Healey asked the U.S. Navy to assist in the investigation of the Lily Jean sinking that killed seven crew members off the Massachusetts coast in January.",
       "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
       "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/fox-news-campus-radicals-newsletter-detransitioner-drama-sex-toy-giveaways-shocking-bathroom-find",
+      "source": "https://www.foxnews.com/us/massachusetts-governor-asks-us-navy-help-retrieve-bodies-evidence-sunken-fishing-vessel",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/fox-news-campus-radicals-newsletter-detransitioner-drama-sex-toy-giveaways-shocking-bathroom-find"
+          "url": "https://www.foxnews.com/us/massachusetts-governor-asks-us-navy-help-retrieve-bodies-evidence-sunken-fishing-vessel"
+        }
+      ]
+    },
+    {
+      "title": "Suspected drunk driver kills 2 pedestrians in violent chain-reaction crash on Manhattan's Upper West Side",
+      "category": "U.S.",
+      "what": "A suspected drunk driver allegedly killed two pedestrians and injured others in a violent chain-reaction crash near Amsterdam Avenue in Manhattan Friday.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/suspected-drunk-driver-kills-2-pedestrians-violent-chain-reaction-crash-manhattans-upper-west-side",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/suspected-drunk-driver-kills-2-pedestrians-violent-chain-reaction-crash-manhattans-upper-west-side"
+        }
+      ]
+    },
+    {
+      "title": "Hezbollah drone strike videos show evolving tactics against Israel",
+      "category": "World",
+      "what": "BBC Verify has examined dozens of videos of fibre-optic drone attacks carried out by the Lebanese armed group.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Masked suspect charged with using fuel, fireworks in Walmart kids section as cover for massive jewelry heist",
+      "category": "U.S.",
+      "what": "A NJ man allegedly sparked a massive fire inside a Maryland Walmart with camping fuel and fireworks to pull off a $10,000 jewelry heist, police said.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/masked-suspect-charged-using-fuel-fireworks-walmart-kids-section-cover-massive-jewelry-heist",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/masked-suspect-charged-using-fuel-fireworks-walmart-kids-section-cover-massive-jewelry-heist"
+        }
+      ]
+    },
+    {
+      "title": "The US is betting on AI to catch insider trading in prediction markets",
+      "category": "Tech",
+      "what": "The Commodity Futures Trading Commission wants us to know it's taking this very seriously.",
+      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
+      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
+      "source": "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/"
         }
       ]
     },
@@ -198,20 +212,6 @@
         {
           "name": "Ars Technica",
           "url": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/"
-        }
-      ]
-    },
-    {
-      "title": "US hantavirus case was false positive; outbreak cases drop from 11 to 10",
-      "category": "Tech",
-      "what": "WHO announced today that the operation to safely transfer passengers is complete.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/health/2026/05/us-hantavirus-case-was-false-positive-outbreak-cases-drop-from-11-to-10/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/health/2026/05/us-hantavirus-case-was-false-positive-outbreak-cases-drop-from-11-to-10/"
         }
       ]
     }
