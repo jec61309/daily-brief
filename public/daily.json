@@ -1,217 +1,213 @@
 {
-  "date": "Tuesday, May 19, 2026",
+  "date": "Wednesday, May 20, 2026",
   "stories": [
     {
-      "title": "'Ebola has tortured us': Fear as outbreak spreads faster than first thought",
+      "title": "Newsom’s ‘break the glass’ warning fuels Hilton accusation Democrats are exploiting jungle primary fears",
+      "category": "Politics",
+      "what": "Republican frontrunner Steve Hilton blasts Gov. Newsom for fearmongering, claims Democrats want to split GOP votes in California governor's race.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/newsoms-break-glass-warning-fuels-hilton-accusation-democrats-exploiting-jungle-primary-fears",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/newsoms-break-glass-warning-fuels-hilton-accusation-democrats-exploiting-jungle-primary-fears"
+        }
+      ]
+    },
+    {
+      "title": "More die of suspected Ebola as WHO warns that numbers will rise further",
       "category": "World",
-      "what": "Hundreds of cases are suspected in central Africa but experts fear the actual number may be much higher.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss",
+      "what": "In its latest update, the World Health Organization says there have now been 139 suspected deaths and 600 cases.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.bbc.com/news/articles/cwy2g197dp8o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/cwy2g197dp8o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "DHS, War Dept join probe into Singham network allegedly sowing discord in US",
-      "category": "Politics",
-      "what": "DHS and the Department of War have joined an interagency investigation into nonprofits allegedly tied to Marxist tech mogul Neville Roy Singham.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/politics/dhs-war-dept-join-probe-singham-network-allegedly-sowing-discord-us",
+      "title": "Xi basks in spotlight as he hosts Putin days after Trump",
+      "category": "World",
+      "what": "Two presidential visits days apart is how Xi Jinping wants the world to see him: talking to everyone, tied to no-one.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.com/news/articles/cjep12qx3xjo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/dhs-war-dept-join-probe-singham-network-allegedly-sowing-discord-us"
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cjep12qx3xjo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "GOP bill targets blue state for billions in COVID-era unemployment debt dumped on businesses",
-      "category": "Politics",
-      "what": "Rep. Vince Fong introduced legislation requiring California to repay its $21 billion unemployment debt before spending federal money on other programs.",
-      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
-      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
-      "source": "https://www.foxnews.com/politics/gop-bill-targets-blue-state-billions-covid-era-unemployment-debt-dumped-businesses",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/gop-bill-targets-blue-state-billions-covid-era-unemployment-debt-dumped-businesses"
-        }
-      ]
-    },
-    {
-      "title": "New York's 'wrong-headed' defendant-friendly laws helped toss Mangione evidence: retired cop",
-      "category": "U.S.",
-      "what": "Judge ruled Pennsylvania police conducted an unconstitutional search of Luigi Mangione's backpack, tossing key evidence in the murder case against him.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/new-york-wrong-headed-defendant-friendly-laws-helped-toss-mangione-evidence-retired-cop",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/new-york-wrong-headed-defendant-friendly-laws-helped-toss-mangione-evidence-retired-cop"
-        }
-      ]
-    },
-    {
-      "title": "Federal judge in New York ties Trump admin hands on arrests at immigration courts",
-      "category": "Politics",
-      "what": "Federal judge blocks ICE courthouse arrests at Manhattan immigration courts after government lawyers admitted making a material mistaken statement of fact.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/federal-judge-new-york-ties-trump-admin-hands-arrests-immigration-courts",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/federal-judge-new-york-ties-trump-admin-hands-arrests-immigration-courts"
-        }
-      ]
-    },
-    {
-      "title": "Six states hold high-stakes primary elections and more top headlines",
+      "title": "Kentucky voters deliver verdict on Thomas Massie and more top headlines",
       "category": "U.S.",
       "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/us/six-states-hold-high-stakes-primary-elections-more-top-headlines",
+      "source": "https://www.foxnews.com/us/kentucky-voters-deliver-verdict-thomas-massie-more-top-headlines",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/six-states-hold-high-stakes-primary-elections-more-top-headlines"
-        },
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-targets-massie-explosive-kentucky-showdown-six-states-hold-high-stakes-primaries"
+          "url": "https://www.foxnews.com/us/kentucky-voters-deliver-verdict-thomas-massie-more-top-headlines"
         }
       ]
     },
     {
-      "title": "Murdaugh defense fights over death penalty, venue change and evidence – what could change in second trial",
+      "title": "Auburn grad’s family blames gunmaker, boyfriend’s father in shooting weeks after she landed dream job",
       "category": "U.S.",
-      "what": "Alex Murdaugh's murder retrial takes shape as prosecutors consider the death penalty and defense attorneys push for a venue change and new jury rules.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/murdaugh-defense-fights-death-penalty-venue-change-evidence-could-change-second-trial",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/murdaugh-defense-fights-death-penalty-venue-change-evidence-could-change-second-trial"
-        }
-      ]
-    },
-    {
-      "title": "Victim or enabler? Epstein girlfriend who could face questions despite plea deal",
-      "category": "World",
-      "what": "Nadia Marcinko is relatively unknown but may soon be called before US legislators.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/cz92j3n3jvvo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cz92j3n3jvvo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Selling children to survive: Afghan fathers forced to make impossible choices",
-      "category": "World",
-      "what": "In Afghanistan today, a staggering three in four people cannot meet their basic needs.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Two bodies of missing Italians recovered from inside Maldives cave",
-      "category": "World",
-      "what": "The two were among four divers located in the furthest chamber in the cave and their bodies were recovered by specialist divers.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/cpdp6y37zn6o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cpdp6y37zn6o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Jackson Pollock painting sells for record $181m at auction",
-      "category": "World",
-      "what": "The Abstract Expressionist's Number 7A, 1948 painting is now his most expensive artwork ever sold at auction.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/crkp777llgko?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/crkp777llgko?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Former Virginia assistant principal on trial after allegedly ignoring warnings before 6-year-old shot teacher",
-      "category": "U.S.",
-      "what": "Former Virginia assistant principal Ebony Parker is on trial for allegedly ignoring warnings before a 6-year-old shot teacher Abby Zwerner in 2023.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.foxnews.com/us/former-virginia-assistant-principal-trial-allegedly-ignoring-warnings-before-6-year-old-shot-teacher",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/former-virginia-assistant-principal-trial-allegedly-ignoring-warnings-before-6-year-old-shot-teacher"
-        }
-      ]
-    },
-    {
-      "title": "Legal fail: Don’t use AI to sue Facebook users for calling you a bad date",
-      "category": "Tech",
-      "what": "Fake citations dashed a dude’s “Are We Dating the Same Guy” revenge lawsuit.",
+      "what": "Jeffrey Towers, charged with manslaughter in the shooting death of Auburn graduate Whitney Robeson, now faces a wrongful death lawsuit from her parents.",
       "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
       "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://arstechnica.com/tech-policy/2026/05/legal-fail-dont-use-ai-to-sue-facebook-users-for-calling-you-a-bad-date/",
+      "source": "https://www.foxnews.com/us/auburn-grads-family-blames-gunmaker-boyfriends-father-shooting-weeks-landed-dream-job",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/05/legal-fail-dont-use-ai-to-sue-facebook-users-for-calling-you-a-bad-date/"
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/auburn-grads-family-blames-gunmaker-boyfriends-father-shooting-weeks-landed-dream-job"
         }
       ]
     },
     {
-      "title": "One Mars spacecraft, two senators, and a cloud of questions",
+      "title": "The Internet can't stop watching Figure AI's humanoid robots handling packages",
       "category": "Tech",
-      "what": "\"I think there's plenty of fire lit under them already.\"",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://arstechnica.com/space/2026/05/one-mars-spacecraft-two-senators-and-a-cloud-of-questions/",
+      "what": "Figure AI's 24/7 livestream showcases human soft spot for humanoid robots.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/ai/2026/05/the-internet-cant-stop-watching-figure-ais-humanoid-robots-handling-packages/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/05/one-mars-spacecraft-two-senators-and-a-cloud-of-questions/"
+          "url": "https://arstechnica.com/ai/2026/05/the-internet-cant-stop-watching-figure-ais-humanoid-robots-handling-packages/"
         }
       ]
     },
     {
-      "title": "Australian Aboriginals cared for a dingo's grave for decades",
+      "title": "Lithuania's leaders take shelter during drone air alert",
+      "category": "World",
+      "what": "Flights were suspended and people were urged to take shelter after a suspected drone was detected near the Belarus border.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.com/news/articles/c9d3vpqqqpeo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c9d3vpqqqpeo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "MTG says GOP's future 'destroyed' after Trump-backed primary challenger defeats Thomas Massie",
+      "category": "Politics",
+      "what": "Former House lawmaker Marjorie Taylor Greene and others reacted online after Rep. Thomas Massie lost a Republican primary contest to Ed Gallrein.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/thomas-massie-primary-loss-ed-gallrein-mtg",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/thomas-massie-primary-loss-ed-gallrein-mtg"
+        }
+      ]
+    },
+    {
+      "title": "Trump admin accuses Hamas of backing Gaza flotilla, sanctions activist and Muslim Brotherhood networks",
+      "category": "Politics",
+      "what": "The Trump administration accuses Hamas of backing a Gaza flotilla and sanctions several organizers tied to the effort and related activist networks.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/trump-admin-accuses-hamas-backing-gaza-flotilla-sanctions-activist-muslim-brotherhood-networks",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/trump-admin-accuses-hamas-backing-gaza-flotilla-sanctions-activist-muslim-brotherhood-networks"
+        }
+      ]
+    },
+    {
+      "title": "Chicago cop killing suspect allegedly preyed on ‘joke of a system’ costing officers their lives: city leader",
+      "category": "U.S.",
+      "what": "Alphanso Talley faces court Wednesday after allegedly killing a Chicago police officer and shooting another while in hospital custody last month.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/chicago-cop-killing-suspect-allegedly-preyed-joke-system-costing-officers-lives-city-leader",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/chicago-cop-killing-suspect-allegedly-preyed-joke-system-costing-officers-lives-city-leader"
+        }
+      ]
+    },
+    {
+      "title": "Trump exerts iron grip on Republican Party with Massie defeated",
+      "category": "World",
+      "what": "Victory over a Republican rebel in Kentucky shows the president's strength but his power comes with risks for the midterms.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.com/news/articles/cdjpng88d2vo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cdjpng88d2vo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Nigeria arrests former minister in hiding after corruption conviction",
+      "category": "World",
+      "what": "The former power minister was sentenced to 75 years in jail in absentia earlier this month.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.com/news/articles/cdjpn378mvvo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cdjpn378mvvo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Moose-proof and megacasting: Ars drives the new Volvo EX60",
       "category": "Tech",
-      "what": "For some ancient Aboriginal Australian communities, dingoes were part of the family.",
+      "what": "Volvo is coming for its competitors with more efficient production and newer tech.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/cars/2026/05/moose-proof-and-megacasting-ars-drives-the-new-volvo-ex60/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/cars/2026/05/moose-proof-and-megacasting-ars-drives-the-new-volvo-ex60/"
+        }
+      ]
+    },
+    {
+      "title": "DHS blasts California sanctuary policies after jail releases illegal immigrant accused in hit-and-run",
+      "category": "U.S.",
+      "what": "Federal officials criticize California sanctuary policies after ICE agents arrest an illegal immigrant charged in a felony hit-and-run crash that injured a little boy.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/dhs-blasts-california-sanctuary-policies-after-jail-releases-illegal-immigrant-accused-hit-and-run",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/dhs-blasts-california-sanctuary-policies-after-jail-releases-illegal-immigrant-accused-hit-and-run"
+        }
+      ]
+    },
+    {
+      "title": "FBI seeks US-wide access to license plate cameras, wants \"data in near real time\"",
+      "category": "Tech",
+      "what": "FBI will pay vendors to help it track and search for vehicles nationwide.",
       "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
       "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/science/2026/05/1000-year-old-burial-reveals-close-bonds-between-people-and-dingoes/",
+      "source": "https://arstechnica.com/tech-policy/2026/05/fbi-seeks-us-wide-access-to-license-plate-cameras-wants-data-in-near-real-time/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/05/1000-year-old-burial-reveals-close-bonds-between-people-and-dingoes/"
+          "url": "https://arstechnica.com/tech-policy/2026/05/fbi-seeks-us-wide-access-to-license-plate-cameras-wants-data-in-near-real-time/"
         }
       ]
     }
