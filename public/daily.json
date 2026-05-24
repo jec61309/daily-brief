@@ -1,8 +1,124 @@
 {
-  "date": "Saturday, May 23, 2026",
+  "date": "Sunday, May 24, 2026",
   "stories": [
     {
-      "title": "At least 90 killed in Chinese coal mine explosion, state media reports",
+      "title": "Dr. Janette Nesheiwat takes new role at Walter Reed treating Havana Syndrome: 'A profound honor'",
+      "category": "Politics",
+      "what": "Former U.S. surgeon general nominee Dr. Janette Nesheiwat is now caring for U.S. service members and veterans at Walter Reed National Military Medical Center.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.foxnews.com/politics/dr-janette-nesheiwat-takes-new-role-walter-reed-treating-havana-syndrome-profound-honor",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/dr-janette-nesheiwat-takes-new-role-walter-reed-treating-havana-syndrome-profound-honor"
+        }
+      ]
+    },
+    {
+      "title": "Agitators united by Chinese money, hate for America target data centers, experts warn",
+      "category": "Politics",
+      "what": "Experts warn climate activists, anti-Israel protesters and other movements have formed an anti-American alliance now targeting U.S. AI infrastructure.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/politics/agitators-united-chinese-money-hate-america-target-data-centers-experts-warn",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/agitators-united-chinese-money-hate-america-target-data-centers-experts-warn"
+        }
+      ]
+    },
+    {
+      "title": "Family of shooting survivor says 'defamatory' true-crime doc painted Olympic equestrian shooter as real victim",
+      "category": "U.S.",
+      "what": "Family of NJ woman shot by Olympic equestrian trainer condemns Netflix and 48 Hours documentaries, alleging biased coverage favoring her attacker.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/family-shooting-survivor-says-defamatory-true-crime-doc-painted-olympic-equestrian-shooter-real-victim",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/family-shooting-survivor-says-defamatory-true-crime-doc-painted-olympic-equestrian-shooter-real-victim"
+        }
+      ]
+    },
+    {
+      "title": "Platner’s online past gets raunchier with crude takes on ‘Latin American hookers,’ cheating abroad",
+      "category": "Politics",
+      "what": "Deleted Reddit posts show Maine Democratic Senate candidate Graham Platner discussing prostitution and defending men who cheat on spouses overseas.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/platners-online-past-gets-raunchier-crude-takes-latin-american-hookers-cheating-abroad",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/platners-online-past-gets-raunchier-crude-takes-latin-american-hookers-cheating-abroad"
+        }
+      ]
+    },
+    {
+      "title": "Blast targeting train kills at least 20 in Pakistan",
+      "category": "World",
+      "what": "Officials say the train had been transporting military personnel home for Eid when it was attacked by armed separatists.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "28 Boy Scouts rescued from fast-moving floodwaters during river trip in West Virginia",
+      "category": "U.S.",
+      "what": "A routine Boy Scout river trip turned into a rescue mission when floodwaters trapped 28 scouts along the Cacapon River in West Virginia Saturday.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/28-boy-scouts-rescued-from-fast-moving-floodwaters-during-river-trip-west-virginia",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/28-boy-scouts-rescued-from-fast-moving-floodwaters-during-river-trip-west-virginia"
+        }
+      ]
+    },
+    {
+      "title": "Man killed in shark attack off Australia's north-east coast",
+      "category": "World",
+      "what": "The 39-year-old was fatally injured while swimming out at a shoal off the Cassowary Coast in Queensland.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Suspect killed after opening fire on Secret Service near White House",
+      "category": "World",
+      "what": "Officials say a suspect approached a checkpoint near the building and opened fire, and that a bystander was wounded.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/white-house-lockdown-after-shots-fired-reported-near-executive-mansion"
+        }
+      ]
+    },
+    {
+      "title": "At least 82 killed in Chinese coal mine explosion",
       "category": "World",
       "what": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years.",
       "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
@@ -16,156 +132,76 @@
       ]
     },
     {
-      "title": "Platner’s brutal attacks on Army soldiers as ‘fat, lazy’ revealed in resurfaced posts",
-      "category": "Politics",
-      "what": "Democratic Maine Senate hopeful Graham Platner described the Army as \"absolute trash\" and \"full of fat, lazy trash\" in deleted Reddit posts.",
+      "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
+      "category": "World",
+      "what": "Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/platners-brutal-attacks-army-soldiers-fat-lazy-revealed-resurfaced-posts",
+      "source": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
       "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss"
+        },
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/platners-brutal-attacks-army-soldiers-fat-lazy-revealed-resurfaced-posts"
+          "url": "https://www.foxnews.com/politics/trump-says-iran-deal-largely-negotiated-84-day-war-nears-possible-end"
         }
       ]
     },
     {
-      "title": "Man found naked behind Burger King with amnesia may have concealed mysterious past for decades",
+      "title": "Newsom declares state of emergency in Orange County as failing chemical tank nears catastrophic explosion",
       "category": "U.S.",
-      "what": "Filmmakers probe the mystery of Benjaman Kyle found unconscious behind a Georgia Burger King in 2004, raising questions about his missing 21-year gap.",
+      "what": "Emergency crews launch overnight mission to neutralize a volatile chemical tank at a Southern California aerospace facility in Garden Grove as Gov. Gavin Newsom declares state of emergency.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/man-found-naked-behind-burger-king-amnesia-may-concealed-mysterious-past-decades",
+      "source": "https://www.foxnews.com/us/newsom-declares-state-emergency-orange-county-failing-chemical-tank-nears-catastrophic-explosion",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/man-found-naked-behind-burger-king-amnesia-may-concealed-mysterious-past-decades"
+          "url": "https://www.foxnews.com/us/newsom-declares-state-emergency-orange-county-failing-chemical-tank-nears-catastrophic-explosion"
         }
       ]
     },
     {
-      "title": "Havana regime in suspense after Castro indictment with Trump pressure on, says Cuban-born GOP Rep.",
-      "category": "Politics",
-      "what": "Rep. Gimenez says Castro's indictment sparks regime paranoia, adding that Trump is letting pressure percolate while drawing up contingency plans.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/havana-regime-suspense-after-castro-indictment-trump-pressure-on-says-cuban-born-gop-rep",
+      "title": "SpaceX's Starship V3—still a work in progress—mostly successful on first flight",
+      "category": "Tech",
+      "what": "SpaceX has more to prove before flying Starship all the way to low-Earth orbit.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/space/2026/05/spacexs-starship-v3-still-a-work-in-progress-mostly-successful-on-first-flight/",
       "sources": [
         {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/havana-regime-suspense-after-castro-indictment-trump-pressure-on-says-cuban-born-gop-rep"
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/05/spacexs-starship-v3-still-a-work-in-progress-mostly-successful-on-first-flight/"
         }
       ]
     },
     {
-      "title": "Ohioans helping search for undocumented Revolutionary War soldiers as part of America 250 celebration",
+      "title": "Magnitude 6.0 earthquake rocks Hawaii's Big Island; Kilauea volcano likely to erupt again in days",
       "category": "U.S.",
-      "what": "Ohio's State Preservation Office is trying to locate the graves of 7,000 Revolutionary War heroes before Memorial Day by using an app to document sites at cemeteries.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.foxnews.com/us/ohioans-helping-search-undocumented-revolutionary-war-soldiers-part-america-250-celebration",
+      "what": "The USGS reports a 6.0 magnitude earthquake rocked Hawaii's Big Island Friday night near Hōnaunau-Nāpōʻopoʻo amid ongoing Kilauea volcano monitoring.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/magnitude-60-earthquake-rocks-hawaiis-big-island-kilauea-volcano-expected-erupt-days",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/ohioans-helping-search-undocumented-revolutionary-war-soldiers-part-america-250-celebration"
+          "url": "https://www.foxnews.com/us/magnitude-60-earthquake-rocks-hawaiis-big-island-kilauea-volcano-expected-erupt-days"
         }
       ]
     },
     {
-      "title": "Senegal's president sacks prime minister Sonko after months of tensions",
-      "category": "World",
-      "what": "Bassirou Diomaye Faye also dissolved the government, creating uncertainty amid a debt crisis in the country.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/c202jwpd24go?at_medium=RSS&at_campaign=rss",
+      "title": "Two space shuttle-era spacewalkers enter Astronaut Hall of Fame",
+      "category": "Tech",
+      "what": "\"Two astronauts whose careers embody excellence, leadership, and service.\"",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/space/2026/05/two-space-shuttle-era-spacewalkers-enter-astronaut-hall-of-fame/",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c202jwpd24go?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Gaza flotilla activists allege abuse by Israeli forces while detained",
-      "category": "World",
-      "what": "The detainees say they were slapped, hit, humiliated and even subjected to sexual violence, but Israel's prison service says the allegations are false.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "WATCH: House Dems unload on Texas Democrat over ‘demented’ antisemitic comments",
-      "category": "Politics",
-      "what": "House Democrats distance themselves from Maureen Galindo after her remarks about turning ICE detention centers into prisons drew antisemitism claims.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/watch-house-dems-unload-galindo-demented-antisemitic-comments",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/watch-house-dems-unload-galindo-demented-antisemitic-comments"
-        }
-      ]
-    },
-    {
-      "title": "Feds seize $6.4M worth of cocaine aboard oil tanker at Port of Los Angeles, arrest suspected cartel smuggler",
-      "category": "U.S.",
-      "what": "A suspected drug smuggler was arrested after federal agents allegedly discovered $6.4 million worth of cocaine aboard an oil tanker in California.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/feds-seize-64-million-worth-cocaine-aboard-oil-tanker-port-los-angeles-arrest-suspected-cartel-smuggler",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/feds-seize-64-million-worth-cocaine-aboard-oil-tanker-port-los-angeles-arrest-suspected-cartel-smuggler"
-        }
-      ]
-    },
-    {
-      "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
-      "category": "World",
-      "what": "Ukraine says it struck Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Rubio visits India to sell energy as Iran oil shock persists",
-      "category": "World",
-      "what": "The top US diplomat has made statements offering to support India’s energy needs - but should Delhi give in?",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "'Illicit' version of fentanyl linked to deadly New Mexico incident that sickened first responders",
-      "category": "U.S.",
-      "what": "A mystery substance that hospitalized over a dozen first responders in New Mexico has been identified as fentanyl after three people died at the scene.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/illicit-version-fentanyl-linked-deadly-new-mexico-incident-sickened-first-responders",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/illicit-version-fentanyl-linked-deadly-new-mexico-incident-sickened-first-responders"
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/05/two-space-shuttle-era-spacewalkers-enter-astronaut-hall-of-fame/"
         }
       ]
     },
@@ -180,34 +216,6 @@
         {
           "name": "Ars Technica",
           "url": "https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/"
-        }
-      ]
-    },
-    {
-      "title": "Ebola outbreak now third largest recorded and \"spreading rapidly\"",
-      "category": "Tech",
-      "what": "Ebola outbreak risk level increased as deaths reach 177 with nearly 750 cases.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/health/2026/05/ebola-outbreak-now-third-largest-recorded-and-spreading-rapidly/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/health/2026/05/ebola-outbreak-now-third-largest-recorded-and-spreading-rapidly/"
-        }
-      ]
-    },
-    {
-      "title": "First-generation Chromecast users stressed by devices suddenly failing",
-      "category": "Tech",
-      "what": "Google tells Ars it fixed the first-gen Chromecast bug.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/gadgets/2026/05/original-chromecast-lives-devices-back-on-after-mysteriously-breaking-this-week/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/05/original-chromecast-lives-devices-back-on-after-mysteriously-breaking-this-week/"
         }
       ]
     }
