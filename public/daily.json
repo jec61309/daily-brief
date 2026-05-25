@@ -1,221 +1,213 @@
 {
-  "date": "Sunday, May 24, 2026",
+  "date": "Monday, May 25, 2026",
   "stories": [
     {
-      "title": "Dr. Janette Nesheiwat takes new role at Walter Reed treating Havana Syndrome: 'A profound honor'",
-      "category": "Politics",
-      "what": "Former U.S. surgeon general nominee Dr. Janette Nesheiwat is now caring for U.S. service members and veterans at Walter Reed National Military Medical Center.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.foxnews.com/politics/dr-janette-nesheiwat-takes-new-role-walter-reed-treating-havana-syndrome-profound-honor",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/dr-janette-nesheiwat-takes-new-role-walter-reed-treating-havana-syndrome-profound-honor"
-        }
-      ]
-    },
-    {
-      "title": "Agitators united by Chinese money, hate for America target data centers, experts warn",
-      "category": "Politics",
-      "what": "Experts warn climate activists, anti-Israel protesters and other movements have formed an anti-American alliance now targeting U.S. AI infrastructure.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/politics/agitators-united-chinese-money-hate-america-target-data-centers-experts-warn",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/agitators-united-chinese-money-hate-america-target-data-centers-experts-warn"
-        }
-      ]
-    },
-    {
-      "title": "Family of shooting survivor says 'defamatory' true-crime doc painted Olympic equestrian shooter as real victim",
-      "category": "U.S.",
-      "what": "Family of NJ woman shot by Olympic equestrian trainer condemns Netflix and 48 Hours documentaries, alleging biased coverage favoring her attacker.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/family-shooting-survivor-says-defamatory-true-crime-doc-painted-olympic-equestrian-shooter-real-victim",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/family-shooting-survivor-says-defamatory-true-crime-doc-painted-olympic-equestrian-shooter-real-victim"
-        }
-      ]
-    },
-    {
-      "title": "Platner’s online past gets raunchier with crude takes on ‘Latin American hookers,’ cheating abroad",
-      "category": "Politics",
-      "what": "Deleted Reddit posts show Maine Democratic Senate candidate Graham Platner discussing prostitution and defending men who cheat on spouses overseas.",
+      "title": "Oil prices slide on hopes of US-Iran peace deal",
+      "category": "World",
+      "what": "Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/platners-online-past-gets-raunchier-crude-takes-latin-american-hookers-cheating-abroad",
+      "source": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/platners-online-past-gets-raunchier-crude-takes-latin-american-hookers-cheating-abroad"
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Blast targeting train kills at least 20 in Pakistan",
+      "title": "US's big bet on quantum computing may not be entirely legal",
+      "category": "Tech",
+      "what": "Deal also launched the first quantum foundry company, but is there a need for it?",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/"
+        }
+      ]
+    },
+    {
+      "title": "I spent years forcing myself to finish The Witcher 3—don't repeat my mistake",
+      "category": "Tech",
+      "what": "Consensus and genre labels aren't reliable predictors of what you'll enjoy.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/gaming/2026/05/the-witcher-3-is-a-good-game-but-that-doesnt-mean-you-have-to-like-it/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gaming/2026/05/the-witcher-3-is-a-good-game-but-that-doesnt-mean-you-have-to-like-it/"
+        }
+      ]
+    },
+    {
+      "title": "Deal with US not imminent, Iran says",
       "category": "World",
-      "what": "Officials say the train had been transporting military personnel home for Eid when it was attacked by armed separatists.",
+      "what": "The US secretary of state earlier said that an agreement could possibly come on Monday.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "28 Boy Scouts rescued from fast-moving floodwaters during river trip in West Virginia",
-      "category": "U.S.",
-      "what": "A routine Boy Scout river trip turned into a rescue mission when floodwaters trapped 28 scouts along the Cacapon River in West Virginia Saturday.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/28-boy-scouts-rescued-from-fast-moving-floodwaters-during-river-trip-west-virginia",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/28-boy-scouts-rescued-from-fast-moving-floodwaters-during-river-trip-west-virginia"
-        }
-      ]
-    },
-    {
-      "title": "Man killed in shark attack off Australia's north-east coast",
+      "title": "Clashes as Venezuelan prisoners protest over alleged mistreatment",
       "category": "World",
-      "what": "The 39-year-old was fatally injured while swimming out at a shoal off the Cassowary Coast in Queensland.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Suspect killed after opening fire on Secret Service near White House",
-      "category": "World",
-      "what": "Officials say a suspect approached a checkpoint near the building and opened fire, and that a bystander was wounded.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/white-house-lockdown-after-shots-fired-reported-near-executive-mansion"
-        }
-      ]
-    },
-    {
-      "title": "At least 82 killed in Chinese coal mine explosion",
-      "category": "World",
-      "what": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years.",
+      "what": "The prisoners insisted their protest was peaceful but that security forces deployed to quell it opened fire.",
       "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
       "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.com/news/articles/c0l22wrx44po?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/c0l22wrx44po?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
+      "title": "Senegal's leadership row mounts as parliament speaker resigns",
       "category": "World",
-      "what": "Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.",
+      "what": "Some speculate that El Malick Ndiaye stepped down so that ousted-PM Ousmane Sonko can take his place.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/c87qq07l1d8o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c87qq07l1d8o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Vets torch Dem Senate hopeful who called Army ‘fat, lazy trash,’ mocked soldier shot four times",
+      "category": "Politics",
+      "what": "Combat veterans and GOP senators denounce Democratic Senate candidate Graham Platner for calling soldiers trash and mocking a Purple Heart recipient.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.foxnews.com/politics/vets-torch-dem-senate-hopeful-who-called-army-fat-lazy-trash-mocked-soldier-shot-four-times",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/vets-torch-dem-senate-hopeful-who-called-army-fat-lazy-trash-mocked-soldier-shot-four-times"
+        }
+      ]
+    },
+    {
+      "title": "Omar confronted on camera over GOP proposal targeting foreign-born lawmakers: ‘Good luck to her’",
+      "category": "Politics",
+      "what": "Rep. Ilhan Omar responds to Rep. Nancy Mace's proposed constitutional amendment that would bar foreign-born individuals from serving in Congress.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/omar-confronted-camera-gop-proposal-targeting-foreign-born-lawmakers-good-luck",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/omar-confronted-camera-gop-proposal-targeting-foreign-born-lawmakers-good-luck"
+        }
+      ]
+    },
+    {
+      "title": "UFO insider claims US has bodies of 4 different alien species from downed spacecraft in government custody",
+      "category": "U.S.",
+      "what": "Dr. Hal Puthoff claims the U.S. has recovered remains of four separate species of alien life from UFOs, citing people involved in the recoveries.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/ufo-insider-claims-us-bodies-4-different-alien-species-downed-spacecraft-government-custody",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/ufo-insider-claims-us-bodies-4-different-alien-species-downed-spacecraft-government-custody"
+        }
+      ]
+    },
+    {
+      "title": "EXCLUSIVE VIDEO: Marine vet prosecutor refuses to cross constitutional line on Spanberger ‘assault weapon' ban",
+      "category": "Politics",
+      "what": "Virginia prosecutor Ryan Mehaffey refuses to enforce Gov. Spanberger's new assault weapons ban, arguing it violates Second Amendment protections.",
+      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
+      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
+      "source": "https://www.foxnews.com/politics/exclusive-video-marine-vet-prosecutor-refuses-cross-constitutional-line-spanberger-assault-weapon-ban",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/exclusive-video-marine-vet-prosecutor-refuses-cross-constitutional-line-spanberger-assault-weapon-ban"
+        }
+      ]
+    },
+    {
+      "title": "Anger grows after China's deadliest coal mining disaster in years",
+      "category": "World",
+      "what": "On China's tightly-controlled internet, people are calling for justice and questioning how this happened.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.bbc.com/news/articles/c893543gn20o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-says-iran-deal-largely-negotiated-84-day-war-nears-possible-end"
+          "url": "https://www.bbc.com/news/articles/c893543gn20o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Newsom declares state of emergency in Orange County as failing chemical tank nears catastrophic explosion",
+      "title": "Baby pulled from vehicle trapped in raging floodwaters in dramatic rescue caught on video",
       "category": "U.S.",
-      "what": "Emergency crews launch overnight mission to neutralize a volatile chemical tank at a Southern California aerospace facility in Garden Grove as Gov. Gavin Newsom declares state of emergency.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/newsom-declares-state-emergency-orange-county-failing-chemical-tank-nears-catastrophic-explosion",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/newsom-declares-state-emergency-orange-county-failing-chemical-tank-nears-catastrophic-explosion"
-        }
-      ]
-    },
-    {
-      "title": "SpaceX's Starship V3—still a work in progress—mostly successful on first flight",
-      "category": "Tech",
-      "what": "SpaceX has more to prove before flying Starship all the way to low-Earth orbit.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/space/2026/05/spacexs-starship-v3-still-a-work-in-progress-mostly-successful-on-first-flight/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/05/spacexs-starship-v3-still-a-work-in-progress-mostly-successful-on-first-flight/"
-        }
-      ]
-    },
-    {
-      "title": "Magnitude 6.0 earthquake rocks Hawaii's Big Island; Kilauea volcano likely to erupt again in days",
-      "category": "U.S.",
-      "what": "The USGS reports a 6.0 magnitude earthquake rocked Hawaii's Big Island Friday night near Hōnaunau-Nāpōʻopoʻo amid ongoing Kilauea volcano monitoring.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/magnitude-60-earthquake-rocks-hawaiis-big-island-kilauea-volcano-expected-erupt-days",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/magnitude-60-earthquake-rocks-hawaiis-big-island-kilauea-volcano-expected-erupt-days"
-        }
-      ]
-    },
-    {
-      "title": "Two space shuttle-era spacewalkers enter Astronaut Hall of Fame",
-      "category": "Tech",
-      "what": "\"Two astronauts whose careers embody excellence, leadership, and service.\"",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/space/2026/05/two-space-shuttle-era-spacewalkers-enter-astronaut-hall-of-fame/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/05/two-space-shuttle-era-spacewalkers-enter-astronaut-hall-of-fame/"
-        }
-      ]
-    },
-    {
-      "title": "Four Russian satellites are now within striking distance of an ICEYE radarsat",
-      "category": "Tech",
-      "what": "\"This capability is not common for satellites conducting typical missions.\"",
+      "what": "A dramatic rescue unfolded in Beeville, Texas, as an officer pulled a baby from a vehicle being swept toward a creek by rising floodwaters Saturday.",
       "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
       "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/",
+      "source": "https://www.foxnews.com/us/baby-pulled-vehicle-trapped-raging-floodwaters-dramatic-rescue-caught-video",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/baby-pulled-vehicle-trapped-raging-floodwaters-dramatic-rescue-caught-video"
+        }
+      ]
+    },
+    {
+      "title": "Teen sailor killed aboard USS West Virginia at Pearl Harbor identified after 82 years through DNA analysis",
+      "category": "U.S.",
+      "what": "The remains of Fireman Third Class Royle Luker, killed during the 1941 Pearl Harbor attack, are returning to Arkansas for burial with military honors.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/teen-sailor-killed-aboard-uss-west-virginia-pearl-harbor-identified-82-years-dna-analysis",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/teen-sailor-killed-aboard-uss-west-virginia-pearl-harbor-identified-82-years-dna-analysis"
+        }
+      ]
+    },
+    {
+      "title": "Stampede erupts at South Carolina biker festival, 19 injured in late-night chaos",
+      "category": "U.S.",
+      "what": "Nineteen people were injured on Sunday in a stampede at the Black Pearl Cultural Heritage and Bike Festival in Atlantic Beach, South Carolina, officials said.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/stampede-erupts-south-carolina-biker-festival-19-injured-late-night-chaos",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/stampede-erupts-south-carolina-biker-festival-19-injured-late-night-chaos"
+        }
+      ]
+    },
+    {
+      "title": "Whatever the mirror test tells us, beluga whales pass it",
+      "category": "Tech",
+      "what": "The white whales join the short, contested list of animals that see themselves.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/science/2026/05/belugas-may-pass-the-mirror-test-but-does-the-mirror-test-still-pass/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/"
+          "url": "https://arstechnica.com/science/2026/05/belugas-may-pass-the-mirror-test-but-does-the-mirror-test-still-pass/"
         }
       ]
     }
