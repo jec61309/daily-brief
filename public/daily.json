@@ -1,217 +1,217 @@
 {
-  "date": "Monday, June 1, 2026",
+  "date": "Tuesday, June 2, 2026",
   "stories": [
     {
-      "title": "College students accused of inciting boardwalk chaos walk free as prosecutors pull plug, city demands answers",
-      "category": "U.S.",
-      "what": "Charges against four college students accused of organizing a Rehoboth Beach takeover event have been dropped by Delaware's Department of Justice.",
+      "title": "Trump names Bill Pulte acting director of national intelligence",
+      "category": "Politics",
+      "what": "Summary not available yet.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/trump-names-bill-pulte-acting-director-national-intelligence",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/trump-names-bill-pulte-acting-director-national-intelligence"
+        }
+      ]
+    },
+    {
+      "title": "GOP urges SCOTUS to reject 'war on American energy' they say would hit families' wallets",
+      "category": "Politics",
+      "what": "More than 70 House Republicans pushed the Supreme Court to reject Boulder County's lawsuit seeking to hold oil companies liable for climate damages.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/politics/gop-urges-scotus-reject-war-american-energy-say-would-hit-families-wallets",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/gop-urges-scotus-reject-war-american-energy-say-would-hit-families-wallets"
+        }
+      ]
+    },
+    {
+      "title": "Bernie Sanders refuses to back away from Graham Platner endorsement despite report of explicit texts to women",
+      "category": "Politics",
+      "what": "Bernie Sanders stands by Maine Senate candidate Graham Platner, saying he will \"certainly not\" be reconsidering his endorsement, reports said.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/bernie-sanders-refuses-back-away-graham-platner-endorsement-despite-report-explicit-texts-women",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/bernie-sanders-refuses-back-away-graham-platner-endorsement-despite-report-explicit-texts-women"
+        }
+      ]
+    },
+    {
+      "title": "Ukraine rescuers pull dead from rubble after Russian strikes kill 18 people",
+      "category": "World",
+      "what": "An eight-year-old boy and a woman killed in a strike on an apartment block are among the dead, officials say.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/college-students-accused-inciting-boardwalk-chaos-walk-free-prosecutors-pull-plug-city-demands-answers",
+      "source": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Ghana's anti-LGBTQ+ bill to be scrutinised before approval, president says",
+      "category": "World",
+      "what": "Passed by MPs, the bill proposes prison sentences for people identifying as part of the LGBTQ+ community.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/cp8pgrd50xko?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cp8pgrd50xko?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Iowa man suspected of killing 6 family members in 'act of evil'",
+      "category": "U.S.",
+      "what": "An Iowa man suspected of fatally shooting six relatives in Muscatine died by suicide after being confronted by police, authorities said Monday.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/iowa-man-suspected-killing-6-family-members-act-evil",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/college-students-accused-inciting-boardwalk-chaos-walk-free-prosecutors-pull-plug-city-demands-answers"
+          "url": "https://www.foxnews.com/us/iowa-man-suspected-killing-6-family-members-act-evil"
         }
       ]
     },
     {
-      "title": "Pratt 'could be the guy' LA needs to 'disrupt' institutional chaos plaguing city: Beach volleyball legend",
-      "category": "Politics",
-      "what": "Beach volleyball legend Christopher 'Sinjin' Smith endorses Spencer Pratt's Los Angeles mayoral campaign, calling him a disrupter who resonates with frustrated residents.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/pratt-could-guy-la-needs-disrupt-institutional-chaos-plaguing-city-beach-volleyball-legend",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/pratt-could-guy-la-needs-disrupt-institutional-chaos-plaguing-city-beach-volleyball-legend"
-        }
-      ]
-    },
-    {
-      "title": "GOP's primed for primary season payback on Trump's most ambitious, controversial policy",
-      "category": "Politics",
-      "what": "Senate Democrats plan to kill Trump's $2 billion anti-weaponization fund as GOP dissent grows and a reconciliation vote-a-rama approaches this week.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/republicans-emerge-biggest-threat-trumps-controversial-doj-fund",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/republicans-emerge-biggest-threat-trumps-controversial-doj-fund"
-        }
-      ]
-    },
-    {
-      "title": "Intel: Our upcoming AI chip will be cheaper, run cooler than Nvidia, AMD options",
-      "category": "Tech",
-      "what": "Crescent Island is an air-cooled chip that uses LPDDR5 memory.",
+      "title": "Instagram AI chatbot tricked by hackers to give access to others' accounts",
+      "category": "World",
+      "what": "Some reports have linked the incident to recent cases of high-profile Instagram accounts being hijacked.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/ai/2026/06/intel-our-upcoming-ai-chip-will-be-cheaper-run-cooler-than-nvidia-amd-options/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/06/intel-our-upcoming-ai-chip-will-be-cheaper-run-cooler-than-nvidia-amd-options/"
-        }
-      ]
-    },
-    {
-      "title": "Fourth US drug boat strike in a week kills more 'narco-terrorists'",
-      "category": "Politics",
-      "what": "After three other vessel strikes last week, U.S. Southern Command reported that another strike that left three \"narco-terrorists\" dead",
-      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
-      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
-      "source": "https://www.foxnews.com/politics/fourth-us-drug-boat-strike-week-kills-3-narco-terrorists",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/fourth-us-drug-boat-strike-week-kills-3-narco-terrorists"
-        }
-      ]
-    },
-    {
-      "title": "US says it struck Iranian radar sites as Iran targets American forces in Kuwait",
-      "category": "World",
-      "what": "Iran and the US say they have carried out fresh strikes around the Strait of Hormuz, with Kuwait condemning \"repeated\" Iranian attacks.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.com/news/articles/c98rzr72dpyo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "France seized sanctioned Russian oil tanker with UK help, Macron says",
-      "category": "World",
-      "what": "A British helicopter provided support during the operation on Sunday, the UK ministry of defence says.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.bbc.com/news/articles/cn8pwgej1gxo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cn8pwgej1gxo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "US military attacks Iran in 'self-defense strikes' over the weekend and more top headlines",
-      "category": "U.S.",
-      "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.foxnews.com/us/us-military-attacks-iran-self-defense-strikes-over-weekend-more-top-headlines",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c2l2yl7r8r2o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/c98rzr72dpyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/us-military-attacks-iran-self-defense-strikes-over-weekend-more-top-headlines"
-        }
-      ]
-    },
-    {
-      "title": "An OpenAI model solved a famous math problem that stumped humans for 80 years",
-      "category": "Tech",
-      "what": "I tried to explain OpenAI’s solution more clearly than OpenAI did.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/",
-      "sources": [
-        {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/"
+          "url": "https://arstechnica.com/ai/2026/06/meta-ai-support-chatbot-gave-hackers-access-to-notable-instagram-accounts/"
         }
       ]
     },
     {
-      "title": "Nigeria police warn against reprisal attacks against South Africans",
-      "category": "World",
-      "what": "Tensions have been rising in South Africa in recent weeks following several anti-migrant protests.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/ce8prypdpz6o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/ce8prypdpz6o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Sailboat tracking shutoff could be crucial in Lynette Hooker disappearance, expert says",
+      "title": "Republicans chase breakthroughs in multiple state primary elections and more top headlines",
       "category": "U.S.",
-      "what": "Former federal prosecutor says sailboat tracking blackout is highly suspicious in case of missing American woman who vanished in the Bahamas.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/sailboat-tracking-shutoff-could-crucial-lynette-hooker-disappearance-expert-says",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/sailboat-tracking-shutoff-could-crucial-lynette-hooker-disappearance-expert-says"
-        }
-      ]
-    },
-    {
-      "title": "Karmelo Anthony’s self-defense claim could define murder trial in high school track meet stabbing: analyst",
-      "category": "U.S.",
-      "what": "Karmelo Anthony faces trial on a first-degree murder charge in the fatal stabbing of teen Austin Metcalf at a Frisco high school track meet in April 2025.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/karmelo-anthony-self-defense-claim-could-define-murder-trial-high-school-track-meet-stabbing-analyst",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/karmelo-anthony-self-defense-claim-could-define-murder-trial-high-school-track-meet-stabbing-analyst"
-        }
-      ]
-    },
-    {
-      "title": "Five patients recover from Ebola in DR Congo and leave hospital",
-      "category": "World",
-      "what": "Those infected can get better and officials stress that people should seek medical help if they have symptoms.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/cz928xq588no?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cz928xq588no?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Litterbugs now face on-the-spot fines in Tokyo's tourist hotspot",
-      "category": "World",
-      "what": "Dozens of officials will patrol world-famous Shibuya as Japan responds to the impacts of overtourism.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/cr7py513njmo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cr7py513njmo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "On its 40th anniversary, we reassess 1986's SpaceCamp",
-      "category": "Tech",
-      "what": "Is it a hidden gem, a cult classic, or hopelessly dumb? We vote \"all of the above.\"",
+      "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://arstechnica.com/culture/2026/05/on-its-40th-anniversary-we-reassess-1986s-spacecamp/",
+      "source": "https://www.foxnews.com/us/republicans-chase-breakthroughs-multiple-state-primary-elections-more-top-headlines",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/republicans-chase-breakthroughs-multiple-state-primary-elections-more-top-headlines"
+        }
+      ]
+    },
+    {
+      "title": "Karmelo Anthony trial ignites rival camps that threaten to get in jurors’ heads in track meet stabbing: expert",
+      "category": "U.S.",
+      "what": "Jury selection in the trial of Texas teen Karmelo Anthony, accused of stabbing Austin Metcalf at a track meet, draws dueling demonstrators outside court.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/karmelo-anthony-trial-ignites-rival-camps-threaten-get-jurors-heads-track-meet-stabbing-expert",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/karmelo-anthony-trial-ignites-rival-camps-threaten-get-jurors-heads-track-meet-stabbing-expert"
+        }
+      ]
+    },
+    {
+      "title": "Two people shot dead amid Kenya protests against US Ebola quarantine centre plan",
+      "category": "World",
+      "what": "The US plan has sparked public anger and led to demonstrations near the site of the proposed treatment facility.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.com/news/articles/cvgz7zny3pzo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cvgz7zny3pzo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "John Gotti pal: I stashed $10M in my kid's toychest",
+      "category": "U.S.",
+      "what": "Lewis Kasman describes his role as John Gotti's trusted confidant in the Gambino crime family and how he later became an FBI confidential informant.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/john-gotti-pal-stashed-10m-kids-toychest",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/john-gotti-pal-stashed-10m-kids-toychest"
+        }
+      ]
+    },
+    {
+      "title": "Sabrina Carpenter gets restraining order against man who showed up at her home",
+      "category": "World",
+      "what": "The singer reported a series of \"deeply alarming\" incidents at her house to Los Angeles police.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.com/news/articles/c7v9p9yy370o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c7v9p9yy370o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system.",
+      "category": "Tech",
+      "what": "Some report burning through their whole monthly \"AI credit\" allotment in a single day.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/culture/2026/05/on-its-40th-anniversary-we-reassess-1986s-spacecamp/"
+          "url": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/"
+        }
+      ]
+    },
+    {
+      "title": "Why cats prefer silver vine to catnip and other May highlights",
+      "category": "Tech",
+      "what": "Prehistoric mining in the Pyrenees, a new species of tiny blue octopus, slapstick acoustics, and more.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/science/2026/06/research-roundup-7-cool-science-stories-we-almost-missed-4/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/06/research-roundup-7-cool-science-stories-we-almost-missed-4/"
+        }
+      ]
+    },
+    {
+      "title": "Moderna gets $50 million to develop mRNA Ebola vaccine against Bundibugyo",
+      "category": "Tech",
+      "what": "Amid a raging Ebola outbreak, officials \"urgently accelerate development\" of vaccines.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/health/2026/06/moderna-gets-50-million-to-develop-mrna-ebola-vaccine-against-bundibugyo/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/06/moderna-gets-50-million-to-develop-mrna-ebola-vaccine-against-bundibugyo/"
         }
       ]
     }
