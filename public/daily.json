@@ -1,221 +1,217 @@
 {
-  "date": "Wednesday, June 3, 2026",
+  "date": "Thursday, June 4, 2026",
   "stories": [
     {
-      "title": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
-      "category": "World",
-      "what": "Iran says the attack on Kuwait was in retaliation for earlier US strikes on an Iranian oil tanker and island.",
+      "title": "California high school graduation shooting kills teen, injures child and two others",
+      "category": "U.S.",
+      "what": "An 18-year-old student was killed and three others wounded, including an 11-year-old, during a high school graduation event in Fairfield, California.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.foxnews.com/us/california-high-school-graduation-shooting-kills-teen-injures-child",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss"
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/california-high-school-graduation-shooting-kills-teen-injures-child"
         }
       ]
     },
     {
-      "title": "Spencer Pratt surges to runoff in LA mayor's race after angry voters send message to Karen Bass",
-      "category": "Politics",
-      "what": "Spencer Pratt appears on track to advance to a November runoff against LA Mayor Karen Bass after no candidate cleared 50% in Tuesday's primary.",
+      "title": "Heavy gunfire in Somali capital as row over election delay escalates",
+      "category": "World",
+      "what": "The opposition has called for protests after the president's term in office was extended by a year.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/spencer-pratt-surges-runoff-la-mayors-race-after-angry-voters-send-message-karen-bass",
+      "source": "https://www.bbc.com/news/articles/cpdpwgxl1qzo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c74dp1yk51vo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/cpdpwgxl1qzo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "California election results still undecided as Los Angeles begins counting ballots",
+      "category": "Politics",
+      "what": "California's primary results remain undecided days after voting, with Steve Hilton leading the gubernatorial race and Spencer Pratt holding second in LA.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/california-election-results-still-undecided-los-angeles-begins-counting-ballots",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/california-election-results-still-undecided-los-angeles-begins-counting-ballots"
+        }
+      ]
+    },
+    {
+      "title": "Ukraine accused of killing four in occupied Crimea",
+      "category": "World",
+      "what": "At least 10 people have been injured in the attacks, according to Russian-backed officials.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.com/news/articles/c0r2klj0nyxo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c0r2klj0nyxo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Jill Biden tells memoir critic, 'Say it to my face, buddy'",
+      "category": "Politics",
+      "what": "Former first lady Jill Biden defended her memoir while discussing former President Joe Joe Biden's disastrous 2024 debate performance and his aging.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/jill-biden-tells-memoir-critic-say-face-buddy",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/jill-biden-tells-memoir-critic-say-face-buddy"
+        }
+      ]
+    },
+    {
+      "title": "Secret Signal chats reveal how anti-ICE agitators coordinated Newark riots",
+      "category": "Politics",
+      "what": "A network of about 100 groups with $850 million in combined annual revenues allegedly coordinates Newark's Delaney Hall ICE protests using encrypted chats.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.foxnews.com/politics/secret-signal-chats-reveal-how-anti-ice-agitators-coordinated-newark-riots",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/secret-signal-chats-reveal-how-anti-ice-agitators-coordinated-newark-riots"
+        }
+      ]
+    },
+    {
+      "title": "Bondi Beach shooting hero charged with domestic assault",
+      "category": "World",
+      "what": "Ahmed al Ahmed disarmed one of the alleged shooters during the deadly attack at a Jewish event.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/cd7p11010g5o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cd7p11010g5o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Used Waymo robotaxi batteries become backup storage for power grids",
+      "category": "Tech",
+      "what": "Used Waymo batteries will bolster California and Texas energy storage projects.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/science/2026/06/used-waymo-robotaxi-batteries-become-backup-storage-for-power-grids/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/06/used-waymo-robotaxi-batteries-become-backup-storage-for-power-grids/"
+        }
+      ]
+    },
+    {
+      "title": "Airport suspect packed explosive device for flight, caught with cryptic message on phone: feds",
+      "category": "U.S.",
+      "what": "A California man allegedly tried to bring an explosive device through security at Sacramento International Airport before a flight to North Carolina.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/airport-suspect-packed-explosive-device-flight-caught-cryptic-message-phone-feds",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/airport-suspect-packed-explosive-device-flight-caught-cryptic-message-phone-feds"
+        }
+      ]
+    },
+    {
+      "title": "President Trump announces pick for next attorney general and more top headlines",
+      "category": "U.S.",
+      "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/us/president-trump-announces-pick-next-attorney-general-more-top-headlines",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c4g8nyzl2pno?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/karen-bass-face-runoff-election-amid-tough-challenge-from-spencer-pratt-more-top-headlines"
-        },
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/spencer-pratt-surges-runoff-la-mayors-race-after-angry-voters-send-message-karen-bass"
+          "url": "https://www.foxnews.com/us/president-trump-announces-pick-next-attorney-general-more-top-headlines"
         }
       ]
     },
     {
-      "title": "Jeffries declines to back Wasserman Schultz as Black leaders revolt over district switch",
-      "category": "Politics",
-      "what": "Hakeem Jeffries declines to endorse Debbie Wasserman Schultz in Florida's plurality-Black 20th District race amid concerns over Black representation.",
-      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
-      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
-      "source": "https://www.foxnews.com/politics/jeffries-declines-back-wasserman-schultz-black-leaders-revolt-over-district-switch",
+      "title": "Missing Sherpa guide found on Mount Everest after 'miracle' self-rescue",
+      "category": "World",
+      "what": "Cleaners found Dawa Sherpa crawling towards Base Camp six days after he went missing at a higher altitude.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.bbc.com/news/articles/cvgz2yjl4y3o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/jeffries-declines-back-wasserman-schultz-black-leaders-revolt-over-district-switch"
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cvgz2yjl4y3o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "WATCH: Dem scolds Homeland Security chief to ‘calm down’ after hearing derails over alleged ‘pattern’",
-      "category": "Politics",
-      "what": "Sen. Van Hollen and DHS Secretary Mullin clashed over alleged immigration enforcement abuse patterns during a heated Senate Appropriations hearing.",
+      "title": "US House delivers rebuke to Trump as it votes to halt Iran war",
+      "category": "World",
+      "what": "In the 215-208 vote, four Republicans joined Democrats to pass the measure, which is largely symbolic.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/watch-dem-scolds-homeland-security-chief-calm-hearing-derails-alleged-pattern",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/watch-dem-scolds-homeland-security-chief-calm-hearing-derails-alleged-pattern"
-        }
-      ]
-    },
-    {
-      "title": "Bakersfield, California bank hostage standoff enters second day without resolution",
-      "category": "U.S.",
-      "what": "The hostage situation where a man had barricaded himself into a Chase Bank building in Bakersfield apparently continued into Wednesday.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/bakersfield-california-bank-hostage-standoff-enters-second-day-without-resolution",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/bakersfield-california-bank-hostage-standoff-enters-second-day-without-resolution"
-        }
-      ]
-    },
-    {
-      "title": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens",
-      "category": "World",
-      "what": "Several long-range drones struck oil storage facilities near the city, days before Vladimir Putin is due to address the event.",
-      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
-      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
-      "source": "https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Beans use an immune receptor to call in airstrikes on caterpillars",
+      "title": "Flesh-eating screwworm infection confirmed in South Texas, USDA says",
       "category": "Tech",
-      "what": "When they're being eaten, bean plants release chemicals that draw in parasitic wasps.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/science/2026/06/beans-use-an-immune-receptor-to-call-in-airstrikes-on-caterpillars/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/06/beans-use-an-immune-receptor-to-call-in-airstrikes-on-caterpillars/"
-        }
-      ]
-    },
-    {
-      "title": "Meta leads largest-ever anti-scam operation with FBI and DOJ, resulting in 63 arrests",
-      "category": "U.S.",
-      "what": "Meta led a sweeping anti-scam operation with the FBI, DOJ and Microsoft, resulting in 63 arrests and the removal of 1.4 million scam accounts.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/meta-leads-largest-ever-anti-scam-operation-fbi-doj-resulting-63-arrests",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/meta-leads-largest-ever-anti-scam-operation-fbi-doj-resulting-63-arrests"
-        }
-      ]
-    },
-    {
-      "title": "DNA from mystery juvenile male raises questions in Carnival cruise murder case against teen stepbrother",
-      "category": "U.S.",
-      "what": "Federal investigators obtained DNA from a mystery juvenile in the Anna Kepner Carnival cruise death case as her stepbrother faces trial in September.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/dna-mystery-juvenile-male-raises-questions-carnival-cruise-murder-case-teen-stepbrother",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/dna-mystery-juvenile-male-raises-questions-carnival-cruise-murder-case-teen-stepbrother"
-        }
-      ]
-    },
-    {
-      "title": "US announces new tariffs over forced labour concerns",
-      "category": "World",
-      "what": "It comes after the US Supreme Court struck down many of US President Donald Trump's previous duties in February.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "How long will it take to rebuild Blue Origin's launch pad? We asked some SpaceX vets.",
-      "category": "Tech",
-      "what": "\"Everyone is in a place where it’s no fun to be there.\"",
+      "what": "With the case confirmed, it is the fly's first breach of the US-Mexico border.",
       "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
       "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/space/2026/06/how-long-will-it-take-to-rebuild-blue-origins-launch-pad-we-asked-some-spacex-vets/",
+      "source": "https://arstechnica.com/health/2026/06/flesh-eating-screwworm-infection-detected-in-south-texas-usda-says/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/06/how-long-will-it-take-to-rebuild-blue-origins-launch-pad-we-asked-some-spacex-vets/"
+          "url": "https://arstechnica.com/health/2026/06/flesh-eating-screwworm-infection-detected-in-south-texas-usda-says/"
         }
       ]
     },
     {
-      "title": "Shell pumped oil through Nigeria pipeline for years despite pollution evidence, documents show",
-      "category": "World",
-      "what": "The oil giant says the documents ignore the critical context of the complex operating environment at the time.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/cdrp8v7407ro?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cdrp8v7407ro?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Indonesia's Prabowo fires head of free meals scheme plagued by poisonings",
-      "category": "World",
-      "what": "The centrepiece programme of Prabowo's government has left tens of thousands of school children ill.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/cgjp369eqzgo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cgjp369eqzgo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Male bowerbirds prefer to dazzle females with bright human-made items",
-      "category": "Tech",
-      "what": "\"It’s a reminder of how human activity is changing the natural world in unanticipated ways.”",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/science/2026/06/male-bowerbirds-prefer-colorful-human-items-to-decorate-bowers/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/06/male-bowerbirds-prefer-colorful-human-items-to-decorate-bowers/"
-        }
-      ]
-    },
-    {
-      "title": "Atlanta train stabbing suspect faces new charge as feds weigh death penalty in great-grandmother’s killing",
+      "title": "US military kills two alleged narco-terrorists in latest Eastern Pacific strike on drug-trafficking vessel",
       "category": "U.S.",
-      "what": "Georgia man faces federal charge carrying possible death penalty for allegedly stabbing a 66-year-old great-grandmother on an Atlanta MARTA train.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/atlanta-train-stabbing-suspect-faces-new-charge-feds-weigh-death-penalty-great-grandmothers-killing",
+      "what": "U.S. military killed two alleged narco-terrorists in a lethal strike on a suspected drug-trafficking vessel in the Eastern Pacific, SOUTHCOM says.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.foxnews.com/us/us-military-kills-two-alleged-narco-terrorists-latest-eastern-pacific-strike-drug-trafficking-vessel",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/atlanta-train-stabbing-suspect-faces-new-charge-feds-weigh-death-penalty-great-grandmothers-killing"
+          "url": "https://www.foxnews.com/us/us-military-kills-two-alleged-narco-terrorists-latest-eastern-pacific-strike-drug-trafficking-vessel"
+        }
+      ]
+    },
+    {
+      "title": "Microsoft, Atom Computing, EeroQ update their quantum computing progress",
+      "category": "Tech",
+      "what": "Some quantum computing companies we've covered have done recent progress updates.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/science/2026/06/microsoft-atom-computing-eeroq-update-their-quantum-computing-progress/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/06/microsoft-atom-computing-eeroq-update-their-quantum-computing-progress/"
         }
       ]
     }
