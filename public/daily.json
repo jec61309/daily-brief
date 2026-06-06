@@ -1,217 +1,213 @@
 {
-  "date": "Friday, June 5, 2026",
+  "date": "Saturday, June 6, 2026",
   "stories": [
     {
-      "title": "Fury in France after child murder suspect's criminal record released",
-      "category": "World",
-      "what": "A man suspected of murdering an 11-year-old girl had previously been identified as a potential child molester, records show.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/c1424v7mk8go?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c1424v7mk8go?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Democrat bankrolling Graham Platner's campaign ripped for downplaying abuse allegations and more top headlines",
-      "category": "U.S.",
-      "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+      "title": "Trump moves to slash intelligence office ahead of permanent chief's arrival",
+      "category": "Politics",
+      "what": "Trump says he instructed acting Director of National Intelligence Bill Pulte to begin shrinking the office, calling it unnecessary and too big with holdovers from past terms.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/us/democrat-bankrolling-graham-platners-campaign-downplaying-abuse-allegations-more-top-headlines",
+      "source": "https://www.foxnews.com/politics/trump-moves-slash-intelligence-office-ahead-permanent-chiefs-arrival",
       "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/democrat-bankrolling-graham-platners-campaign-downplaying-abuse-allegations-more-top-headlines"
-        },
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/dem-senator-bankrolling-platners-campaign-ripped-for-downplaying-abuse-allegations"
+          "url": "https://www.foxnews.com/politics/trump-moves-slash-intelligence-office-ahead-permanent-chiefs-arrival"
         }
       ]
     },
     {
-      "title": "US journalist pleads guilty to working as China's agent",
-      "category": "World",
-      "what": "Thomas Weir Pauken II, 50, knowingly worked with people employed by the Chinese government for years.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.bbc.com/news/articles/crmpmxg1ym4o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/crmpmxg1ym4o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Murdaugh murder retrial could crack open sealed court records tied to infamous ‘egg juror’",
+      "title": "WATCH: Mackenzie Shirilla’s father calls her ‘a dumb 18-year-old’ while berating police in bodycam video",
       "category": "U.S.",
-      "what": "SC prosecutors ask the state Supreme Court to unseal secret transcripts tied to the removal of Alex Murdaugh's \"egg juror\" ahead of his new trial.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/murdaugh-murder-retrial-could-crack-open-sealed-court-records-tied-infamous-egg-juror",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/murdaugh-murder-retrial-could-crack-open-sealed-court-records-tied-infamous-egg-juror"
-        }
-      ]
-    },
-    {
-      "title": "The key strategy red states are using to lower housing costs revealed",
-      "category": "Politics",
-      "what": "Texas, Florida and other red states are winning the migration race by letting builders build, says the National Association of Home Builders CEO.",
-      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
-      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
-      "source": "https://www.foxnews.com/politics/key-strategy-red-states-using-lower-housing-costs-revealed",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/key-strategy-red-states-using-lower-housing-costs-revealed"
-        }
-      ]
-    },
-    {
-      "title": "Senate push to reauthorize nation’s spy powers stumbles over controversial Trump decision",
-      "category": "Politics",
-      "what": "The Senate tried and failed to advance FISA reauthorization as Democrats blocked the spy law over Trump's pick of Bill Pulte as the new head of ODNI.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/senate-push-reauthorize-nations-spy-powers-weathers-another-controversial-trump-decision",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/senate-push-reauthorize-nations-spy-powers-weathers-another-controversial-trump-decision"
-        }
-      ]
-    },
-    {
-      "title": "Nearly 50 people die of thirst in Sahara desert after lorry breaks down",
-      "category": "World",
-      "what": "Only two survived after trekking more than 50km (30 miles) across the desert to alert the authorities.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/c62r2ldyejro?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c62r2ldyejro?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Historic Big Boy steam locomotive draws crowds as America 250 tour heads east",
-      "category": "U.S.",
-      "what": "Union Pacific's Big Boy No. 4014, the world's largest operating steam locomotive, is drawing crowds as it makes its first East Coast tour ahead of America's 250th birthday.",
+      "what": "Bodycam footage shows Mackenzie Shirilla's father calling her \"a dumb 18-year-old\" while demanding police not question her after her arrest in Ohio for fatal crash.",
       "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
       "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/historic-big-boy-steam-locomotive-draws-crowds-america-250-tour-heads-east",
+      "source": "https://www.foxnews.com/us/watch-mackenzie-shirilla-father-calls-dumb-18-year-old-berating-police-bodycam-video",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/historic-big-boy-steam-locomotive-draws-crowds-america-250-tour-heads-east"
+          "url": "https://www.foxnews.com/us/watch-mackenzie-shirilla-father-calls-dumb-18-year-old-berating-police-bodycam-video"
         }
       ]
     },
     {
-      "title": "Trump scores victory despite growing GOP divide after Senate passes $70B ICE, Border Patrol funding package",
+      "title": "Scores of Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+      "category": "World",
+      "what": "The regional governor urges residents to remain indoors for the first time since the beginning of the war.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "GOP victor in CA House primary cites major momentum shift in deep blue state: ‘Californians are tired’",
       "category": "Politics",
-      "what": "Senate Republicans advanced Trump's $70 billion immigration enforcement package after a marathon vote-a-rama marked by internal GOP divisions.",
+      "what": "Republican candidate Jenny Rae Le Roux says Californians are tired of one-party rule as she challenges Rep. Dave Min in the 47th District.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/trump-scores-victory-despite-growing-gop-divide-senate-passes-70-billion-ice-border-patrol-funding-package",
+      "source": "https://www.foxnews.com/politics/gop-victor-ca-house-primary-cites-major-momentum-shift-deep-blue-state-californians-tired",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-scores-victory-despite-growing-gop-divide-senate-passes-70-billion-ice-border-patrol-funding-package"
+          "url": "https://www.foxnews.com/politics/gop-victor-ca-house-primary-cites-major-momentum-shift-deep-blue-state-californians-tired"
         }
       ]
     },
     {
-      "title": "Zelensky proposes face-to-face talks in open letter to Putin",
-      "category": "World",
-      "what": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Handcuffed suspect allegedly slips restraints, steals Dallas police cruiser with officer trapped in back seat",
+      "title": "Sex offender busted on Roblox mid-call with child as Louisiana declares war on online predators targeting kids",
       "category": "U.S.",
-      "what": "A handcuffed suspect allegedly slipped his restraints, commandeered a Dallas police cruiser and jumped out of it at approximately 50 mph, authorities said.",
+      "what": "Louisiana deputies caught a registered sex offender using voice-changing technology to pose as a teen girl while talking to a child on Roblox.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/handcuffed-suspect-allegedly-slips-restraints-steals-dallas-police-cruiser-officer-trapped-back-seat",
+      "source": "https://www.foxnews.com/us/sex-offender-busted-roblox-mid-call-child-louisiana-declares-war-online-predators-targeting-kids",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/handcuffed-suspect-allegedly-slips-restraints-steals-dallas-police-cruiser-officer-trapped-back-seat"
+          "url": "https://www.foxnews.com/us/sex-offender-busted-roblox-mid-call-child-louisiana-declares-war-online-predators-targeting-kids"
         }
       ]
     },
     {
-      "title": "Ex-wife of Dubai ruler's nephew in custody, prosecutors say",
-      "category": "World",
-      "what": "Zeynab Javadli had not been in contact with any of her friends since Tuesday.",
+      "title": "Delaney Hall snack purchases cast doubt on hunger strike reports, DHS says",
+      "category": "Politics",
+      "what": "DHS commissary data shows revenue tripled at Delaney Hall during the reported hunger strike period, undercutting Democrats' claims of dire conditions.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/cx2124zylxno?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.foxnews.com/politics/delaney-hall-snack-purchases-cast-doubt-hunger-strike-reports-dhs-says",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/delaney-hall-snack-purchases-cast-doubt-hunger-strike-reports-dhs-says"
+        }
+      ]
+    },
+    {
+      "title": "Armenia braces for election as Russia piles pressure on pro-West government",
+      "category": "World",
+      "what": "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cx2124zylxno?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "The skeptic’s guide to humanoid robots going viral on the Internet",
-      "category": "Tech",
-      "what": "Robot demonstrations can distort public perceptions of robotic capabilities.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/",
+      "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
+      "category": "World",
+      "what": "The US military says it struck Iranian drones and radar sites. Tehran responds by targeting US bases in Kuwait and Bahrain.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/"
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "AT&T and Verizon lose Supreme Court case over fines for selling location data",
-      "category": "Tech",
-      "what": "FCC did not violate carriers' right to jury trial, court says in 8-1 ruling.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://arstechnica.com/tech-policy/2026/06/att-and-verizon-lose-supreme-court-case-over-fines-for-selling-location-data/",
+      "title": "Canada bans Texas cattle over flesh-eating screwworm outbreak in US",
+      "category": "World",
+      "what": "The ban came as a second infected calf was identified in Texas, and the US state declaring a state of disaster over the outbreak.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/cevpv3r7jmpo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/06/att-and-verizon-lose-supreme-court-case-over-fines-for-selling-location-data/"
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cevpv3r7jmpo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "These LLMs are the best at resisting Russian propaganda",
-      "category": "Tech",
-      "what": "Estonian government benchmark shows how dozens of models combat Russia's \"strategic narratives.\"",
+      "title": "OJ Simpson-era attorney sees familiar warning signs as Karmelo Anthony case fuels clash over race and justice",
+      "category": "U.S.",
+      "what": "Media attorney who fought for cameras in O.J. Simpson trial says he sees troubling racial parallels in the Karmelo Anthony murder case unfolding in Texas.",
       "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
       "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/",
+      "source": "https://www.foxnews.com/us/oj-simpson-era-attorney-sees-familiar-warning-signs-karmelo-anthony-case-fuels-clash-race-justice",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/oj-simpson-era-attorney-sees-familiar-warning-signs-karmelo-anthony-case-fuels-clash-race-justice"
+        }
+      ]
+    },
+    {
+      "title": "Virginia gun sales spike ahead of July 1 assault weapons ban signed by Gov. Spanberger",
+      "category": "U.S.",
+      "what": "Virginia gun sales surge ahead of July 1 assault weapons ban, with FBI data showing background checks more than doubled compared to last year.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/virginia-gun-sales-spike-ahead-july-1-assault-weapons-ban-signed-gov-spanberger",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/virginia-gun-sales-spike-ahead-july-1-assault-weapons-ban-signed-gov-spanberger"
+        }
+      ]
+    },
+    {
+      "title": "I wanted to quit Eurovision twice - then won it, says Bangaranga singer Dara",
+      "category": "World",
+      "what": "The Bulgarian singer says her historic victory in Vienna came close to never happening.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/c1k2dml10ezo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c1k2dml10ezo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Baby botulism outbreak: FDA still doesn't know cause—or how to prevent it",
+      "category": "Tech",
+      "what": "In the end, the three companies involved all point the finger at each other.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/health/2026/06/baby-botulism-outbreak-fda-still-doesnt-know-cause-or-how-to-prevent-it/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/"
+          "url": "https://arstechnica.com/health/2026/06/baby-botulism-outbreak-fda-still-doesnt-know-cause-or-how-to-prevent-it/"
+        }
+      ]
+    },
+    {
+      "title": "How a USB-connected speaker can infect a PC without ever being touched",
+      "category": "Tech",
+      "what": "Seller of the Sound Blaster Katana V2X doesn't consider the behavior a vulnerability.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/"
+        }
+      ]
+    },
+    {
+      "title": "The saga of the International Space Station air leak took a worrying turn Friday",
+      "category": "Tech",
+      "what": "\"We look forward to working with Roscosmos on a collaborative approach to address the leaks.\"",
+      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
+      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
+      "source": "https://arstechnica.com/space/2026/06/work-on-russias-leaky-space-station-module-causes-astronauts-to-take-shelter/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/06/work-on-russias-leaky-space-station-module-causes-astronauts-to-take-shelter/"
         }
       ]
     }
