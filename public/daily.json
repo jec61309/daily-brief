@@ -1,213 +1,217 @@
 {
-  "date": "Monday, June 8, 2026",
+  "date": "Tuesday, June 9, 2026",
   "stories": [
     {
-      "title": "Florida deputy drags 'unresponsive' beachgoer from ocean in dramatic rescue",
-      "category": "U.S.",
-      "what": "Volusia Sheriff's Office shared dramatic video footage of the rescue of an unresponsive 68-year-old woman from the ocean at New Smyrna Beach.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/florida-deputy-drags-unresponsive-beachgoer-ocean-dramatic-rescue",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/florida-deputy-drags-unresponsive-beachgoer-ocean-dramatic-rescue"
-        }
-      ]
-    },
-    {
-      "title": "Stock markets fall on tech plunge and renewed Middle East attacks ",
+      "title": "Somali referee Artan barred from entering US",
       "category": "World",
-      "what": "Markets in Europe and Asia were hit by a tech sell-off, and oil rises as Iran and Israel launch attacks on each other.",
-      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
-      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
-      "source": "https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "NYC Mayor Zohran Mamdani says the Democratic Party 'lost its focus on working people'",
-      "category": "Politics",
-      "what": "New York City Mayor Zohran Mamdani, a self-described democratic socialist, says the Democratic Party 'has lost its focus on working people'",
-      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
-      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
-      "source": "https://www.foxnews.com/politics/nyc-mayor-zohran-mamdani-says-democratic-party-lost-focus-working-people",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/nyc-mayor-zohran-mamdani-says-democratic-party-lost-focus-working-people"
-        }
-      ]
-    },
-    {
-      "title": "Why Trump picked Bill Pulte to lead US intelligence as critics question his qualifications",
-      "category": "Politics",
-      "what": "Trump picks FHFA Director Bill Pulte as acting intelligence chief, drawing criticism from lawmakers who say he lacks national security experience.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/why-trump-picked-bill-pulte-lead-us-intelligence-critics-question-his-qualifications",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/why-trump-picked-bill-pulte-lead-us-intelligence-critics-question-his-qualifications"
-        }
-      ]
-    },
-    {
-      "title": "Toledo police following 'multiple leads' as manhunt enters 3rd day after festival shooting",
-      "category": "U.S.",
-      "what": "Police say at least two gunmen shot 12 victims near Toledo's Old West End Festival, with ages ranging from 14 to 61. All are in stable condition.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/toledo-police-following-multiple-leads-manhunt-enters-3rd-day-festival-shooting",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/toledo-police-following-multiple-leads-manhunt-enters-3rd-day-festival-shooting"
-        }
-      ]
-    },
-    {
-      "title": "Malawians repatriated from South Africa amid xenophobia concerns",
-      "category": "World",
-      "what": "Malawi is among several African nations transporting their citizens out of the country following reports of violence against migrants.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/cnv9dz3reego?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cnv9dz3reego?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "At least 32 dead after major earthquake strikes southern Philippines",
-      "category": "World",
-      "what": "The magnitude-7.8 quake triggered small tsunami waves in the Philippines, Indonesia and Japan.",
+      "what": "Omar Artan, who was set to be the first Somali to referee at the World Cup finals, is dropped from the list of officials after he was denied entry to the United States.",
       "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
       "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.com/sport/football/articles/cnv9drg0qzgo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/sport/football/articles/cnv9drg0qzgo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "The weather and climate science AI revolution isn’t revolutionary",
-      "category": "Tech",
-      "what": "Machine learning has its limits—how is it being used?",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/science/2026/06/the-weather-and-climate-science-ai-revolution-isnt-revolutionary/",
+      "title": "Trump's SAVE America Act shows signs of life in the Senate despite Republican revolt",
+      "category": "Politics",
+      "what": "Senate Republicans hit 50 votes on the SAVE America Act during a vote-a-rama, but the filibuster blocked the voter ID bill from advancing further.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/trumps-save-america-act-shows-signs-life-senate-despite-republican-revolt",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/06/the-weather-and-climate-science-ai-revolution-isnt-revolutionary/"
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/trumps-save-america-act-shows-signs-life-senate-despite-republican-revolt"
         }
       ]
     },
     {
-      "title": "President Trump demands Iran and Israel 'stop' firing at each other and more top headlines",
+      "title": "Chief of indicted SPLC faces House grilling over alleged secret payments to KKK members",
+      "category": "Politics",
+      "what": "SPLC interim CEO Bryan Fair will testify before the House Judiciary Committee as the nonprofit faces an 11-count indictment for alleged fraud.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/indicted-splc-chief-faces-house-grilling-over-alleged-secret-payments-kkk-members",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/indicted-splc-chief-faces-house-grilling-over-alleged-secret-payments-kkk-members"
+        }
+      ]
+    },
+    {
+      "title": "Maine Democrats decide fate of Senate candidate dogged by explosive allegations and more top headlines",
       "category": "U.S.",
       "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/us/president-trump-demands-iran-israel-stop-firing-each-other-more-top-headlines",
+      "source": "https://www.foxnews.com/us/maine-democrats-decide-fate-senate-candidate-dogged-explosive-allegations-more-top-headlines",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/president-trump-demands-iran-israel-stop-firing-each-other-more-top-headlines"
+          "url": "https://www.foxnews.com/us/maine-democrats-decide-fate-senate-candidate-dogged-explosive-allegations-more-top-headlines"
+        },
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/maine-democrats-decide-fate-senate-candidate-dogged-explosive-allegations"
         }
       ]
     },
     {
-      "title": "Armenia's pro-West government wins election despite Russian pressure",
+      "title": "Kenyan police fire tear gas at protest against US Ebola quarantine centre plan",
       "category": "World",
-      "what": "Prime Minister Nikol Pashinyan's Civil Contract Party secures nearly 50% of the vote, comfortably beating the other contenders.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.com/news/articles/cvgel990n51o?at_medium=RSS&at_campaign=rss",
+      "what": "Protesters are concerned about cross-border infection risks and the lack of transparency from the government about the treatment centre.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.com/news/articles/c3wypjz3n57o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cvgel990n51o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/c3wypjz3n57o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Noncitizens on voter rolls in Democrat-run state exposed as RNC chair pledges secure elections",
+      "title": "Man accused of killing mother-in-law with poison-laced satay",
+      "category": "World",
+      "what": "Indonesia police allege the man killed the woman as he felt disrespected by her.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/crkvd376jxno?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/crkvd376jxno?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "US Army helicopter goes down, but President Donald Trump says 'pilots are fine'",
       "category": "Politics",
-      "what": "Noncitizens were found on New Jersey voter rolls for years, with some voting in prior elections, according to RNC and NJGOP documents.",
+      "what": "After a U.S. Army helicopter went down, U.S. President Donald Trump stated that the \"pilots are fine\" and CENTCOM later issued a statement about the episode.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/noncitizens-voter-rolls-democrat-run-state-exposed-rnc-chair-pledges-secure-elections",
+      "source": "https://www.foxnews.com/politics/us-army-helicopter-goes-president-donald-trump-says-pilots-fine",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/noncitizens-voter-rolls-democrat-run-state-exposed-rnc-chair-pledges-secure-elections"
+          "url": "https://www.foxnews.com/politics/us-army-helicopter-goes-president-donald-trump-says-pilots-fine"
         }
       ]
     },
     {
-      "title": "Peru election result close as vote counting continues",
+      "title": "Black bear caught in Japan after days of sightings",
       "category": "World",
-      "what": "The race between right-wing Keiko Fujimori and left-wing Roberto Sánchez has been dominated by concerns over crime and political instability.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.com/news/articles/cewq151pw78o?at_medium=RSS&at_campaign=rss",
+      "what": "The capture in Utsunomiya comes as bear attacks have reached record levels across Japan.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/c0qyzvnjlxno?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cewq151pw78o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/c0qyzvnjlxno?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Karmelo Anthony trial consumed by race and self-defense, but hidden hurdle could be key: expert",
+      "title": "Hundreds of aftershocks jolt Philippines as officials say death toll could rise",
+      "category": "World",
+      "what": "Dozens of people are dead and hundreds more injured following an earthquake in the country's south.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/ckg50pypn2eo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/ckg50pypn2eo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Karmelo Anthony stays silent as analysts warn defense faces uphill battle in track meet stabbing trial",
       "category": "U.S.",
-      "what": "Texas attorney says Karmelo Anthony murder trial could hinge on self-defense laws, race and jurors' understanding of high school track meets.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/karmelo-anthony-trial-consumed-race-self-defense-hidden-hurdle-could-key-expert",
+      "what": "Karmelo Anthony's defense rests without his testimony in the murder trial for the stabbing death of Austin Metcalf at a Texas high school track meet.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.foxnews.com/us/karmelo-anthony-stays-silent-analysts-warn-defense-faces-uphill-battle-track-meet-stabbing-trial",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/karmelo-anthony-trial-consumed-race-self-defense-hidden-hurdle-could-key-expert"
+          "url": "https://www.foxnews.com/us/karmelo-anthony-stays-silent-analysts-warn-defense-faces-uphill-battle-track-meet-stabbing-trial"
         }
       ]
     },
     {
-      "title": "RIP Anthony Head: Our 10 favorite moments of Buffy's Giles",
-      "category": "Tech",
-      "what": "Head's true genius—and that of his character, Giles—lay in quietly filling in the gaps in every scene",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/culture/2026/06/rip-anthony-head-our-10-favorite-moments-of-buffys-giles/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/culture/2026/06/rip-anthony-head-our-10-favorite-moments-of-buffys-giles/"
-        }
-      ]
-    },
-    {
-      "title": "School shooting survivor sues AI gun detection firm after system failed to spot weapon",
-      "category": "Tech",
-      "what": "How accurate does an AI system need to be?",
+      "title": "Navy sailor admits killing fellow service member as mother questions missed warning signs",
+      "category": "U.S.",
+      "what": "Navy sailor Jeremiah Copeland pleaded guilty to strangling fellow sailor Angelina Resendiz in his barracks room, facing a minimum of 40 years in prison.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/",
+      "source": "https://www.foxnews.com/us/navy-sailor-admits-killing-fellow-service-member-mother-questions-missed-warning-signs",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/navy-sailor-admits-killing-fellow-service-member-mother-questions-missed-warning-signs"
+        }
+      ]
+    },
+    {
+      "title": "DHS approves plan to verify voter citizenship, monitor mail ballots as Trump push intensifies",
+      "category": "U.S.",
+      "what": "DHS approves a plan to let states verify voter citizenship using federal immigration databases and monitor mail ballot flows for potential fraud.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/us/dhs-approves-plan-verify-voter-citizenship-monitor-mail-ballots-trump-push-intensifies",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/dhs-approves-plan-verify-voter-citizenship-monitor-mail-ballots-trump-push-intensifies"
+        }
+      ]
+    },
+    {
+      "title": "FCC lifts looming deadline for Amazon Leo satellite broadband constellation",
+      "category": "Tech",
+      "what": "The waiver \"serves the public interest by promoting a second large satellite broadband constellation.\"",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/space/2026/06/fcc-lifts-looming-deadline-for-amazon-leo-satellite-broadband-constellation/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/"
+          "url": "https://arstechnica.com/space/2026/06/fcc-lifts-looming-deadline-for-amazon-leo-satellite-broadband-constellation/"
+        }
+      ]
+    },
+    {
+      "title": "Tests suggest Russian satellites can jam GPS on a continental scale",
+      "category": "Tech",
+      "what": "Mystery of GPS interference across Europe raises questions about Russian motives.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/space/2026/06/tests-suggest-russian-satellites-can-jam-gps-on-a-continental-scale/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/06/tests-suggest-russian-satellites-can-jam-gps-on-a-continental-scale/"
+        }
+      ]
+    },
+    {
+      "title": "macOS 27 requires Apple Silicon, as Apple draws down the Intel Mac era",
+      "category": "Tech",
+      "what": "You'll need an M1 or better to run the next release of macOS.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/gadgets/2026/06/macos-27-requires-apple-silicon-as-apple-draws-down-the-intel-mac-era/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/06/macos-27-requires-apple-silicon-as-apple-draws-down-the-intel-mac-era/"
         }
       ]
     }
