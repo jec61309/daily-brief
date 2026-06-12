@@ -1,217 +1,213 @@
 {
-  "date": "Thursday, June 11, 2026",
+  "date": "Friday, June 12, 2026",
   "stories": [
     {
-      "title": "El Niño under way and threatens weather extremes, scientists say",
-      "category": "World",
-      "what": "An El Niño event has officially started, say US scientists, raising fears of extreme weather and higher temperatures.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/c75ylx7g00xo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c75ylx7g00xo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Alaskans will be flying blind after NSF decommissions ocean monitoring network",
-      "category": "Tech",
-      "what": "Alaska's multibillion-dollar fishing industry and vulnerable coastal communities at risk.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/science/2026/06/alaskans-will-be-flying-blind-after-nsf-decommissions-ocean-monitoring-network/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/06/alaskans-will-be-flying-blind-after-nsf-decommissions-ocean-monitoring-network/"
-        }
-      ]
-    },
-    {
-      "title": "Trump admin yanks funding from LA homeless agency amid explosive fraud probe: 'Necessary step'",
+      "title": "Former Biden ambassador considered running against him over border mess, bashes Kamala in new book",
       "category": "Politics",
-      "what": "The Trump admin suspends federal funding for Los Angeles's primary homelessness support agency, accusing it of fraud and 'wanton mismanagement' of taxpayer dollars.",
+      "what": "Ken Salazar, former U.S. Ambassador to Mexico, reveals he considered running for president against Biden after the 2024 debate, per a new book excerpt.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/trump-admin-yanks-funding-la-homeless-agency-explosive-fraud-investigation",
+      "source": "https://www.foxnews.com/politics/former-biden-ambassador-considered-running-border-mess-bashes-kamala-new-book",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-admin-yanks-funding-la-homeless-agency-explosive-fraud-investigation"
+          "url": "https://www.foxnews.com/politics/former-biden-ambassador-considered-running-border-mess-bashes-kamala-new-book"
         }
       ]
     },
     {
-      "title": "Chip Roy fields proposal to block pay and power for longtime lawmakers",
+      "title": "Mamdani touts massive taxpayer-funded investment for trans healthcare: 'First step'",
       "category": "Politics",
-      "what": "Rep. Chip Roy proposes ending pay and power for House and Senate lawmakers who serve 12 or more years in their respective legislative chambers.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/chip-roy-fields-proposal-block-pay-power-longtime-lawmakers",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/chip-roy-fields-proposal-block-pay-power-longtime-lawmakers"
-        }
-      ]
-    },
-    {
-      "title": "The first complex cells had genes from a complex mix of species",
-      "category": "Tech",
-      "what": "Our ancestors' genomes were built through successive waves of gene transfers.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/science/2026/06/the-first-complex-cells-had-genes-from-a-complex-mix-of-species/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/06/the-first-complex-cells-had-genes-from-a-complex-mix-of-species/"
-        }
-      ]
-    },
-    {
-      "title": "Second Amendment fights grow across several states over 3D-printed gun laws",
-      "category": "Politics",
-      "what": "Lawmakers in a growing number of states are imposing restrictions on 3D-printed firearms, sparking debate over Second Amendment rights and gun control.",
+      "what": "NYC Mayor Zohran Mamdani announces a $15 million investment in gender affirming care, calling New York City a haven for its LGBTQ+ communities.",
       "why": "This matters because it may influence legislation, executive action, or the national political mood.",
       "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
-      "source": "https://www.foxnews.com/politics/second-amendment-fights-grow-across-several-states-over-3d-printed-gun-laws",
+      "source": "https://www.foxnews.com/politics/mamdani-touts-massive-taxpayer-funded-investment-trans-healthcare-first-step",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/second-amendment-fights-grow-across-several-states-over-3d-printed-gun-laws"
+          "url": "https://www.foxnews.com/politics/mamdani-touts-massive-taxpayer-funded-investment-trans-healthcare-first-step"
         }
       ]
     },
     {
-      "title": "US and Iran exchange strikes across Middle East for second day in a row",
-      "category": "World",
-      "what": "Iran says it responded to US strikes by targeting American assets in Kuwait, Jordan and Bahrain, which reported damage to its capital city overnight.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/trump-reveals-iran-called-him-request-after-us-strikes-more-top-headlines"
-        }
-      ]
-    },
-    {
-      "title": "Several things I like about macOS 27 Golden Gate that have nothing to do with AI",
+      "title": "Cameras, sensors, and 3D body scans: All the tech helping eliminate blown calls",
       "category": "Tech",
-      "what": "AI aside, Golden Gate includes a bunch of subtle-but-helpful improvements.",
+      "what": "This World Cup, refs will use digital twins of each player to view plays from every angle.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/gadgets/2026/06/five-things-i-like-and-one-thing-i-still-want-in-the-macos-27-golden-gate-beta/",
+      "source": "https://arstechnica.com/gadgets/2026/06/cameras-sensors-and-3d-body-scans-all-the-tech-helping-eliminate-blown-calls/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/06/five-things-i-like-and-one-thing-i-still-want-in-the-macos-27-golden-gate-beta/"
+          "url": "https://arstechnica.com/gadgets/2026/06/cameras-sensors-and-3d-body-scans-all-the-tech-helping-eliminate-blown-calls/"
         }
       ]
     },
     {
-      "title": "Vance says Israeli PM Netanyahu 'has got some things wrong'",
-      "category": "World",
-      "what": "The US vice-president says the Israeli leader \"aggressively asserts\" his country's interests, but they do not always align with those of the US.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.bbc.com/news/articles/c9q2lq3vv7zo?at_medium=RSS&at_campaign=rss",
+      "title": "Ebola cases in DRC rise to 676 as Kenya protests erupt over US plans",
+      "category": "Tech",
+      "what": "Outbreak responses are still playing catch-up as US works to isolate itself.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/health/2026/06/ebola-cases-in-drc-rise-to-676-as-kenya-protests-erupt-over-us-plans/",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c9q2lq3vv7zo?at_medium=RSS&at_campaign=rss"
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/06/ebola-cases-in-drc-rise-to-676-as-kenya-protests-erupt-over-us-plans/"
         }
       ]
     },
     {
-      "title": "Pope Leo visits Canary Islands to highlight perilous journeys of migrants",
-      "category": "World",
-      "what": "During his trip, the Pope will appeal for a humane approach and respectful welcome for migrants seeking a better life.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/cn59w6p3vd0o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cn59w6p3vd0o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Convicted killer Karmelo Anthony's family used fundraiser money for moving and living expenses",
-      "category": "U.S.",
-      "what": "Karmelo Anthony's family fundraiser raised nearly $634,000 before being taken down following his murder conviction and 35-year prison sentence.",
+      "title": "Pokémon Go players unwittingly contributed to tech with military drone uses",
+      "category": "Tech",
+      "what": "The repurposing of Pokémon Go data for AI training continues to draw scrutiny.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/convicted-killer-karmelo-anthony-family-used-fundraiser-money-moving-living-expenses",
+      "source": "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/",
       "sources": [
         {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/convicted-killer-karmelo-anthony-family-used-fundraiser-money-moving-living-expenses"
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/"
         }
       ]
     },
     {
-      "title": "Nigeria evacuates citizens from South Africa as anti-migrant sentiment rises",
+      "title": "Cornyn predicts Trump midterm 'disaster,' then 'the most miserable two years of his life'",
+      "category": "Politics",
+      "what": "Outgoing Republican Sen. John Cornyn of Texas predicted that President Donald Trump will experience \"disaster\" in the 2026 midterm elections.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/cornyn-predicts-trump-midterm-disaster-the-most-miserable-two-years-his-life",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/cornyn-predicts-trump-midterm-disaster-the-most-miserable-two-years-his-life"
+        }
+      ]
+    },
+    {
+      "title": "Austin Metcalf's family faces death threats after Karmelo Anthony's murder conviction and more top headlines",
+      "category": "U.S.",
+      "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/austin-metcalfs-family-faces-death-threats-after-karmelo-anthonys-murder-conviction-more-top-headlines",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/austin-metcalfs-family-faces-death-threats-after-karmelo-anthonys-murder-conviction-more-top-headlines"
+        }
+      ]
+    },
+    {
+      "title": "80% of claims in America's largest sexual abuse settlement in history could be fraudulent, LA DA says",
+      "category": "U.S.",
+      "what": "LA County DA Nathan Hochman asks judge to freeze $4 billion sexual abuse settlement payments, claiming four out of five claims could be fraudulent.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/80-percent-americas-largest-sexual-abuse-settlement-history-fraudulent-la-da-nathan-hochman-says",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/80-percent-americas-largest-sexual-abuse-settlement-history-fraudulent-la-da-nathan-hochman-says"
+        }
+      ]
+    },
+    {
+      "title": "'They destroyed the future': Palestinian anger at rise in Israeli demolitions in East Jerusalem",
       "category": "World",
-      "what": "Nigeria is the latest African state to repatriate citizens following reports of xenophobic attacks.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/cq512vgyzl9o?at_medium=RSS&at_campaign=rss",
+      "what": "Palestinian homes are being pulled down in occupied East Jerusalem to make way for a park.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.bbc.com/news/articles/cewpwjr9rj4o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cq512vgyzl9o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/cewpwjr9rj4o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Toledo police name suspect Ka Nye Taylor in festival shooting that injured 12, hunt second gunman",
+      "title": "Portland man sentenced to 30 months in prison for throwing rock at ICE officer during protest",
       "category": "U.S.",
-      "what": "Toledo police identify Ka Nye Taylor as suspect in Old West End Festival shooting that injured 12 people and are searching for a second gunman.",
+      "what": "A Portland man was sentenced to 30 months in federal prison after pleading guilty to throwing a rock that struck an ICE officer in the face at a protest.",
       "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
       "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/toledo-police-name-suspect-ka-nye-taylor-festival-shooting-injured-12-hunt-second-gunman",
+      "source": "https://www.foxnews.com/us/portland-man-sentenced-30-months-prison-throwing-rock-ice-officer-protest",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/toledo-police-name-suspect-ka-nye-taylor-festival-shooting-injured-12-hunt-second-gunman"
+          "url": "https://www.foxnews.com/us/portland-man-sentenced-30-months-prison-throwing-rock-ice-officer-protest"
         }
       ]
     },
     {
-      "title": "Ohio approves nearly billion dollar payment after court ruled state shortchanged nursing homes",
-      "category": "U.S.",
-      "what": "Ohio lawmakers approved an $875 million package to resolve a Medicaid dispute after the Supreme Court found nursing homes were shortchanged.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/ohio-approves-nearly-billion-dollar-payment-court-ruled-state-shortchanged-nursing-homes",
+      "title": "Thai Princess Bajrakitiyabha dies after more than three years in coma",
+      "category": "World",
+      "what": "Princess Bajrakitiyabha, the king's eldest daughter, collapsed in December 2022 while exercising her dogs.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.com/news/articles/cvgzzndx780o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/ohio-approves-nearly-billion-dollar-payment-court-ruled-state-shortchanged-nursing-homes"
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cvgzzndx780o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Minnesota man marks FBI's first arrest from DOJ's 'Most Wanted Fraudsters' list",
+      "title": "World Cup kicks off in Mexico with Shakira, dancing, and protests",
+      "category": "World",
+      "what": "There was a star-studded opening ceremony, and some sporadic clashes between police and protesters around the Azteca stadium.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Pima County sheriff says Mexican authorities have not made contact over Nancy Guthrie search tip",
       "category": "U.S.",
-      "what": "FBI Director Kash Patel announces the first arrest from DOJ's Most Wanted Fraudsters list as a Minneapolis grocery owner faces fraud charges.",
+      "what": "Pima County Sheriff says department has not been contacted by Mexican authorities after anonymous tip suggests Nancy Guthrie's grave was found.",
       "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
       "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/minnesota-man-marks-fbis-first-arrest-from-dojs-most-wanted-fraudsters-list",
+      "source": "https://www.foxnews.com/us/pima-county-sheriff-says-mexican-authorities-made-contact-nancy-guthrie-search-tip",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/minnesota-man-marks-fbis-first-arrest-from-dojs-most-wanted-fraudsters-list"
+          "url": "https://www.foxnews.com/us/pima-county-sheriff-says-mexican-authorities-made-contact-nancy-guthrie-search-tip"
+        }
+      ]
+    },
+    {
+      "title": "Why the economics make this the craziest World Cup ever",
+      "category": "World",
+      "what": "From trade wars to soaring ticket prices, the 2026 World Cup is unlike any before it. Faisal Islam explores what this tournament reveals about our changing global economy.",
+      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
+      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
+      "source": "https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Flip flop or deliberate? - Unpacking Trump’s strategy on Iran",
+      "category": "World",
+      "what": "The BBC's Gary O'Donoghue looks at the US president's mixed messaging over the war and the questions it raises.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.com/news/videos/cz9lg5ywzvpo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/videos/cz9lg5ywzvpo?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
