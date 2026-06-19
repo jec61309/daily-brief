@@ -1,110 +1,148 @@
 {
-  "date": "Thursday, June 18, 2026",
+  "date": "Friday, June 19, 2026",
   "stories": [
     {
-      "title": "LDS church celebrates delivering 6.5M meals across all 50 states for America250 anniversary",
-      "category": "U.S.",
-      "what": "The Church of Jesus Christ of Latter-day Saints delivered over 6.5 million meals nationwide as part of the America250 hunger-relief effort ahead of the anniversary.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/lds-church-celebrates-delivering-65m-meals-across-50-states-america250-anniversary",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/lds-church-celebrates-delivering-65m-meals-across-50-states-america250-anniversary"
-        }
-      ]
-    },
-    {
-      "title": "British man dies in paragliding accident in Spain",
-      "category": "World",
-      "what": "Authorities in Catalonia confirmed that the 63-year-old died in the Palau de Noguera area on Wednesday.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/c1dye3e9gnwo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c1dye3e9gnwo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "First Russian shadow fleet vessel enters Channel since Smyrtos boarding",
-      "category": "World",
-      "what": "Forwarder, a Russian-flagged ship which left port in Primorsk last week, entered the Channel on Wednesday evening.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.bbc.com/news/articles/cgk6d12lz6jo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cgk6d12lz6jo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Unearthed clip exposes more anti-police rhetoric as El-Sayed gets grilled for deleting social media posts",
+      "title": "Trump leaves Netanyahu endorsement hanging with pointed warning ahead of crucial election",
       "category": "Politics",
-      "what": "Abdul El-Sayed, Michigan Democratic Senate candidate, accused state police of profiling in a 2018 speech despite scrubbing defund the police posts.",
+      "what": "Trump dangles endorsement in front of Netanyahu in Israel's upcoming elections, saying he likes Bibi but urging the Israeli leader to be \"more rational.\"",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/unearthed-clip-exposes-more-anti-police-rhetoric-el-sayed-gets-grilled-deleting-social-media-posts",
+      "source": "https://www.foxnews.com/politics/trump-leaves-netanyahu-endorsement-hanging-pointed-warning-ahead-crucial-election",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/unearthed-clip-exposes-more-anti-police-rhetoric-el-sayed-gets-grilled-deleting-social-media-posts"
+          "url": "https://www.foxnews.com/politics/trump-leaves-netanyahu-endorsement-hanging-pointed-warning-ahead-crucial-election"
         }
       ]
     },
     {
-      "title": "Trump personally signs Iran deal in major diplomatic breakthrough and more top headlines",
-      "category": "U.S.",
-      "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/us/trump-personally-signs-iran-deal-major-diplomatic-breakthrough-more-top-headlines",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/trump-personally-signs-iran-deal-major-diplomatic-breakthrough-more-top-headlines"
-        }
-      ]
-    },
-    {
-      "title": "Hegseth announces 6-month review of American forces in Europe, blasts NATO allies for putting troops 'at risk'",
+      "title": "Republican congressman will end months-long absence from DC after missing 135 roll call votes",
       "category": "Politics",
-      "what": "War Secretary Pete Hegseth announces six-month review of U.S. force deployment in Europe, pressing NATO allies to take primary responsibility for defense.",
+      "what": "Rep. Tom Kean Jr. is set to return to Capitol Hill on June 30 after more than 100 days away due to an undisclosed health issue, his spokesperson confirmed.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/hegseth-announces-6-month-review-american-forces-europe-blasts-nato-allies-putting-troops-risk",
+      "source": "https://www.foxnews.com/politics/republican-congressman-end-months-long-absence-dc-missing-135-roll-call-votes",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/hegseth-announces-6-month-review-american-forces-europe-blasts-nato-allies-putting-troops-risk"
+          "url": "https://www.foxnews.com/politics/republican-congressman-end-months-long-absence-dc-missing-135-roll-call-votes"
         }
       ]
     },
     {
-      "title": "White House UFC terror plot 'ringleader' is a Mexican illegal immigrant, DHS confirms",
-      "category": "Politics",
-      "what": "Abraham Alvarez allegedly led a plot to attack the UFC White House event using explosive drones and snipers, according to federal authorities.",
+      "title": "Disgraced Murdaugh trial clerk who helped blow up murder conviction claims protection from payback lawsuit",
+      "category": "U.S.",
+      "what": "Former clerk Becky Hill asks federal judge to dismiss Alex Murdaugh's $600,000 lawsuit, arguing he would have incurred the same legal fees regardless.",
       "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
       "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/white-house-ufc-terror-plot-ringleader-mexican-illegal-immigrant-dhs-confirms",
+      "source": "https://www.foxnews.com/us/disgraced-murdaugh-trial-clerk-helped-blow-murder-conviction-claims-protection-payback-lawsuit",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/dhs-torches-spanberger-illegal-immigrant-charged-child-sex-abuse-babysitters-house-granted-bond"
-        },
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/white-house-ufc-terror-plot-ringleader-mexican-illegal-immigrant-dhs-confirms"
+          "url": "https://www.foxnews.com/us/disgraced-murdaugh-trial-clerk-helped-blow-murder-conviction-claims-protection-payback-lawsuit"
         }
       ]
     },
     {
-      "title": "Gunfire and explosions heard at Niger capital's airport",
+      "title": "Dem justices slap Soros-backed Philly DA with power strip in stunning decision: 'Not reliable'",
+      "category": "Politics",
+      "what": "Pennsylvania's Supreme Court, including two Democrat justices, ordered outside scrutiny of Soros-backed DA Larry Krasner's office over unreliable post-conviction concessions in murder cases.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/politics/dem-justices-slap-soros-backed-philly-da-power-strip-stunning-decision",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/dem-justices-slap-soros-backed-philly-da-power-strip-stunning-decision"
+        }
+      ]
+    },
+    {
+      "title": "Switzerland confirms talks with the US and Iran are postponed and more top headlines",
+      "category": "U.S.",
+      "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.foxnews.com/us/switzerland-confirms-talks-us-iran-postponed-more-top-headlines",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/switzerland-confirms-talks-us-iran-postponed-more-top-headlines"
+        }
+      ]
+    },
+    {
+      "title": "As global warming threatens corals, scientists search for reefs that can take the heat",
+      "category": "Tech",
+      "what": "Researchers say these coral strongholds may help repopulate more degraded reefs.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://arstechnica.com/science/2026/06/as-global-warming-threatens-corals-scientists-search-for-reefs-that-can-take-the-heat/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/06/as-global-warming-threatens-corals-scientists-search-for-reefs-that-can-take-the-heat/"
+        }
+      ]
+    },
+    {
+      "title": "Another lawyer joins Karmelo Anthony's appeal as killer claims he cannot pay for counsel",
+      "category": "U.S.",
+      "what": "Karmelo Anthony secures new court-appointed lawyer to appeal his murder conviction for stabbing 17-year-old Austin Metcalf at a Texas track meet.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/another-lawyer-joins-karmelo-anthony-appeal-killer-claims-cannot-pay-counsel",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/another-lawyer-joins-karmelo-anthony-appeal-killer-claims-cannot-pay-counsel"
+        }
+      ]
+    },
+    {
+      "title": "Boy, 12, wins hearts after trying to check sick chicken into Ethiopian hospital",
+      "category": "World",
+      "what": "Markos's beloved hen was not responding to any treatments - so he did the only thing he could think of.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/cy49e7w3rmxo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cy49e7w3rmxo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Asia's richest man Ambani announces what could be India's biggest share sale",
+      "category": "World",
+      "what": "India's largest telecom operator is expected to raise around $4bn (£3.02bn), according to media reports.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.com/news/articles/cx2kerpkynko?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cx2kerpkynko?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Fitness trainer told friend she was 'scared for her life' weeks before body with matching clothing found",
+      "category": "U.S.",
+      "what": "South Carolina fitness trainer Elena Moore told her best friend she was \"scared for her life\" weeks before a body matching her description was found.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/fitness-trainer-told-friend-scared-life-weeks-before-body-matching-clothing-found",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/fitness-trainer-told-friend-scared-life-weeks-before-body-matching-clothing-found"
+        }
+      ]
+    },
+    {
+      "title": "Thirty-five killed as gunmen attack Niger's biggest airport",
       "category": "World",
       "what": "Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
@@ -118,100 +156,58 @@
       ]
     },
     {
-      "title": "Austin Metcalf’s dad supported Karmelo Anthony judge’s hard line on cameras",
-      "category": "U.S.",
-      "what": "Jeff Metcalf says he stands by the judge's decision to keep cameras out of the Karmelo Anthony trial, citing the trauma faced by minor witnesses.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/austin-metcalf-dad-supported-karmelo-anthony-judges-hard-line-cameras",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/austin-metcalf-dad-supported-karmelo-anthony-judges-hard-line-cameras"
-        }
-      ]
-    },
-    {
-      "title": "Suspected gang leader shot dead in flower bouquet ambush at airport",
+      "title": "Zimbabwe MPs pass bill to extend president's time in power",
       "category": "World",
-      "what": "The gunmen concealed their weapons behind flowers and stuffed toys while waiting for the victim outside Guayaquil airport.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/c4gy2l30dd0o?at_medium=RSS&at_campaign=rss",
+      "what": "The proposal would extend Emmerson Mnangagwa's term by two years and scrap direct presidential elections.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.com/news/articles/c20y15m0337o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c4gy2l30dd0o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/c20y15m0337o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Lil Nas X says he's 'feeling better' after rehab and bipolar diagnosis",
+      "title": "Do it at home too, women tell Japanese fans who cleaned World Cup stadium",
       "category": "World",
-      "what": "The Old Town Road star was arrested last year for attacking police officers and later entered rehab.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/cn4dqyn94vdo?at_medium=RSS&at_campaign=rss",
+      "what": "Some see a double standard: Japanese men who clean in public while their wives do all the housework.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.com/news/articles/crel9xlp8r1o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cn4dqyn94vdo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/crel9xlp8r1o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Florida couple reaches agreement with daughter's biological parents after alleged IVF mix-up",
-      "category": "U.S.",
-      "what": "A Florida couple will raise a genetically unrelated child after an alleged embryo mix-up at a fertility clinic, reaching a custody agreement with the child's biological parents.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/florida-couple-reaches-agreement-daughters-biological-parents-after-alleged-ivf-mix-up",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/florida-couple-reaches-agreement-daughters-biological-parents-after-alleged-ivf-mix-up"
-        }
-      ]
-    },
-    {
-      "title": "Hulk, Punisher join Peter Parker in Spider-Man: Brand New Day trailer",
+      "title": "A bold satellite rescue mission came together in record time, but will it work?",
       "category": "Tech",
-      "what": "Peter Parker to Bruce Banner: \"I didn't know you could get that big.\"",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/culture/2026/06/hulk-punisher-join-peter-parker-in-spider-man-brand-new-day-trailer/",
+      "what": "\"I consider this a success already, just from the fact that we're even going to try this.\"",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/space/2026/06/a-bold-satellite-rescue-mission-came-together-in-record-time-but-will-it-work/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/culture/2026/06/hulk-punisher-join-peter-parker-in-spider-man-brand-new-day-trailer/"
+          "url": "https://arstechnica.com/space/2026/06/a-bold-satellite-rescue-mission-came-together-in-record-time-but-will-it-work/"
         }
       ]
     },
     {
-      "title": "Second carcass-eating fly species cleared by FDA for maggot wound therapy",
+      "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
       "category": "Tech",
-      "what": "Maggot therapy lacks robust data, but it has fans and a fail-safe \"bacon therapy.\"",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/health/2026/06/second-carcass-eating-fly-species-cleared-by-fda-for-maggot-wound-therapy/",
+      "what": "Crypto Clipper spreads over USB and communicates over Tor.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/health/2026/06/second-carcass-eating-fly-species-cleared-by-fda-for-maggot-wound-therapy/"
-        }
-      ]
-    },
-    {
-      "title": "Sooner than expected? Useful quantum error correction promised for 2028.",
-      "category": "Tech",
-      "what": "Elsewhere, beyond-classical quantum hardware, plus classical computing fires back.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://arstechnica.com/science/2026/06/amazon-quera-promise-useful-quantum-error-correction-by-2028/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/06/amazon-quera-promise-useful-quantum-error-correction-by-2028/"
+          "url": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/"
         }
       ]
     }
