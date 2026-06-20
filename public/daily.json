@@ -1,73 +1,185 @@
 {
-  "date": "Friday, June 19, 2026",
+  "date": "Saturday, June 20, 2026",
   "stories": [
     {
-      "title": "Trump leaves Netanyahu endorsement hanging with pointed warning ahead of crucial election",
-      "category": "Politics",
-      "what": "Trump dangles endorsement in front of Netanyahu in Israel's upcoming elections, saying he likes Bibi but urging the Israeli leader to be \"more rational.\"",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/trump-leaves-netanyahu-endorsement-hanging-pointed-warning-ahead-crucial-election",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-leaves-netanyahu-endorsement-hanging-pointed-warning-ahead-crucial-election"
-        }
-      ]
-    },
-    {
-      "title": "Republican congressman will end months-long absence from DC after missing 135 roll call votes",
-      "category": "Politics",
-      "what": "Rep. Tom Kean Jr. is set to return to Capitol Hill on June 30 after more than 100 days away due to an undisclosed health issue, his spokesperson confirmed.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/republican-congressman-end-months-long-absence-dc-missing-135-roll-call-votes",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/republican-congressman-end-months-long-absence-dc-missing-135-roll-call-votes"
-        }
-      ]
-    },
-    {
-      "title": "Disgraced Murdaugh trial clerk who helped blow up murder conviction claims protection from payback lawsuit",
+      "title": "South Carolina fitness trainer told friends she wanted to leave her now-husband years before body was found",
       "category": "U.S.",
-      "what": "Former clerk Becky Hill asks federal judge to dismiss Alex Murdaugh's $600,000 lawsuit, arguing he would have incurred the same legal fees regardless.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/disgraced-murdaugh-trial-clerk-helped-blow-murder-conviction-claims-protection-payback-lawsuit",
+      "what": "Friends say missing South Carolina trainer Elena Katherine Moore wanted to leave her now-husband before her body was discovered this week.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/south-carolina-fitness-trainer-told-friends-wanted-leave-husband-years-body-found",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/disgraced-murdaugh-trial-clerk-helped-blow-murder-conviction-claims-protection-payback-lawsuit"
+          "url": "https://www.foxnews.com/us/south-carolina-fitness-trainer-told-friends-wanted-leave-husband-years-body-found"
         }
       ]
     },
     {
-      "title": "Dem justices slap Soros-backed Philly DA with power strip in stunning decision: 'Not reliable'",
+      "title": "Obama Center engineer fires back at online critics ripping architecture as 'monstrous insult'",
       "category": "Politics",
-      "what": "Pennsylvania's Supreme Court, including two Democrat justices, ordered outside scrutiny of Soros-backed DA Larry Krasner's office over unreliable post-conviction concessions in murder cases.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/dem-justices-slap-soros-backed-philly-da-power-strip-stunning-decision",
+      "what": "The Obama Presidential Center's structural engineer says boldness was the goal, calling the tower's design an unprecedented architectural statement.",
+      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
+      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
+      "source": "https://www.foxnews.com/politics/obama-center-engineer-fires-back-online-critics-ripping-architecture-monstrous-insult",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/dem-justices-slap-soros-backed-philly-da-power-strip-stunning-decision"
+          "url": "https://www.foxnews.com/politics/obama-center-engineer-fires-back-online-critics-ripping-architecture-monstrous-insult"
         }
       ]
     },
     {
-      "title": "Switzerland confirms talks with the US and Iran are postponed and more top headlines",
+      "title": "JD Vance reveals what drew him back to God after seeing Christians had life ‘figured out’",
+      "category": "Politics",
+      "what": "Vice President JD Vance reflects on his faith journey in new book 'Communion,' sharing how Christianity gave him purpose after years of chasing success.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/politics/jd-vance-reveals-what-drew-him-back-god-after-seeing-christians-had-life-figured-out",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/jd-vance-reveals-what-drew-him-back-god-after-seeing-christians-had-life-figured-out"
+        }
+      ]
+    },
+    {
+      "title": "Luigi Mangione overruled his own lawyers with a 'change of heart' on psych defense, legal expert says",
       "category": "U.S.",
-      "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+      "what": "Luigi Mangione withdrew his proposed psychiatric defense in the UnitedHealthcare CEO Brian Thompson murder case hours before a key court deadline.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/luigi-mangione-overruled-lawyers-change-heart-psych-defense-legal-expert-says",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/luigi-mangione-overruled-lawyers-change-heart-psych-defense-legal-expert-says"
+        }
+      ]
+    },
+    {
+      "title": "Trump says vandals used chemicals to damage newly renovated reflecting pool near Lincoln Memorial",
+      "category": "Politics",
+      "what": "President Trump says vandals damaged the recently renovated reflecting pool near the Lincoln Memorial, saying chemicals were used on the newly installed surface.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/trump-says-vandals-used-chemicals-damage-newly-renovated-reflecting-pool-lincoln-memorial",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/trump-says-vandals-used-chemicals-damage-newly-renovated-reflecting-pool-lincoln-memorial"
+        }
+      ]
+    },
+    {
+      "title": "FBI captures $1.2B Medicare fraud fugitive in Philippines, second arrest from Most Wanted Fraudsters list",
+      "category": "U.S.",
+      "what": "Herbert Leon Kimble, accused of a $1.2 billion Medicare fraud scheme targeting the elderly, was captured in the Philippines and returned to the U.S.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/fbi-captures-12b-medicare-fraud-fugitive-philippines-second-arrest-wanted-fraudsters-list",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/fbi-captures-12b-medicare-fraud-fugitive-philippines-second-arrest-wanted-fraudsters-list"
+        }
+      ]
+    },
+    {
+      "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
+      "category": "World",
+      "what": "Several people are reported killed in southern Lebanon, with the IDF saying it hit \"Hezbollah terrorist targets\" after the group fired over 50 projectiles at Israeli forces.",
       "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
       "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.foxnews.com/us/switzerland-confirms-talks-us-iran-postponed-more-top-headlines",
+      "source": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Tourist dies in Dominican Republic luxury resort fire",
+      "category": "World",
+      "what": "Nearly 1,700 people were evacuated from the huge blaze at Viva Wyndham Dominicus Beach in Bayahibe, a popular resort town on the Caribbean coast.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/c932k8010j1o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c932k8010j1o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Australia confirms first case of H5N1 bird flu as virus reaches every continent",
+      "category": "World",
+      "what": "Australia was previously the only continent where the H5N1 bird flu strain had not yet been found.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.com/news/articles/c4gykxklvl5o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c4gykxklvl5o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "African and Caribbean nations call for formal apology for transatlantic slavery",
+      "category": "World",
+      "what": "The leaders have asked for apologies from the countries that benefited from the slave trade, as well as debt relief and financial compensation.",
+      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
+      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
+      "source": "https://www.bbc.com/news/articles/cm2rl8z5x7no?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cm2rl8z5x7no?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "James Burrows, legendary director of Cheers and Friends, dies aged 85 ",
+      "category": "World",
+      "what": "Best-known as co-creator of sitcom Cheers, Burrows directed more than 1,000 episodes of other classics including the Big Bang Theory and Will and Grace.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.com/news/articles/ce8k07x523eo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.com/news/articles/ce8k07x523eo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Karmelo Anthony runs away after murdering Austin Metcalf: surveillance video",
+      "category": "U.S.",
+      "what": "Court officials in Texas have made public new images from the fatal scene after student Austin Metcalf was stabbed to death by Karmelo Anthony during a Texas high school track meet confrontation.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/new-images-show-murder-weapon-fatal-injury-texas-high-school-track-meet-stabbing-austin-metcalf",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/switzerland-confirms-talks-us-iran-postponed-more-top-headlines"
+          "url": "https://www.foxnews.com/us/new-images-show-murder-weapon-fatal-injury-texas-high-school-track-meet-stabbing-austin-metcalf"
+        }
+      ]
+    },
+    {
+      "title": "Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars",
+      "category": "Tech",
+      "what": "A French launch startup is scrapping the name of its rocket, apparently due to a trademark issue.",
+      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
+      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
+      "source": "https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/"
         }
       ]
     },
@@ -86,104 +198,6 @@
       ]
     },
     {
-      "title": "Another lawyer joins Karmelo Anthony's appeal as killer claims he cannot pay for counsel",
-      "category": "U.S.",
-      "what": "Karmelo Anthony secures new court-appointed lawyer to appeal his murder conviction for stabbing 17-year-old Austin Metcalf at a Texas track meet.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/another-lawyer-joins-karmelo-anthony-appeal-killer-claims-cannot-pay-counsel",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/another-lawyer-joins-karmelo-anthony-appeal-killer-claims-cannot-pay-counsel"
-        }
-      ]
-    },
-    {
-      "title": "Boy, 12, wins hearts after trying to check sick chicken into Ethiopian hospital",
-      "category": "World",
-      "what": "Markos's beloved hen was not responding to any treatments - so he did the only thing he could think of.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.com/news/articles/cy49e7w3rmxo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cy49e7w3rmxo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Asia's richest man Ambani announces what could be India's biggest share sale",
-      "category": "World",
-      "what": "India's largest telecom operator is expected to raise around $4bn (£3.02bn), according to media reports.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/cx2kerpkynko?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cx2kerpkynko?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Fitness trainer told friend she was 'scared for her life' weeks before body with matching clothing found",
-      "category": "U.S.",
-      "what": "South Carolina fitness trainer Elena Moore told her best friend she was \"scared for her life\" weeks before a body matching her description was found.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/fitness-trainer-told-friend-scared-life-weeks-before-body-matching-clothing-found",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/fitness-trainer-told-friend-scared-life-weeks-before-body-matching-clothing-found"
-        }
-      ]
-    },
-    {
-      "title": "Thirty-five killed as gunmen attack Niger's biggest airport",
-      "category": "World",
-      "what": "Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Zimbabwe MPs pass bill to extend president's time in power",
-      "category": "World",
-      "what": "The proposal would extend Emmerson Mnangagwa's term by two years and scrap direct presidential elections.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.com/news/articles/c20y15m0337o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c20y15m0337o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Do it at home too, women tell Japanese fans who cleaned World Cup stadium",
-      "category": "World",
-      "what": "Some see a double standard: Japanese men who clean in public while their wives do all the housework.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.com/news/articles/crel9xlp8r1o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.com/news/articles/crel9xlp8r1o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
       "title": "A bold satellite rescue mission came together in record time, but will it work?",
       "category": "Tech",
       "what": "\"I consider this a success already, just from the fact that we're even going to try this.\"",
@@ -194,20 +208,6 @@
         {
           "name": "Ars Technica",
           "url": "https://arstechnica.com/space/2026/06/a-bold-satellite-rescue-mission-came-together-in-record-time-but-will-it-work/"
-        }
-      ]
-    },
-    {
-      "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
-      "category": "Tech",
-      "what": "Crypto Clipper spreads over USB and communicates over Tor.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/"
         }
       ]
     }
