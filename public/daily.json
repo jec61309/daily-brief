@@ -1,213 +1,221 @@
 {
-  "date": "Wednesday, June 24, 2026",
+  "date": "Thursday, June 25, 2026",
   "stories": [
     {
-      "title": "Power outages hit France as record heatwave set to peak",
+      "title": "Ryanair says it will reluctantly let parents sit with children for free",
       "category": "World",
-      "what": "About 68,000 homes in Brittany have been affected, with electricity unlikely to be fully restored until Wednesday night.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
+      "what": "The airline had typically charged adults a fee of £8 each way to sit with their young children.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Dems rattled after progressive wave sweeps New York primaries and more top headlines",
-      "category": "U.S.",
-      "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/dems-rattled-after-progressive-wave-sweeps-new-york-primaries-more-top-headlines",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/dems-rattled-after-progressive-wave-sweeps-new-york-primaries-more-top-headlines"
-        }
-      ]
-    },
-    {
-      "title": "France confirms first Ebola case",
-      "category": "World",
-      "what": "More than 260 people in the Democratic Republic of Congo are known to have died during the current outbreak.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cj9gzr9rdjlo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cj9gzr9rdjlo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Trump to kick off Great American State Fair as 250th anniversary celebrations take over National Mall",
+      "title": "Senate Republican pushes overhaul to cut red tape and speed up American energy projects",
       "category": "Politics",
-      "what": "President Trump kicked off the Great American State Fair on the National Mall, celebrating America's 250th birthday with all 50 states and territories.",
+      "what": "Sen. Alan Armstrong introduces the American Energy and Mineral Infrastructure Act of 2026, aiming to reform permitting and boost U.S. energy production.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/trump-kick-off-great-american-state-fair-250th-anniversary-celebrations-take-over-national-mall",
+      "source": "https://www.foxnews.com/politics/alan-armstrong-energy-permitting-reform",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-kick-off-great-american-state-fair-250th-anniversary-celebrations-take-over-national-mall"
+          "url": "https://www.foxnews.com/politics/alan-armstrong-energy-permitting-reform"
         }
       ]
     },
     {
-      "title": "Blue state shield laws allowed 330K abortion pills to be sent to abortion ban states, pro-life group finds",
+      "title": "Mamdani and Hochul announce cash infusion for New York City Abortion Access Hub expansion",
       "category": "Politics",
-      "what": "A pro-life group released a report saying nearly 330,000 abortion pills were shipped to states with restrictions since 2023 under blue state shield laws.",
+      "what": "New York City and the Empire State are infusing hundreds of thousands of dollars into New York City Abortion Access Hub to expand its referral network",
       "why": "This matters because it may influence legislation, executive action, or the national political mood.",
       "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
-      "source": "https://www.foxnews.com/politics/abortion-pill-shipments-shield-laws-dobbs",
+      "source": "https://www.foxnews.com/politics/mamdani-hochul-announce-cash-infusion-new-york-city-abortion-access-hub-expansion",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/abortion-pill-shipments-shield-laws-dobbs"
+          "url": "https://www.foxnews.com/politics/mamdani-hochul-announce-cash-infusion-new-york-city-abortion-access-hub-expansion"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/"
         }
       ]
     },
     {
-      "title": "Mamdani-backed socialist candidate storms out of live interview when confronted with old social media posts",
+      "title": "Police seal off key roads in Nairobi as Kenyans march to remember protest victims",
+      "category": "World",
+      "what": "Protesters demand justice for more than 80 people killed during the 2024 demonstrations and last year's anniversary protests.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Conservatives flip script on Swalwell pal's family man image with reminder on pregnant ex-wife",
       "category": "Politics",
-      "what": "Darializa Avila Chevalier walked out of a radio interview after being pressed about controversial social media posts in her NY primary race.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/mamdani-backed-socialist-candidate-storms-live-interview-confronted-old-social-media-posts",
+      "what": "Sen. Ruben Gallego faces backlash after family-friendly defense as critics remind viewers he served his 9-month pregnant wife divorce papers.",
+      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
+      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
+      "source": "https://www.foxnews.com/politics/conservatives-flip-script-swalwell-pals-family-man-image-reminder-pregnant-ex-wife",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/mamdani-backed-socialist-candidate-storms-live-interview-confronted-old-social-media-posts"
+          "url": "https://www.foxnews.com/politics/conservatives-flip-script-swalwell-pals-family-man-image-reminder-pregnant-ex-wife"
         }
       ]
     },
     {
-      "title": "Ukraine strikes knock out power in key city in Russian-occupied Crimea",
-      "category": "World",
-      "what": "Sevastopol's Moscow-installed governor warns there will be no electricity in some areas until the evening.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "French woman allegedly held captive by husband for 12 years rescued in Pakistan",
-      "category": "World",
-      "what": "Yasmina alleges she was held along with her five children, and they were all cut off from the outside world.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cj0g71pnv3no?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cj0g71pnv3no?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Kenya to charge students with murder over deadly school fire",
-      "category": "World",
-      "what": "Sixteen pupils, aged between 15 and 18, died when a fire broke out in a dormitory at Utumishi Girls' School last month.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cwykl517xk7o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwykl517xk7o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Paroled felon charged in deadly fire at New York homeless hotel that killed 6",
+      "title": "Fox News ‘Antisemitism Exposed’ Newsletter: Mamdani-backed socialist throws tantrum before shock upset",
       "category": "U.S.",
-      "what": "A parolee faces manslaughter and arson charges over accusations of setting a New York homeless hotel on fire, killing six people, according to police.",
+      "what": "Fox News' \"Antisemitism Exposed\" newsletter brings you stories on the rising anti-Jewish prejudice across the U.S. and the world.",
       "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
       "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/parolee-charged-deadly-new-york-homeless-hotel-fire",
+      "source": "https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-mamdani-backed-socialist-throws-tantrum-before-shock-upset",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/parolee-charged-deadly-new-york-homeless-hotel-fire"
+          "url": "https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-mamdani-backed-socialist-throws-tantrum-before-shock-upset"
         }
       ]
     },
     {
-      "title": "DOJ charges 10 Southern California defendants in largest federal healthcare fraud crackdown in US history",
+      "title": "Senate Republicans flip on Iran war powers vote after fiery meeting with Trump and more top headlines",
       "category": "U.S.",
-      "what": "Federal authorities charged 10 Southern California defendants in healthcare fraud schemes involving nearly $270 million in fraudulent Medi-Cal claims.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/doj-charges-southern-california-healthcare-fraud-defendants",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/doj-charges-southern-california-healthcare-fraud-defendants"
-        }
-      ]
-    },
-    {
-      "title": "Investigators revisit Florida serial killer case as search resumes for possible additional victims",
-      "category": "U.S.",
-      "what": "Florida authorities search Hernando County ranch for possible additional victims linked to convicted serial killer Billy Mansfield after alerts.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/investigators-revisit-florida-serial-killer-case-search-resumes-possible-additional-victims",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/investigators-revisit-florida-serial-killer-case-search-resumes-possible-additional-victims"
-        }
-      ]
-    },
-    {
-      "title": "White House drastically shortens deadline for dropping quantum-vulnerable crypto",
-      "category": "Tech",
-      "what": "Order warns of national security risks if post-quantum cryptography isn't adopted in time.",
+      "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/",
+      "source": "https://www.foxnews.com/us/senate-republicans-flip-iran-war-powers-vote-after-fiery-meeting-trump-more-top-headlines",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/senate-republicans-flip-iran-war-powers-vote-after-fiery-meeting-trump-more-top-headlines"
+        }
+      ]
+    },
+    {
+      "title": "Alex Murdaugh defense points to unknown male DNA in push for new testing",
+      "category": "U.S.",
+      "what": "Alex Murdaugh's defense team seeks independent DNA testing of unknown male DNA found under Maggie Murdaugh's fingernails in the murder case.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/alex-murdaugh-defense-points-unknown-male-dna-push-new-testing",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/alex-murdaugh-defense-points-unknown-male-dna-push-new-testing"
+        }
+      ]
+    },
+    {
+      "title": "'I thought I was going to die' - Venezuelans describe earthquake panic",
+      "category": "World",
+      "what": "Buildings were flattened in the capital Caracas, where voices have been heard calling from the rubble.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
+      "category": "World",
+      "what": "IBM says it has created the world's first known chip tech below 1 nanometre - but it will be some time before it's ready for production.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "IBM claims world’s first sub-1 nanometer chip technology",
+      "category": "Tech",
+      "what": "IBM’s nanostack transistors could boost chip performance or energy efficiency.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/"
+          "url": "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/"
         }
       ]
     },
     {
-      "title": "US's climate.gov site, taken down by Trump, relaunched by nonprofit",
-      "category": "Tech",
-      "what": "Climate.us has now restored everything taken down by the government.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://arstechnica.com/science/2026/06/uss-climate-gov-site-taken-down-by-trump-relaunched-by-nonprofit/",
+      "title": "Dating-app charmer accused of murder after history of domestic arrests involving women he met online",
+      "category": "U.S.",
+      "what": "A Connecticut man, Cole Werhan, is accused of murdering his girlfriend Brooke Murphy, who was found dead at the bottom of a staircase in March.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/dating-app-charmer-accused-murder-history-domestic-arrests-involving-women-met-online",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/06/uss-climate-gov-site-taken-down-by-trump-relaunched-by-nonprofit/"
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/dating-app-charmer-accused-murder-history-domestic-arrests-involving-women-met-online"
         }
       ]
     },
     {
-      "title": "Odd police video shows drone removing knife from motionless suspect",
+      "title": "Oil price falls back to pre-Iran war levels",
+      "category": "World",
+      "what": "Signs that traffic through the key Strait of Hormuz shipping route is gradually resuming has helped to push the oil price down.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Hotly anticipated Grand Theft Auto VI will cost more than other AAA games",
       "category": "Tech",
-      "what": "Promo video comes as more US police departments fly drones as first responders.",
+      "what": "GTA6 might be an outlier, though—at least for now.",
       "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
       "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/gadgets/2026/06/police-tout-using-drone-to-disarm-incapacitated-person-in-nationwide-first/",
+      "source": "https://arstechnica.com/gaming/2026/06/grand-theft-auto-vi-will-cost-80-without-a-physical-disc/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/06/police-tout-using-drone-to-disarm-incapacitated-person-in-nationwide-first/"
+          "url": "https://arstechnica.com/gaming/2026/06/grand-theft-auto-vi-will-cost-80-without-a-physical-disc/"
+        }
+      ]
+    },
+    {
+      "title": "13 years and $500 million for a stage adapter? Report justifies NASA cancellations.",
+      "category": "Tech",
+      "what": "\"Contract values for these efforts ballooned from nearly $2.8 billion to $5.9 billion.\"",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/space/2026/06/analysis-finds-the-exploration-programs-nasa-recently-canceled-were-running-way-late/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/06/analysis-finds-the-exploration-programs-nasa-recently-canceled-were-running-way-late/"
         }
       ]
     }
