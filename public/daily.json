@@ -1,221 +1,213 @@
 {
-  "date": "Thursday, June 25, 2026",
+  "date": "Friday, June 26, 2026",
   "stories": [
     {
-      "title": "Ryanair says it will reluctantly let parents sit with children for free",
-      "category": "World",
-      "what": "The airline had typically charged adults a fee of £8 each way to sit with their young children.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Senate Republican pushes overhaul to cut red tape and speed up American energy projects",
-      "category": "Politics",
-      "what": "Sen. Alan Armstrong introduces the American Energy and Mineral Infrastructure Act of 2026, aiming to reform permitting and boost U.S. energy production.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/alan-armstrong-energy-permitting-reform",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/alan-armstrong-energy-permitting-reform"
-        }
-      ]
-    },
-    {
-      "title": "Mamdani and Hochul announce cash infusion for New York City Abortion Access Hub expansion",
-      "category": "Politics",
-      "what": "New York City and the Empire State are infusing hundreds of thousands of dollars into New York City Abortion Access Hub to expand its referral network",
-      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
-      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
-      "source": "https://www.foxnews.com/politics/mamdani-hochul-announce-cash-infusion-new-york-city-abortion-access-hub-expansion",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/mamdani-hochul-announce-cash-infusion-new-york-city-abortion-access-hub-expansion"
-        },
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/"
-        }
-      ]
-    },
-    {
-      "title": "Police seal off key roads in Nairobi as Kenyans march to remember protest victims",
-      "category": "World",
-      "what": "Protesters demand justice for more than 80 people killed during the 2024 demonstrations and last year's anniversary protests.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Conservatives flip script on Swalwell pal's family man image with reminder on pregnant ex-wife",
-      "category": "Politics",
-      "what": "Sen. Ruben Gallego faces backlash after family-friendly defense as critics remind viewers he served his 9-month pregnant wife divorce papers.",
-      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
-      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
-      "source": "https://www.foxnews.com/politics/conservatives-flip-script-swalwell-pals-family-man-image-reminder-pregnant-ex-wife",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/conservatives-flip-script-swalwell-pals-family-man-image-reminder-pregnant-ex-wife"
-        }
-      ]
-    },
-    {
-      "title": "Fox News ‘Antisemitism Exposed’ Newsletter: Mamdani-backed socialist throws tantrum before shock upset",
-      "category": "U.S.",
-      "what": "Fox News' \"Antisemitism Exposed\" newsletter brings you stories on the rising anti-Jewish prejudice across the U.S. and the world.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-mamdani-backed-socialist-throws-tantrum-before-shock-upset",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-mamdani-backed-socialist-throws-tantrum-before-shock-upset"
-        }
-      ]
-    },
-    {
-      "title": "Senate Republicans flip on Iran war powers vote after fiery meeting with Trump and more top headlines",
+      "title": "Trump flexes America's muscle as Iranian drone strikes ship and more top headlines",
       "category": "U.S.",
       "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/us/senate-republicans-flip-iran-war-powers-vote-after-fiery-meeting-trump-more-top-headlines",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/senate-republicans-flip-iran-war-powers-vote-after-fiery-meeting-trump-more-top-headlines"
-        }
-      ]
-    },
-    {
-      "title": "Alex Murdaugh defense points to unknown male DNA in push for new testing",
-      "category": "U.S.",
-      "what": "Alex Murdaugh's defense team seeks independent DNA testing of unknown male DNA found under Maggie Murdaugh's fingernails in the murder case.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/alex-murdaugh-defense-points-unknown-male-dna-push-new-testing",
+      "source": "https://www.foxnews.com/us/trump-flexes-americas-muscle-iranian-drone-strikes-ship-more-top-headlines",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/alex-murdaugh-defense-points-unknown-male-dna-push-new-testing"
+          "url": "https://www.foxnews.com/us/trump-flexes-americas-muscle-iranian-drone-strikes-ship-more-top-headlines"
         }
       ]
     },
     {
-      "title": "'I thought I was going to die' - Venezuelans describe earthquake panic",
+      "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
       "category": "World",
-      "what": "Buildings were flattened in the capital Caracas, where voices have been heard calling from the rubble.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
-      "category": "World",
-      "what": "IBM says it has created the world's first known chip tech below 1 nanometre - but it will be some time before it's ready for production.",
+      "what": "The ship was reportedly struck by an \"unknown projectile\" near Oman but no casualties were reported.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "IBM claims world’s first sub-1 nanometer chip technology",
+      "title": "Rocket Report: China may soon attempt booster landing; Rocket Lab does rapid response",
       "category": "Tech",
-      "what": "IBM’s nanostack transistors could boost chip performance or energy efficiency.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/",
+      "what": "Is SpaceX planning to end its Transporter program?",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://arstechnica.com/space/2026/06/rocket-report-china-may-soon-attempt-booster-landing-rocket-lab-does-rapid-response/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/"
+          "url": "https://arstechnica.com/space/2026/06/rocket-report-china-may-soon-attempt-booster-landing-rocket-lab-does-rapid-response/"
         }
       ]
     },
     {
-      "title": "Dating-app charmer accused of murder after history of domestic arrests involving women he met online",
-      "category": "U.S.",
-      "what": "A Connecticut man, Cole Werhan, is accused of murdering his girlfriend Brooke Murphy, who was found dead at the bottom of a staircase in March.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/dating-app-charmer-accused-murder-history-domestic-arrests-involving-women-met-online",
+      "title": "WATCH: AOC lashes out at Trump for 'betrayal' of voters after key SCOTUS immigration rulings",
+      "category": "Politics",
+      "what": "Rep. Ocasio-Cortez accuses Trump of 'betrayal' after Supreme Court allows his administration to end TPS protections for Haitian and Syrian migrants.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/politics/watch-aoc-accuses-trump-betrayal-after-supreme-court-immigration-rulings",
       "sources": [
         {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/dating-app-charmer-accused-murder-history-domestic-arrests-involving-women-met-online"
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/watch-aoc-accuses-trump-betrayal-after-supreme-court-immigration-rulings"
         }
       ]
     },
     {
-      "title": "Oil price falls back to pre-Iran war levels",
+      "title": "WATCH: Kellyanne Conway insists socialist primary victories don't reflect American values nationwide",
+      "category": "Politics",
+      "what": "Kellyanne Conway says Democratic primary wins reflect only a handful of specific districts and do not signal a broader political shift nationwide.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/watch-kellyanne-conway-insists-socialist-primary-victories-dont-reflect-american-values-nationwide",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/watch-kellyanne-conway-insists-socialist-primary-victories-dont-reflect-american-values-nationwide"
+        }
+      ]
+    },
+    {
+      "title": "Christmas market attacker jailed for life for murdering six in Germany",
       "category": "World",
-      "what": "Signs that traffic through the key Strait of Hormuz shipping route is gradually resuming has helped to push the oil price down.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
+      "what": "A nine-year-old and five women were killed when Taleb Al-Abdulmohsen drove into the market in 2024.",
+      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
+      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
+      "source": "https://www.bbc.co.uk/news/articles/cy06y63y6lno?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cy06y63y6lno?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Hotly anticipated Grand Theft Auto VI will cost more than other AAA games",
+      "title": "Trump nominates Chris Klomp for HHS deputy secretary, calls him 'a potential STAR'",
+      "category": "Politics",
+      "what": "President Donald Trump announces that he is nominating Chris Klomp to for the role of deputy secretary of the Department of Health and Human Services.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/trump-chris-klomp-hhs-deputy-secretary",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/trump-chris-klomp-hhs-deputy-secretary"
+        }
+      ]
+    },
+    {
+      "title": "Records reveal the massive arsenal Ohio man allegedly built to attack White House UFC event",
+      "category": "U.S.",
+      "what": "Ohio man Tycen Proper allegedly spent $3,000 in graduation money stockpiling weapons, ammo, and tactical gear for a planned UFC White House attack.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/us/records-reveal-massive-arsenal-ohio-man-allegedly-built-attack-white-house-ufc-event",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/records-reveal-massive-arsenal-ohio-man-allegedly-built-attack-white-house-ufc-event"
+        }
+      ]
+    },
+    {
+      "title": "Housing board votes to freeze New York rents in victory for Mamdani",
+      "category": "World",
+      "what": "The decision was welcomed by many tenants - but landlords fear it will worsen housing conditions.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/cn947pxxz4yo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cn947pxxz4yo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Asia stock markets slide as tech shares slump",
+      "category": "World",
+      "what": "Trading on South Korea's Kospi index was halted for the third time this week to prevent panic selling.",
+      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
+      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
+      "source": "https://www.bbc.co.uk/news/articles/ce8jz40k00ro?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ce8jz40k00ro?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Reflecting Pool liner cut with sharp knife or razor, National Park Service says",
+      "category": "World",
+      "what": "Earlier in the week Donald Trump blamed vandals for \"a 300 foot long gash\" in the pool and accused someone of putting fertiliser in the water.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/cn8qxz6qypyo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cn8qxz6qypyo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Florida executes 74-year-old for wife's murder, becoming oldest inmate put to death in state's modern history",
+      "category": "U.S.",
+      "what": "Florida executed a 74-year-old man for the murder of his wife, marking the ninth execution in the state this year and the oldest inmate to be executed in modern state history.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/florida-executes-74-year-old-wifes-murder-becoming-oldest-inmate-put-death-states-modern-history",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/florida-executes-74-year-old-wifes-murder-becoming-oldest-inmate-put-death-states-modern-history"
+        }
+      ]
+    },
+    {
+      "title": "Jury deadlocks in federal trial of man accused of starting deadly Palisades Fire in Los Angeles",
+      "category": "U.S.",
+      "what": "Jurors in the federal trial of Jonathan Rinderknecht, accused of starting the 2025 Palisades Fire, told a judge they are deadlocked after two days.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/jury-deadlocks-federal-trial-man-accused-starting-deadly-palisades-fire-los-angeles",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/jury-deadlocks-federal-trial-man-accused-starting-deadly-palisades-fire-los-angeles"
+        }
+      ]
+    },
+    {
+      "title": "Microsoft adds another year to Windows 10 extended update program",
       "category": "Tech",
-      "what": "GTA6 might be an outlier, though—at least for now.",
+      "what": "About a quarter of PCs are still running Microsoft's previous operating system.",
       "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
       "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/gaming/2026/06/grand-theft-auto-vi-will-cost-80-without-a-physical-disc/",
+      "source": "https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/gaming/2026/06/grand-theft-auto-vi-will-cost-80-without-a-physical-disc/"
+          "url": "https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/"
         }
       ]
     },
     {
-      "title": "13 years and $500 million for a stage adapter? Report justifies NASA cancellations.",
+      "title": "FCC may kill $2B program that connects schools and libraries to Internet",
       "category": "Tech",
-      "what": "\"Contract values for these efforts ballooned from nearly $2.8 billion to $5.9 billion.\"",
+      "what": "Carr cites screen time concerns, is accused of trying to be \"the nation’s parent.\"",
       "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
       "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/space/2026/06/analysis-finds-the-exploration-programs-nasa-recently-canceled-were-running-way-late/",
+      "source": "https://arstechnica.com/tech-policy/2026/06/fcc-may-kill-2b-program-that-connects-schools-and-libraries-to-internet/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/06/analysis-finds-the-exploration-programs-nasa-recently-canceled-were-running-way-late/"
+          "url": "https://arstechnica.com/tech-policy/2026/06/fcc-may-kill-2b-program-that-connects-schools-and-libraries-to-internet/"
         }
       ]
     }
