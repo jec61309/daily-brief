@@ -1,171 +1,185 @@
 {
-  "date": "Saturday, June 27, 2026",
+  "date": "Sunday, June 28, 2026",
   "stories": [
     {
-      "title": "Firefighter brother of 9/11 victim incensed by 'radical' Muslims winning key Dem primaries",
-      "category": "Politics",
-      "what": "Air Force veteran and 9/11 advocate Don Arias slams Democratic nominees with alleged ties to radical Islamic terrorism winning primary elections.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/firefighter-brother-911-victim-incensed-radical-muslims-winning-key-dem-primaries",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/firefighter-brother-911-victim-incensed-radical-muslims-winning-key-dem-primaries"
-        }
-      ]
-    },
-    {
-      "title": "YouTuber's online friend recalls graphic video threatening her before supermarket shooting",
+      "title": "Mackenzie Shirilla's appeal rejected by court after 'The Crash' revives ‘Hell on Wheels’ case",
       "category": "U.S.",
-      "what": "YouTuber Randy Stair threatened an online friend in a disturbing 2016 video before killing three co-workers at a Pennsylvania supermarket in 2017.",
-      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
-      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
-      "source": "https://www.foxnews.com/us/youtubers-online-friend-recalls-graphic-video-threatening-supermarket-shooting",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/youtubers-online-friend-recalls-graphic-video-threatening-supermarket-shooting"
-        }
-      ]
-    },
-    {
-      "title": "US strikes Iran after attack on cargo ship",
-      "category": "World",
-      "what": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Lawyer who beat Hawaii gun law calls state’s reliance on Black Code ‘disgraceful’",
-      "category": "Politics",
-      "what": "Supreme Court strikes down Hawaii gun law 6-3 in Wolford v. Lopez as Jackson's dissent on Black Codes draws sharp criticism from gun rights groups.",
+      "what": "The Ohio Supreme Court declined to review Mackenzie Shirilla's appeal after her postconviction petition was filed one day too late in the murder case.",
       "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
       "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/lawyer-beat-hawaii-gun-law-calls-states-reliance-black-code-disgraceful",
+      "source": "https://www.foxnews.com/us/mackenzie-shirilla-appeal-rejected-court-crash-revives-hell-wheels-case",
       "sources": [
         {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/lawyer-beat-hawaii-gun-law-calls-states-reliance-black-code-disgraceful"
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/mackenzie-shirilla-appeal-rejected-court-crash-revives-hell-wheels-case"
         }
       ]
     },
     {
-      "title": "Palisades Fire deadlock fuels fear that ideology is creeping into jury box — and Mangione could be next",
+      "title": "US Marine missing off Southern California coast after training exercise; search shifts to recovery",
       "category": "U.S.",
-      "what": "Palisades Fire mistrial fuels fears of jury nullification, with a former prosecutor warning it could impact Luigi Mangione's upcoming federal trial.",
+      "what": "A U.S. Marine aboard the USS Anchorage went missing during a training exercise off Southern California, and the search has now shifted to a recovery.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/us-marine-missing-southern-california-coast-training-exercise-search-shifts-recovery",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/us-marine-missing-southern-california-coast-training-exercise-search-shifts-recovery"
+        }
+      ]
+    },
+    {
+      "title": "Gun-wielding couple in viral BLM standoff got firepower — and 'a voice' — back after legal saga",
+      "category": "U.S.",
+      "what": "From misdemeanor pleas to gubernatorial pardons, the McCloskey case reshaped debates over self-defense, property rights, and prosecutorial power.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/gun-wielding-couple-viral-blm-standoff-got-firepower-voice-back-legal-saga",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/gun-wielding-couple-viral-blm-standoff-got-firepower-voice-back-legal-saga"
+        }
+      ]
+    },
+    {
+      "title": "AOC puts major tech company on notice amid looming price increases: 'Far too big'",
+      "category": "Politics",
+      "what": "Rep. Alexandria Ocasio-Cortez says Congress should break up companies like Apple amid rising tech prices linked to AI chip supply chain strain.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/aoc-major-tech-company-on-notice-amid-looming-price-increases-far-too-big",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/aoc-major-tech-company-on-notice-amid-looming-price-increases-far-too-big"
+        }
+      ]
+    },
+    {
+      "title": "Massie lashes out when pressed on ex-girlfriend's allegations of affair with GOP firebrand",
+      "category": "Politics",
+      "what": "Rep. Thomas Massie denied allegations from purported ex-girlfriend Cynthia West, then turned his phone on a reporter, asking about gay porn.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/politics/massie-lashes-out-pressed-ex-girlfriends-allegations-affair-gop-firebrand",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/massie-lashes-out-pressed-ex-girlfriends-allegations-affair-gop-firebrand"
+        }
+      ]
+    },
+    {
+      "title": "Bill Clinton reveals how he feels about upcoming midterms after socialist victories",
+      "category": "Politics",
+      "what": "Former President Bill Clinton says Democrats are in good shape for November midterms despite three socialist candidates winning key New York primary races.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/bill-clinton-reveals-how-he-feels-upcoming-midterms-after-socialist-victories",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/bill-clinton-reveals-how-he-feels-upcoming-midterms-after-socialist-victories"
+        }
+      ]
+    },
+    {
+      "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
+      "category": "World",
+      "what": "Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain after the US said it hit multiple targets across Iran.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Fox News Campus Radicals Newsletter: Parents take schools to court, drag queen school board member arrested",
+      "category": "U.S.",
+      "what": "Stay up to date with the Fox News Campus Radicals newsletter.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/fox-news-campus-radicals-newsletter-parents-take-schools-court-drag-queen-school-board-member-arrested",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/fox-news-campus-radicals-newsletter-parents-take-schools-court-drag-queen-school-board-member-arrested"
+        }
+      ]
+    },
+    {
+      "title": "117 dead dogs found at California 'no-kill' animal rescue - many with gunshot wounds",
+      "category": "World",
+      "what": "Hundreds more animals are still missing from the California facility as investigators continue excavating the grounds.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/cj4gqz5lx1eo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cj4gqz5lx1eo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Why Kim Jong Un never talks about his mother - or her controversial bloodline",
+      "category": "World",
+      "what": "Very few North Koreans know about her, as her origin could threaten the regime’s legitimacy.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/cpvp3xn489no?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cpvp3xn489no?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Australia to double maximum penalty for platforms in breach of social media ban",
+      "category": "World",
+      "what": "Children under the age of 16 have been prevented from 10 key social media platforms in Australia since December 2025.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/c78yv5g74e9o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c78yv5g74e9o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal ",
+      "category": "World",
+      "what": "Strikes have killed at least one person, state media say a day after Lebanon and Israel signed a framework agreement.",
       "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
       "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.foxnews.com/us/palisades-fire-deadlock-fuels-fear-ideology-creeping-jury-box-mangione-could-next",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/palisades-fire-deadlock-fuels-fear-ideology-creeping-jury-box-mangione-could-next"
-        }
-      ]
-    },
-    {
-      "title": "Trump's endorsement power faces new test in Louisiana Republican Senate showdown",
-      "category": "Politics",
-      "what": "Louisiana's GOP Senate runoff tests Trump's endorsement power as Rep. Julia Letlow faces state Treasurer John Fleming for the open seat Saturday.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/trumps-endorsement-power-faces-new-test-louisiana-republican-senate-showdown",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trumps-endorsement-power-faces-new-test-louisiana-republican-senate-showdown"
-        }
-      ]
-    },
-    {
-      "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
-      "category": "World",
-      "what": "Hundreds are still feared trapped under the rubble, as families desperate for news.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Minnesota man captured in Somalia after allegedly helping orchestrate $250M child nutrition fraud scheme",
-      "category": "U.S.",
-      "what": "Abdikerm Abdelahi Eidleh was captured in Mogadishu after allegedly helping orchestrate the $250 million \"Feeding Our Future\" fraud scheme in Minnesota.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/minnesota-feeding-our-future-fugitive-captured-somalia",
+      "title": "Apple and Audi alumni have made a luxe EV based on the moon buggy",
+      "category": "Tech",
+      "what": "The Amble One is a street-legal $25,000 electric buggy designed for luxury resorts.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://arstechnica.com/cars/2026/06/apple-and-audi-alumni-have-made-a-luxe-ev-based-on-the-moon-buggy/",
       "sources": [
         {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/minnesota-feeding-our-future-fugitive-captured-somalia"
-        }
-      ]
-    },
-    {
-      "title": "New Mexico AG launches criminal investigation into DEA over allegations agents let fentanyl flood state",
-      "category": "U.S.",
-      "what": "New Mexico Attorney General Raúl Torrez announced a criminal investigation into allegations that the DEA allowed fentanyl pills to reach communities.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/new-mexico-dea-fentanyl-investigation",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/new-mexico-dea-fentanyl-investigation"
-        }
-      ]
-    },
-    {
-      "title": "Billionaire Leon Black walks out of Epstein investigation hearing ",
-      "category": "World",
-      "what": "The House panel then issued subpoenas demanding the private equity tycoon, who co-founded Apollo Global Management, testify on camera and under oath.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/cn948lwyl3jo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cn948lwyl3jo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents ",
-      "category": "World",
-      "what": "Bolton faces a prison sentence of up to five years and has agreed to pay $2.25m in fine, prosecutors say.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Pete Buttigieg briefly separated from children after false police report",
-      "category": "World",
-      "what": "Buttigieg says the day he spent separated from his twins was \"among the darkest hours of my life\".",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cwydx95kjx0o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwydx95kjx0o?at_medium=RSS&at_campaign=rss"
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/cars/2026/06/apple-and-audi-alumni-have-made-a-luxe-ev-based-on-the-moon-buggy/"
         }
       ]
     },
@@ -194,20 +208,6 @@
         {
           "name": "Ars Technica",
           "url": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/"
-        }
-      ]
-    },
-    {
-      "title": "Streaming services’ obnoxiously loud ads become illegal on July 1 in California",
-      "category": "Tech",
-      "what": "Illinois passed a similar law, giving services more incentive to make ads less booming.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/"
         }
       ]
     }
