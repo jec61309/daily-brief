@@ -1,217 +1,213 @@
 {
-  "date": "Tuesday, June 30, 2026",
+  "date": "Wednesday, July 1, 2026",
   "stories": [
     {
-      "title": "House GOP's SAVE Act rescue plan hits resistance from conservative holdouts",
-      "category": "Politics",
-      "what": "Speaker Johnson's plan to merge the SAVE America Act with the defense bill faced resistance from GOP holdouts demanding stronger Senate assurances.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/house-gops-save-act-rescue-plan-hits-resistance-from-conservative-holdouts",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/house-gops-save-act-rescue-plan-hits-resistance-from-conservative-holdouts"
-        }
-      ]
-    },
-    {
-      "title": "Manhunt under way after bomb injures Ukrainian oligarch and others in Monaco",
+      "title": "At least five killed in fire at Antwerp apartment block, say police",
       "category": "World",
-      "what": "The blast was caused by an explosive device which appeared to contain bolts and pellets, the head of Monaco's government said.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Heavy security in South Africa as anti-migrant protesters take to the streets",
-      "category": "World",
-      "what": "Thousands of people have left South Africa ahead of Tuesday's deadline set by anti-migrant groups.",
+      "what": "The fire broke out in the 10-storey block in the Linkeroever district of the Belgian city.",
       "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
       "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/c621dx0vl7xo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c621dx0vl7xo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Supreme Court set to close term with landmark birthright citizenship ruling and more top headlines",
+      "title": "Trump made more than $1bn from crypto in first year back in office",
+      "category": "World",
+      "what": "The president's crypto income far outpaces his earnings from real estate and Trump-themed items such as watches.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Socialist ousts 30-year Dem incumbent in House primary and more top headlines",
       "category": "U.S.",
       "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/supreme-court-close-term-birthright-citizenship-ruling-more-top-headlines",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/supreme-court-close-term-birthright-citizenship-ruling-more-top-headlines"
-        },
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/06/supreme-court-ruling-guts-governments-use-of-geofence-warrants/"
-        }
-      ]
-    },
-    {
-      "title": "Flooding hits Ghana's capital killing 13 people - with another storm forecast",
-      "category": "World",
-      "what": "People have been urged to relocate to high ground or stay indoors as more rain is expected to come.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cn4r8zlv8edo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cn4r8zlv8edo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Founder of Asian super-app Gojek sentenced to years in jail for corruption",
-      "category": "World",
-      "what": "The case against Gojek founder Nadiem Makarim relates to a laptop deal made during his term as Indonesia's education minister.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/c79yvw23yr9o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c79yvw23yr9o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Man accused of killing two teens claimed he was carjacked — his own dashcam footage shows otherwise: cops",
-      "category": "U.S.",
-      "what": "A New Jersey man accused of killing two girls on an electric bike allegedly told police he was carjacked, but his own dashcam footage disputes his claim.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/man-accused-killing-two-teens-claimed-carjacked-dashcam-footage-shows-otherwise-cops",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/man-accused-killing-two-teens-claimed-carjacked-dashcam-footage-shows-otherwise-cops"
-        }
-      ]
-    },
-    {
-      "title": "Trump’s massive GOP faith bloc raises red flag on Iran deal: Trust him, not his team",
-      "category": "Politics",
-      "what": "Evangelical leaders are divided over the Trump-Iran memorandum of understanding, with some praising military action and others warning Israel is betrayed.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/trumps-massive-gop-faith-bloc-raises-red-flag-iran-deal-trust-him-not-his-team",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trumps-massive-gop-faith-bloc-raises-red-flag-iran-deal-trust-him-not-his-team"
-        }
-      ]
-    },
-    {
-      "title": "HOA threatens American flag-flying homeowners as they fight for Old Glory before nation’s 250th birthday",
-      "category": "U.S.",
-      "what": "San Marcos homeowners face fines from their HOA for flying the American flag, with one resident preparing a legal fight ahead of America's 250th birthday.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/hoa-threatens-american-flag-flying-homeowners-fight-old-glory-nations-250th-birthday",
+      "source": "https://www.foxnews.com/us/socialist-ousts-dem-incumbent-primary-more-top-headlines",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/hoa-threatens-american-flag-flying-homeowners-fight-old-glory-nations-250th-birthday"
+          "url": "https://www.foxnews.com/us/socialist-ousts-dem-incumbent-primary-more-top-headlines"
         }
       ]
     },
     {
-      "title": "Seattle Pride parade pandemonium as nude marchers prance through streets in front of children",
-      "category": "Politics",
-      "what": "Seattle Pride parade attendees allegedly marched naked in front of children, sparking outrage and questions about Washington's indecent exposure law.",
-      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
-      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
-      "source": "https://www.foxnews.com/politics/seattle-pride-parade-pandemonium-nude-marchers-prance-streets-front-children",
+      "title": "Scientists find no link between Tylenol and autism, again, after Trump warning",
+      "category": "Tech",
+      "what": "After Trump's claims, Tylenol usage dropped during pregnancies.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://arstechnica.com/health/2026/07/trump-and-rfk-jr-still-wrong-about-tylenol-and-autism-another-study-finds/",
       "sources": [
         {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/seattle-pride-parade-pandemonium-nude-marchers-prance-streets-front-children"
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/07/trump-and-rfk-jr-still-wrong-about-tylenol-and-autism-another-study-finds/"
         }
       ]
     },
     {
-      "title": "A California dog rescue hid a grim secret: more than 100 dogs buried beneath it",
-      "category": "U.S.",
-      "what": "Remains of 117 dogs were discovered buried at a California animal shelter, as the sheriff's office investigates alleged animal cruelty and fraud.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/california-dog-rescue-hid-grim-secret-more-than-100-dogs-buried-beneath",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/california-dog-rescue-hid-grim-secret-more-than-100-dogs-buried-beneath"
-        }
-      ]
-    },
-    {
-      "title": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
+      "title": "Three die in Mexico City World Cup celebrations",
       "category": "World",
-      "what": "In areas devastated by the twin earthquakes, people are using crowbars, pickaxes and their bare hands to try to reach survivors.",
+      "what": "More than one million people took to the streets of Mexico City on Tuesday to mark the country's win over Ecuador.",
       "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
       "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
-      "category": "Tech",
-      "what": "Operation by two Russia-state groups has been ongoing since at least March.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/"
-        }
-      ]
-    },
-    {
-      "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
-      "category": "Tech",
-      "what": "South Korea targets physical AI lead and commercial humanoid robots by 2028.",
+      "title": "WATCH: Angel mom turns tables on sanctuary politicians with basic question about their priorities",
+      "category": "Politics",
+      "what": "Jessica Gorman told lawmakers her daughter Sheridan “was not a talking point\" as she accused sanctuary city leaders of failing to protect American citizens.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+      "source": "https://www.foxnews.com/politics/watch-angel-mom-turns-tables-sanctuary-politicians-simple-question-priorities",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/"
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/watch-angel-mom-turns-tables-sanctuary-politicians-simple-question-priorities"
         }
       ]
     },
     {
-      "title": "US renewable boom passes key milestone in April",
+      "title": "Harris-backed Democrat scrubs BLM-era posts as House campaign heats up",
+      "category": "Politics",
+      "what": "Dan Koh deleted several Black Lives Matter posts from Twitter as he campaigns for Massachusetts's sixth congressional district, records show.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/harris-backed-democrat-scrubs-blm-era-posts-house-campaign-heats-up",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/harris-backed-democrat-scrubs-blm-era-posts-house-campaign-heats-up"
+        }
+      ]
+    },
+    {
+      "title": "America's favorite beers — and the jobs tied to them — are at the center of a brewing trade fight",
+      "category": "Politics",
+      "what": "Report says beer tariffs would squeeze the most profitable segment of the U.S. market, putting American distributors and retailers at risk of job losses.",
+      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
+      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
+      "source": "https://www.foxnews.com/politics/americas-favorite-beers-jobs-tied-center-brewing-trade-fight",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/americas-favorite-beers-jobs-tied-center-brewing-trade-fight"
+        }
+      ]
+    },
+    {
+      "title": "Florida toddler dies after father realizes child was left in SUV during daycare pickup",
+      "category": "U.S.",
+      "what": "A 23-month-old boy was found dead in a hot car outside a Plantation, Florida, daycare after his father allegedly forgot to drop him off that morning.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/florida-toddler-dies-left-suv-daycare",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/florida-toddler-dies-left-suv-daycare"
+        }
+      ]
+    },
+    {
+      "title": "Sudan's RSF committed crimes against humanity in el-Fasher, Amnesty says ",
+      "category": "World",
+      "what": "The Amnesty report adds to evidence of atrocities in el-Fasher, which the UN says bore the hallmarks of genocide.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cz9lqvx0z1vo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cz9lqvx0z1vo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
+      "category": "World",
+      "what": "Video footage shows rescuers cheering as the child is pulled from rubble in La Guaira state.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Another New Yorker says officers confronted him after he criticized ICE",
+      "category": "U.S.",
+      "what": "A New York man says federal officers warned him over an email criticizing ICE, sparking a first amendment debate over free speech and government criticism.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/another-new-yorker-says-officers-confronted-him-after-he-criticized-ice",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/another-new-yorker-says-officers-confronted-him-after-he-criticized-ice"
+        }
+      ]
+    },
+    {
+      "title": "Feds dismantle alleged gun trafficking ring that funneled dozens of firearms from Georgia to Chicago gangs",
+      "category": "U.S.",
+      "what": "Five people face federal charges after prosecutors say a trafficking ring funneled dozens of guns from Georgia to Chicago gangs tied to violent crimes.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/feds-dismantle-alleged-gun-trafficking-ring-funneled-dozens-firearms-georgia-chicago-gangs",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/feds-dismantle-alleged-gun-trafficking-ring-funneled-dozens-firearms-georgia-chicago-gangs"
+        }
+      ]
+    },
+    {
+      "title": "Reddit will require you to log in to use old.reddit.com",
       "category": "Tech",
-      "what": "Small-scale solar helped renewables hit nearly triple coal's generation in the US.",
+      "what": "Logged-out Old Reddit access is “significant source of abusive scraping.\"",
       "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
       "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/science/2026/06/solar-outproduced-coal-in-april-but-not-on-the-grid/",
+      "source": "https://arstechnica.com/gadgets/2026/06/reddit-will-require-you-to-log-in-to-use-old-reddit-com/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/06/solar-outproduced-coal-in-april-but-not-on-the-grid/"
+          "url": "https://arstechnica.com/gadgets/2026/06/reddit-will-require-you-to-log-in-to-use-old-reddit-com/"
+        }
+      ]
+    },
+    {
+      "title": "Amazon blames piracy apps with malware for killing new Fire Stick sideloading",
+      "category": "Tech",
+      "what": "New Fire Stick OS helps Amazon block third-party homepage launchers, ad blockers.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://arstechnica.com/gadgets/2026/06/exec-blames-malware-threat-for-amazon-blocking-sideloading-on-new-fire-sticks/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/06/exec-blames-malware-threat-for-amazon-blocking-sideloading-on-new-fire-sticks/"
         }
       ]
     }
