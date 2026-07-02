@@ -1,213 +1,213 @@
 {
-  "date": "Wednesday, July 1, 2026",
+  "date": "Thursday, July 2, 2026",
   "stories": [
     {
-      "title": "At least five killed in fire at Antwerp apartment block, say police",
+      "title": "'Most massive' Russian attack on Kyiv kills at least 18",
       "category": "World",
-      "what": "The fire broke out in the 10-storey block in the Linkeroever district of the Belgian city.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/c621dx0vl7xo?at_medium=RSS&at_campaign=rss",
+      "what": "Kyiv's mayor declares a day of mourning after the major drone and missile attack on the Ukrainian capital.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c621dx0vl7xo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Trump made more than $1bn from crypto in first year back in office",
-      "category": "World",
-      "what": "The president's crypto income far outpaces his earnings from real estate and Trump-themed items such as watches.",
+      "title": "Trump admin axes 'Green New Scam' appliance rules as Europe bakes in brutal heat",
+      "category": "Politics",
+      "what": "Trump administration plans sweeping overhaul of appliance efficiency rules to protect consumer choice on gas stoves, HVAC systems, and more.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.foxnews.com/politics/trump-admin-axes-green-new-scam-appliance-rules-europe-bakes-brutal-heat",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss"
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/trump-admin-axes-green-new-scam-appliance-rules-europe-bakes-brutal-heat"
         }
       ]
     },
     {
-      "title": "Socialist ousts 30-year Dem incumbent in House primary and more top headlines",
+      "title": "Federal judge blocks Postal Service from carrying out Trump mail-in ballot order",
+      "category": "Politics",
+      "what": "A federal judge blocked the U.S. Postal Service from implementing President Donald Trump's executive order on mail-in ballots nationwide, citing a 2020 agreement.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/politics/federal-judge-blocks-postal-service-carrying-out-trump-mail-in-ballot-order",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/federal-judge-blocks-postal-service-carrying-out-trump-mail-in-ballot-order"
+        }
+      ]
+    },
+    {
+      "title": "Team USA keeps World Cup dreams alive but loses star player and more top headlines",
       "category": "U.S.",
       "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/us/socialist-ousts-dem-incumbent-primary-more-top-headlines",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/team-usa-keeps-world-cup-dreams-alive-loses-star-player-more-top-headlines",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/socialist-ousts-dem-incumbent-primary-more-top-headlines"
+          "url": "https://www.foxnews.com/us/team-usa-keeps-world-cup-dreams-alive-loses-star-player-more-top-headlines"
         }
       ]
     },
     {
-      "title": "Scientists find no link between Tylenol and autism, again, after Trump warning",
-      "category": "Tech",
-      "what": "After Trump's claims, Tylenol usage dropped during pregnancies.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://arstechnica.com/health/2026/07/trump-and-rfk-jr-still-wrong-about-tylenol-and-autism-another-study-finds/",
+      "title": "The biggest America 250 Fourth of July security threat may be where protection is thinnest",
+      "category": "U.S.",
+      "what": "Agencies prepare for potential threats to Fourth of July crowds as millions gather on the National Mall for America 250 fireworks celebration.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/biggest-america-250-fourth-july-security-threat-protection-thinnest",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/health/2026/07/trump-and-rfk-jr-still-wrong-about-tylenol-and-autism-another-study-finds/"
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/biggest-america-250-fourth-july-security-threat-protection-thinnest"
         }
       ]
     },
     {
-      "title": "Three die in Mexico City World Cup celebrations",
-      "category": "World",
-      "what": "More than one million people took to the streets of Mexico City on Tuesday to mark the country's win over Ecuador.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "WATCH: Angel mom turns tables on sanctuary politicians with basic question about their priorities",
+      "title": "America's housing market could run out of something more important than homes",
       "category": "Politics",
-      "what": "Jessica Gorman told lawmakers her daughter Sheridan “was not a talking point\" as she accused sanctuary city leaders of failing to protect American citizens.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/politics/watch-angel-mom-turns-tables-sanctuary-politicians-simple-question-priorities",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/watch-angel-mom-turns-tables-sanctuary-politicians-simple-question-priorities"
-        }
-      ]
-    },
-    {
-      "title": "Harris-backed Democrat scrubs BLM-era posts as House campaign heats up",
-      "category": "Politics",
-      "what": "Dan Koh deleted several Black Lives Matter posts from Twitter as he campaigns for Massachusetts's sixth congressional district, records show.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/harris-backed-democrat-scrubs-blm-era-posts-house-campaign-heats-up",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/harris-backed-democrat-scrubs-blm-era-posts-house-campaign-heats-up"
-        }
-      ]
-    },
-    {
-      "title": "America's favorite beers — and the jobs tied to them — are at the center of a brewing trade fight",
-      "category": "Politics",
-      "what": "Report says beer tariffs would squeeze the most profitable segment of the U.S. market, putting American distributors and retailers at risk of job losses.",
+      "what": "A new report challenges the housing shortage narrative, arguing slower population growth and reduced immigration could mean fewer homebuyers ahead.",
       "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
       "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
-      "source": "https://www.foxnews.com/politics/americas-favorite-beers-jobs-tied-center-brewing-trade-fight",
+      "source": "https://www.foxnews.com/politics/americas-housing-market-run-out-something-more-important-than-homes",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/americas-favorite-beers-jobs-tied-center-brewing-trade-fight"
+          "url": "https://www.foxnews.com/politics/americas-housing-market-run-out-something-more-important-than-homes"
         }
       ]
     },
     {
-      "title": "Florida toddler dies after father realizes child was left in SUV during daycare pickup",
-      "category": "U.S.",
-      "what": "A 23-month-old boy was found dead in a hot car outside a Plantation, Florida, daycare after his father allegedly forgot to drop him off that morning.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/florida-toddler-dies-left-suv-daycare",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/florida-toddler-dies-left-suv-daycare"
-        }
-      ]
-    },
-    {
-      "title": "Sudan's RSF committed crimes against humanity in el-Fasher, Amnesty says ",
+      "title": "EU border delays 'not bearable' over summer, warns airport boss",
       "category": "World",
-      "what": "The Amnesty report adds to evidence of atrocities in el-Fasher, which the UN says bore the hallmarks of genocide.",
+      "what": "Holidaymakers face long waits under the EU's new Entry-Exit System, the head of Berlin's airport says.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cz9lqvx0z1vo?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/c8x2y74wp9eo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cz9lqvx0z1vo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c8x2y74wp9eo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
-      "category": "World",
-      "what": "Video footage shows rescuers cheering as the child is pulled from rubble in La Guaira state.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Another New Yorker says officers confronted him after he criticized ICE",
-      "category": "U.S.",
-      "what": "A New York man says federal officers warned him over an email criticizing ICE, sparking a first amendment debate over free speech and government criticism.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/another-new-yorker-says-officers-confronted-him-after-he-criticized-ice",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/another-new-yorker-says-officers-confronted-him-after-he-criticized-ice"
-        }
-      ]
-    },
-    {
-      "title": "Feds dismantle alleged gun trafficking ring that funneled dozens of firearms from Georgia to Chicago gangs",
-      "category": "U.S.",
-      "what": "Five people face federal charges after prosecutors say a trafficking ring funneled dozens of guns from Georgia to Chicago gangs tied to violent crimes.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/feds-dismantle-alleged-gun-trafficking-ring-funneled-dozens-firearms-georgia-chicago-gangs",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/feds-dismantle-alleged-gun-trafficking-ring-funneled-dozens-firearms-georgia-chicago-gangs"
-        }
-      ]
-    },
-    {
-      "title": "Reddit will require you to log in to use old.reddit.com",
+      "title": "Editorial: It's time to step up and have your say for science",
       "category": "Tech",
-      "what": "Logged-out Old Reddit access is “significant source of abusive scraping.\"",
+      "what": "Your comments on a dangerous rule putting politicals in charge of science can matter.",
       "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
       "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/gadgets/2026/06/reddit-will-require-you-to-log-in-to-use-old-reddit-com/",
+      "source": "https://arstechnica.com/science/2026/07/editorial-the-most-important-thing-you-can-do-to-protect-science/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/06/reddit-will-require-you-to-log-in-to-use-old-reddit-com/"
+          "url": "https://arstechnica.com/science/2026/07/editorial-the-most-important-thing-you-can-do-to-protect-science/"
         }
       ]
     },
     {
-      "title": "Amazon blames piracy apps with malware for killing new Fire Stick sideloading",
-      "category": "Tech",
-      "what": "New Fire Stick OS helps Amazon block third-party homepage launchers, ad blockers.",
+      "title": "Nancy Guthrie mystery could be solved with 'crowdsourcing' help, private eye says",
+      "category": "U.S.",
+      "what": "The FBI continues investigating Nancy Guthrie's suspected abduction as a private investigator says one phone call could crack the case open.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/nancy-guthrie-mystery-solved-crowdsourcing-help-private-eye-says",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/nancy-guthrie-mystery-solved-crowdsourcing-help-private-eye-says"
+        }
+      ]
+    },
+    {
+      "title": "China says pilot crashed small plane into skyscraper for 'personal reasons'",
+      "category": "World",
+      "what": "The 66-year-old, who died in the crash, had anxiety and referenced \"ending his life\" in his diary.",
       "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
       "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://arstechnica.com/gadgets/2026/06/exec-blames-malware-threat-for-amazon-blocking-sideloading-on-new-fire-sticks/",
+      "source": "https://www.bbc.co.uk/news/articles/cr47129ky6do?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cr47129ky6do?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Alleged Scattered Spider hacker arrested in Finland",
+      "category": "World",
+      "what": "The 19-year-old dual American-Estonian national has been extradited to the US, where he is facing federal charges.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/cwy0we4yw1lo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwy0we4yw1lo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Mexican national sentenced in border child smuggling case involving THC-laced candy",
+      "category": "U.S.",
+      "what": "A Mexican national was sentenced to five years in federal prison for a human smuggling scheme that used THC candy to sedate children as young as 5 years old.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/mexican-national-sentenced-border-child-smuggling-case-involving-thc-laced-candy",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/mexican-national-sentenced-border-child-smuggling-case-involving-thc-laced-candy"
+        }
+      ]
+    },
+    {
+      "title": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
+      "category": "World",
+      "what": "Once described as \"the godfather\" of French migrant camps, he has been working in a Leicestershire village.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
+      "category": "Tech",
+      "what": "T-Mobile wants Broadcom to keep supporting its VMware perpetual licenses.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/06/exec-blames-malware-threat-for-amazon-blocking-sideloading-on-new-fire-sticks/"
+          "url": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/"
+        }
+      ]
+    },
+    {
+      "title": "NASA chief praises progress Blue Origin is making after launch failure",
+      "category": "Tech",
+      "what": "\"We've got time into 2027 before we're getting nervous.\"",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/space/2026/07/nasa-chief-praises-progress-blue-origin-is-making-after-launch-failure/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/07/nasa-chief-praises-progress-blue-origin-is-making-after-launch-failure/"
         }
       ]
     }
