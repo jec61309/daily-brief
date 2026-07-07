@@ -1,213 +1,217 @@
 {
-  "date": "Monday, July 6, 2026",
+  "date": "Tuesday, July 7, 2026",
   "stories": [
     {
-      "title": "Trump says he 'immediately overturned' decision to cancel July 4 festivities in DC",
-      "category": "Politics",
-      "what": "President Donald Trump said in a Sunday Truth Social post that he had 'overturned' a decision to nix July 4th festivities in D.C. on Saturday",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/trump-immediately-overturned-decision-cancel-july-4-festivities-dc",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-immediately-overturned-decision-cancel-july-4-festivities-dc"
-        }
-      ]
-    },
-    {
-      "title": "Smithsonian's National Museum of American History promotes 'extreme political activism,' WH report alleges",
-      "category": "Politics",
-      "what": "A 162-page White House report accuses the National Museum of American History of ideological capture and abandoning straightforward education.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/smithsonians-national-museum-american-history-promotes-extreme-political-activism-wh-report-alleges",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/smithsonians-national-museum-american-history-promotes-extreme-political-activism-wh-report-alleges"
-        }
-      ]
-    },
-    {
-      "title": "Trump bets on former NATO troublemaker as Turkey's strategic value surges",
-      "category": "Politics",
-      "what": "Trump says he's attending the NATO summit in Ankara because of Erdoğan, signaling closer U.S.-Turkey defense cooperation amid unresolved S-400 tensions.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/trump-bets-former-nato-troublemaker-turkeys-strategic-value-surges",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-bets-former-nato-troublemaker-turkeys-strategic-value-surges"
-        }
-      ]
-    },
-    {
-      "title": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
+      "title": "Woman suspected of Monaco bomb attack found dead in Ukraine",
       "category": "World",
-      "what": "Nigeria's government said one of its nationals was reportedly killed by police officers \"using gruesome interrogation techniques\".",
+      "what": "Police had been hunting Anastasiia Berezovska after a Ukrainian millionaire was injured in the blast.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Ukraine warns of interceptor missile shortage as 19 killed in Kyiv region",
-      "category": "World",
-      "what": "President Zelensky says Sunday's \"massive Russian attack\" on Kyiv consisted of 68 missiles and 351 strike drones.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
-      "category": "World",
-      "what": "Many people were waving Iranian flags and red banners symbolising vengeance for the former supreme leader's war death.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.bbc.co.uk/news/articles/cdejj44kl70o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cdejj44kl70o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "New York Harbor whale strike sinks fire rescue boat after July 4 celebrations",
-      "category": "U.S.",
-      "what": "A whale breaching beneath the stern caused catastrophic damage to the Carteret Fire Department boat, forcing firefighters to abandon ship in seconds.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/new-york-harbor-whale-strike-sinks-fire-rescue-boat-july-4-celebrations",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/new-york-harbor-whale-strike-sinks-fire-rescue-boat-july-4-celebrations"
-        }
-      ]
-    },
-    {
-      "title": "Bentley teases its first EV, the Torcal",
-      "category": "Tech",
-      "what": "The new model will be officially unveiled in late September.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/cars/2026/07/bentley-teases-its-first-ev-the-torcal/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/07/bentley-teases-its-first-ev-the-torcal/"
-        }
-      ]
-    },
-    {
-      "title": "Accused Charlie Kirk assassin Tyler Robinson fights back against state's evidence and more top headlines",
+      "title": "Operation Epic Fury fallout looms over Trump’s private talks with NATO allies and more top headlines",
       "category": "U.S.",
       "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/accused-charlie-kirk-assassin-tyler-robinson-fights-back-against-states-evidence-more-top-headlines",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/accused-charlie-kirk-assassin-tyler-robinson-fights-back-against-states-evidence-more-top-headlines"
-        }
-      ]
-    },
-    {
-      "title": "The Czinger 21C might be the wildest car we drive all year",
-      "category": "Tech",
-      "what": "This hybrid V8 has organic-looking 3D-printed components and shatters lap records.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/cars/2026/07/the-czinger-21c-might-be-the-wildest-car-we-drive-all-year/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/07/the-czinger-21c-might-be-the-wildest-car-we-drive-all-year/"
-        }
-      ]
-    },
-    {
-      "title": "Man accused of mowing down two girls in alleged double murder exposes twisted reason he kept streaming",
-      "category": "U.S.",
-      "what": "Vincent Battiloro allegedly struck Maria Niotis and Isabella Salas on electric bikes, then laughed about engagement on a YouTube livestream the next day.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/man-accused-mowing-two-girls-alleged-double-murder-exposes-twisted-reason-kept-streaming",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/man-accused-mowing-two-girls-alleged-double-murder-exposes-twisted-reason-kept-streaming"
-        }
-      ]
-    },
-    {
-      "title": "Idaho mom who claimed vaccines killed her twin babies charged with murdering her kids",
-      "category": "U.S.",
-      "what": "An Idaho woman who claimed her twins suffered vaccine-related deaths is now accused of killing them by suffocation and charged with first-degree murder.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/idaho-mom-claimed-vaccines-killed-twin-babies-charged-murdering-kids",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/idaho-mom-claimed-vaccines-killed-twin-babies-charged-murdering-kids"
-        }
-      ]
-    },
-    {
-      "title": "'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours",
-      "category": "World",
-      "what": "Fabiana was trapped in the rubble of a 10-storey residential building after two earthquakes rocked Venezuela in June.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Australia space agency has found 'likely source' of mystery space balls",
-      "category": "World",
-      "what": "The agency says that they \"appear to be pressure vessels from a space launch vehicle\".",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Chemical accidents rise as Trump administration proposes weakening safety rules",
-      "category": "Tech",
-      "what": "Chemicals from accidents that injured or killed people increased by nearly 50 percent in recent years.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://arstechnica.com/science/2026/07/chemical-accidents-rise-as-trump-administration-proposes-weakening-safety-rules/",
+      "source": "https://www.foxnews.com/us/operation-epic-fury-fallout-looms-over-trumps-private-talks-nato-allies-more-top-headlines",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/operation-epic-fury-fallout-looms-over-trumps-private-talks-nato-allies-more-top-headlines"
+        },
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/trump-arrives-nato-summit-iran-rift-looms-over-alliance-talks"
+        }
+      ]
+    },
+    {
+      "title": "Extremist streamer declares NYC an Islamic republic with popular terror chant: ‘Mamdani’s New York’",
+      "category": "Politics",
+      "what": "Sneako declared Islam would take over New York City while livestreaming on Kick, prompting Elon Musk and Alex Jones to call for his deportation.",
+      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
+      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
+      "source": "https://www.foxnews.com/politics/extremist-streamer-declares-nyc-islamic-republic-popular-terror-chant-mamdanis-new-york",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/extremist-streamer-declares-nyc-islamic-republic-popular-terror-chant-mamdanis-new-york"
+        }
+      ]
+    },
+    {
+      "title": "Dem senator accused of being 'nowhere to be found' on crucial issue impacting kids in swing state",
+      "category": "Politics",
+      "what": "Georgia’s top child welfare official accused Sen. Jon Ossoff, D-Ga., of overstating his role in foster care reforms while turning vulnerable children into a campaign talking point.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/dem-senator-accused-being-nowhere-found-crucial-issue-impacting-kids-swing-state",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/dem-senator-accused-being-nowhere-found-crucial-issue-impacting-kids-swing-state"
+        }
+      ]
+    },
+    {
+      "title": "Legal war on Trump’s agenda gains firepower as federal lawyers defect to Democrats",
+      "category": "Politics",
+      "what": "Over 10,000 federal attorneys have left government since 2025, with over 100 identified as joining Democratic attorneys general offices fighting Trump.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/politics/legal-war-trumps-agenda-gains-firepower-federal-lawyers-defect-democrats",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/legal-war-trumps-agenda-gains-firepower-federal-lawyers-defect-democrats"
+        }
+      ]
+    },
+    {
+      "title": "Erika Kirk comes face-to-face in court with husband's alleged killer ",
+      "category": "World",
+      "what": "Charlie Kirk's widow was joined by the late US activist's family - all of whom attended court for the first time in the case.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Watch: Moment rare tornado lashes central Chinese cities",
+      "category": "World",
+      "what": "Videos shared with the BBC show debris flying through the air as the storm swept through Ezhou and Huanggang in Hubei province.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/videos/cq61d22ved2o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/cq61d22ved2o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "India's landmark Ram temple overhauls board after alleged theft of donations",
+      "category": "World",
+      "what": "Questions have been raised over alleged theft of cash, valuable jewellery, gold and silver offered by devotees.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/c872ngz405xo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c872ngz405xo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Zelensky to press Nato for air defence systems after intense Russian strikes",
+      "category": "World",
+      "what": "The Ukrainian president will use the Nato meeting in Turkey to argue he needs more interceptor missiles.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Charlie Kirk's family comes face to face with accused assassin for first time",
+      "category": "U.S.",
+      "what": "Tyler Robinson showed no visible reaction as video of Charlie Kirk's fatal shooting played in a Utah courtroom during the preliminary hearing.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/charlie-kirk-family-comes-face-face-accused-assassin-first-time",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/charlie-kirk-family-comes-face-face-accused-assassin-first-time"
+        }
+      ]
+    },
+    {
+      "title": "New Yorker suing ICE after officers went to his home to warn him over criticism of agency",
+      "category": "U.S.",
+      "what": "A New York resident is suing after officers showed up at his home five months after he emailed ICE's director criticizing the agency's tactics.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/new-yorker-suing-ice-officers-went-his-home-warn-him-criticism-agency",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/new-yorker-suing-ice-officers-went-his-home-warn-him-criticism-agency"
+        }
+      ]
+    },
+    {
+      "title": "Terrified passengers film Waymo autonomous vehicle driving into live fireworks in San Francisco",
+      "category": "U.S.",
+      "what": "Video captures terrified passengers inside a Waymo driverless car as it drives directly into lit fireworks on a San Francisco street on the Fourth of July.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/terrified-passengers-film-waymo-autonomous-vehicle-driving-into-live-fireworks-san-francisco",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/terrified-passengers-film-waymo-autonomous-vehicle-driving-into-live-fireworks-san-francisco"
+        }
+      ]
+    },
+    {
+      "title": "FCC to end Biden-era rule that forces ISPs to list all their fees",
+      "category": "Tech",
+      "what": "FCC to let ISPs stop listing all passthrough fees, give single \"up to\" price.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://arstechnica.com/tech-policy/2026/07/fcc-to-end-biden-era-rule-that-forces-isps-to-list-all-their-fees/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/07/chemical-accidents-rise-as-trump-administration-proposes-weakening-safety-rules/"
+          "url": "https://arstechnica.com/tech-policy/2026/07/fcc-to-end-biden-era-rule-that-forces-isps-to-list-all-their-fees/"
+        }
+      ]
+    },
+    {
+      "title": "What is the oldest American object ever launched into space?",
+      "category": "Tech",
+      "what": "From a Revolutionary War flag to the Statue of Liberty...",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://arstechnica.com/space/2026/07/whats-the-oldest-americana-flown-in-space/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/07/whats-the-oldest-americana-flown-in-space/"
+        }
+      ]
+    },
+    {
+      "title": "NRC is (sort of) getting rid of \"as low as reasonably achievable\" standard",
+      "category": "Tech",
+      "what": "Its issues with current nuclear safety standards are termed semantic, not physical.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/science/2026/07/nuclear-regulatory-commission-plans-really-minor-changes-to-safety-regs/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/07/nuclear-regulatory-commission-plans-really-minor-changes-to-safety-regs/"
         }
       ]
     }
