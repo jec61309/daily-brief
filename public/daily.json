@@ -1,221 +1,217 @@
 {
-  "date": "Wednesday, July 8, 2026",
+  "date": "Thursday, July 9, 2026",
   "stories": [
     {
-      "title": "Trump says ceasefire is 'over' after US and Iran trade strikes",
-      "category": "World",
-      "what": "Speaking ahead of a Nato summit, the president says US negotiators can keep talking with the Iranians \"if they want\".",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/trump-says-tentative-iran-ceasefire-over-more-top-headlines"
-        },
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-says-iran-ceasefire-over-after-iranian-attacks-trigger-massive-us-response"
-        }
-      ]
-    },
-    {
-      "title": "Judge orders Nancy Guthrie ransom imposter into inpatient treatment before sentencing",
+      "title": "Manhattan building developer says collapse fears were overblown, calls buckling columns 'localized situation'",
       "category": "U.S.",
-      "what": "Derrick Anthony Callella must enter inpatient substance abuse treatment after pleading guilty to sending spoofed ransom messages to Nancy Guthrie's family.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/judge-orders-nancy-guthrie-ransom-imposter-inpatient-treatment-sentencing",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/judge-orders-nancy-guthrie-ransom-imposter-inpatient-treatment-sentencing"
-        }
-      ]
-    },
-    {
-      "title": "Cubans protest after third nationwide power cut this year",
-      "category": "World",
-      "what": "While Cuban officials said that power had been mostly restored, those still left in the dark vented their anger.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cm20g0d3ry4o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm20g0d3ry4o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Trump demands end to trade with key US ally, calls it a 'wasted cause'",
-      "category": "Politics",
-      "what": "Trump called Spain a \"wasted cause\" at the NATO summit and demanded an end to all trade after the ally rejected the 5% defense spending target.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/trump-demands-end-trade-key-us-ally-calls-wasted-cause",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-demands-end-trade-key-us-ally-calls-wasted-cause"
-        }
-      ]
-    },
-    {
-      "title": "Dem Senate hopeful pocketed massive taxpayer-funded cash while skipping hundreds of votes",
-      "category": "Politics",
-      "what": "Josh Turek, Paralympic gold medalist and Iowa Senate candidate, allegedly collected over $20,000 in per diem while missing 58.7% of his 2026 votes.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/dem-senate-hopeful-pocketed-massive-taxpayer-funded-cash-while-skipping-hundreds-votes",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/dem-senate-hopeful-pocketed-massive-taxpayer-funded-cash-while-skipping-hundreds-votes"
-        }
-      ]
-    },
-    {
-      "title": "What happens next if Platner drops out? Here's who could replace him on the ballot and how it would work",
-      "category": "Politics",
-      "what": "Troy Jackson filed paperwork to explore a Senate run as multiple Democrats eye replacing Graham Platner on the ballot against Susan Collins.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/what-happens-next-platner-drops-out-heres-who-could-replace-him-ballot-how-would-work",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/what-happens-next-platner-drops-out-heres-who-could-replace-him-ballot-how-would-work"
-        }
-      ]
-    },
-    {
-      "title": "'That was the last I heard from him': Slain NJ therapist’s neighbor recalls last contact with husband",
-      "category": "U.S.",
-      "what": "Brooke Hanlon was found stabbed to death in her Chester, New Jersey, home, and her husband Conor Hanlon has not been seen or heard from in weeks.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/slain-nj-therapist-neighbor-recalls-last-contact-husband",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/slain-nj-therapist-neighbor-recalls-last-contact-husband"
-        }
-      ]
-    },
-    {
-      "title": "Trains and emergency calls affected after major outage at Australia's largest telecoms company",
-      "category": "World",
-      "what": "Servers at data centres in Sydney and Melbourne were to blame but the exact cause remains unknown.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cgevw0d95pdo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cgevw0d95pdo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
-      "category": "Tech",
-      "what": "\"HalluSquatting\" weaponizes LLMs' inability to say \"I don't know.\"",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/"
-        }
-      ]
-    },
-    {
-      "title": "Australia dock workers call for 28-hour week in AI talks",
-      "category": "World",
-      "what": "A union says workers are \"in the crosshairs\" of automation as AI is being tested across ports.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cd95wendvdeo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cd95wendvdeo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Nato allies announce £37bn for new missile project",
-      "category": "World",
-      "what": "Prime Minister Sir Keir Starmer will convene around a dozen leaders to discuss the programme in Ankara.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Tyler Robinson's and Lance Twiggs' DNA both allegedly found on key evidence in Charlie Kirk's assassination",
-      "category": "U.S.",
-      "what": "DNA on a towel concealing the suspected murder weapon and a screwdriver found at the sniper's perch matched both Tyler Robinson and Lance Twiggs.",
+      "what": "MetroLoft founder Nathan Berman calls the Manhattan high-rise structural damage a \"freak accident\" limited to a 20-by-20-foot section of the building.",
       "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
       "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/tyler-robinson-lance-twiggs-dna-allegedly-found-key-evidence-charlie-kirks-assassination",
+      "source": "https://www.foxnews.com/us/manhattan-building-developer-says-collapse-fears-overblown-calls-buckling-columns-localized-situation",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/tyler-robinson-lance-twiggs-dna-allegedly-found-key-evidence-charlie-kirks-assassination"
+          "url": "https://www.foxnews.com/us/manhattan-building-developer-says-collapse-fears-overblown-calls-buckling-columns-localized-situation"
         }
       ]
     },
     {
-      "title": "US Navy identifies sailor lost in Arabian Sea after helicopter's emergency water landing",
+      "title": "Trump to ask Supreme Court to rehear birthright citizenship case after 'insane decision'",
+      "category": "Politics",
+      "what": "Trump says he will immediately ask the Supreme Court for a rehearing on its 6-3 birthright citizenship ruling, calling the decision \"absolutely insane.\"",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/politics/trump-ask-supreme-court-rehear-birthright-citizenship-case-insane-decision",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/trump-ask-supreme-court-rehear-birthright-citizenship-case-insane-decision"
+        }
+      ]
+    },
+    {
+      "title": "US forces hit dozens of targets as Iran threatens 'grave consequences' and more top headlines",
       "category": "U.S.",
-      "what": "Cmdr. Gabriel Edwards, commanding officer of HSC-5, went missing after an MH-60S helicopter emergency water landing near USS George H.W. Bush.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/us-navy-identifies-sailor-lost-arabian-sea-after-helicopters-emergency-water-landing",
+      "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.foxnews.com/us/us-forces-hit-dozens-targets-iran-threatens-grave-consequences-more-top-headlines",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/us-navy-identifies-sailor-lost-arabian-sea-after-helicopters-emergency-water-landing"
+          "url": "https://www.foxnews.com/us/us-forces-hit-dozens-targets-iran-threatens-grave-consequences-more-top-headlines"
         }
       ]
     },
     {
-      "title": "Michigan sees explosive outbreak of diarrheal parasite with over 700 cases",
+      "title": "Payloads used to dictate the terms of launch. That's finally changing.",
       "category": "Tech",
-      "what": "Cases have risen quickly as officials are working to identify a common source.",
+      "what": "\"The Starship Pez dispenser demonstrates very smart industrial design and scale.\"",
       "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
       "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/health/2026/07/michigan-sees-explosive-outbreak-of-diarrheal-parasite-with-over-700-cases/",
+      "source": "https://arstechnica.com/space/2026/07/rocket-developers-used-to-chase-satellite-trends-is-the-inverse-now-true/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/health/2026/07/michigan-sees-explosive-outbreak-of-diarrheal-parasite-with-over-700-cases/"
+          "url": "https://arstechnica.com/space/2026/07/rocket-developers-used-to-chase-satellite-trends-is-the-inverse-now-true/"
         }
       ]
     },
     {
-      "title": "Data centers’ energy demand threatens Trump’s “Made in America” plan",
-      "category": "Tech",
-      "what": "Squeeze on Rust Belt electricity bills threatens Trump’s manufacturing plan.",
+      "title": "House Republican Thomas Massie suggests Obamacare could now be labeled 'Trumpcare'",
+      "category": "Politics",
+      "what": "Rep. Massie of Kentucky said the GOP \"has made no serious effort to repeal Obamacare and legalize affordable health insurance after taking control of the House, Senate & White House.\"",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/politics/house-republican-thomas-massie-suggests-obamacare-could-now-be-labeled-trumpcare",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/house-republican-thomas-massie-suggests-obamacare-could-now-be-labeled-trumpcare"
+        }
+      ]
+    },
+    {
+      "title": "Trump holds Washington hostage over SAVE Act as midterm clock ticks on GOP control",
+      "category": "Politics",
+      "what": "Trump ties the SAVE America Act to $350 billion in defense spending, pressuring Senate Republicans to overcome the filibuster before midterms.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/",
+      "source": "https://www.foxnews.com/politics/trump-holds-washington-hostage-over-save-act-midterm-clock-ticks-gop-control",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/trump-holds-washington-hostage-over-save-act-midterm-clock-ticks-gop-control"
+        }
+      ]
+    },
+    {
+      "title": "Slain NJ therapist's husband hires lawyer as investigators confirm ongoing contact in homicide probe",
+      "category": "U.S.",
+      "what": "A 911 call log reveals the Chester, New Jersey, incident was initially reported as cardiac arrest before dispatchers noted a suspicious death minutes later",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/slain-nj-therapist-husband-hires-lawyer-investigators-confirm-ongoing-contact-homicide-probe",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/slain-nj-therapist-husband-hires-lawyer-investigators-confirm-ongoing-contact-homicide-probe"
+        }
+      ]
+    },
+    {
+      "title": "US and Iran trade strikes for second night in a row after Trump declares ceasefire 'over'",
+      "category": "World",
+      "what": "Traffic through the Strait of Hormuz has dropped 'dramatically' since the lastest attacks began.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "International court tells BBC of breakthrough in Sudan war crimes probe",
+      "category": "World",
+      "what": "The ICC has been looking into atrocities committed in Darfur over the past three years.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.bbc.co.uk/news/articles/c9928zr2m5xo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c9928zr2m5xo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Platner's disastrous candidacy exposes rifts that could dampen Democrats' Senate hopes",
+      "category": "World",
+      "what": "Along with creating tumult in a must-win race for Democrats, Graham Platner's exit is laying bare division between the party's left wing and moderates.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/c20ylnn8wqgo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c20ylnn8wqgo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Tyler Robinson preliminary hearing: Judge orders redactions to ex-lover’s video testimony",
+      "category": "U.S.",
+      "what": "Video testimony from Lance Twiggs, the ex-lover of Charlie Kirk murder suspect Tyler Robinson, is set to be played in court Thursday morning as the preliminary hearing nears its end.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/tyler-robinson-preliminary-hearing-judge-orders-redactions-ex-lovers-video-testimony",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/tyler-robinson-preliminary-hearing-judge-orders-redactions-ex-lovers-video-testimony"
+        }
+      ]
+    },
+    {
+      "title": "Democrat Graham Platner suspends campaign for key US Senate race after assault allegation",
+      "category": "World",
+      "what": "The decision came days after a woman accused him of sexual assault, an accusation he says is \"categorically false\".",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/platner-drops-out-crucial-race-after-bombshell-rape-allegation-torpedoes-senate-campaign"
+        }
+      ]
+    },
+    {
+      "title": "Watch: We're a step closer to finding out if bees have feelings, here's why",
+      "category": "World",
+      "what": "New research found bumblebees showed \"emotion-like behaviours\" previously only seen in mammals.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/videos/cpq309jrve4o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/cpq309jrve4o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
+      "category": "Tech",
+      "what": "AI cheating leads to \"a failed society,\" professor says.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/"
+          "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/"
+        }
+      ]
+    },
+    {
+      "title": "Lawsuit: Man used Grok to make 7K sex images of stepdaughter, then shot himself",
+      "category": "Tech",
+      "what": "More young girls sue X over Grok CSAM; X accused of shielding child predators.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/"
         }
       ]
     }
