@@ -1,217 +1,213 @@
 {
-  "date": "Thursday, July 9, 2026",
+  "date": "Friday, July 10, 2026",
   "stories": [
     {
-      "title": "Manhattan building developer says collapse fears were overblown, calls buckling columns 'localized situation'",
-      "category": "U.S.",
-      "what": "MetroLoft founder Nathan Berman calls the Manhattan high-rise structural damage a \"freak accident\" limited to a 20-by-20-foot section of the building.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/manhattan-building-developer-says-collapse-fears-overblown-calls-buckling-columns-localized-situation",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/manhattan-building-developer-says-collapse-fears-overblown-calls-buckling-columns-localized-situation"
-        }
-      ]
-    },
-    {
-      "title": "Trump to ask Supreme Court to rehear birthright citizenship case after 'insane decision'",
+      "title": "Upside-down American flag at Minnesota Somali celebration sparks community chaos: 'Unfathomable'",
       "category": "Politics",
-      "what": "Trump says he will immediately ask the Supreme Court for a rehearing on its 6-3 birthright citizenship ruling, calling the decision \"absolutely insane.\"",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/trump-ask-supreme-court-rehear-birthright-citizenship-case-insane-decision",
+      "what": "Video shows an American flag flying upside down at a Somali Independence Day event in St. Cloud, Minn., sparking outrage and skepticism.",
+      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
+      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
+      "source": "https://www.foxnews.com/politics/upside-down-american-flag-minnesota-somali-celebration-sparks-community-chaos-unfathomable",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-ask-supreme-court-rehear-birthright-citizenship-case-insane-decision"
+          "url": "https://www.foxnews.com/politics/upside-down-american-flag-minnesota-somali-celebration-sparks-community-chaos-unfathomable"
         }
       ]
     },
     {
-      "title": "US forces hit dozens of targets as Iran threatens 'grave consequences' and more top headlines",
+      "title": "Passenger 'nearly sucked out of window mid-air' on Ryanair plane",
+      "category": "World",
+      "what": "Ryanair confirm a passenger was given medical treatment after an incident on a Malta Air flight, which is owned by Ryanair.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Court hears alleged confession from accused Charlie Kirk assassin in texts with lover and more top headlines",
       "category": "U.S.",
       "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/court-hears-alleged-confession-from-accused-charlie-kirk-assassin-texts-lover-more-top-headlines",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/court-hears-alleged-confession-from-accused-charlie-kirk-assassin-texts-lover-more-top-headlines"
+        }
+      ]
+    },
+    {
+      "title": "WATCH: California parents sue luxury daycare after toddler allegedly tossed into air, dropped on head",
+      "category": "U.S.",
+      "what": "Surveillance video captures a Bay Club daycare worker tossing a 23-month-old into the air and failing to catch him, allegedly resulting in a traumatic brain injury.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/california-parents-sue-luxury-daycare-toddler-allegedly-tossed-air-dropped-head",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/california-parents-sue-luxury-daycare-toddler-allegedly-tossed-air-dropped-head"
+        }
+      ]
+    },
+    {
+      "title": "AOC-backed candidate ripped for 'bizarre response' to transparency question: 'Pretty basic'",
+      "category": "Politics",
+      "what": "Abdul El-Sayed says his wife's property in India complicates his tax filings, but critics call the extension past the primary a transparency dodge.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/aoc-backed-candidate-ripped-bizarre-response-transparency-question",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/aoc-backed-candidate-ripped-bizarre-response-transparency-question"
+        }
+      ]
+    },
+    {
+      "title": "America's top destination for new taxpayers is quietly getting poorer, IRS data reveals",
+      "category": "Politics",
+      "what": "Manhattan gained more tax filers than any U.S. county yet lost nearly $1 billion in income as high earners fled to lower-tax states like Florida and Texas.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/politics/americas-top-destination-new-taxpayers-quietly-getting-poorer-irs-data-reveals",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/americas-top-destination-new-taxpayers-quietly-getting-poorer-irs-data-reveals"
+        }
+      ]
+    },
+    {
+      "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
+      "category": "World",
+      "what": "Headed for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "ICE agents in fatal Houston shooting were not wearing body cameras, sources say",
+      "category": "U.S.",
+      "what": "ICE agents involved in the fatal Houston shooting of Lorenzo Salgado Araujo were not wearing body cameras, sources say, as investigations mount.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/ice-agents-fatal-houston-shooting-not-wearing-body-cameras",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/ice-agents-fatal-houston-shooting-not-wearing-body-cameras"
+        }
+      ]
+    },
+    {
+      "title": "New 911 audio captures neighbors warning of 'full-out war' before police were attacked in block party chaos",
+      "category": "U.S.",
+      "what": "Callers reported armed teens, muzzle flashes, and a \"full-out war\" in North Charleston before police were assaulted at a Fourth of July block party.",
       "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
       "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.foxnews.com/us/us-forces-hit-dozens-targets-iran-threatens-grave-consequences-more-top-headlines",
+      "source": "https://www.foxnews.com/us/911-audio-captures-neighbors-warning-full-out-war-police-attacked-block-party-chaos",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/us-forces-hit-dozens-targets-iran-threatens-grave-consequences-more-top-headlines"
+          "url": "https://www.foxnews.com/us/911-audio-captures-neighbors-warning-full-out-war-police-attacked-block-party-chaos"
         }
       ]
     },
     {
-      "title": "Payloads used to dictate the terms of launch. That's finally changing.",
+      "title": "China lands reusable rocket for first time, state media says",
+      "category": "World",
+      "what": "It follows similar landings of reusable rockets by US-owned companies SpaceX and Blue Origin.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Chip giant SK Hynix raises $26.5bn in mega US share sale",
+      "category": "World",
+      "what": "The shares are set to start trading on the Nasdaq on Friday in what will be the largest ever debut by a foreign firm.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Huge crowds in Mashhad as Iran's late supreme leader is buried",
+      "category": "World",
+      "what": "Ali Khamenei was buried at the Imam Reza shrine, Iran's holiest Shia Muslim site, ending six days of public mourning ceremonies.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Flores Hobbits' eating habits offer clues about their evolutionary past",
       "category": "Tech",
-      "what": "\"The Starship Pez dispenser demonstrates very smart industrial design and scale.\"",
+      "what": "If Homo floresiensis wasn't a fire-using hunter, its origins could be different than we thought.",
       "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
       "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/space/2026/07/rocket-developers-used-to-chase-satellite-trends-is-the-inverse-now-true/",
+      "source": "https://arstechnica.com/science/2026/07/flores-hobbits-scavenged-komodo-dragons-elephant-kills-study-suggests/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/07/rocket-developers-used-to-chase-satellite-trends-is-the-inverse-now-true/"
+          "url": "https://arstechnica.com/science/2026/07/flores-hobbits-scavenged-komodo-dragons-elephant-kills-study-suggests/"
         }
       ]
     },
     {
-      "title": "House Republican Thomas Massie suggests Obamacare could now be labeled 'Trumpcare'",
-      "category": "Politics",
-      "what": "Rep. Massie of Kentucky said the GOP \"has made no serious effort to repeal Obamacare and legalize affordable health insurance after taking control of the House, Senate & White House.\"",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/house-republican-thomas-massie-suggests-obamacare-could-now-be-labeled-trumpcare",
+      "title": "Michigan's explosive outbreak of diarrheal parasite jumps to over 1,200 cases",
+      "category": "Tech",
+      "what": "In neighboring Ohio, cases have reportedly reached over 500.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/health/2026/07/michigans-explosive-outbreak-of-diarrheal-parasite-jumps-to-over-1200-cases/",
       "sources": [
         {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/house-republican-thomas-massie-suggests-obamacare-could-now-be-labeled-trumpcare"
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/07/michigans-explosive-outbreak-of-diarrheal-parasite-jumps-to-over-1200-cases/"
         }
       ]
     },
     {
-      "title": "Trump holds Washington hostage over SAVE Act as midterm clock ticks on GOP control",
-      "category": "Politics",
-      "what": "Trump ties the SAVE America Act to $350 billion in defense spending, pressuring Senate Republicans to overcome the filibuster before midterms.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/trump-holds-washington-hostage-over-save-act-midterm-clock-ticks-gop-control",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-holds-washington-hostage-over-save-act-midterm-clock-ticks-gop-control"
-        }
-      ]
-    },
-    {
-      "title": "Slain NJ therapist's husband hires lawyer as investigators confirm ongoing contact in homicide probe",
-      "category": "U.S.",
-      "what": "A 911 call log reveals the Chester, New Jersey, incident was initially reported as cardiac arrest before dispatchers noted a suspicious death minutes later",
+      "title": "OpenAI wants its new tool to do your work for you and with you",
+      "category": "Tech",
+      "what": "Rebranded Codex promises independent workflows that can run \"for hours if needed.\"",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/slain-nj-therapist-husband-hires-lawyer-investigators-confirm-ongoing-contact-homicide-probe",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/slain-nj-therapist-husband-hires-lawyer-investigators-confirm-ongoing-contact-homicide-probe"
-        }
-      ]
-    },
-    {
-      "title": "US and Iran trade strikes for second night in a row after Trump declares ceasefire 'over'",
-      "category": "World",
-      "what": "Traffic through the Strait of Hormuz has dropped 'dramatically' since the lastest attacks began.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "International court tells BBC of breakthrough in Sudan war crimes probe",
-      "category": "World",
-      "what": "The ICC has been looking into atrocities committed in Darfur over the past three years.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.bbc.co.uk/news/articles/c9928zr2m5xo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c9928zr2m5xo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Platner's disastrous candidacy exposes rifts that could dampen Democrats' Senate hopes",
-      "category": "World",
-      "what": "Along with creating tumult in a must-win race for Democrats, Graham Platner's exit is laying bare division between the party's left wing and moderates.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/c20ylnn8wqgo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c20ylnn8wqgo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Tyler Robinson preliminary hearing: Judge orders redactions to ex-lover’s video testimony",
-      "category": "U.S.",
-      "what": "Video testimony from Lance Twiggs, the ex-lover of Charlie Kirk murder suspect Tyler Robinson, is set to be played in court Thursday morning as the preliminary hearing nears its end.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/tyler-robinson-preliminary-hearing-judge-orders-redactions-ex-lovers-video-testimony",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/tyler-robinson-preliminary-hearing-judge-orders-redactions-ex-lovers-video-testimony"
-        }
-      ]
-    },
-    {
-      "title": "Democrat Graham Platner suspends campaign for key US Senate race after assault allegation",
-      "category": "World",
-      "what": "The decision came days after a woman accused him of sexual assault, an accusation he says is \"categorically false\".",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/platner-drops-out-crucial-race-after-bombshell-rape-allegation-torpedoes-senate-campaign"
-        }
-      ]
-    },
-    {
-      "title": "Watch: We're a step closer to finding out if bees have feelings, here's why",
-      "category": "World",
-      "what": "New research found bumblebees showed \"emotion-like behaviours\" previously only seen in mammals.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/videos/cpq309jrve4o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cpq309jrve4o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
-      "category": "Tech",
-      "what": "AI cheating leads to \"a failed society,\" professor says.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
+      "source": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/"
-        }
-      ]
-    },
-    {
-      "title": "Lawsuit: Man used Grok to make 7K sex images of stepdaughter, then shot himself",
-      "category": "Tech",
-      "what": "More young girls sue X over Grok CSAM; X accused of shielding child predators.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/"
+          "url": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/"
         }
       ]
     }
