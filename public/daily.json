@@ -1,225 +1,213 @@
 {
-  "date": "Monday, July 13, 2026",
+  "date": "Tuesday, July 14, 2026",
   "stories": [
     {
-      "title": "At least 27 killed, 25 critically injured after fire engulfs Bangkok bar",
+      "title": "Colombian national killed by ICE agent during operation in Maine ",
       "category": "World",
-      "what": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+      "what": "It comes less than a week after an undocumented migrant was fatally shot in Houston by an immigration agent.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/c2ly580kxnko?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c2ly580kxnko?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Michigan Dem senator throws support behind candidate to replace him in contentious primary",
-      "category": "Politics",
-      "what": "Retiring Sen. Gary Peters reversed his neutral stance to endorse Haley Stevens in Michigan's Democratic primary as party leaders work to block progressive Abdul El-Sayed.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/michigan-dem-senator-throws-support-behind-candidate-replace-him-contentious-primary",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/michigan-dem-senator-throws-support-behind-candidate-replace-him-contentious-primary"
-        }
-      ]
-    },
-    {
-      "title": "German court convicts Iraqi couple of enslaving Yazidi girls ",
-      "category": "World",
-      "what": "The pair, named only as Twana H.S. and Asia R. A., left Germany for Iraq in 2015 and became members of the Islamic State group.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.bbc.co.uk/news/articles/cg53rp4e2j4o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cg53rp4e2j4o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "What to know about the heart condition tied to Lindsey Graham's death and more top headlines",
+      "title": "Supreme Court justices head to Capitol Hill for first appearance since 2019 and more top headlines",
       "category": "U.S.",
       "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/what-know-about-heart-condition-tied-lindsey-grahams-death-more-top-headlines",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/what-know-about-heart-condition-tied-lindsey-grahams-death-more-top-headlines"
-        },
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/medical-examiner-releases-preliminary-findings-lindsey-grahams-death-death-certificate-remains-pending"
-        }
-      ]
-    },
-    {
-      "title": "Senate returns to packed agenda after Graham's death shrinks GOP margin",
-      "category": "Politics",
-      "what": "The SAVE America Act, FISA reauthorization, renewed Iran strikes, and government funding all await the Senate as it returns for a July sprint.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/senate-returns-packed-agenda-grahams-death-shrinks-gop-margin",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/senate-returns-packed-agenda-grahams-death-shrinks-gop-margin"
-        }
-      ]
-    },
-    {
-      "title": "Men disguised as police kill Ecuadorean drug lord's brother",
-      "category": "World",
-      "what": "The victim, David Macías, was the brother of drug lord 'El Fito', who is awaiting trial in the US.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/c20yx84g103o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c20yx84g103o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Wildfire raging south of Paris could have been set deliberately, says minister",
-      "category": "World",
-      "what": "It was the first time firefighting planes had been sent up from the normally drier and hotter south of the country to tackle fires in the Paris region.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Senator Lindsey Graham died of aortic tear, examiner says",
-      "category": "World",
-      "what": "Graham, a close Republican ally of Donald Trump, died at the age of 71 on Saturday evening.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/cn75083d472o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cn75083d472o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/lindsey-graham-south-carolina-senator-rose-small-town-roots-gop-power-broker-dies-71"
-        }
-      ]
-    },
-    {
-      "title": "Meet the far-left insurgents waging war on the Democratic establishment in 2026 midterms",
-      "category": "Politics",
-      "what": "Democratic Socialists of America and Justice Democrats are targeting Missouri and Michigan primaries after far-left upsets in New York and Colorado.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.foxnews.com/politics/meet-far-left-insurgents-waging-war-democratic-establishment-2026-midterms",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/meet-far-left-insurgents-waging-war-democratic-establishment-2026-midterms"
-        }
-      ]
-    },
-    {
-      "title": "Illegal immigrant truckers accused of mowing down Americans ignite fury over loopholes unleashing deadly roads",
-      "category": "U.S.",
-      "what": "Fatal crashes involving illegal immigrant truck drivers prompt a federal crackdown on non-domiciled CDL licenses and English proficiency rules.",
       "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
       "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/illegal-immigrant-truckers-accused-mowing-down-americans-ignite-fury-loopholes-unleashing-deadly-roads",
+      "source": "https://www.foxnews.com/us/supreme-court-justices-head-capitol-hill-first-appearance-since-2019-more-top-headlines",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/illegal-immigrant-truckers-accused-mowing-down-americans-ignite-fury-loopholes-unleashing-deadly-roads"
+          "url": "https://www.foxnews.com/us/supreme-court-justices-head-capitol-hill-first-appearance-since-2019-more-top-headlines"
         }
       ]
     },
     {
-      "title": "Naked man tries to kidnap 7-year-old tourist from mother at Portland park, bystanders intervene",
+      "title": "Slain NJ mother 911 call made by her husband has forensic expert warning one mistake could derail focus",
       "category": "U.S.",
-      "what": "A naked man allegedly grabbed a 7-year-old girl at a Portland park before her parents and bystanders fought him off and officers arrived.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/portland-naked-man-attempted-child-kidnapping-waterfront-park",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/portland-naked-man-attempted-child-kidnapping-waterfront-park"
-        }
-      ]
-    },
-    {
-      "title": "Two teen suspects held after 5 family members killed in 'targeted mass shooting'",
-      "category": "U.S.",
-      "what": "Two 16-year-old suspects are in custody after a \"targeted mass shooting\" killed five family members and injured two others in East Saint Louis, Illinois.",
+      "what": "A forensic linguist warns against analyzing the call in the Brooke Hanlon murder case, citing past wrongful convictions from such speculation.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/2-teens-detained-illinois-shooting-leaves-7-family-members-shot-including-5-killed",
+      "source": "https://www.foxnews.com/us/slain-nj-mother-911-call-made-husband-forensic-expert-warning-one-mistake-could-derail-focus",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/slain-nj-mother-911-call-made-husband-forensic-expert-warning-one-mistake-could-derail-focus"
+        }
+      ]
+    },
+    {
+      "title": "These states are 'ahead of the game' in bringing down home prices, Trump's housing chief says",
+      "category": "Politics",
+      "what": "Scott Turner says Florida and Texas are 'ahead of the game' on housing affordability by easing regulatory barriers and boosting new home construction.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/states-ahead-game-bringing-down-home-prices-trumps-housing-chief-says",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/states-ahead-game-bringing-down-home-prices-trumps-housing-chief-says"
+        }
+      ]
+    },
+    {
+      "title": "Trump to shrink 2 Utah national monuments by 90%",
+      "category": "Politics",
+      "what": "Trump signed an executive order shrinking Grand Staircase-Escalante and Bears Ears from 3 million acres to 300,000, removing drilling protections.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/trump-shrink-2-utah-national-monuments-90-percent",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/trump-shrink-2-utah-national-monuments-90-percent"
+        }
+      ]
+    },
+    {
+      "title": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
+      "category": "World",
+      "what": "The Iran-backed Houthis blame Saudi Arabia for the attack in Yemen's capital and say they targeted Abha airport in response.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/2-teens-detained-illinois-shooting-leaves-7-family-members-shot-including-5-killed"
+          "url": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "The real mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?",
-      "category": "Tech",
-      "what": "New climate evidence adds context to these long voyages.",
+      "title": "Nancy Guthrie search scene drew YouTubers, arrests and bizarre roadside claims, docs say",
+      "category": "U.S.",
+      "what": "A true-crime YouTuber allegedly set up traffic cones, a tripod and a \"pee tent\" on a road near the Nancy Guthrie search scene in Tucson, AZ.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/culture/2026/07/the-real-mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east/",
+      "source": "https://www.foxnews.com/us/nancy-guthrie-search-scene-drew-youtubers-arrests-bizarre-roadside-claims-docs-say",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/culture/2026/07/the-real-mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east/"
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/nancy-guthrie-search-scene-drew-youtubers-arrests-bizarre-roadside-claims-docs-say"
         }
       ]
     },
     {
-      "title": "A Jupiter-size planet that escaped its star's death",
-      "category": "Tech",
-      "what": "It's unclear how the planet avoided its star's bloated red giant stage.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/science/2026/07/a-jupiter-size-planet-that-escaped-its-stars-death/",
+      "title": "Trump showcases raw American muscle in preview of first-of-its kind America 250 Grand Prix",
+      "category": "Politics",
+      "what": "Roger Penske says more than 250,000 people have signed up to attend the historic INDYCAR race on Pennsylvania Avenue, set for Aug. 22-23 in the capital.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/trump-showcases-raw-american-muscle-preview-first-of-its-kind-america-250-grand-prix",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/07/a-jupiter-size-planet-that-escaped-its-stars-death/"
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/trump-showcases-raw-american-muscle-preview-first-of-its-kind-america-250-grand-prix"
         }
       ]
     },
     {
-      "title": "Overhaul of public lands grazing regulations seeks to cut public involvement",
+      "title": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
+      "category": "World",
+      "what": "Svetlana Grković told Serbian media that her husband is \"seriously injured and in shock\".",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cly8yjnw822o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cly8yjnw822o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "EU bans gold imports from Sudan to curb money financing the war",
+      "category": "World",
+      "what": "The ban also restricts exports of mercury and cyanide to Sudan, chemicals widely used in gold mining.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.bbc.co.uk/news/articles/ce3e3nqwr5do?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ce3e3nqwr5do?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Deputy US marshal fatally shot while serving arrest warrant in Louisiana",
+      "category": "U.S.",
+      "what": "A suspect was taken into custody following the fatal shooting on Monday of a deputy U.S. marshal serving an arrest warrant in Alexandria, Louisiana.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.foxnews.com/us/deputy-us-marshal-fatally-shot-serving-arrest-warrant-louisiana",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/deputy-us-marshal-fatally-shot-serving-arrest-warrant-louisiana"
+        }
+      ]
+    },
+    {
+      "title": "Bangkok fire investigation finds locked doors and flammable decor as deaths climb to 30",
+      "category": "World",
+      "what": "Survivors and first responders reported locked doors and a lack of signage marking emergency exits.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "SpaceX is gearing up for Starship's 13th test flight later this week",
       "category": "Tech",
-      "what": "For the first time since 1995, the Bureau of Land Management is rewriting its grazing regulations.",
+      "what": "This flight will put Starship under higher pressure and test out new Starlink satellites in orbit.",
       "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
       "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/tech-policy/2026/07/overhaul-of-public-lands-grazing-regulations-seeks-to-cut-public-involvement/",
+      "source": "https://arstechnica.com/space/2026/07/spacex-is-gearing-up-for-starships-13th-test-flight-later-this-week/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/07/overhaul-of-public-lands-grazing-regulations-seeks-to-cut-public-involvement/"
+          "url": "https://arstechnica.com/space/2026/07/spacex-is-gearing-up-for-starships-13th-test-flight-later-this-week/"
+        }
+      ]
+    },
+    {
+      "title": "US continues to shun Ebola-infected citizens; second American sent to Germany",
+      "category": "Tech",
+      "what": "The man is said to be doing well in a Frankfurt hospital.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/health/2026/07/us-continues-to-shun-ebola-infected-citizens-second-american-sent-to-germany/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/07/us-continues-to-shun-ebola-infected-citizens-second-american-sent-to-germany/"
+        }
+      ]
+    },
+    {
+      "title": "The US government warns that Russia state hackers are coming after your router",
+      "category": "Tech",
+      "what": "With residential proxies all the rage, CISA urges router users to be vigilant.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/"
         }
       ]
     }
