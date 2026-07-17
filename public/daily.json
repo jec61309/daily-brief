@@ -1,217 +1,213 @@
 {
-  "date": "Thursday, July 16, 2026",
+  "date": "Friday, July 17, 2026",
   "stories": [
     {
-      "title": "Protests in Ukraine's cities against Zelensky's removal of defence minister",
+      "title": "China hits out at British Steel nationalisation",
       "category": "World",
-      "what": "Ukraine's president has not explained Mykhailo Fedorov's dismissal, which is causing great upset among civil society and the military.",
+      "what": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Trump teases major reveal during White House address and more top headlines",
+      "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
+      "category": "World",
+      "what": "China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Iran claims bold attack on US airbase and more top headlines",
       "category": "U.S.",
       "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/us/trump-teases-major-reveal-during-white-house-address-more-top-headlines",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/iran-claims-bold-attack-us-airbase-more-top-headlines",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/trump-teases-major-reveal-during-white-house-address-more-top-headlines"
-        },
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-keeps-really-big-address-under-wraps-white-house-says-nobody-knows-what-hell-reveal"
+          "url": "https://www.foxnews.com/us/iran-claims-bold-attack-us-airbase-more-top-headlines"
         }
       ]
     },
     {
-      "title": "Eleven people die in fire at Algerian children's care home ",
+      "title": "GOP civil war erupts over Trump's latest agenda push as key Republicans threaten to sink megabill",
+      "category": "Politics",
+      "what": "Republican senators and House members raise objections about a draft budget blueprint, threatening the reconciliation timeline outlined by House GOP leaders.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/gop-civil-war-erupts-over-trumps-latest-agenda-push-key-republicans-threaten-sink-megabill",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/gop-civil-war-erupts-over-trumps-latest-agenda-push-key-republicans-threaten-sink-megabill"
+        }
+      ]
+    },
+    {
+      "title": "Maine Democrats recycle Platner's far-left talking points in scramble to replace disgraced ex-nominee",
+      "category": "Politics",
+      "what": "Four Democrats vying to replace Graham Platner in the Maine Senate race echoed his stances on abolishing ICE, Gaza genocide, and healthcare.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/maine-democrats-recycle-platners-far-left-talking-points-scramble-replace-disgraced-nominee",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/maine-democrats-recycle-platners-far-left-talking-points-scramble-replace-disgraced-nominee"
+        }
+      ]
+    },
+    {
+      "title": "US launches new strikes as Iran says civilian infrastructure hit",
       "category": "World",
-      "what": "Along with the fatalities, 19 people suffered injuries, the authorities say.",
+      "what": "Tehran says the US strikes hit bridges, while the US boards a ship in the Strait of Hormuz.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "School bus crash kills at least 20 pupils in Uganda ",
+      "category": "World",
+      "what": "Dozens others, including school staff, were injured in the crash, suspected to have been caused by a mechanical fault.",
       "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
       "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cvgwd4nz344o?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/c151gegwqv1o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cvgwd4nz344o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c151gegwqv1o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Trump AG pick hangs by a thread as key GOP senators refuse to commit",
+      "title": "Fmr Arizona Dem candidate accused of storming into ex's home with knife, tape, blames 'misunderstanding'",
+      "category": "U.S.",
+      "what": "Brianna Westbrook allegedly entered an ex-partner's home with a knife and tape, then claimed the confrontation was a planned BDSM scene the victim denies.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/fmr-arizona-dem-candidate-accused-storming-exs-home-knife-tape-blames-misunderstanding",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/fmr-arizona-dem-candidate-accused-storming-exs-home-knife-tape-blames-misunderstanding"
+        }
+      ]
+    },
+    {
+      "title": "Conservatives unite around SAVE America Act after Trump declassifies 'shocking' election intel",
       "category": "Politics",
-      "what": "Sens. Thom Tillis and John Cornyn remain noncommittal on the attorney general confirmation as questions swirl over the anti-weaponization fund.",
+      "what": "Trump announced declassification of intelligence revealing election vulnerabilities and urged all Americans to demand the SAVE Act's passage.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/trump-ag-pick-hangs-thread-key-gop-senators-refuse-commit",
+      "source": "https://www.foxnews.com/politics/trumps-save-act-call-ignites-conservative-support-after-election-integrity-announcement",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-ag-pick-hangs-thread-key-gop-senators-refuse-commit"
+          "url": "https://www.foxnews.com/politics/trumps-save-act-call-ignites-conservative-support-after-election-integrity-announcement"
         }
       ]
     },
     {
-      "title": "Iran targets military bases as US launches wave of strikes",
+      "title": "Olympic cyclist admits to driving despite ban after crash that killed wife",
       "category": "World",
-      "what": "Explosions were heard across Iran overnight, shortly after neighbouring Gulf states began to report attacks.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
+      "what": "Rohan Dennis pleaded guilty to driving while disqualified after police pulled him over last month.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/c62q3ywep1ro?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c62q3ywep1ro?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Chip giant TSMC pledges another $100bn to expand US production",
-      "category": "World",
-      "what": "The company says it will create \"high-tech, high-paying jobs\", and raises its total commitment to the US to $265bn.",
-      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
-      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
-      "source": "https://www.bbc.co.uk/news/articles/c62x8ldxr7eo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c62x8ldxr7eo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Dem Senate hopeful's pink-gloved meltdown resurfaces after viral pep talk ignited mockery",
-      "category": "Politics",
-      "what": "Rep. Haley Stevens’ latest viral campaign-trail moment is reviving memories of a 2020 House floor episode when she wore pink latex gloves during COVID remarks and was repeatedly ruled out of order.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/dem-senate-hopefuls-pink-gloved-meltdown-resurfaces-after-viral-pep-talk-ignited-mockery",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/dem-senate-hopefuls-pink-gloved-meltdown-resurfaces-after-viral-pep-talk-ignited-mockery"
-        }
-      ]
-    },
-    {
-      "title": "Moment US Navy jet stuns packed Florida beach with low flypast",
-      "category": "World",
-      "what": "A US Navy Blue Angels jet sent some beach items up in the air as it flew at a low altitude over a crowd in Pensacola Beach, Florida.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/videos/cx27ljkngxmo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cx27ljkngxmo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Slain N.J. woman, missing Bahamas boater's spouses lawyer up; one disappears while other recently spotted",
+      "title": "Video shows Canadian illegal alien slapping teen over Trump, ICE clothing: DHS",
       "category": "U.S.",
-      "what": "Brian Hooker and Conor Hanlon have kept quiet as major questions swirl around their wives' cases, with a criminal defense attorney weighing in.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/slain-nj-woman-missing-bahamas-boater-spouses-lawyer-one-disappears-other-recently-spotted",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/slain-nj-woman-missing-bahamas-boater-spouses-lawyer-one-disappears-other-recently-spotted"
-        }
-      ]
-    },
-    {
-      "title": "Billions in taxpayer income are leaving two iconic states — as a new economic map emerges",
-      "category": "Politics",
-      "what": "All 10 counties with the largest net taxpayer losses are in California and New York, as Sun Belt migration accelerates amid high tax concerns.",
-      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
-      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
-      "source": "https://www.foxnews.com/politics/billions-taxpayer-income-leaving-two-iconic-states-new-economic-map-emerges",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/billions-taxpayer-income-leaving-two-iconic-states-new-economic-map-emerges"
-        }
-      ]
-    },
-    {
-      "title": "Two families sue North Dakota hospital on allegations babies were switched at birth",
-      "category": "U.S.",
-      "what": "Two men say a North Dakota hospital switched them at birth, a mix-up discovered through DNA testing more than 30 years later, according to a lawsuit.",
+      "what": "DHS shared video of the Point Pleasant Beach boardwalk incident as the Canadian visa overstay suspect faces removal proceedings while in ICE custody.",
       "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
       "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/two-families-sue-north-dakota-hospital-allegations-babies-switched-birth",
+      "source": "https://www.foxnews.com/us/video-shows-canadian-illegal-alien-slapping-teen-over-trump-ice-clothing-dhs",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/two-families-sue-north-dakota-hospital-allegations-babies-switched-birth"
+          "url": "https://www.foxnews.com/us/video-shows-canadian-illegal-alien-slapping-teen-over-trump-ice-clothing-dhs"
         }
       ]
     },
     {
-      "title": "ICE arrests record 238 illegal immigrants in one day during South Texas enforcement operation",
-      "category": "U.S.",
-      "what": "ICE's Rio Grande Valley field office in Harlingen arrested 238 illegal immigrants in a single day, including convicted gang members and violent offenders.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/ice-arrests-record-238-illegal-immigrants-one-day-south-texas-enforcement-operation",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/ice-arrests-record-238-illegal-immigrants-one-day-south-texas-enforcement-operation"
-        }
-      ]
-    },
-    {
-      "title": "Hundreds rally at Bethesda HQ to protest Xbox layoffs, and Ars was there",
+      "title": "SpaceX scrubs Starship launch after some of its engines didn't start",
       "category": "Tech",
-      "what": "Union wants to halt a \"perpetual cycle\" of layoffs, get back to contract bargaining.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/gaming/2026/07/hundreds-rally-at-bethesda-hq-to-protest-xbox-layoffs-and-ars-was-there/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/gaming/2026/07/hundreds-rally-at-bethesda-hq-to-protest-xbox-layoffs-and-ars-was-there/"
-        }
-      ]
-    },
-    {
-      "title": "Buzz Aldrin sells famous felt-tip pen that helped launch Apollo from the Moon",
-      "category": "Tech",
-      "what": "While an impressive sale, the pen and switch did not break records.",
+      "what": "\"Now offloading propellant. Next launch attempt hopefully in a few days.\"",
       "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
       "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/space/2026/07/apollo-11s-broken-switch-and-mission-saving-pen-sell-for-860k/",
+      "source": "https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/07/apollo-11s-broken-switch-and-mission-saving-pen-sell-for-860k/"
+          "url": "https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/"
         }
       ]
     },
     {
-      "title": "Sheetz is quitting VMware, migrating 11,000 virtual machines",
+      "title": "EXCLUSIVE: DHS seeks custody of illegal immigrant charged with murder after Trump deportation, Biden release",
+      "category": "U.S.",
+      "what": "ICE has filed a detainer against Akbor Miah, a Bangladeshi illegal immigrant charged with murdering his sister-in-law in Lake County, Florida.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/dhs-seeks-custody-illegal-immigrant-charged-murder-trump-deportation-biden-release",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/dhs-seeks-custody-illegal-immigrant-charged-murder-trump-deportation-biden-release"
+        }
+      ]
+    },
+    {
+      "title": "Two Trump health nominees crash and burn in tense Senate hearing",
       "category": "Tech",
-      "what": "The convenience store chain will use StorMagic instead.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/",
+      "what": "Both nominees flailed in their own unique ways as senators sought answers.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://arstechnica.com/health/2026/07/two-trump-health-nominees-crash-and-burn-in-tense-senate-hearing/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/"
+          "url": "https://arstechnica.com/health/2026/07/two-trump-health-nominees-crash-and-burn-in-tense-senate-hearing/"
+        }
+      ]
+    },
+    {
+      "title": "HP fined 1.4 billion rupees for “cartelization” of ink cartridges, toner, PCs",
+      "category": "Tech",
+      "what": "Resellers threatened to ditch HP printing supplies for counterfeits.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/gadgets/2026/07/hp-fined-1-4-billion-rupees-for-cartelization-of-ink-cartridges-toner-pcs/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/07/hp-fined-1-4-billion-rupees-for-cartelization-of-ink-cartridges-toner-pcs/"
         }
       ]
     }
