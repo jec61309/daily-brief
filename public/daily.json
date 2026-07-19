@@ -1,171 +1,207 @@
 {
-  "date": "Saturday, July 18, 2026",
+  "date": "Sunday, July 19, 2026",
   "stories": [
     {
-      "title": "Hoffa family urges FBI Director Kash Patel to keep investigation open and 'name names'",
+      "title": "US and Iran exchange strikes after two US soldiers killed in Jordan",
+      "category": "World",
+      "what": "US forces target Iranian sites for the eighth night in a row, while Iran says it fired drones at the US military in Kuwait.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/two-us-service-members-killed-iranian-strikes-jordan-centcom-says"
+        }
+      ]
+    },
+    {
+      "title": "Tate brothers arrested in US as further UK charges take total to 59",
+      "category": "World",
+      "what": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Democrat lawmaker's 107 mph traffic stop brings bodycam battle front and center again",
       "category": "U.S.",
-      "what": "The Hoffa family wants the FBI to solve and name names in the legendary labor leader's 1975 disappearance, even if those responsible are deceased.",
-      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
-      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
-      "source": "https://www.foxnews.com/us/hoffa-family-urges-fbi-director-kash-patel-keep-investigation-open-name-names",
+      "what": "The sheriff's office involved in a New Hampshire lawmaker's 107 mph traffic stop lacks body cameras and dashboard cameras due to funding shortfalls.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/democrat-lawmaker-107-mph-traffic-stop-brings-bodycam-battle-front-center",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/hoffa-family-urges-fbi-director-kash-patel-keep-investigation-open-name-names"
+          "url": "https://www.foxnews.com/us/democrat-lawmaker-107-mph-traffic-stop-brings-bodycam-battle-front-center"
         }
       ]
     },
     {
-      "title": "OnlyFans model seeks dead boyfriend’s animal-cruelty warrant in self-defense murder trial: Docs",
-      "category": "U.S.",
-      "what": "Defense lawyers claim earlier elevator footage tells a different story than prosecutors allege in the Courtney Clenney murder trial pretrial battle.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/onlyfans-model-seeks-dead-boyfriends-animal-cruelty-warrant-self-defense-murder-trial-docs",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/onlyfans-model-seeks-dead-boyfriends-animal-cruelty-warrant-self-defense-murder-trial-docs"
-        }
-      ]
-    },
-    {
-      "title": "House Republicans aim to turn Democratic civil war into midterm weapon",
-      "category": "Politics",
-      "what": "Mike Lawler warns that radical socialists are taking over the Democratic Party as GOP fights to hold swing seats in suburban New York midterms.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/house-republicans-aim-turn-democratic-civil-war-midterm-weapon",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/house-republicans-aim-turn-democratic-civil-war-midterm-weapon"
-        }
-      ]
-    },
-    {
-      "title": "Trump's housing chief paints a grim picture for homeownership in one major American city",
-      "category": "Politics",
-      "what": "Scott Turner blasted Mayor Zohran Mamdani's rent freeze and tax proposals, saying socialist progressive policies will drive businesses from New York City.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/trumps-housing-chief-paints-grim-picture-homeownership-major-american-city",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trumps-housing-chief-paints-grim-picture-homeownership-major-american-city"
-        }
-      ]
-    },
-    {
-      "title": "Laos says it can't determine cause of  tourist deaths linked to methanol ",
+      "title": "Ferry carrying 116 passengers sinks off Guyana coast, authorities say",
       "category": "World",
-      "what": "Officials say they have no evidence of poisoning over the 2024 deaths because autopsies were not conducted.",
+      "what": "The vessel capsized between Georgetown and Port Kaituma, with 53 people so far rescued.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Russia launches major ballistic missile attack on Kyiv",
+      "category": "World",
+      "what": "One death is reported in what President Zelensky calls \"one of the most massive ballistic attacks\" on Ukraine's capital.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "WATCH: Josh Hawley issues blistering rebuke of McConnell over ‘obligation’ to country",
+      "category": "Politics",
+      "what": "Sen. Josh Hawley says Mitch McConnell's team has an obligation to constituents amid persistent questions about the senator's health condition.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.foxnews.com/politics/josh-hawley-issues-blistering-rebuke-mitch-mcconnell-obligation-country",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/josh-hawley-issues-blistering-rebuke-mitch-mcconnell-obligation-country"
+        }
+      ]
+    },
+    {
+      "title": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US",
+      "category": "World",
+      "what": "He was arrested in 2021 during Cuba's largest anti-government protests in decades and spent five years ⁠in prison.",
       "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
       "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cdx8rj99endo?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cdx8rj99endo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "SEE IT: Massive NYC homeless encampment fuels backlash against Mamdani",
+      "title": "Tulsi Gabbard's brother charged after allegedly trying to lure children to Waikīkī hotel room: police",
       "category": "Politics",
-      "what": "A 12-block homeless encampment near the Intrepid Museum has residents and tourists questioning Mayor Zohran Mamdani's ban on NYPD encampment sweeps.",
+      "what": "Tulsi Gabbard's older brother Batarti Gabbard was charged with custodial interference after allegedly luring children at a Waikīkī hotel pool.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/politics/see-it-massive-nyc-homeless-encampment-fuels-backlash-against-mamdani",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/see-it-massive-nyc-homeless-encampment-fuels-backlash-against-mamdani"
-        }
-      ]
-    },
-    {
-      "title": "US strikes hit Iran for seventh consecutive night",
-      "category": "World",
-      "what": "Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Space start-up launches India’s first commercial rocket designed for orbit",
-      "category": "World",
-      "what": "India's first space-tech unicorn Skyroot Aerospace successfully launched Vikram-1 on Saturday.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Indian activist on hunger strike for 20 days forcibly taken to hospital",
-      "category": "World",
-      "what": "Cockroach Janta Party founder Abhijeet Dipke has now begun an indefinite fast in Sonam Wangchuk's place.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cjej3dxxg2do?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cjej3dxxg2do?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Tennessee woman arrested after allegedly trying to drown one of her children in backyard pool",
-      "category": "U.S.",
-      "what": "Mikaylee Rae Beirne of Johnson City faces aggravated child abuse charges after witnesses say she forced a child underwater in a backyard pool.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/tennessee-woman-arrested-allegedly-trying-drown-child-backyard-pool",
+      "source": "https://www.foxnews.com/politics/tulsi-gabbards-brother-charged-allegedly-trying-lure-children-waikiki-hotel-room-police",
       "sources": [
         {
           "name": "Fox U.S.",
           "url": "https://www.foxnews.com/us/tennessee-woman-arrested-allegedly-trying-drown-child-backyard-pool"
-        }
-      ]
-    },
-    {
-      "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
-      "category": "World",
-      "what": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
-      "sources": [
+        },
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss"
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/tulsi-gabbards-brother-charged-allegedly-trying-lure-children-waikiki-hotel-room-police"
         }
       ]
     },
     {
-      "title": "Teen brawl inside In-N-Out sends customers running during monsoon storm, video shows",
+      "title": "Andrew, Tristan Tate arrested in Miami as UK seeks extradition on expanded rape, trafficking charges",
       "category": "U.S.",
-      "what": "Video footage shows teens throwing punches inside a Tempe In-N-Out Burger as customers trapped by a monsoon storm scrambled to escape the chaos.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/teen-brawl-in-n-out-sends-customers-running-monsoon-storm-video-shows",
+      "what": "Britain's CPS approved 59 total charges against Andrew and Tristan Tate, including rape and trafficking, spanning alleged crimes from 2010 to 2017.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/andrew-tristan-tate-arrested-miami-uk-seeks-extradition-expanded-rape-trafficking-charges",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/teen-brawl-in-n-out-sends-customers-running-monsoon-storm-video-shows"
+          "url": "https://www.foxnews.com/us/andrew-tristan-tate-arrested-miami-uk-seeks-extradition-expanded-rape-trafficking-charges"
+        }
+      ]
+    },
+    {
+      "title": "Mamdani doubles down on democratic socialism while insisting Wall Street, business leaders can work with him",
+      "category": "Politics",
+      "what": "Zohran Mamdani argues Democratic Socialism reflects the New Deal era while insisting Wall Street and corporate leaders have nothing to fear.",
+      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
+      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
+      "source": "https://www.foxnews.com/politics/mamdani-doubles-down-democratic-socialism-insisting-wall-street-business-leaders-work-him",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/mamdani-doubles-down-democratic-socialism-insisting-wall-street-business-leaders-work-him"
+        }
+      ]
+    },
+    {
+      "title": "Boston police investigate death at home owned by Rep. Ayanna Pressley's husband",
+      "category": "U.S.",
+      "what": "Boston police homicide unit is investigating a death at a Mattapan residence owned by Conan Harris, husband of Rep. Ayanna Pressley, D-Mass.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/boston-police-investigate-death-home-owned-rep-ayanna-pressley-husband",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/boston-police-investigate-death-home-owned-rep-ayanna-pressley-husband"
+        }
+      ]
+    },
+    {
+      "title": "Man who allegedly rode naked atop moving locomotive busted after bizarre train stunt: sheriff",
+      "category": "U.S.",
+      "what": "Daniel Ray Ballance of Quartzsite, Arizona, allegedly broke into a Union Pacific locomotive and surfed naked on its roof as it moved through Colorado.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/man-allegedly-rode-naked-atop-moving-locomotive-busted-bizarre-train-stunt-sheriff",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/man-allegedly-rode-naked-atop-moving-locomotive-busted-bizarre-train-stunt-sheriff"
+        }
+      ]
+    },
+    {
+      "title": "Will AI fix prior authorization—or make it worse?",
+      "category": "Tech",
+      "what": "The government is piloting a program that uses AI for insurance-coverage decisions.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/"
+        }
+      ]
+    },
+    {
+      "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
+      "category": "Tech",
+      "what": "The FireSat program can spot wildfires that other satellites miss.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/"
         }
       ]
     },
@@ -180,34 +216,6 @@
         {
           "name": "Ars Technica",
           "url": "https://arstechnica.com/space/2026/07/the-pentagons-space-development-agency-hasnt-moved-as-fast-as-anyone-would-like/"
-        }
-      ]
-    },
-    {
-      "title": "Hegseth wants a \"High-T\" military; doctors call it a clinical minefield",
-      "category": "Tech",
-      "what": "\"We're turning the clock back on rational healthcare.\"",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://arstechnica.com/health/2026/07/hegseth-wants-a-high-t-military-doctors-call-it-a-clinical-minefield/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/health/2026/07/hegseth-wants-a-high-t-military-doctors-call-it-a-clinical-minefield/"
-        }
-      ]
-    },
-    {
-      "title": "Taco Bell iceberg lettuce identified as source of cyclosporiasis in 5 states",
-      "category": "Tech",
-      "what": "Don't eat Taco Bell lettuce in Indiana, Kentucky, Michigan, Ohio, or West Virginia.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/health/2026/07/taco-bell-iceburg-lettuce-identified-as-source-of-cyclosporiasis-in-5-states/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/health/2026/07/taco-bell-iceburg-lettuce-identified-as-source-of-cyclosporiasis-in-5-states/"
         }
       ]
     }
