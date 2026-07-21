@@ -1,10 +1,126 @@
 {
-  "date": "Monday, July 20, 2026",
+  "date": "Tuesday, July 21, 2026",
   "stories": [
     {
-      "title": "Scores feared dead after passenger ferry capsizes off Guyana",
+      "title": "Lindsey Graham's sister breaks from foreign policy playbook with a different agenda and more top headlines",
+      "category": "U.S.",
+      "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/darline-graham-focuses-kitchen-table-issues-she-announces-full-term-senate-bid-more-top-headlines",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/darline-graham-focuses-kitchen-table-issues-she-announces-full-term-senate-bid-more-top-headlines"
+        }
+      ]
+    },
+    {
+      "title": "Prosecutor ousted after alleged romance with illegal immigrant sex-crime suspect: 'Pattern of misconduct'",
+      "category": "Politics",
+      "what": "Missouri's Attorney General accused county prosecutor Camille Johnston of an intimate relationship with an illegal immigrant charged in a sexual assault case in her jurisdiction.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/politics/prosecutor-ousted-after-alleged-romance-illegal-immigrant-sex-crime-suspect",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/prosecutor-ousted-after-alleged-romance-illegal-immigrant-sex-crime-suspect"
+        }
+      ]
+    },
+    {
+      "title": "Two House races take center stage as conservative PAC launches multimillion-dollar Big Tech push",
+      "category": "Politics",
+      "what": "Defending Our Values PAC backs Rhett Marques and Scott Singer in crowded Republican primaries it sees as critical to preserving the GOP House majority.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/two-house-races-take-center-stage-conservative-pac-launches-multimillion-dollar-big-tech-push",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/two-house-races-take-center-stage-conservative-pac-launches-multimillion-dollar-big-tech-push"
+        }
+      ]
+    },
+    {
+      "title": "'America's Most Wanted' fugitive laid blueprint for vanishing before 20-year escape: affidavit",
+      "category": "U.S.",
+      "what": "Ronald Fischer emailed his attorney, canceled a London flight and studied identity-change literature in the days before vanishing during his 2005 trial, according to an affidavit.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/americas-most-wanted-fugitive-laid-blueprint-vanishing-20-year-escape-affidavit",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/americas-most-wanted-fugitive-laid-blueprint-vanishing-20-year-escape-affidavit"
+        }
+      ]
+    },
+    {
+      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
       "category": "World",
-      "what": "Sixty-seven people have been rescued but the ferry is thought to have had more than 130 people on board.",
+      "what": "Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/retired-lt-col-running-congress-back-iran-trump-strategy-hes-ending-47-year-conflict"
+        }
+      ]
+    },
+    {
+      "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+      "category": "World",
+      "what": "The duties mark a major escalation in trade tensions between the North American neighbours.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Trump’s GOP clout faces Arizona test with House majority, governor’s race at stake",
+      "category": "Politics",
+      "what": "Trump's endorsement power faces a critical test as Arizona holds GOP primaries for governor, attorney general and key swing congressional seats.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/trumps-gop-clout-faces-arizona-test-house-majority-governors-race-stake",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/trumps-gop-clout-faces-arizona-test-house-majority-governors-race-stake"
+        }
+      ]
+    },
+    {
+      "title": "'Anti-ICE' army veteran started fire outside Manhattan federal building, say officials",
+      "category": "World",
+      "what": "Andrew Arrabaca, 43, was armed with two axes, a machete, three knives and fireworks, says the FBI.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/c1m1rr90dzxo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c1m1rr90dzxo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "At least 27 dead and 83 missing after passenger ferry capsizes off Guyana",
+      "category": "World",
+      "what": "An investigation into the tragedy has been launched, the island's prime minister says, adding he hopes more will be found alive.",
       "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
       "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
       "source": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
@@ -16,206 +132,90 @@
       ]
     },
     {
-      "title": "JD Vance says wife Usha and son 'happy and healthy' after birth of fourth child",
-      "category": "World",
-      "what": "The couple welcomed their fourth child, Alec Neel Vance, on Sunday morning.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cj63kngxpxpo?at_medium=RSS&at_campaign=rss",
+      "title": "Bodycam catches Sunny Hostin invoking her legal chops as cops cite Harvard-grad son for trespassing",
+      "category": "U.S.",
+      "what": "Bodycam video captures Sunny Hostin telling MTA police she's a former federal prosecutor after her son Gabriel Hostin was stopped for trespassing.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/bodycam-catches-sunny-hostin-invoking-legal-chops-cops-cite-harvard-grad-son-trespassing",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cj63kngxpxpo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/jd-vance-wife-usha-welcome-fourth-child-reveal-baby-boys-name"
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/bodycam-catches-sunny-hostin-invoking-legal-chops-cops-cite-harvard-grad-son-trespassing"
         }
       ]
     },
     {
-      "title": "Beyond grep: The case for a context-rich AI coding harness",
+      "title": "5 dead in attempt to save a struggling swimmer in Ohio river",
+      "category": "U.S.",
+      "what": "Five people drowned in the Scioto River in Powell, Ohio, after others jumped in to rescue a struggling swimmer, the Delaware County Sheriff says.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.foxnews.com/us/dead-attempt-save-struggling-swimmer-ohio-river",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/dead-attempt-save-struggling-swimmer-ohio-river"
+        }
+      ]
+    },
+    {
+      "title": "DA: Cop covered bodycam to snap nude prisoners on his iPhone—but other cams caught him",
       "category": "Tech",
-      "what": "Augment Code's Vinay Perneti talks models, harnesses, and context.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/"
-        }
-      ]
-    },
-    {
-      "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
-      "category": "World",
-      "what": "Iran responded with attacks in Syria and Jordan, as two ships reportedly exploded in the Strait of Hormuz.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "FBI boss details how agency secured record-shattering FIFA World Cup and more top headlines",
-      "category": "U.S.",
-      "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/fbi-boss-details-agency-secured-record-shattering-fifa-world-cup-more-top-headlines",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/fbi-boss-details-agency-secured-record-shattering-fifa-world-cup-more-top-headlines"
-        },
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/fbi-boss-kash-patel-details-how-agency-partners-secured-record-shattering-fifa-world-cup"
-        }
-      ]
-    },
-    {
-      "title": "Socialist-backed Michigan Senate hopeful calls American politics a 'disease' after professing love for US",
-      "category": "Politics",
-      "what": "Michigan Senate candidate Abdul El-Sayed praised America before arguing the nation's political system is a \"disease\" and calling for ICE to be abolished.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/socialist-backed-michigan-senate-hopeful-calls-american-politics-disease-after-professing-love-us",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/socialist-backed-michigan-senate-hopeful-calls-american-politics-disease-after-professing-love-us"
-        }
-      ]
-    },
-    {
-      "title": "Anti-ICE walkout exposes how school district 'failed' parents, risked student safety: 'Broken my trust'",
-      "category": "Politics",
-      "what": "Internal emails and texts show Flagstaff Unified School District staff allegedly knew about the ICE protest days in advance and helped students walk out.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/politics/anti-ice-walkout-exposes-school-district-failed-parents-jeopardized-student-safety",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/anti-ice-walkout-exposes-school-district-failed-parents-jeopardized-student-safety"
-        }
-      ]
-    },
-    {
-      "title": "Boy, 13, dies during World Cup celebrations in Spain ",
-      "category": "World",
-      "what": "Two other young people were injured after a fountain partially collapsed in Salamanca's Ciudad Rodrigo.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/c0qvdy0jv05o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c0qvdy0jv05o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Hawley sends criminal referral of 'left-wing dark-money' group over mailed abortion drugs",
-      "category": "Politics",
-      "what": "Sen. Josh Hawley alleges Plan C operates as a referral hub shipping abortion pills into states where they're banned, urging a criminal probe.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/politics/hawley-sends-criminal-referral-left-wing-dark-money-group-mailed-abortion-drugs",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/hawley-sends-criminal-referral-left-wing-dark-money-group-mailed-abortion-drugs"
-        }
-      ]
-    },
-    {
-      "title": "2 Colombian nationals arrested in stolen Mercedes linked to violent California carjacking",
-      "category": "U.S.",
-      "what": "Automated license plate readers alerted deputies to a stolen Mercedes linked to a violent carjacking, leading to a chase and two arrests in California.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/colombian-nationals-california-carjacking-mercedes",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/colombian-nationals-california-carjacking-mercedes"
-        }
-      ]
-    },
-    {
-      "title": "NORAD F-16s intercept multiple aircraft violating temporary flight restrictions over New Jersey",
-      "category": "U.S.",
-      "what": "More than 10 general aviation aircraft entered restricted airspace over Bedminster and East Rutherford in New Jersey, with NORAD F-16s deploying flares.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/norad-f16s-intercept-multiple-aircraft-violating-temporary-flight-restrictions-new-jersey",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/norad-f16s-intercept-multiple-aircraft-violating-temporary-flight-restrictions-new-jersey"
-        }
-      ]
-    },
-    {
-      "title": "Norway opens new memorial for victims of 2011 massacre ",
-      "category": "World",
-      "what": "The artwork in the capital Oslo was unveiled on Sunday ahead of the 15th anniversary of the attack.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/c07r9m22gyyo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c07r9m22gyyo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Young airman killed in heavy equipment accident at California Space Force base",
-      "category": "U.S.",
-      "what": "Airman 1st Class Cedric Eneluna was killed in a heavy equipment accident at Vandenberg Space Force Base in California, prompting a safety investigation.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/young-airman-killed-heavy-equipment-accident-california-space-force-base",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/young-airman-killed-heavy-equipment-accident-california-space-force-base"
-        }
-      ]
-    },
-    {
-      "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
-      "category": "Tech",
-      "what": "\"On the first attempt, reaching orbit, I never thought it was possible.\"",
+      "what": "Pennsylvania cop charged with oppression and obstruction.",
       "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
       "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+      "source": "https://arstechnica.com/tech-policy/2026/07/cop-charged-with-covering-bodycam-to-photograph-naked-prisoners/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/"
+          "url": "https://arstechnica.com/tech-policy/2026/07/cop-charged-with-covering-bodycam-to-photograph-naked-prisoners/"
         }
       ]
     },
     {
-      "title": "As mosquito ranges expand, better monitoring is key to preventing disease",
+      "title": "Firefighting drones in the works as wildfires plague US nearly year-round",
       "category": "Tech",
-      "what": "Monitoring is expensive and labor intensive. But it helps public health officials stop outbreaks.",
-      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
-      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
-      "source": "https://arstechnica.com/science/2026/07/as-mosquito-ranges-expand-better-monitoring-is-key-to-preventing-disease/",
+      "what": "California and XPRIZE competition tests whether drones can stop wildfires early.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/07/as-mosquito-ranges-expand-better-monitoring-is-key-to-preventing-disease/"
+          "url": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/"
+        }
+      ]
+    },
+    {
+      "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
+      "category": "World",
+      "what": "The Houthis say the embargo begins immediately and is a response to a Saudi blockade of ports and airports in Yemen.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Judge halts Paramount's $111B purchase of Warner Bros. in win for US states",
+      "category": "Tech",
+      "what": "Judge grants restraining order, saying merger \"likely to violate antitrust laws.\"",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c5ywxy41vg6o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/"
         }
       ]
     }
