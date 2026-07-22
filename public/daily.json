@@ -1,221 +1,217 @@
 {
-  "date": "Tuesday, July 21, 2026",
+  "date": "Wednesday, July 22, 2026",
   "stories": [
     {
-      "title": "Lindsey Graham's sister breaks from foreign policy playbook with a different agenda and more top headlines",
+      "title": "Modelling scout linked to Epstein found dead in Paris suburbs",
+      "category": "World",
+      "what": "Daniel Siad, whose name appears in the Epstein files thousands of times, had previously denied knowledge of the threat Jeffrey Epstein posed.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Trump flexes power in Arizona primaries as Democrats dodge far-left upset and more top headlines",
       "category": "U.S.",
       "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/darline-graham-focuses-kitchen-table-issues-she-announces-full-term-senate-bid-more-top-headlines",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/us/trump-flexes-power-arizona-primaries-democrats-dodge-far-left-upset-more-top-headlines",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/darline-graham-focuses-kitchen-table-issues-she-announces-full-term-senate-bid-more-top-headlines"
-        }
-      ]
-    },
-    {
-      "title": "Prosecutor ousted after alleged romance with illegal immigrant sex-crime suspect: 'Pattern of misconduct'",
-      "category": "Politics",
-      "what": "Missouri's Attorney General accused county prosecutor Camille Johnston of an intimate relationship with an illegal immigrant charged in a sexual assault case in her jurisdiction.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/prosecutor-ousted-after-alleged-romance-illegal-immigrant-sex-crime-suspect",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/prosecutor-ousted-after-alleged-romance-illegal-immigrant-sex-crime-suspect"
-        }
-      ]
-    },
-    {
-      "title": "Two House races take center stage as conservative PAC launches multimillion-dollar Big Tech push",
-      "category": "Politics",
-      "what": "Defending Our Values PAC backs Rhett Marques and Scott Singer in crowded Republican primaries it sees as critical to preserving the GOP House majority.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/two-house-races-take-center-stage-conservative-pac-launches-multimillion-dollar-big-tech-push",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/two-house-races-take-center-stage-conservative-pac-launches-multimillion-dollar-big-tech-push"
-        }
-      ]
-    },
-    {
-      "title": "'America's Most Wanted' fugitive laid blueprint for vanishing before 20-year escape: affidavit",
-      "category": "U.S.",
-      "what": "Ronald Fischer emailed his attorney, canceled a London flight and studied identity-change literature in the days before vanishing during his 2005 trial, according to an affidavit.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/americas-most-wanted-fugitive-laid-blueprint-vanishing-20-year-escape-affidavit",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/americas-most-wanted-fugitive-laid-blueprint-vanishing-20-year-escape-affidavit"
-        }
-      ]
-    },
-    {
-      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-      "category": "World",
-      "what": "Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.foxnews.com/us/trump-flexes-power-arizona-primaries-democrats-dodge-far-left-upset-more-top-headlines"
         },
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/retired-lt-col-running-congress-back-iran-trump-strategy-hes-ending-47-year-conflict"
+          "url": "https://www.foxnews.com/politics/trump-flexes-gop-muscle-arizona-primaries-dems-dodge-left-wing-upset"
         }
       ]
     },
     {
-      "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
-      "category": "World",
-      "what": "The duties mark a major escalation in trade tensions between the North American neighbours.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Trump’s GOP clout faces Arizona test with House majority, governor’s race at stake",
+      "title": "New report uncovers education groups' DEI push to shape how artificial intelligence is used in classrooms",
       "category": "Politics",
-      "what": "Trump's endorsement power faces a critical test as Arizona holds GOP primaries for governor, attorney general and key swing congressional seats.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/trumps-gop-clout-faces-arizona-test-house-majority-governors-race-stake",
+      "what": "A report alleges top teachers unions are embedding DEI principles into AI guidance for classrooms through equity and algorithmic bias frameworks.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/politics/report-uncovers-education-groups-dei-push-shape-artificial-intelligence-used-classrooms",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trumps-gop-clout-faces-arizona-test-house-majority-governors-race-stake"
+          "url": "https://www.foxnews.com/politics/report-uncovers-education-groups-dei-push-shape-artificial-intelligence-used-classrooms"
         }
       ]
     },
     {
-      "title": "'Anti-ICE' army veteran started fire outside Manhattan federal building, say officials",
-      "category": "World",
-      "what": "Andrew Arrabaca, 43, was armed with two axes, a machete, three knives and fireworks, says the FBI.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/c1m1rr90dzxo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c1m1rr90dzxo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "At least 27 dead and 83 missing after passenger ferry capsizes off Guyana",
-      "category": "World",
-      "what": "An investigation into the tragedy has been launched, the island's prime minister says, adding he hopes more will be found alive.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Bodycam catches Sunny Hostin invoking her legal chops as cops cite Harvard-grad son for trespassing",
-      "category": "U.S.",
-      "what": "Bodycam video captures Sunny Hostin telling MTA police she's a former federal prosecutor after her son Gabriel Hostin was stopped for trespassing.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/bodycam-catches-sunny-hostin-invoking-legal-chops-cops-cite-harvard-grad-son-trespassing",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/bodycam-catches-sunny-hostin-invoking-legal-chops-cops-cite-harvard-grad-son-trespassing"
-        }
-      ]
-    },
-    {
-      "title": "5 dead in attempt to save a struggling swimmer in Ohio river",
-      "category": "U.S.",
-      "what": "Five people drowned in the Scioto River in Powell, Ohio, after others jumped in to rescue a struggling swimmer, the Delaware County Sheriff says.",
+      "title": "Hegseth turns tables on Dems as sparks fly during hearing clash: 'I put this on you'",
+      "category": "Politics",
+      "what": "Secretary of War Pete Hegseth clashed with Democratic senators over Iran war strategy and military funding amid a record $1.5 trillion budget request.",
       "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
       "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.foxnews.com/us/dead-attempt-save-struggling-swimmer-ohio-river",
+      "source": "https://www.foxnews.com/politics/hegseth-turns-tables-dems-sparks-fly-hearing-clash",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/hegseth-turns-tables-dems-sparks-fly-hearing-clash"
+        }
+      ]
+    },
+    {
+      "title": "US renews strikes on Iran as Trump threatens to attack underground nuclear site",
+      "category": "World",
+      "what": "The US president's threat to target a key Iranian nuclear site came ahead of the 11th consecutive night of attacks.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "GOP gov claims swing-state opponent's agenda carries $18B price tag in explosive report as key midterm nears",
+      "category": "Politics",
+      "what": "Aaron Ford's policy proposals carry an estimated $18.1 billion price tag over four years, requiring billions in new taxes, a Lombardo report claims.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/politics/gop-gov-claims-swing-state-opponents-agenda-carries-18b-price-tag-explosive-report-key-midterm-nears",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/gop-gov-claims-swing-state-opponents-agenda-carries-18b-price-tag-explosive-report-key-midterm-nears"
+        }
+      ]
+    },
+    {
+      "title": "New Jersey mom’s slaying has neighbors on edge with every 'strange noise’ nearly 7 weeks later",
+      "category": "U.S.",
+      "what": "Neighbors in Chester, New Jersey, say a white Volvo SUV linked to Conor Hanlon was spotted at the home where Brooke Hanlon was fatally stabbed.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/new-jersey-moms-slaying-has-neighbors-on-edge-every-strange-noise-nearly-7-weeks-later",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/dead-attempt-save-struggling-swimmer-ohio-river"
+          "url": "https://www.foxnews.com/us/new-jersey-moms-slaying-has-neighbors-on-edge-every-strange-noise-nearly-7-weeks-later"
         }
       ]
     },
     {
-      "title": "DA: Cop covered bodycam to snap nude prisoners on his iPhone—but other cams caught him",
-      "category": "Tech",
-      "what": "Pennsylvania cop charged with oppression and obstruction.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/tech-policy/2026/07/cop-charged-with-covering-bodycam-to-photograph-naked-prisoners/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/07/cop-charged-with-covering-bodycam-to-photograph-naked-prisoners/"
-        }
-      ]
-    },
-    {
-      "title": "Firefighting drones in the works as wildfires plague US nearly year-round",
-      "category": "Tech",
-      "what": "California and XPRIZE competition tests whether drones can stop wildfires early.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/"
-        }
-      ]
-    },
-    {
-      "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
+      "title": "Ukrainian drones hit more sites of Russian online retailer Wildberries",
       "category": "World",
-      "what": "The Houthis say the embargo begins immediately and is a response to a Saudi blockade of ports and airports in Yemen.",
+      "what": "Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Judge halts Paramount's $111B purchase of Warner Bros. in win for US states",
-      "category": "Tech",
-      "what": "Judge grants restraining order, saying merger \"likely to violate antitrust laws.\"",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/",
+      "title": "Police station opens at Hitler's birthplace in bid to rid site of Nazi link",
+      "category": "World",
+      "what": "The opening follows years of controversy about what to do with the 17th-Century former inn, where the Nazi dictator was born.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/cy5d36e752yo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c5ywxy41vg6o?at_medium=RSS&at_campaign=rss"
-        },
+          "url": "https://www.bbc.co.uk/news/articles/cy5d36e752yo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "India's Modi government under growing pressure as 'cockroach' protests intensify",
+      "category": "World",
+      "what": "The CJP got a boost on Tuesday when the opposition Congress party demonstrated outside the PM's house.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/c9d8p88lyjdo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c9d8p88lyjdo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Woman's remains identified by DNA in Virginia, exposing second alleged murder linked to same 4 suspects",
+      "category": "U.S.",
+      "what": "DNA analysis identified Helen Marie Pullen Banks months after her remains were found, linking her death to four suspects in a second Virginia murder.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/womans-remains-identified-dna-virginia-exposing-second-alleged-murder-linked-same-4-suspects",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/womans-remains-identified-dna-virginia-exposing-second-alleged-murder-linked-same-4-suspects"
+        }
+      ]
+    },
+    {
+      "title": "Alleged 'mime' stalker stripped to underwear, covered himself in cooking oil: officials",
+      "category": "U.S.",
+      "what": "Massachusetts man Hernan Villagran Lux allegedly stripped to his underwear and slathered cooking oil on his body near female park workers before collapsing in court.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/alleged-mime-stalker-stripped-underwear-covered-himself-cooking-oil-officials",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/alleged-mime-stalker-stripped-underwear-covered-himself-cooking-oil-officials"
+        }
+      ]
+    },
+    {
+      "title": "Range Rover answers the question: \"What if we built a not-SUV?\"",
+      "category": "Tech",
+      "what": "The Range Rover GT will debut as an EV with a hybrid version to follow.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/cars/2026/07/heres-range-rovers-first-not-suv-the-range-rover-gt/",
+      "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/"
+          "url": "https://arstechnica.com/cars/2026/07/heres-range-rovers-first-not-suv-the-range-rover-gt/"
+        }
+      ]
+    },
+    {
+      "title": "On the run for 20 years, most-wanted fugitive caught hiding as a biotech exec",
+      "category": "Tech",
+      "what": "Ronald Fischer, aka Richard Graydon, was arrested in New York last week.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/health/2026/07/on-the-run-for-20-years-most-wanted-fugitive-caught-hiding-as-a-biotech-exec/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/07/on-the-run-for-20-years-most-wanted-fugitive-caught-hiding-as-a-biotech-exec/"
+        }
+      ]
+    },
+    {
+      "title": "Sony releases one last trailer for Spider-Man: Brand New Day",
+      "category": "Tech",
+      "what": "\"Maybe that's my responsibility, to live alone with the truth.\"",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/culture/2026/07/sony-releases-one-last-trailer-for-spider-man-brand-new-day/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/culture/2026/07/sony-releases-one-last-trailer-for-spider-man-brand-new-day/"
         }
       ]
     }
