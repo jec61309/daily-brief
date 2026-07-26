@@ -1,87 +1,185 @@
 {
-  "date": "Saturday, July 25, 2026",
+  "date": "Sunday, July 26, 2026",
   "stories": [
     {
-      "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
+      "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
       "category": "World",
-      "what": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
+      "what": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tell, which left four Palestinians and two Israelis dead.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Cajun Navy leader warns Nolan Wells' search area has deadly 'washing machine' currents: 'Lots of drownings'",
+      "title": "Mississippi teen accused of killing elderly couple was suspect in ‘many’ burglaries, car thefts: cops",
       "category": "U.S.",
-      "what": "A United Cajun Navy leader says the waters near Horn Island where Nolan Wells was found are known as a \"washing machine\" due to deadly rip currents.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.foxnews.com/us/cajun-navy-leader-warns-nolan-wells-search-area-deadly-washing-machine-currents-lots-drownings",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/cajun-navy-leader-warns-nolan-wells-search-area-deadly-washing-machine-currents-lots-drownings"
-        }
-      ]
-    },
-    {
-      "title": "Here's what you missed from Trump's first WHCA Dinner as president: 5 takeaways from his night with the press",
-      "category": "Politics",
-      "what": "Trump roasted Robert F. Kennedy, Kaitlan Collins, and Bari Weiss while sharing rare warm words for journalists at the historic dinner event.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/heres-what-you-missed-from-trumps-first-whca-dinner-president-5-takeaways-from-his-night-press",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/heres-what-you-missed-from-trumps-first-whca-dinner-president-5-takeaways-from-his-night-press"
-        }
-      ]
-    },
-    {
-      "title": "Mace breaks with Trump, questions whether Lindsey Graham's sister is 'qualified' for ballot",
-      "category": "Politics",
-      "what": "Nancy Mace questions whether Darline Graham meets South Carolina ballot eligibility rules, citing new state laws on Republican primary voting.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/mace-breaks-trump-questions-whether-lindsey-grahams-sister-qualified-ballot",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/mace-breaks-trump-questions-whether-lindsey-grahams-sister-qualified-ballot"
-        }
-      ]
-    },
-    {
-      "title": "8 family members, including 6 children, found dead in Michigan fire; at least one victim shot: police",
-      "category": "U.S.",
-      "what": "At least some of the eight victims found inside the burning Grand Haven Township home had been shot, prompting a suspicious death investigation.",
+      "what": "Deputies say Cordarius Hobbs was suspected in many home burglaries and car thefts before the Mississippi teen was charged with capital murder.",
       "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
       "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/8-family-members-including-6-children-found-dead-michigan-fire-least-one-victim-shot-police",
+      "source": "https://www.foxnews.com/us/mississippi-teen-accused-killing-elderly-couple-suspect-many-burglaries-car-thefts-cops",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/8-family-members-including-6-children-found-dead-michigan-fire-least-one-victim-shot-police"
+          "url": "https://www.foxnews.com/us/mississippi-teen-accused-killing-elderly-couple-suspect-many-burglaries-car-thefts-cops"
         }
       ]
     },
     {
-      "title": "After Platner implosion, Maine Democrats rush toward new Senate nominee despite fresh warning signs",
+      "title": "Man accused of illegally 'wrestling' protected sharks in Washington state after months-long investigation",
+      "category": "U.S.",
+      "what": "Body camera video shows a wildlife officer confronting fisherman after months of surveillance over alleged illegal shark catches in Puget Sound.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/man-accused-illegally-wrestling-protected-sharks-washington-state-months-long-investigation",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/man-accused-illegally-wrestling-protected-sharks-washington-state-months-long-investigation"
+        }
+      ]
+    },
+    {
+      "title": "What we know so far about the Berlin Pride ramming attack",
+      "category": "World",
+      "what": "A police manhunt is underway after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "France battles fire 'whirlwinds' as another 55,000 evacuated ",
+      "category": "World",
+      "what": "More than 340,000 people have now been evacuated from wildfires in France and Spain.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "WATCH: Democrats blast Trump Saudi nuclear deal as GOP touts regional alliance",
       "category": "Politics",
-      "what": "The Maine Senate race is rated a toss-up as Troy Jackson runs on Medicare for all and abolishing ICE against Republican incumbent Susan Collins.",
+      "what": "Democrats warn the Saudi Arabia nuclear deal could spark a Middle East arms race, while Republicans stress the need for regional partnership.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/platner-implosion-maine-democrats-rally-troy-jackson-high-stakes-senate-fight",
+      "source": "https://www.foxnews.com/politics/democrats-blast-trump-saudi-nuclear-deal-gop-touts-regional-alliance",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/platner-implosion-maine-democrats-rally-troy-jackson-high-stakes-senate-fight"
+          "url": "https://www.foxnews.com/politics/democrats-blast-trump-saudi-nuclear-deal-gop-touts-regional-alliance"
+        }
+      ]
+    },
+    {
+      "title": "California authorities search for 2 children allegedly abducted by father, fear for their safety",
+      "category": "U.S.",
+      "what": "Solomon and Marozhina Sukonick were last seen in Lancaster with their father, and authorities say there is concern for the abducted children's well-being.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/california-authorities-search-2-children-allegedly-abducted-father-fear-safety",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/california-authorities-search-2-children-allegedly-abducted-father-fear-safety"
+        }
+      ]
+    },
+    {
+      "title": "At least 1 shot, 1 detained after reported active shooter at Texas mall: police",
+      "category": "U.S.",
+      "what": "At least one person was shot and another detained after Harris County deputies responded to an active shooter report at Deerbrook Mall in Humble, Texas.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/least-1-shot-1-detained-reported-active-shooter-texas-mall-police",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/least-1-shot-1-detained-reported-active-shooter-texas-mall-police"
+        }
+      ]
+    },
+    {
+      "title": "Federal appeals court rejects Trump bid to enforce mail ballot order ahead of midterm elections",
+      "category": "Politics",
+      "what": "A federal appeals court blocked Trump's executive order on mail-in voting rules in 23 states, potentially sending the fight to the Supreme Court.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/politics/federal-appeals-court-rejects-trump-bid-enforce-mail-ballot-order-ahead-midterm-elections",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/federal-appeals-court-rejects-trump-bid-enforce-mail-ballot-order-ahead-midterm-elections"
+        }
+      ]
+    },
+    {
+      "title": "SDCC teaser gives us our first good look at Blade Runner 2099",
+      "category": "Tech",
+      "what": "Also: Forging the One Ring in Rings of Power S3 teaser; new Lanterns trailer; Spaceballs: The New One panel.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/"
+        }
+      ]
+    },
+    {
+      "title": "Court checks Pritzker as Trump administration scores another immigration win",
+      "category": "Politics",
+      "what": "A federal judge ruled Illinois laws providing in-state tuition and financial aid to illegal immigrants are unconstitutional, dealing a blow to JB Pritzker.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/politics/court-checks-pritzker-trump-administration-scores-another-immigration-win",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/court-checks-pritzker-trump-administration-scores-another-immigration-win"
+        }
+      ]
+    },
+    {
+      "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
+      "category": "Tech",
+      "what": "SpaceX will likely attempt to catch Starship back at the launch pad on its next flight.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/"
+        }
+      ]
+    },
+    {
+      "title": "India's 'cockroach' protest called off after education minister quits",
+      "category": "World",
+      "what": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -96,126 +194,20 @@
         {
           "name": "BBC World",
           "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-spares-no-one-whca-dinner-taking-aim-dems-press-own-cabinet"
         }
       ]
     },
     {
-      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
-      "category": "World",
-      "what": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
+      "title": "With help from data, art museums are reframing the visitor experience",
+      "category": "Tech",
+      "what": "Museums are embracing data-driven curation and a shifting technology landscape.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
-      "category": "World",
-      "what": "The Trump administration has often accused the world's largest research museum of harbouring an anti-American bias.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-orders-signs-outside-smithsonian-museum-amid-row-over-its-depiction-american-history"
-        }
-      ]
-    },
-    {
-      "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
-      "category": "World",
-      "what": "Prosecutors allege D4vd started abusing the girl when she was 13 and she had threatened to expose him.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "California trans suspect arrested in mother's killing after neighbor recalls heated argument",
-      "category": "U.S.",
-      "what": "Safford Wolfson, 36, was arrested on suspicion of murdering his mother Angela Caprioli at their Laguna Beach home after being named a person of interest.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/california-trans-suspect-arrested-mothers-killing-neighbor-recalls-heated-argument",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/california-trans-suspect-arrested-mothers-killing-neighbor-recalls-heated-argument"
-        }
-      ]
-    },
-    {
-      "title": "Illegal immigrant who killed Nashville restaurant owner to face ICE deportation after prison",
-      "category": "U.S.",
-      "what": "Ulises Raigoza-Martinez, who says he illegally entered through Texas in 2021, pleaded guilty to murdering Nashville restaurant owner Matt Carney.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/illegal-immigrant-who-killed-nashville-restaurant-owner-face-ice-deportation-after-prison",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/illegal-immigrant-who-killed-nashville-restaurant-owner-face-ice-deportation-after-prison"
-        }
-      ]
-    },
-    {
-      "title": "Wildfire forces evacuation of NASA's Deep Space Network complex in Spain",
-      "category": "Tech",
-      "what": "\"Any potential damage will be assessed when it is safe to do so.\"",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/",
+      "source": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/"
-        }
-      ]
-    },
-    {
-      "title": "Paramount/WBD merger delayed for months as states' lawsuit moves toward trial",
-      "category": "Tech",
-      "what": "“Halting this merger while our case proceeds is a critical victory,\" NY AG said.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://arstechnica.com/tech-policy/2026/07/after-court-loss-paramount-agrees-to-delay-warner-bros-merger-until-trial/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/07/after-court-loss-paramount-agrees-to-delay-warner-bros-merger-until-trial/"
-        }
-      ]
-    },
-    {
-      "title": "Canadian legislator reads out apparent LLM response in floor speech",
-      "category": "Tech",
-      "what": "\"Here’s a more natural, flowing version of that section...\"",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/"
+          "url": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/"
         }
       ]
     }
