@@ -1,129 +1,185 @@
 {
-  "date": "Sunday, July 26, 2026",
+  "date": "Monday, July 27, 2026",
   "stories": [
     {
-      "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+      "title": "UK PM pledges continued support for Ukraine ahead of Zelensky visit",
       "category": "World",
-      "what": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tell, which left four Palestinians and two Israelis dead.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+      "what": "The Ukrainian president will be the new prime minister's first international visitor since taking office.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Mississippi teen accused of killing elderly couple was suspect in ‘many’ burglaries, car thefts: cops",
-      "category": "U.S.",
-      "what": "Deputies say Cordarius Hobbs was suspected in many home burglaries and car thefts before the Mississippi teen was charged with capital murder.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/mississippi-teen-accused-killing-elderly-couple-suspect-many-burglaries-car-thefts-cops",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/mississippi-teen-accused-killing-elderly-couple-suspect-many-burglaries-car-thefts-cops"
-        }
-      ]
-    },
-    {
-      "title": "Man accused of illegally 'wrestling' protected sharks in Washington state after months-long investigation",
-      "category": "U.S.",
-      "what": "Body camera video shows a wildlife officer confronting fisherman after months of surveillance over alleged illegal shark catches in Puget Sound.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/man-accused-illegally-wrestling-protected-sharks-washington-state-months-long-investigation",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/man-accused-illegally-wrestling-protected-sharks-washington-state-months-long-investigation"
-        }
-      ]
-    },
-    {
-      "title": "What we know so far about the Berlin Pride ramming attack",
+      "title": "Bali bans Dutch expats whose run club allegedly excluded Indonesians",
       "category": "World",
-      "what": "A police manhunt is underway after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
+      "what": "The two men, who are accused of favouring foreigners for their events, allegedly violated immigration laws.",
       "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
       "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/c1l1m6e08e2o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c1l1m6e08e2o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "France battles fire 'whirlwinds' as another 55,000 evacuated ",
-      "category": "World",
-      "what": "More than 340,000 people have now been evacuated from wildfires in France and Spain.",
+      "title": "Artist sues AI meme generator for selling deeply personal comic as ad template",
+      "category": "Tech",
+      "what": "Meme generator may have screwed up by using templates in outputs, expert says.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+      "source": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss"
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/"
         }
       ]
     },
     {
-      "title": "WATCH: Democrats blast Trump Saudi nuclear deal as GOP touts regional alliance",
-      "category": "Politics",
-      "what": "Democrats warn the Saudi Arabia nuclear deal could spark a Middle East arms race, while Republicans stress the need for regional partnership.",
+      "title": "Argentine leader calls Brazilian president a 'thief' and a 'convict'",
+      "category": "World",
+      "what": "Javier Milei spoke at a campaign rally for right-wing presidential candidate Flávio Bolsonaro, who is running against Lula.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/democrats-blast-trump-saudi-nuclear-deal-gop-touts-regional-alliance",
+      "source": "https://www.bbc.co.uk/news/articles/cvgx91vdedno?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cvgx91vdedno?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Rep Thomas Massie says the Iran war has 'significantly weakened' America 'all for Israel'",
+      "category": "Politics",
+      "what": "Republican Rep. Thomas Massie of Kentucky declared in a post on X that the Iran war has \"significantly weakened\" the United States of America.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.foxnews.com/politics/rep-thomas-massie-iran-war-significantly-weakened-america-israel",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/democrats-blast-trump-saudi-nuclear-deal-gop-touts-regional-alliance"
+          "url": "https://www.foxnews.com/politics/rep-thomas-massie-iran-war-significantly-weakened-america-israel"
         }
       ]
     },
     {
-      "title": "California authorities search for 2 children allegedly abducted by father, fear for their safety",
+      "title": "Heated Lindsay Clancy courtroom exchange over 911 call, crime scene photos sets stage for mom’s murder trial",
       "category": "U.S.",
-      "what": "Solomon and Marozhina Sukonick were last seen in Lancaster with their father, and authorities say there is concern for the abducted children's well-being.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/california-authorities-search-2-children-allegedly-abducted-father-fear-safety",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/california-authorities-search-2-children-allegedly-abducted-father-fear-safety"
-        }
-      ]
-    },
-    {
-      "title": "At least 1 shot, 1 detained after reported active shooter at Texas mall: police",
-      "category": "U.S.",
-      "what": "At least one person was shot and another detained after Harris County deputies responded to an active shooter report at Deerbrook Mall in Humble, Texas.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/least-1-shot-1-detained-reported-active-shooter-texas-mall-police",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/least-1-shot-1-detained-reported-active-shooter-texas-mall-police"
-        }
-      ]
-    },
-    {
-      "title": "Federal appeals court rejects Trump bid to enforce mail ballot order ahead of midterm elections",
-      "category": "Politics",
-      "what": "A federal appeals court blocked Trump's executive order on mail-in voting rules in 23 states, potentially sending the fight to the Supreme Court.",
+      "what": "Lindsay Clancy's defense claims postpartum psychosis drove her to strangle her three children, while prosecutors allege the killings were planned.",
       "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
       "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/federal-appeals-court-rejects-trump-bid-enforce-mail-ballot-order-ahead-midterm-elections",
+      "source": "https://www.foxnews.com/us/heated-lindsay-clancy-courtroom-exchange-911-call-crime-scene-photos-sets-stage-moms-murder-trial",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/heated-lindsay-clancy-courtroom-exchange-911-call-crime-scene-photos-sets-stage-moms-murder-trial"
+        }
+      ]
+    },
+    {
+      "title": "Rapper Yung Filly tells trial 'vibes were good' with woman who accuses him of rape",
+      "category": "World",
+      "what": "The rapper takes the witness stand at his trial in Australia where he denies raping a fan in a hotel room.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/cm2g044ydl4o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm2g044ydl4o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Australian court upholds racial discrimination ruling against Pauline Hanson",
+      "category": "World",
+      "what": "One Nation leader loses bid to overturn ruling that she racially discriminated against Senator Mehreen Faruqi.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.bbc.co.uk/news/articles/cx2k5v9202wo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cx2k5v9202wo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Newborn vanished after secret birth, parents allegedly claimed baby 'was a prank': cops",
+      "category": "U.S.",
+      "what": "The Florida couple allegedly claimed their newborn was \"a prank\" after the baby vanished, but investigators developed evidence for manslaughter charges.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/newborn-vanished-after-secret-birth-parents-allegedly-claimed-baby-prank-cops",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/newborn-vanished-after-secret-birth-parents-allegedly-claimed-baby-prank-cops"
+        }
+      ]
+    },
+    {
+      "title": "NY circus performer airlifted to hospital after colleague's arrow misses target, strikes his neck",
+      "category": "U.S.",
+      "what": "A circus performer was airlifted to a hospital after his colleague's arrow struck his neck during a stunt at the Orange County Fair in Wallkill, police said.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/ny-circus-performer-airlifted-hospital-after-colleagues-arrow-misses-target-strikes-his-neck",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/ny-circus-performer-airlifted-hospital-after-colleagues-arrow-misses-target-strikes-his-neck"
+        }
+      ]
+    },
+    {
+      "title": "Nevada man dies at famed Sequoia National Park trail after sudden emergency",
+      "category": "U.S.",
+      "what": "An elderly Nevada hiker died after a suffering from a medical emergency on a popular hiking trail in Sequoia National Park on Thursday.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/nevada-man-dies-famed-sequoia-national-park-trail-sudden-emergency",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/nevada-man-dies-famed-sequoia-national-park-trail-sudden-emergency"
+        }
+      ]
+    },
+    {
+      "title": "This red state is strengthening its grip as America's next economic heavyweight",
+      "category": "Politics",
+      "what": "IRS migration data reveal over $5 billion in wealth flowing into Texas as Dallas-Fort Worth, Houston and Austin fuel the state's population boom.",
+      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
+      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
+      "source": "https://www.foxnews.com/politics/red-state-strengthening-its-grip-americas-next-economic-heavyweight",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/federal-appeals-court-rejects-trump-bid-enforce-mail-ballot-order-ahead-midterm-elections"
+          "url": "https://www.foxnews.com/politics/red-state-strengthening-its-grip-americas-next-economic-heavyweight"
+        }
+      ]
+    },
+    {
+      "title": "Everyday Revolutionary War heroes take center stage in Trump's 'Spirit of '76' exhibit",
+      "category": "Politics",
+      "what": "The Caesar Rodney statue and 22 other installations at Freedom Plaza honor common, everyday Revolutionary War heroes as part of America's 250th anniversary under President Trump.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/everyday-revolutionary-war-heroes-take-center-stage-trumps-spirit-76-exhibit",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/everyday-revolutionary-war-heroes-take-center-stage-trumps-spirit-76-exhibit"
         }
       ]
     },
@@ -142,20 +198,6 @@
       ]
     },
     {
-      "title": "Court checks Pritzker as Trump administration scores another immigration win",
-      "category": "Politics",
-      "what": "A federal judge ruled Illinois laws providing in-state tuition and financial aid to illegal immigrants are unconstitutional, dealing a blow to JB Pritzker.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/court-checks-pritzker-trump-administration-scores-another-immigration-win",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/court-checks-pritzker-trump-administration-scores-another-immigration-win"
-        }
-      ]
-    },
-    {
       "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
       "category": "Tech",
       "what": "SpaceX will likely attempt to catch Starship back at the launch pad on its next flight.",
@@ -166,48 +208,6 @@
         {
           "name": "Ars Technica",
           "url": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/"
-        }
-      ]
-    },
-    {
-      "title": "India's 'cockroach' protest called off after education minister quits",
-      "category": "World",
-      "what": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Trump takes swipes at press during White House Correspondents' Dinner",
-      "category": "World",
-      "what": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "With help from data, art museums are reframing the visitor experience",
-      "category": "Tech",
-      "what": "Museums are embracing data-driven curation and a shifting technology landscape.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/"
         }
       ]
     }
