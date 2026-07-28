@@ -1,213 +1,217 @@
 {
-  "date": "Monday, July 27, 2026",
+  "date": "Tuesday, July 28, 2026",
   "stories": [
     {
-      "title": "UK PM pledges continued support for Ukraine ahead of Zelensky visit",
-      "category": "World",
-      "what": "The Ukrainian president will be the new prime minister's first international visitor since taking office.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
+      "title": "World leaders gather to honor Lindsey Graham and more top headlines",
+      "category": "U.S.",
+      "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/world-leaders-honor-lindsey-graham-more-top-headlines",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss"
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/world-leaders-honor-lindsey-graham-more-top-headlines"
+        },
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/lindsey-grahams-final-mission-nears-finish-line-world-leaders-gather-honor-him"
         }
       ]
     },
     {
-      "title": "Bali bans Dutch expats whose run club allegedly excluded Indonesians",
+      "title": "Video shows Iowa road rage suspect surrender after police order him to drop gun",
+      "category": "U.S.",
+      "what": "Dramatic video shows the moment Des Moines police confront Bradley Ratkovich after he allegedly pointed a Glock 9mm handgun at two teenagers.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/video-shows-iowa-road-rage-suspect-surrender-police-order-drop-gun",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/video-shows-iowa-road-rage-suspect-surrender-police-order-drop-gun"
+        }
+      ]
+    },
+    {
+      "title": "Zelensky to press Trump on air defences while in Washington",
       "category": "World",
-      "what": "The two men, who are accused of favouring foreigners for their events, allegedly violated immigration laws.",
+      "what": "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly attacks.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Fauci privately took credit for COVID-19 lockdowns despite public denial, newly exposed diary entries reveal",
+      "category": "Politics",
+      "what": "Anthony Fauci's private diary reveals he personally convinced Bill de Blasio to close New York City schools, bars and restaurants in March 2020.",
+      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
+      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
+      "source": "https://www.foxnews.com/politics/fauci-privately-took-credit-covid-19-lockdowns-despite-public-denial-newly-exposed-diary-entries-reveal",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/fauci-privately-took-credit-covid-19-lockdowns-despite-public-denial-newly-exposed-diary-entries-reveal"
+        }
+      ]
+    },
+    {
+      "title": "Soros network rebuilds progressive prosecutor push after string of election losses",
+      "category": "Politics",
+      "what": "Soros family pumped more than $1 million into PACs backing progressive prosecutors for 2026 elections, despite recall elections and defeats that removed dozens of district attorneys.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/soros-network-rebuilds-progressive-prosecutor-push-after-string-election-losses",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/soros-network-rebuilds-progressive-prosecutor-push-after-string-election-losses"
+        }
+      ]
+    },
+    {
+      "title": "Far-left Senate hopeful explains ‘ogre on a pike’ remark after getting torched by his own party",
+      "category": "Politics",
+      "what": "Abdul El-Sayed refused to apologize for his \"ogre on a pike\" remark, revealing he was targeting John Fetterman, not primary rival Haley Stevens.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/dem-senate-contender-explains-ogre-pike-remark-torched-own-party",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/dem-senate-contender-explains-ogre-pike-remark-torched-own-party"
+        }
+      ]
+    },
+    {
+      "title": "Odyssey translator writes scathing review of Nolan film adaptation",
+      "category": "World",
+      "what": "The film has won rave reviews from film critics but a translator of Homer's work was less than impressed.",
       "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
       "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/c1l1m6e08e2o?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c1l1m6e08e2o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Artist sues AI meme generator for selling deeply personal comic as ad template",
-      "category": "Tech",
-      "what": "Meme generator may have screwed up by using templates in outputs, expert says.",
+      "title": "US walks out of UN Security Council meeting during France's remarks",
+      "category": "World",
+      "what": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/",
+      "source": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Zidane confirmed as France head coach",
+      "category": "World",
+      "what": "Former Real Madrid manager Zinedine Zidane has been confirmed as the head coach of the France national team.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Zoo staff rescue near-extinct snails from remote rock",
+      "category": "World",
+      "what": "Just 21 Madeiran land snails were found clinging to a rock on Portugal's Bugio Island, say conservationists.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cwyq7e5d1gko?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwyq7e5d1gko?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Lindsay Clancy’s ex-husband details ‘big spiral’ as expert says one part ‘scared me’ in mom’s murder trial",
+      "category": "U.S.",
+      "what": "Patrick Clancy testified about his ex-wife's mental health spiral on Seroquel and her intrusive thoughts about harming their children before the killings.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/lindsay-clancy-ex-husband-details-big-spiral-expert-says-one-part-scared-mom-murder-trial",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/lindsay-clancy-ex-husband-details-big-spiral-expert-says-one-part-scared-mom-murder-trial"
+        }
+      ]
+    },
+    {
+      "title": "Heroic 16-year-old lifeguard rescues child from monster surf in heart-stopping video",
+      "category": "U.S.",
+      "what": "Heart-stopping video shows a 16-year-old lifeguard battling relentless waves to save a child from dangerous surf as beachgoers struggled to reach the pair.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/heroic-16-year-old-lifeguard-rescues-child-monster-surf-heart-stopping-video",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/heroic-16-year-old-lifeguard-rescues-child-monster-surf-heart-stopping-video"
+        }
+      ]
+    },
+    {
+      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+      "category": "Tech",
+      "what": "Microsoft says tools cost less than competing ones and outperform them, too.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/"
+          "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/"
         }
       ]
     },
     {
-      "title": "Argentine leader calls Brazilian president a 'thief' and a 'convict'",
-      "category": "World",
-      "what": "Javier Milei spoke at a campaign rally for right-wing presidential candidate Flávio Bolsonaro, who is running against Lula.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/cvgx91vdedno?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cvgx91vdedno?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Rep Thomas Massie says the Iran war has 'significantly weakened' America 'all for Israel'",
-      "category": "Politics",
-      "what": "Republican Rep. Thomas Massie of Kentucky declared in a post on X that the Iran war has \"significantly weakened\" the United States of America.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.foxnews.com/politics/rep-thomas-massie-iran-war-significantly-weakened-america-israel",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/rep-thomas-massie-iran-war-significantly-weakened-america-israel"
-        }
-      ]
-    },
-    {
-      "title": "Heated Lindsay Clancy courtroom exchange over 911 call, crime scene photos sets stage for mom’s murder trial",
-      "category": "U.S.",
-      "what": "Lindsay Clancy's defense claims postpartum psychosis drove her to strangle her three children, while prosecutors allege the killings were planned.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/heated-lindsay-clancy-courtroom-exchange-911-call-crime-scene-photos-sets-stage-moms-murder-trial",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/heated-lindsay-clancy-courtroom-exchange-911-call-crime-scene-photos-sets-stage-moms-murder-trial"
-        }
-      ]
-    },
-    {
-      "title": "Rapper Yung Filly tells trial 'vibes were good' with woman who accuses him of rape",
-      "category": "World",
-      "what": "The rapper takes the witness stand at his trial in Australia where he denies raping a fan in a hotel room.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cm2g044ydl4o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm2g044ydl4o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Australian court upholds racial discrimination ruling against Pauline Hanson",
-      "category": "World",
-      "what": "One Nation leader loses bid to overturn ruling that she racially discriminated against Senator Mehreen Faruqi.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.bbc.co.uk/news/articles/cx2k5v9202wo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx2k5v9202wo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Newborn vanished after secret birth, parents allegedly claimed baby 'was a prank': cops",
-      "category": "U.S.",
-      "what": "The Florida couple allegedly claimed their newborn was \"a prank\" after the baby vanished, but investigators developed evidence for manslaughter charges.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/newborn-vanished-after-secret-birth-parents-allegedly-claimed-baby-prank-cops",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/newborn-vanished-after-secret-birth-parents-allegedly-claimed-baby-prank-cops"
-        }
-      ]
-    },
-    {
-      "title": "NY circus performer airlifted to hospital after colleague's arrow misses target, strikes his neck",
-      "category": "U.S.",
-      "what": "A circus performer was airlifted to a hospital after his colleague's arrow struck his neck during a stunt at the Orange County Fair in Wallkill, police said.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/ny-circus-performer-airlifted-hospital-after-colleagues-arrow-misses-target-strikes-his-neck",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/ny-circus-performer-airlifted-hospital-after-colleagues-arrow-misses-target-strikes-his-neck"
-        }
-      ]
-    },
-    {
-      "title": "Nevada man dies at famed Sequoia National Park trail after sudden emergency",
-      "category": "U.S.",
-      "what": "An elderly Nevada hiker died after a suffering from a medical emergency on a popular hiking trail in Sequoia National Park on Thursday.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/nevada-man-dies-famed-sequoia-national-park-trail-sudden-emergency",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/nevada-man-dies-famed-sequoia-national-park-trail-sudden-emergency"
-        }
-      ]
-    },
-    {
-      "title": "This red state is strengthening its grip as America's next economic heavyweight",
-      "category": "Politics",
-      "what": "IRS migration data reveal over $5 billion in wealth flowing into Texas as Dallas-Fort Worth, Houston and Austin fuel the state's population boom.",
-      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
-      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
-      "source": "https://www.foxnews.com/politics/red-state-strengthening-its-grip-americas-next-economic-heavyweight",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/red-state-strengthening-its-grip-americas-next-economic-heavyweight"
-        }
-      ]
-    },
-    {
-      "title": "Everyday Revolutionary War heroes take center stage in Trump's 'Spirit of '76' exhibit",
-      "category": "Politics",
-      "what": "The Caesar Rodney statue and 22 other installations at Freedom Plaza honor common, everyday Revolutionary War heroes as part of America's 250th anniversary under President Trump.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/everyday-revolutionary-war-heroes-take-center-stage-trumps-spirit-76-exhibit",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/everyday-revolutionary-war-heroes-take-center-stage-trumps-spirit-76-exhibit"
-        }
-      ]
-    },
-    {
-      "title": "SDCC teaser gives us our first good look at Blade Runner 2099",
+      "title": "iOS and macOS 26.6 arrive today, paving the way for iOS and macOS 27",
       "category": "Tech",
-      "what": "Also: Forging the One Ring in Rings of Power S3 teaser; new Lanterns trailer; Spaceballs: The New One panel.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/"
-        }
-      ]
-    },
-    {
-      "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
-      "category": "Tech",
-      "what": "SpaceX will likely attempt to catch Starship back at the launch pad on its next flight.",
+      "what": "These are likely the last updates of note before Apple's bigger fall updates.",
       "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
       "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
+      "source": "https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/"
+          "url": "https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/"
+        }
+      ]
+    },
+    {
+      "title": "A missing underscore sent innocent man to prison for 18 months",
+      "category": "Tech",
+      "what": "When the first step goes wrong, bad results follow.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/"
         }
       ]
     }
