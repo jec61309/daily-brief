@@ -1,217 +1,213 @@
 {
-  "date": "Tuesday, July 28, 2026",
+  "date": "Wednesday, July 29, 2026",
   "stories": [
     {
-      "title": "World leaders gather to honor Lindsey Graham and more top headlines",
+      "title": "More than 100 aftershocks hit Japan after powerful quake that killed 13",
+      "category": "World",
+      "what": "People are being urged to stay alert, with earthquake aftershocks potentially reaching magnitude 7, officials say",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Thousands in Spain return home but new heatwave raises wildfire fears",
+      "category": "World",
+      "what": "Spain and France are both braced for the start of the fourth heatwave so far this summer and some fires have continued to burn.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "WATCH: Rand Paul says there's one thing Americans have never heard from Fauci",
+      "category": "Politics",
+      "what": "Sen. Rand Paul demands an apology from Anthony Fauci over gain-of-function research funding in China ahead of their Wednesday committee hearing.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/politics/watch-rand-paul-says-theres-one-thing-americans-have-never-heard-from-fauci",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/watch-rand-paul-says-theres-one-thing-americans-have-never-heard-from-fauci"
+        }
+      ]
+    },
+    {
+      "title": "Dr Fauci to testify about COVID's origins at Senate hearing and more top headlines",
       "category": "U.S.",
       "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/us/dr-fauci-testify-about-covids-origins-senate-hearing-more-top-headlines",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/dr-fauci-testify-about-covids-origins-senate-hearing-more-top-headlines"
+        }
+      ]
+    },
+    {
+      "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI misinformation",
+      "category": "Tech",
+      "what": "Deciding what's real on the Internet won't be easy in the future.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/"
+        }
+      ]
+    },
+    {
+      "title": "'Son of Sam' Berkowitz doesn't 'trust the media' 50 years after terrorizing city with letters to newspaper",
+      "category": "U.S.",
+      "what": "David Berkowitz says he no longer trusts the media 50 years after his first killing, declining interviews and calling himself the \"Son of Hope.\"",
       "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
       "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/world-leaders-honor-lindsey-graham-more-top-headlines",
+      "source": "https://www.foxnews.com/us/son-of-sam-berkowitz-doesnt-trust-media-50-years-after-terrorizing-city-letters-newspaper",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/world-leaders-honor-lindsey-graham-more-top-headlines"
-        },
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/lindsey-grahams-final-mission-nears-finish-line-world-leaders-gather-honor-him"
+          "url": "https://www.foxnews.com/us/son-of-sam-berkowitz-doesnt-trust-media-50-years-after-terrorizing-city-letters-newspaper"
         }
       ]
     },
     {
-      "title": "Video shows Iowa road rage suspect surrender after police order him to drop gun",
-      "category": "U.S.",
-      "what": "Dramatic video shows the moment Des Moines police confront Bradley Ratkovich after he allegedly pointed a Glock 9mm handgun at two teenagers.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/video-shows-iowa-road-rage-suspect-surrender-police-order-drop-gun",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/video-shows-iowa-road-rage-suspect-surrender-police-order-drop-gun"
-        }
-      ]
-    },
-    {
-      "title": "Zelensky to press Trump on air defences while in Washington",
-      "category": "World",
-      "what": "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly attacks.",
+      "title": "'They fed him his own ears': Top Republican shares horrifying stories of gang rule in Haiti",
+      "category": "Politics",
+      "what": "Brian Mast describes gang torture, kidnapping of a 6-year-old U.S. citizen and Afghanistan-level poverty during a rare congressional trip to Haiti.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Fauci privately took credit for COVID-19 lockdowns despite public denial, newly exposed diary entries reveal",
-      "category": "Politics",
-      "what": "Anthony Fauci's private diary reveals he personally convinced Bill de Blasio to close New York City schools, bars and restaurants in March 2020.",
-      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
-      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
-      "source": "https://www.foxnews.com/politics/fauci-privately-took-credit-covid-19-lockdowns-despite-public-denial-newly-exposed-diary-entries-reveal",
+      "source": "https://www.foxnews.com/politics/they-fed-him-his-own-ears-top-republican-shares-horrifying-stories-gang-rule-haiti",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/fauci-privately-took-credit-covid-19-lockdowns-despite-public-denial-newly-exposed-diary-entries-reveal"
+          "url": "https://www.foxnews.com/politics/they-fed-him-his-own-ears-top-republican-shares-horrifying-stories-gang-rule-haiti"
         }
       ]
     },
     {
-      "title": "Soros network rebuilds progressive prosecutor push after string of election losses",
+      "title": "Russia charges Telegram founder Durov with facilitating terrorism",
+      "category": "World",
+      "what": "The FSB claims the messenger app, created by Pavel Durov, has failed to remove accounts and channels used for recruitment by Ukraine's secret service.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "'Tip of the iceberg': NJ illegal voting scandal explodes with more key systems at risk",
       "category": "Politics",
-      "what": "Soros family pumped more than $1 million into PACs backing progressive prosecutors for 2026 elections, despite recall elections and defeats that removed dozens of district attorneys.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/soros-network-rebuilds-progressive-prosecutor-push-after-string-election-losses",
+      "what": "Roughly 75,000 noncitizens were summoned for jury duty in New Jersey as GOP lawmakers demand a bipartisan subpoena probe into voter registration.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/politics/tip-of-the-iceberg-nj-illegal-voting-scandal-explodes-more-key-systems-risk",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/soros-network-rebuilds-progressive-prosecutor-push-after-string-election-losses"
+          "url": "https://www.foxnews.com/politics/tip-of-the-iceberg-nj-illegal-voting-scandal-explodes-more-key-systems-risk"
         }
       ]
     },
     {
-      "title": "Far-left Senate hopeful explains ‘ogre on a pike’ remark after getting torched by his own party",
-      "category": "Politics",
-      "what": "Abdul El-Sayed refused to apologize for his \"ogre on a pike\" remark, revealing he was targeting John Fetterman, not primary rival Haley Stevens.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/dem-senate-contender-explains-ogre-pike-remark-torched-own-party",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/dem-senate-contender-explains-ogre-pike-remark-torched-own-party"
-        }
-      ]
-    },
-    {
-      "title": "Odyssey translator writes scathing review of Nolan film adaptation",
-      "category": "World",
-      "what": "The film has won rave reviews from film critics but a translator of Homer's work was less than impressed.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "US walks out of UN Security Council meeting during France's remarks",
-      "category": "World",
-      "what": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Zidane confirmed as France head coach",
-      "category": "World",
-      "what": "Former Real Madrid manager Zinedine Zidane has been confirmed as the head coach of the France national team.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Zoo staff rescue near-extinct snails from remote rock",
-      "category": "World",
-      "what": "Just 21 Madeiran land snails were found clinging to a rock on Portugal's Bugio Island, say conservationists.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cwyq7e5d1gko?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwyq7e5d1gko?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Lindsay Clancy’s ex-husband details ‘big spiral’ as expert says one part ‘scared me’ in mom’s murder trial",
-      "category": "U.S.",
-      "what": "Patrick Clancy testified about his ex-wife's mental health spiral on Seroquel and her intrusive thoughts about harming their children before the killings.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/lindsay-clancy-ex-husband-details-big-spiral-expert-says-one-part-scared-mom-murder-trial",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/lindsay-clancy-ex-husband-details-big-spiral-expert-says-one-part-scared-mom-murder-trial"
-        }
-      ]
-    },
-    {
-      "title": "Heroic 16-year-old lifeguard rescues child from monster surf in heart-stopping video",
-      "category": "U.S.",
-      "what": "Heart-stopping video shows a 16-year-old lifeguard battling relentless waves to save a child from dangerous surf as beachgoers struggled to reach the pair.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/heroic-16-year-old-lifeguard-rescues-child-monster-surf-heart-stopping-video",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/heroic-16-year-old-lifeguard-rescues-child-monster-surf-heart-stopping-video"
-        }
-      ]
-    },
-    {
-      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+      "title": "Elon Musk finally launches X Money. What could possibly go wrong?",
       "category": "Tech",
-      "what": "Microsoft says tools cost less than competing ones and outperform them, too.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+      "what": "Expect bumps with X Money rollout as major US financial markets are excluded.",
+      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
+      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
+      "source": "https://arstechnica.com/tech-policy/2026/07/elon-musk-finally-launches-x-money-what-could-possibly-go-wrong/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/"
+          "url": "https://arstechnica.com/tech-policy/2026/07/elon-musk-finally-launches-x-money-what-could-possibly-go-wrong/"
         }
       ]
     },
     {
-      "title": "iOS and macOS 26.6 arrive today, paving the way for iOS and macOS 27",
+      "title": "Nancy Guthrie Sheriff Chris Nanos says he's 'still positive' case will be resolved despite long wait",
+      "category": "U.S.",
+      "what": "Pima County Sheriff Chris Nanos says investigators are sorting through massive amounts of DNA and video evidence in the Nancy Guthrie abduction case.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/nancy-guthrie-sheriff-chris-nanos-still-positive-case-resolved-despite-long-wait",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/nancy-guthrie-sheriff-chris-nanos-still-positive-case-resolved-despite-long-wait"
+        }
+      ]
+    },
+    {
+      "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
+      "category": "World",
+      "what": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Trump's new spy chief Jay Clayton confirmed by US Senate",
+      "category": "World",
+      "what": "Jay Clayton's confirmation comes after the US president's original choice was rejected by lawmakers due to lack of relevant experience",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/c0rd1kl1825o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c0rd1kl1825o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Lindsay Clancy’s ex-husband details pill use as expert says evidence could shape murder trial",
+      "category": "U.S.",
+      "what": "Prosecutors showed jurors nine prescription bottles still containing pills, challenging claims that Lindsay Clancy was overmedicated before the killings.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/lindsay-clancy-ex-husband-details-pill-use-expert-says-evidence-could-shape-murder-trial",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/lindsay-clancy-ex-husband-details-pill-use-expert-says-evidence-could-shape-murder-trial"
+        }
+      ]
+    },
+    {
+      "title": "Audi has a new flagship designed with the US in mind: The 2027 Q9",
       "category": "Tech",
-      "what": "These are likely the last updates of note before Apple's bigger fall updates.",
+      "what": "The new full-size flagship SUV starts at $87,700 when it goes on sale in Q4.",
       "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
       "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/",
+      "source": "https://arstechnica.com/cars/2026/07/audi-has-a-new-flagship-designed-with-the-us-in-mind-the-2027-q9/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/"
-        }
-      ]
-    },
-    {
-      "title": "A missing underscore sent innocent man to prison for 18 months",
-      "category": "Tech",
-      "what": "When the first step goes wrong, bad results follow.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/"
+          "url": "https://arstechnica.com/cars/2026/07/audi-has-a-new-flagship-designed-with-the-us-in-mind-the-2027-q9/"
         }
       ]
     }
