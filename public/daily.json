@@ -1,171 +1,207 @@
 {
-  "date": "Thursday, July 30, 2026",
+  "date": "Friday, July 31, 2026",
   "stories": [
     {
-      "title": "Trump’s warning becomes reality after Iran's failed attack and more top headlines",
+      "title": "About 49,000 migrants enter Spanish territory of Ceuta in 24 hours, officials say",
+      "category": "World",
+      "what": "The estimated number of arrivals is more than half of the population of the city, which is about 83,600.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Trump's 'historic' agreement with Hamas marks major step for Israel, Gaza and more top headlines",
       "category": "U.S.",
       "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/us/trumps-warning-becomes-reality-after-irans-failed-attack-more-top-headlines",
+      "source": "https://www.foxnews.com/us/trumps-historic-agreement-hamas-marks-major-step-israel-gaza-more-top-headlines",
       "sources": [
         {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/trumps-warning-becomes-reality-after-irans-failed-attack-more-top-headlines"
+          "url": "https://www.foxnews.com/us/trumps-historic-agreement-hamas-marks-major-step-israel-gaza-more-top-headlines"
+        },
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/hamas-agrees-complete-disarmament-historic-gaza-agreement-trump"
         }
       ]
     },
     {
-      "title": "New audio released following Nolan Wells disappearance doesn't show 'anything nefarious': retired FBI agent",
-      "category": "U.S.",
-      "what": "A Sea Tow audio recording captures the frantic call from teens on a sinking boat at Horn Island the night Nolan Wells went missing on July 4.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/new-audio-released-following-nolan-wells-disappearance-doesnt-show-anything-nefarious-retired-fbi-agent",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/new-audio-released-following-nolan-wells-disappearance-doesnt-show-anything-nefarious-retired-fbi-agent"
-        }
-      ]
-    },
-    {
-      "title": "Trump accused China of an 'election security nightmare' but then undercut his own warning",
+      "title": "Trump questions Thune's leadership as SAVE America Act stalls",
       "category": "Politics",
-      "what": "Trump said China's voter file collection happened \"a long time ago\" and suggested both nations spy on each other as Xi Jinping's September visit proceeds.",
+      "what": "Trump publicly questioned whether John Thune is the right man to lead Senate Republicans after the SAVE America Act repeatedly failed to secure votes.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/trump-accused-china-election-security-nightmare-undercut-his-own-warning",
+      "source": "https://www.foxnews.com/politics/trump-questions-thunes-leadership-save-america-act-stalls",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-accused-china-election-security-nightmare-undercut-his-own-warning"
+          "url": "https://www.foxnews.com/politics/trump-questions-thunes-leadership-save-america-act-stalls"
         }
       ]
     },
     {
-      "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-      "category": "World",
-      "what": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Nicaraguan leader proposes extending presidential term by another year",
-      "category": "World",
-      "what": "It is not the first time the constitution has been amended to allow Daniel Ortega, 80, to stay in power for longer.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/c0m78k3k31jo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c0m78k3k31jo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Nancy Guthrie case: Unclaimed $1.2M reward suggests 'very small circle' of suspects, retired FBI agent says",
-      "category": "U.S.",
-      "what": "A retired FBI negotiator says the unclaimed $1.2 million reward in Nancy Guthrie's suspected abduction is a clue in and of itself six months after her kidnapping.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/nancy-guthrie-case-unclaimed-1-2m-reward-suggests-very-small-circle-suspects-retired-fbi-agent-says",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/nancy-guthrie-case-unclaimed-1-2m-reward-suggests-very-small-circle-suspects-retired-fbi-agent-says"
-        }
-      ]
-    },
-    {
-      "title": "Smithsonian exec who said DEI 'must be at the center' of institutions is raking in eye-popping salary",
+      "title": "Army veteran raves over Trump’s plan to ditch illegal alien truck drivers and hire vets",
       "category": "Politics",
-      "what": "Lonnie Bunch earned over $4.4 million from 2020-2024 while pushing DEAI and diversity initiatives at the taxpayer-funded Smithsonian Institution.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/politics/smithsonian-exec-said-dei-must-be-at-center-institutions-raking-eye-popping-salary",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/smithsonian-exec-said-dei-must-be-at-center-institutions-raking-eye-popping-salary"
-        }
-      ]
-    },
-    {
-      "title": "SEE IT: GOP senator flips script on agitators tied to pro-CCP, Singham network",
-      "category": "Politics",
-      "what": "Rick Scott fired back at CodePink hecklers over Gaza, Iran nuclear weapons, and Cuba sanctions in a heated Capitol Hill hallway confrontation.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.foxnews.com/politics/gop-senator-flips-script-agitators-tied-pro-ccp-singham-funding-network",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/gop-senator-flips-script-agitators-tied-pro-ccp-singham-funding-network"
-        }
-      ]
-    },
-    {
-      "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
-      "category": "World",
-      "what": "The unidentified object caused a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine during a Russian attack on the city of Lviv.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Veteran Ugandan opposition leader collapses in court and in ICU, his wife says",
-      "category": "World",
-      "what": "The 70 year old has been in detention since November 2024 and faces treason charges, which he denies.",
+      "what": "Trump's \"Freedom Haulers\" initiative lets veterans with heavy-vehicle experience waive the CDL road skills test, tapping into a disciplined workforce.",
       "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
       "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.bbc.co.uk/news/articles/c0m78xl1k2po?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.foxnews.com/politics/army-veteran-rallies-behind-trumps-plan-ditch-illegal-alien-truck-drivers-hire-vets",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c0m78xl1k2po?at_medium=RSS&at_campaign=rss"
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/army-veteran-rallies-behind-trumps-plan-ditch-illegal-alien-truck-drivers-hire-vets"
         }
       ]
     },
     {
-      "title": "Thousands evacuated in Crete as European wildfires continue to rage",
+      "title": "Watchdog unleashes database to expose 'loopholes' as $5B in foreign cash floods US nonprofits",
+      "category": "Politics",
+      "what": "A new database tracks over $5 billion in foreign spending flowing into 523 politically active U.S. nonprofits not required to disclose donors.",
+      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
+      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
+      "source": "https://www.foxnews.com/politics/watchdog-unleashes-database-expose-loopholes-5b-foreign-cash-floods-nonprofits",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/watchdog-unleashes-database-expose-loopholes-5b-foreign-cash-floods-nonprofits"
+        }
+      ]
+    },
+    {
+      "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
       "category": "World",
-      "what": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Man sentenced to 6 months in jail for ramming car into Jewish group's world headquarters in New York",
-      "category": "U.S.",
-      "what": "A man was sentenced to six months and a week behind bars for ramming his car into the Chabad Lubavitch World Headquarters earlier this year.",
+      "what": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/man-sentenced-6-months-jail-ramming-car-jewish-group-world-headquarters-new-york",
+      "source": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Ohio man could have been lured into deadly Puerto Rico ambush with eerie howling, private investigator says",
+      "category": "U.S.",
+      "what": "A former sheriff's investigator says the family of Tyler Wilkin should contact the FBI in San Juan as local police face overwhelming caseloads.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/ohio-man-lured-deadly-puerto-rico-ambush-eerie-howling-private-investigator-says",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/man-sentenced-6-months-jail-ramming-car-jewish-group-world-headquarters-new-york"
+          "url": "https://www.foxnews.com/us/ohio-man-lured-deadly-puerto-rico-ambush-eerie-howling-private-investigator-says"
+        }
+      ]
+    },
+    {
+      "title": "AC Milan and Italy great Baresi dies aged 66",
+      "category": "World",
+      "what": "AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "ICE lodges detainer for illegal immigrant accused of trying to disarm Virginia police officer",
+      "category": "U.S.",
+      "what": "ICE lodged a detainer against a Honduran national who allegedly ambushed and tried to disarm a Fairfax County police officer in Annandale, Virginia.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/ice-lodges-detainer-illegal-immigrant-accused-trying-disarm-virginia-police-officer",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/ice-lodges-detainer-illegal-immigrant-accused-trying-disarm-virginia-police-officer"
+        }
+      ]
+    },
+    {
+      "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
+      "category": "World",
+      "what": "At least 18 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
+      "category": "World",
+      "what": "A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Mystery stranger vanishes after family says frantic warning saved their lives during devastating house fire",
+      "category": "U.S.",
+      "what": "The Las Vegas family is now searching for the unidentified hero they say woke them during a July 5 house fire they believe was caused by fireworks.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/us/mystery-stranger-vanishes-after-family-says-frantic-warning-saved-lives-during-devastating-house-fire",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/mystery-stranger-vanishes-after-family-says-frantic-warning-saved-lives-during-devastating-house-fire"
+        }
+      ]
+    },
+    {
+      "title": "Quantum computers outperform classical ones, with results you can trust",
+      "category": "Tech",
+      "what": "Three approaches to the issue of quantum results that can't be verified classically.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/science/2026/07/if-a-quantum-computer-outperforms-normal-ones-can-you-tell-if-its-right/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/07/if-a-quantum-computer-outperforms-normal-ones-can-you-tell-if-its-right/"
+        }
+      ]
+    },
+    {
+      "title": "New MCP specification addresses the main barrier to enterprise adoption",
+      "category": "Tech",
+      "what": "Plus, a new policy for the AI protocol ensures features aren't removed suddenly.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/"
         }
       ]
     },
@@ -180,34 +216,6 @@
         {
           "name": "Ars Technica",
           "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/"
-        }
-      ]
-    },
-    {
-      "title": "Musk went to “war,” sought jail time for X ad boycotts—but case ends with a whimper",
-      "category": "Tech",
-      "what": "Advertisers agreed to “reset” relationship with X.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/tech-policy/2026/07/musk-went-to-war-sought-jail-time-for-x-ad-boycotts-but-case-ends-with-a-whimper/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/07/musk-went-to-war-sought-jail-time-for-x-ad-boycotts-but-case-ends-with-a-whimper/"
-        }
-      ]
-    },
-    {
-      "title": "Who wins and who loses after US bans foreign robots?",
-      "category": "Tech",
-      "what": "Government ban on foreign-made robots may hinder instead of help US robotics.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/"
         }
       ]
     }
