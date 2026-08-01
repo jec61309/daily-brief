@@ -1,86 +1,148 @@
 {
-  "date": "Friday, July 31, 2026",
+  "date": "Saturday, August 1, 2026",
   "stories": [
     {
-      "title": "About 49,000 migrants enter Spanish territory of Ceuta in 24 hours, officials say",
+      "title": "Latest fraud scheme targets taxpayer-funded autism therapy boom",
+      "category": "Politics",
+      "what": "Medicaid paid over $5.15 billion for ABA therapy between 2018 and 2024, and prosecutors are now targeting alleged fraud schemes worth tens of millions.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/politics/latest-fraud-scheme-targets-taxpayer-funded-autism-therapy-boom",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/latest-fraud-scheme-targets-taxpayer-funded-autism-therapy-boom"
+        }
+      ]
+    },
+    {
+      "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
       "category": "World",
-      "what": "The estimated number of arrivals is more than half of the population of the city, which is about 83,600.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+      "what": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Trump's 'historic' agreement with Hamas marks major step for Israel, Gaza and more top headlines",
-      "category": "U.S.",
-      "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/us/trumps-historic-agreement-hamas-marks-major-step-israel-gaza-more-top-headlines",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/trumps-historic-agreement-hamas-marks-major-step-israel-gaza-more-top-headlines"
-        },
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/hamas-agrees-complete-disarmament-historic-gaza-agreement-trump"
-        }
-      ]
-    },
-    {
-      "title": "Trump questions Thune's leadership as SAVE America Act stalls",
+      "title": "Kamala Harris backs major changes to the Supreme Court, Electoral College ahead of possible 2028 campaign",
       "category": "Politics",
-      "what": "Trump publicly questioned whether John Thune is the right man to lead Senate Republicans after the SAVE America Act repeatedly failed to secure votes.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/trump-questions-thunes-leadership-save-america-act-stalls",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-questions-thunes-leadership-save-america-act-stalls"
-        }
-      ]
-    },
-    {
-      "title": "Army veteran raves over Trump’s plan to ditch illegal alien truck drivers and hire vets",
-      "category": "Politics",
-      "what": "Trump's \"Freedom Haulers\" initiative lets veterans with heavy-vehicle experience waive the CDL road skills test, tapping into a disciplined workforce.",
+      "what": "Former Vice President Kamala Harris endorsed Supreme Court expansion and abolishing the Electoral College at the National Urban League Conference while weighing a 2028 run.",
       "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
       "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/army-veteran-rallies-behind-trumps-plan-ditch-illegal-alien-truck-drivers-hire-vets",
+      "source": "https://www.foxnews.com/politics/kamala-harris-backs-major-changes-supreme-court-electoral-college-ahead-possible-2028-campaign",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/army-veteran-rallies-behind-trumps-plan-ditch-illegal-alien-truck-drivers-hire-vets"
+          "url": "https://www.foxnews.com/politics/kamala-harris-backs-major-changes-supreme-court-electoral-college-ahead-possible-2028-campaign"
         }
       ]
     },
     {
-      "title": "Watchdog unleashes database to expose 'loopholes' as $5B in foreign cash floods US nonprofits",
+      "title": "Defcon's new badge is a security key you can see inside",
+      "category": "Tech",
+      "what": "A removable chip lets hackers inspect their badge—and keep using it after Defcon.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/"
+        }
+      ]
+    },
+    {
+      "title": "Nancy Guthrie sheriff says investigators may have more video evidence as they review thousands of clips",
+      "category": "U.S.",
+      "what": "Pima County Sheriff Chris Nanos says he believes there's more video evidence as investigators comb through 'tens of thousands' of clips. Ransom notes released in bid to ID suspect.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/nancy-guthrie-sheriff-says-investigators-may-have-more-video-evidence-review-thousands-clips",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/nancy-guthrie-sheriff-says-investigators-may-have-more-video-evidence-review-thousands-clips"
+        }
+      ]
+    },
+    {
+      "title": "How fruit flies chase invisible ribbons of smell to get to their source",
+      "category": "Tech",
+      "what": "Tracking smells in turbulent air takes a keen sense of direction and sharp memory.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/science/2026/08/how-fruit-flies-chase-invisible-ribbons-of-smell-to-get-to-their-source/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/08/how-fruit-flies-chase-invisible-ribbons-of-smell-to-get-to-their-source/"
+        }
+      ]
+    },
+    {
+      "title": "Brazen social media fraud schemes wreak havoc as Trump official issues stark warning for 'fraudfluencers'",
       "category": "Politics",
-      "what": "A new database tracks over $5 billion in foreign spending flowing into 523 politically active U.S. nonprofits not required to disclose donors.",
-      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
-      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
-      "source": "https://www.foxnews.com/politics/watchdog-unleashes-database-expose-loopholes-5b-foreign-cash-floods-nonprofits",
+      "what": "\"Fraudfluencers\" use social media to recruit others into government fraud schemes, says DOL Inspector General Anthony D'Esposito in a stark warning.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/brazen-social-media-fraud-schemes-wreak-havoc-trump-official-issues-stark-warning-fraudfluencers",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/watchdog-unleashes-database-expose-loopholes-5b-foreign-cash-floods-nonprofits"
+          "url": "https://www.foxnews.com/politics/brazen-social-media-fraud-schemes-wreak-havoc-trump-official-issues-stark-warning-fraudfluencers"
         }
       ]
     },
     {
-      "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
+      "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
+      "category": "World",
+      "what": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Race to rescue remaining climbers after deadly avalanche in Pakistan ",
+      "category": "World",
+      "what": "Poor weather has been hampering the search for seven still missing after Thursday's avalanche on Broad Peak.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+      "category": "World",
+      "what": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
       "category": "World",
       "what": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
@@ -94,128 +156,58 @@
       ]
     },
     {
-      "title": "Ohio man could have been lured into deadly Puerto Rico ambush with eerie howling, private investigator says",
+      "title": "Police search for gunman after Walmart employee shot during dispute in Pennsylvania",
       "category": "U.S.",
-      "what": "A former sheriff's investigator says the family of Tyler Wilkin should contact the FBI in San Juan as local police face overwhelming caseloads.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/ohio-man-lured-deadly-puerto-rico-ambush-eerie-howling-private-investigator-says",
+      "what": "An innocent Walmart employee was shot after two men got into an argument at a Pennsylvania Walmart, police said. The suspected gunman fled before officers arrived",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/police-search-gunman-walmart-employee-shot-dispute-pennsylvania",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/ohio-man-lured-deadly-puerto-rico-ambush-eerie-howling-private-investigator-says"
+          "url": "https://www.foxnews.com/us/police-search-gunman-walmart-employee-shot-dispute-pennsylvania"
         }
       ]
     },
     {
-      "title": "AC Milan and Italy great Baresi dies aged 66",
-      "category": "World",
-      "what": "AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss",
+      "title": "Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA",
+      "category": "Tech",
+      "what": "Some group with no modern descendants contributed a lot to our genomes.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/science/2026/07/not-just-neanderthals-ghost-lineage-in-africa-left-its-mark-on-our-dna/",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss"
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/07/not-just-neanderthals-ghost-lineage-in-africa-left-its-mark-on-our-dna/"
         }
       ]
     },
     {
-      "title": "ICE lodges detainer for illegal immigrant accused of trying to disarm Virginia police officer",
+      "title": "OnlyFans model Courtney Clenney strikes murder-case plea deal in boyfriend’s stabbing death",
       "category": "U.S.",
-      "what": "ICE lodged a detainer against a Honduran national who allegedly ambushed and tried to disarm a Fairfax County police officer in Annandale, Virginia.",
+      "what": "Courtney Clenney's plea agreement in the second-degree murder case over Christian Obumseli's fatal stabbing will be presented in Miami-Dade court Aug. 10.",
       "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
       "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/ice-lodges-detainer-illegal-immigrant-accused-trying-disarm-virginia-police-officer",
+      "source": "https://www.foxnews.com/us/onlyfans-model-courtney-clenney-strikes-murder-case-plea-deal-boyfriends-stabbing-death",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/ice-lodges-detainer-illegal-immigrant-accused-trying-disarm-virginia-police-officer"
+          "url": "https://www.foxnews.com/us/onlyfans-model-courtney-clenney-strikes-murder-case-plea-deal-boyfriends-stabbing-death"
         }
       ]
     },
     {
-      "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
-      "category": "World",
-      "what": "At least 18 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
-      "category": "World",
-      "what": "A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Mystery stranger vanishes after family says frantic warning saved their lives during devastating house fire",
+      "title": "Mangione lawyers say media limits at murder trial are unconstitutional, fear court will 'hand-pick' press",
       "category": "U.S.",
-      "what": "The Las Vegas family is now searching for the unidentified hero they say woke them during a July 5 house fire they believe was caused by fireworks.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/us/mystery-stranger-vanishes-after-family-says-frantic-warning-saved-lives-during-devastating-house-fire",
+      "what": "Luigi Mangione's attorney claims limiting his trial to 68 journalists and denying an overflow courtroom violates his constitutional right to a public trial",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/mangione-lawyers-say-media-limits-murder-trial-unconstitutional-fear-court-hand-pick-press",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/mystery-stranger-vanishes-after-family-says-frantic-warning-saved-lives-during-devastating-house-fire"
-        }
-      ]
-    },
-    {
-      "title": "Quantum computers outperform classical ones, with results you can trust",
-      "category": "Tech",
-      "what": "Three approaches to the issue of quantum results that can't be verified classically.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/science/2026/07/if-a-quantum-computer-outperforms-normal-ones-can-you-tell-if-its-right/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/07/if-a-quantum-computer-outperforms-normal-ones-can-you-tell-if-its-right/"
-        }
-      ]
-    },
-    {
-      "title": "New MCP specification addresses the main barrier to enterprise adoption",
-      "category": "Tech",
-      "what": "Plus, a new policy for the AI protocol ensures features aren't removed suddenly.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/"
-        }
-      ]
-    },
-    {
-      "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
-      "category": "Tech",
-      "what": "HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/"
+          "url": "https://www.foxnews.com/us/mangione-lawyers-say-media-limits-murder-trial-unconstitutional-fear-court-hand-pick-press"
         }
       ]
     }
