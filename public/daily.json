@@ -1,171 +1,189 @@
 {
-  "date": "Sunday, August 2, 2026",
+  "date": "Monday, August 3, 2026",
   "stories": [
     {
-      "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
+      "title": "Iran denies Trump's claim that new talks will begin on Monday",
       "category": "World",
-      "what": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
-      "category": "World",
-      "what": "The vessel with at least 250 people on board caught fire off Madura island.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
-      "category": "World",
-      "what": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
-      "category": "World",
-      "what": "The renowned climber was known for scaling the world's 14 highest peaks in just over six months in 2019.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
-      "category": "World",
-      "what": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
+      "what": "While Iran denies that talks with the US are taking place, it is currently in negotiations with Oman over Strait of Hormuz access.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Inside the behemoth Smithsonian museum network drawing fire from the Trump administration",
-      "category": "Politics",
-      "what": "The Smithsonian Institution spans nearly 700 facilities, houses over 157 million artifacts and specimens, and shapes education for millions of students.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/inside-behemoth-smithsonian-museum-network-drawing-fire-trump-administration",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/inside-behemoth-smithsonian-museum-network-drawing-fire-trump-administration"
-        }
-      ]
-    },
-    {
-      "title": "Vulnerable Democrat warns party to 'fight back' against growing socialist movement",
-      "category": "Politics",
-      "what": "Tom Suozzi compares the Democratic Socialists of America to the House Freedom Caucus and urges Democrats to confront the growing socialist wing head-on.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/vulnerable-democrat-warns-party-fight-back-against-growing-socialist-movement",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/vulnerable-democrat-warns-party-fight-back-against-growing-socialist-movement"
-        }
-      ]
-    },
-    {
-      "title": "Louisiana becomes latest state to launch Fauci investigation following explosive Senate hearing",
-      "category": "Politics",
-      "what": "Louisiana Attorney General Liz Murrill says Anthony Fauci lied under deposition and announces Louisiana will join Alabama and Florida in investigating potential state crimes.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/louisiana-latest-state-launch-fauci-investigation-following-explosive-senate-hearing",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/louisiana-latest-state-launch-fauci-investigation-following-explosive-senate-hearing"
-        }
-      ]
-    },
-    {
-      "title": "New Mexico woman's bodycam confession about hiding newborn baby in hospital garbage tossed by state court",
+      "title": "Charlotte repeat offender charged with killing man hours after release on bond",
       "category": "U.S.",
-      "what": "Body camera footage shows Alexee Trevizo confessing to hiding her newborn in a hospital trash can, but New Mexico's Supreme Court ruled it inadmissible.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/new-mexico-womans-bodycam-confession-hiding-newborn-baby-hospital-garbage-tossed-state-court",
+      "what": "David Simpson allegedly shot two men in Charlotte less than two hours after his bond release from Mecklenburg County Jail on an unrelated charge.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/charlotte-repeat-offender-charged-killing-man-hours-after-release-bond",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/new-mexico-womans-bodycam-confession-hiding-newborn-baby-hospital-garbage-tossed-state-court"
+          "url": "https://www.foxnews.com/us/charlotte-repeat-offender-charged-killing-man-hours-after-release-bond"
         }
       ]
     },
     {
-      "title": "Fox News Campus Radicals Newsletter: Parents left in the dark, Trump starving socialist breeding grounds",
-      "category": "U.S.",
-      "what": "Stay up to date with the Fox News Campus Radicals newsletter.",
+      "title": "Moroccan king's letter confirms naming of major highway in honour of Trump",
+      "category": "World",
+      "what": "The highway enters Western Sahara, a disputed territory that Morocco claims sovereignty over.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/us/fox-news-campus-radicals-newsletter-parents-left-dark-trump-starving-socialist-breeding-grounds",
+      "source": "https://www.bbc.co.uk/news/articles/c3r0vg88zr2o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/fox-news-campus-radicals-newsletter-parents-left-dark-trump-starving-socialist-breeding-grounds"
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c3r0vg88zr2o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Texas man allegedly bought 77 head of cattle with bad checks totaling over $159K: sheriff",
+      "title": "Idaho In-N-Out Burger shooting motive still a mystery as armed citizen speaks out",
       "category": "U.S.",
-      "what": "A 25-year-old man from Barry, Texas, allegedly used bad checks to purchase 77 head of cattle worth over $159,000 from Buffalo Livestock Marketing.",
-      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
-      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
-      "source": "https://www.foxnews.com/us/texas-man-allegedly-bought-77-head-cattle-bad-checks-totaling-over-159k-sheriff",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/texas-man-allegedly-bought-77-head-cattle-bad-checks-totaling-over-159k-sheriff"
-        }
-      ]
-    },
-    {
-      "title": "Multiple people killed in shooting at Idaho In-N-Out restaurant, suspect dead",
-      "category": "U.S.",
-      "what": "A gunman opened fire at an In-N-Out Burger in Twin Falls, Idaho, leaving multiple fatalities before the suspected shooter was found deceased nearby.",
+      "what": "An armed citizen and off-duty trooper returned fire at the Twin Falls In-N-Out Burger gunman, who was reportedly shocked by the armed response.",
       "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
       "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/multiple-people-killed-shooting-idaho-in-n-out-restaurant-suspect-dead",
+      "source": "https://www.foxnews.com/us/idaho-in-n-out-burger-shooting-motive-mystery-armed-citizen-speaks",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/multiple-people-killed-shooting-idaho-in-n-out-restaurant-suspect-dead"
+          "url": "https://www.foxnews.com/us/idaho-in-n-out-burger-shooting-motive-mystery-armed-citizen-speaks"
+        }
+      ]
+    },
+    {
+      "title": "Top Trump ally warns super PAC bankrolled by Dem billionaire is meddling in his GOP primary",
+      "category": "Politics",
+      "what": "Rep. Andy Ogles says the $2 million clean energy PAC spending against him in Tennessee's Republican primary proves how much groups profit from subsidies.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/top-trump-ally-warns-super-pac-bankrolled-dem-billionaire-meddling-gop-primary",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/top-trump-ally-warns-super-pac-bankrolled-dem-billionaire-meddling-gop-primary"
+        }
+      ]
+    },
+    {
+      "title": "Todd Blanche inches closer to Senate confirmation after agreement with GOP holdouts and more top headlines",
+      "category": "U.S.",
+      "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/us/todd-blanche-closer-senate-confirmation-after-agreement-gop-holdouts-more-top-headlines",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/todd-blanche-closer-senate-confirmation-after-agreement-gop-holdouts-more-top-headlines"
+        }
+      ]
+    },
+    {
+      "title": "Todd Blanche formally withdraws Trump's 'anti-weaponisation' fund plan",
+      "category": "World",
+      "what": "Two Republican senators wanted a written guarantee that Trump would not revive a controversial proposal.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/c3w05gx32d4o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c3w05gx32d4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/todd-blanche-anti-weaponization-fund"
+        }
+      ]
+    },
+    {
+      "title": "Attorney who defended DC sniper says Kohberger faces 'monumental uphill battle' undoing guilty plea",
+      "category": "U.S.",
+      "what": "A criminal defense attorney explains why Bryan Kohberger's effort to undo his University of Idaho murders guilty plea faces two significant legal hurdles.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/attorney-defended-dc-sniper-says-kohberger-faces-monumental-uphill-battle-undoing-guilty-plea",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/attorney-defended-dc-sniper-says-kohberger-faces-monumental-uphill-battle-undoing-guilty-plea"
+        }
+      ]
+    },
+    {
+      "title": "How headlights got brighter, whiter, and more blinding after dark",
+      "category": "Tech",
+      "what": "Automotive lights are better than they've ever been, but there's a trade-off.",
+      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
+      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
+      "source": "https://arstechnica.com/cars/2026/08/how-headlights-got-brighter-whiter-and-more-blinding-after-dark/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/cars/2026/08/how-headlights-got-brighter-whiter-and-more-blinding-after-dark/"
+        }
+      ]
+    },
+    {
+      "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny  ",
+      "category": "World",
+      "what": "The US singer, 33, will \"step back from visibility\" at the end of her world tour next month, her representative says.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
+      "category": "World",
+      "what": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Trump v. Smithsonian: A timeline of how the White House fight over 'woke' history unfolded",
+      "category": "Politics",
+      "what": "Trump's executive orders target the Smithsonian Institution, arguing exhibits prioritize decolonization and DEI over patriotic American history.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/trump-v-smithsonian-timeline-white-house-fight-woke-history-unfolded",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/trump-v-smithsonian-timeline-white-house-fight-woke-history-unfolded"
+        }
+      ]
+    },
+    {
+      "title": "First showdown in race for Lindsey Graham's Senate seat puts GOP hopefuls to the test",
+      "category": "Politics",
+      "what": "Darline Graham, Ralph Norman, Russell Fry and Mark Sanford share the debate stage Monday in the South Carolina Senate race for the vacant seat.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/first-showdown-race-lindsey-grahams-senate-seat-puts-gop-hopefuls-test",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/first-showdown-race-lindsey-grahams-senate-seat-puts-gop-hopefuls-test"
         }
       ]
     },
@@ -194,20 +212,6 @@
         {
           "name": "Ars Technica",
           "url": "https://arstechnica.com/culture/2026/08/review-yes-were-still-arguing-about-nolans-the-odyssey/"
-        }
-      ]
-    },
-    {
-      "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
-      "category": "Tech",
-      "what": "Reddit may still be considering ending its licensing deal with Google.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/"
         }
       ]
     }
