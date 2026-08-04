@@ -1,217 +1,213 @@
 {
-  "date": "Monday, August 3, 2026",
+  "date": "Tuesday, August 4, 2026",
   "stories": [
     {
-      "title": "Iran denies Trump's claim that new talks will begin on Monday",
+      "title": "More than 150 migrants rescued after boat catches fire in Channel",
       "category": "World",
-      "what": "While Iran denies that talks with the US are taking place, it is currently in negotiations with Oman over Strait of Hormuz access.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Charlotte repeat offender charged with killing man hours after release on bond",
-      "category": "U.S.",
-      "what": "David Simpson allegedly shot two men in Charlotte less than two hours after his bond release from Mecklenburg County Jail on an unrelated charge.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/charlotte-repeat-offender-charged-killing-man-hours-after-release-bond",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/charlotte-repeat-offender-charged-killing-man-hours-after-release-bond"
-        }
-      ]
-    },
-    {
-      "title": "Moroccan king's letter confirms naming of major highway in honour of Trump",
-      "category": "World",
-      "what": "The highway enters Western Sahara, a disputed territory that Morocco claims sovereignty over.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/c3r0vg88zr2o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c3r0vg88zr2o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Idaho In-N-Out Burger shooting motive still a mystery as armed citizen speaks out",
-      "category": "U.S.",
-      "what": "An armed citizen and off-duty trooper returned fire at the Twin Falls In-N-Out Burger gunman, who was reportedly shocked by the armed response.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/idaho-in-n-out-burger-shooting-motive-mystery-armed-citizen-speaks",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/idaho-in-n-out-burger-shooting-motive-mystery-armed-citizen-speaks"
-        }
-      ]
-    },
-    {
-      "title": "Top Trump ally warns super PAC bankrolled by Dem billionaire is meddling in his GOP primary",
-      "category": "Politics",
-      "what": "Rep. Andy Ogles says the $2 million clean energy PAC spending against him in Tennessee's Republican primary proves how much groups profit from subsidies.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/top-trump-ally-warns-super-pac-bankrolled-dem-billionaire-meddling-gop-primary",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/top-trump-ally-warns-super-pac-bankrolled-dem-billionaire-meddling-gop-primary"
-        }
-      ]
-    },
-    {
-      "title": "Todd Blanche inches closer to Senate confirmation after agreement with GOP holdouts and more top headlines",
-      "category": "U.S.",
-      "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/us/todd-blanche-closer-senate-confirmation-after-agreement-gop-holdouts-more-top-headlines",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/todd-blanche-closer-senate-confirmation-after-agreement-gop-holdouts-more-top-headlines"
-        }
-      ]
-    },
-    {
-      "title": "Todd Blanche formally withdraws Trump's 'anti-weaponisation' fund plan",
-      "category": "World",
-      "what": "Two Republican senators wanted a written guarantee that Trump would not revive a controversial proposal.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/c3w05gx32d4o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c3w05gx32d4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/todd-blanche-anti-weaponization-fund"
-        }
-      ]
-    },
-    {
-      "title": "Attorney who defended DC sniper says Kohberger faces 'monumental uphill battle' undoing guilty plea",
-      "category": "U.S.",
-      "what": "A criminal defense attorney explains why Bryan Kohberger's effort to undo his University of Idaho murders guilty plea faces two significant legal hurdles.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/attorney-defended-dc-sniper-says-kohberger-faces-monumental-uphill-battle-undoing-guilty-plea",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/attorney-defended-dc-sniper-says-kohberger-faces-monumental-uphill-battle-undoing-guilty-plea"
-        }
-      ]
-    },
-    {
-      "title": "How headlights got brighter, whiter, and more blinding after dark",
-      "category": "Tech",
-      "what": "Automotive lights are better than they've ever been, but there's a trade-off.",
-      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
-      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
-      "source": "https://arstechnica.com/cars/2026/08/how-headlights-got-brighter-whiter-and-more-blinding-after-dark/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/08/how-headlights-got-brighter-whiter-and-more-blinding-after-dark/"
-        }
-      ]
-    },
-    {
-      "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny  ",
-      "category": "World",
-      "what": "The US singer, 33, will \"step back from visibility\" at the end of her world tour next month, her representative says.",
+      "what": "The boat was attempting to cross to the UK when its engine caught fire, according to French authorities.",
       "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
       "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
+      "title": "WATCH: GOP senator unloads on 'creature of Washington' challenger in critical Senate showdown",
+      "category": "Politics",
+      "what": "Jon Husted says Sherrod Brown's 32 years in Washington produced nothing but higher energy prices and liberal votes out of step with Ohio voters.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/gop-senator-unloads-creature-washington-challenger-critical-senate-showdown",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/gop-senator-unloads-creature-washington-challenger-critical-senate-showdown"
+        }
+      ]
+    },
+    {
+      "title": "Guatemala volcano eruption sends lava spewing into the air",
       "category": "World",
-      "what": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.",
+      "what": "The Fuego stratovolcano is one of the most active in Central America and popular with hikers.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/c2lqpvv1wlxo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c2lqpvv1wlxo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Deadly landslide hits Ethiopia mountain monastery during prayer service",
+      "category": "World",
+      "what": "It sent rocks and earth crashing on to those praying at an overnight service, the authorities say.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/c2lqpx1qd8lo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c2lqpx1qd8lo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Historian blasts Smithsonian's activism shift after first visit in over a decade: 'Completely different place'",
+      "category": "Politics",
+      "what": "Dr. Jody Edward Ginn says the Smithsonian National Museum of American History abandoned education for activism after visiting for the first time since 2012.",
       "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
       "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.foxnews.com/politics/historian-blasts-smithsonian-activism-shift-first-visit-over-decade-completely-different-place",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/historian-blasts-smithsonian-activism-shift-first-visit-over-decade-completely-different-place"
+        }
+      ]
+    },
+    {
+      "title": "El-Sayed touts endorsement from pastor who praised notorious antisemite infamous for calling Jews ‘termites’",
+      "category": "Politics",
+      "what": "Abdul El-Sayed's campaign paid $75,000 in consulting fees to a Detroit pastor who once praised Louis Farrakhan's leadership at a 2013 gathering.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/el-sayed-touts-endorsement-from-pastor-who-praised-notorious-antisemite-infamous-calling-jews-termites",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/el-sayed-touts-endorsement-from-pastor-who-praised-notorious-antisemite-infamous-calling-jews-termites"
+        }
+      ]
+    },
+    {
+      "title": "Arson arrest made over largest of Washington state's wildfires",
+      "category": "World",
+      "what": "There are three wildfires in the Spokane area that have forced 60,000 to be evacuated from their homes.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Trump v. Smithsonian: A timeline of how the White House fight over 'woke' history unfolded",
-      "category": "Politics",
-      "what": "Trump's executive orders target the Smithsonian Institution, arguing exhibits prioritize decolonization and DEI over patriotic American history.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/trump-v-smithsonian-timeline-white-house-fight-woke-history-unfolded",
+      "title": "Soldier kills four in gun rampage in Russian-occupied Crimea",
+      "category": "World",
+      "what": "The region's Moscow-installed governor says the gunman has been detained after firing at fellow soldiers and civilians.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/c80n33lrnm5o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-v-smithsonian-timeline-white-house-fight-woke-history-unfolded"
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c80n33lrnm5o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "First showdown in race for Lindsey Graham's Senate seat puts GOP hopefuls to the test",
-      "category": "Politics",
-      "what": "Darline Graham, Ralph Norman, Russell Fry and Mark Sanford share the debate stage Monday in the South Carolina Senate race for the vacant seat.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/first-showdown-race-lindsey-grahams-senate-seat-puts-gop-hopefuls-test",
+      "title": "Washington man arrested on arson charge tied to devastating Spokane wildfire",
+      "category": "U.S.",
+      "what": "A man was arrested and charged with arson on Monday in connection with the Old Trails Fire in the Spokane area in Washington state, police said.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/spokane-old-trails-fire-arson-arrest",
       "sources": [
         {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/first-showdown-race-lindsey-grahams-senate-seat-puts-gop-hopefuls-test"
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/spokane-old-trails-fire-arson-arrest"
         }
       ]
     },
     {
-      "title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
+      "title": "Pennsylvania school bus aide accused of sexually assaulting special needs teen",
+      "category": "U.S.",
+      "what": "A Pennsylvania bus aide faces indecent assault and child endangerment charges after allegedly inappropriately touching a special needs student.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/bensalem-bus-aide-special-needs-student-assault",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/bensalem-bus-aide-special-needs-student-assault"
+        }
+      ]
+    },
+    {
+      "title": "Lindsay Clancy defense scores ‘extremely helpful’ psychosis concession as expert flags next hurdle",
+      "category": "U.S.",
+      "what": "A hospital psychiatrist agreed that Lindsay Clancy could plan and communicate while psychotic, a key concession in the Duxbury murder trial.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/lindsay-clancy-defense-scores-extremely-helpful-psychosis-concession-expert-flags-next-hurdle",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/lindsay-clancy-defense-scores-extremely-helpful-psychosis-concession-expert-flags-next-hurdle"
+        }
+      ]
+    },
+    {
+      "title": "California mom begged for help before ex gunned her down in front of their 4-year-old son: DA",
+      "category": "U.S.",
+      "what": "Jeffery Kendall was sentenced to 50 years to life for fatally shooting Brittany Ligdis during a 911 call as their 4-year-old son watched in Pinole.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/california-mom-begged-help-ex-gunned-down-front-4-year-old-son-da",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/california-mom-begged-help-ex-gunned-down-front-4-year-old-son-da"
+        }
+      ]
+    },
+    {
+      "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
       "category": "Tech",
-      "what": "\"We believe that a capture of Swift, an attempted capture of Swift, is very much in the cards.\"",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
+      "what": "$100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/"
+          "url": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/"
         }
       ]
     },
     {
-      "title": "Review: Yes, we're still arguing about Nolan's The Odyssey",
+      "title": "Research roundup: 6 cool science stories we almost missed",
       "category": "Tech",
-      "what": "Christopher Nolan's impressionistic remix of Homer's epic poem finds the man behind the myth.",
+      "what": "Also: Cyborg diving suits for cockroaches, why sleepy sperm whales blow bubbles, Betelgeuse's companion star.",
       "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
       "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/culture/2026/08/review-yes-were-still-arguing-about-nolans-the-odyssey/",
+      "source": "https://arstechnica.com/science/2026/08/research-roundup-6-cool-science-stories-we-almost-missed-5/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/culture/2026/08/review-yes-were-still-arguing-about-nolans-the-odyssey/"
+          "url": "https://arstechnica.com/science/2026/08/research-roundup-6-cool-science-stories-we-almost-missed-5/"
+        }
+      ]
+    },
+    {
+      "title": "Lego deploys Hubble Space Telescope as detailed desktop model",
+      "category": "Tech",
+      "what": "The orbiting observatory in minifigure scale.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/space/2026/08/lego-deploys-hubble-space-telescope-as-detailed-desktop-model/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/08/lego-deploys-hubble-space-telescope-as-detailed-desktop-model/"
         }
       ]
     }
