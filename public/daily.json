@@ -1,217 +1,213 @@
 {
-  "date": "Thursday, August 13, 2026",
+  "date": "Friday, August 14, 2026",
   "stories": [
     {
-      "title": "Twitch users outraged as Amazon uses their content to train AI in opt-out feature",
+      "title": "'Unprecedented' rain in Japan kills eight people",
       "category": "World",
-      "what": "Users of the popular streaming platform criticised allowing Amazon to use their data by dafault.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
+      "what": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/"
+          "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Extremism expert hailed as 'terrific' by ex-Biden official slapped with federal charges",
-      "category": "Politics",
-      "what": "Heidi Beirich now faces wire fraud and money laundering charges after the Center for American Progress once hailed her as a top extremism expert.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/extremism-expert-hailed-terrific-ex-biden-official-slapped-federal-charges",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/extremism-expert-hailed-terrific-ex-biden-official-slapped-federal-charges"
-        }
-      ]
-    },
-    {
-      "title": "Florida State University hit with federal civil rights investigation over race, sex-based scholarship programs",
-      "category": "Politics",
-      "what": "The Equal Protection Project's complaint targets 32 Florida State University scholarships it alleges discriminate based on race or sex via donors.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/politics/florida-state-university-federal-civil-rights-investigation-race-sex-based-scholarship-programs",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/florida-state-university-federal-civil-rights-investigation-race-sex-based-scholarship-programs"
-        }
-      ]
-    },
-    {
-      "title": "Trump heads toward unlikely clash with close ally over future of multibillion-dollar industry",
-      "category": "Politics",
-      "what": "Donald Trump calls Gov Greg Abbott's data center stance a \"mistake,\" saying the industry \"could be bigger than oil\" as Texas power grid concerns intensify.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/trump-head-toward-unlikely-clash-close-ally-future-multibillion-dollar-industry",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-head-toward-unlikely-clash-close-ally-future-multibillion-dollar-industry"
-        }
-      ]
-    },
-    {
-      "title": "Luigi Mangione plea buzz raises potential Paul Manafort problem for prosecutors",
+      "title": "Luigi Mangione case in photos: From Brian Thompson’s killing to the courtroom",
       "category": "U.S.",
-      "what": "Luigi Mangione's federal case conference Friday sparks plea deal speculation that could trigger New York's double jeopardy law and upend state charges.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/luigi-mangione-plea-buzz-raises-potential-paul-manafort-problem-prosecutors",
+      "what": "Photos detail the legal case against Luigi Mangione, from his suspected killing of UnitedHealthcare CEO Brian Thompson in New York City to his moves in court.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/luigi-mangione-case-photos-from-brian-thompson-killing-courtroom",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/luigi-mangione-plea-buzz-raises-potential-paul-manafort-problem-prosecutors"
+          "url": "https://www.foxnews.com/us/luigi-mangione-case-photos-from-brian-thompson-killing-courtroom"
         }
       ]
     },
     {
-      "title": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
+      "title": "US missionary released following kidnap in Niger, Christian group says",
       "category": "World",
-      "what": "It was the first time the Russian leader had visited the Kuril islands, according to state media.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "UK defends seizing shadow fleet tanker after Putin threat",
-      "category": "World",
-      "what": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
+      "what": "Kevin Rideout, who was kidnapped outside his home in the capital last October, is now with US officials.",
       "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
       "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
-      "category": "World",
-      "what": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday.",
+      "title": "Mark Lynch endorses Ralph Norman as congressman heads into runoff against Darline Graham",
+      "category": "Politics",
+      "what": "Mark Lynch endorsed Rep. Ralph Norman, the candidate running against Sen. Darline Graham in the South Carolina special GOP U.S. Senate primary runoff.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/ralph-norman-darline-graham-senate-runoff",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/ralph-norman-darline-graham-senate-runoff"
+        }
+      ]
+    },
+    {
+      "title": "Alex Murdaugh makes 'explosive' bid to blow up murder case hinging on DNA, dirty money and lies: expert",
+      "category": "U.S.",
+      "what": "Dick Harpootlian seeks dismissal of Alex Murdaugh's murder indictments, alleging false evidence was presented to the grand jury that charged him.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/alex-murdaugh-explosive-bid-blow-up-murder-case-hinging-dna-dirty-money-lies-expert",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/alex-murdaugh-explosive-bid-blow-up-murder-case-hinging-dna-dirty-money-lies-expert"
+        }
+      ]
+    },
+    {
+      "title": "Newsom-appointed judge who freed migrant before fatal stabbing said justice 'sometimes means a dismissal'",
+      "category": "Politics",
+      "what": "Judge Nichelle Holmes once said justice can mean \"dismissal.\" After she released Marcos Iriarte-Valdez, he allegedly killed Todd Stewart, 68.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/politics/newsom-appointed-judge-freed-migrant-fatal-stabbing-said-justice-sometimes-means-dismissal",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/newsom-appointed-judge-freed-migrant-fatal-stabbing-said-justice-sometimes-means-dismissal"
+        }
+      ]
+    },
+    {
+      "title": "Teacher busted under Kentucky's new anti-grooming law as advocate warns schools can't ignore red flags",
+      "category": "U.S.",
+      "what": "Kentucky's new grooming law lands its first arrest after a school employee allegedly had an improper relationship with a minor student in Graves County.",
       "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
       "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.foxnews.com/us/teacher-busted-kentucky-anti-grooming-law-advocate-warns-schools-cant-ignore-red-flags",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss"
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/teacher-busted-kentucky-anti-grooming-law-advocate-warns-schools-cant-ignore-red-flags"
         }
       ]
     },
     {
-      "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+      "title": "US says dozens of countries helped China dodge Trump's tariffs",
       "category": "World",
-      "what": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
+      "what": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Police rescue 60 cats and kittens from abandoned sailboat off Washington beach after 6-day operation",
+      "title": "Stolen Matisse artworks recovered by police in Brazil",
+      "category": "World",
+      "what": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Mexican national faces federal charges after CBP finds $238K in fentanyl inside electric moped",
       "category": "U.S.",
-      "what": "Tacoma police spent six days rescuing 60 cats from an abandoned 40-foot sailboat off Owen Beach, with many animals found frightened and malnourished.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/police-rescue-60-cats-kittens-abandoned-sailboat-washington-beach-6-day-operation",
+      "what": "U.S. Customs and Border Protection officers found seven packages of fentanyl hidden inside an electric moped at the San Ysidro border crossing.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/mexican-national-faces-federal-charges-cbp-finds-238k-fentanyl-inside-electric-moped",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/police-rescue-60-cats-kittens-abandoned-sailboat-washington-beach-6-day-operation"
+          "url": "https://www.foxnews.com/us/mexican-national-faces-federal-charges-cbp-finds-238k-fentanyl-inside-electric-moped"
         }
       ]
     },
     {
-      "title": "Convicted rapist who preyed on women at America's top party school faces reckoning after courthouse dash",
-      "category": "U.S.",
-      "what": "Arian Eteghaei received 30 years to life for forcible rape and sexual assault of multiple victims while a student at UC Santa Barbara, then fled custody.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/convicted-rapist-preyed-women-americas-top-party-school-faces-reckoning-courthouse-dash",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/convicted-rapist-preyed-women-americas-top-party-school-faces-reckoning-courthouse-dash"
-        }
-      ]
-    },
-    {
-      "title": "Texas judge accused of 'doxxing' political critic faces federal lawsuit, growing push to oust him from office",
-      "category": "U.S.",
-      "what": "West Texas judge Terry Johnson allegedly posted a critic's Social Security and driver's license numbers on Facebook, sparking a federal lawsuit.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/texas-judge-accused-doxxing-political-critic-faces-federal-lawsuit-growing-push-oust-him-from-office",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/texas-judge-accused-doxxing-political-critic-faces-federal-lawsuit-growing-push-oust-him-from-office"
-        }
-      ]
-    },
-    {
-      "title": "Toddler's tragic death from brain-destroying amoeba offers lessons for doctors",
+      "title": "Organic-looking brake assemblies debut on new Czinger 21C Spyder",
       "category": "Tech",
-      "what": "Boy's unusual symptoms could help identify the next case sooner.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/",
+      "what": "Czinger used topological design and additive manufacturing to make the brakes.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/cars/2026/08/czinger-debuts-topology-optimized-brakes-with-21c-spyder/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/"
+          "url": "https://arstechnica.com/cars/2026/08/czinger-debuts-topology-optimized-brakes-with-21c-spyder/"
         }
       ]
     },
     {
-      "title": "The web’s newest weapon against AI scrapers is a font",
-      "category": "Tech",
-      "what": "“ShieldFont” aims to poison AI training data without making pages unreadable for people.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
+      "title": "Detransitioners reveal how doctors pushed them toward life-altering treatment as teens",
+      "category": "Politics",
+      "what": "Three detransitioners say doctors pushed puberty blockers, testosterone and double mastectomy on them as teens without adequate mental health screening.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.foxnews.com/politics/detransitioners-reveal-how-doctors-pushed-them-toward-life-altering-treatment-teens",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/"
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/detransitioners-reveal-how-doctors-pushed-them-toward-life-altering-treatment-teens"
         }
       ]
     },
     {
-      "title": "Terabytes of credentials leaked in massive supply-chain attack",
+      "title": "US wait times for cancer surgeries are getting longer and longer",
       "category": "Tech",
-      "what": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
+      "what": "Study finds wait times for cancer surgeries hit 10-year high.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+      "source": "https://arstechnica.com/health/2026/08/us-wait-times-for-cancer-surgeries-are-getting-longer-and-longer/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/"
+          "url": "https://arstechnica.com/health/2026/08/us-wait-times-for-cancer-surgeries-are-getting-longer-and-longer/"
+        }
+      ]
+    },
+    {
+      "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+      "category": "World",
+      "what": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
+      "category": "Tech",
+      "what": "Trump memo is first time gov't has authorized private sector to perform cyberattacks.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/"
         }
       ]
     }
