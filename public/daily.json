@@ -1,217 +1,213 @@
 {
-  "date": "Monday, August 17, 2026",
+  "date": "Tuesday, August 18, 2026",
   "stories": [
     {
-      "title": "Massachusetts teen accused of killing mom, brother in affluent suburb after disturbing ChatGPT activity: DA",
+      "title": "Nancy Guthrie ransom notes contain repeated writing quirks that could help identify suspect, expert says",
       "category": "U.S.",
-      "what": "Arjun Aravind allegedly used ChatGPT to explore scenarios involving killing his family before the murders of his mother and brother in Acton.",
+      "what": "Retired investigator Lisa Miller says comma splices and open compounds in the Nancy Guthrie ransom notes reveal the author's unique idiolect.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/nancy-guthrie-ransom-notes-contain-repeated-writing-quirks-could-help-identify-suspect-expert-says",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/nancy-guthrie-ransom-notes-contain-repeated-writing-quirks-could-help-identify-suspect-expert-says"
+        }
+      ]
+    },
+    {
+      "title": "Neonatologist sounds alarm over Massachusetts abortion law allowing procedures up to birth: 'Very disturbing'",
+      "category": "Politics",
+      "what": "Dr. Robin Pierucci says the state's sweeping abortion expansion could leave families making irreversible decisions with limited prenatal information.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.foxnews.com/politics/neonatologist-sounds-alarm-over-massachusetts-abortion-law-allowing-procedures-birth-very-disturbing",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/neonatologist-sounds-alarm-over-massachusetts-abortion-law-allowing-procedures-birth-very-disturbing"
+        }
+      ]
+    },
+    {
+      "title": "CBP officers seize $67 million in illegal drugs at San Diego border ports, DHS says",
+      "category": "U.S.",
+      "what": "CBP officers in San Diego seized 553 pounds of fentanyl, cocaine and methamphetamine worth $67 million during 144 smuggling attempts in July.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/cbp-officers-seize-67-million-illegal-drugs-san-diego-border-ports-dhs-says",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/cbp-officers-seize-67-million-illegal-drugs-san-diego-border-ports-dhs-says"
+        }
+      ]
+    },
+    {
+      "title": "Omar's GOP challenger comes out firing with vow to clean up 'mess' in deep blue district: 'People are fed up'",
+      "category": "Politics",
+      "what": "John Nagel, a 30-year state trooper who won the Republican primary, says Minnesota voters of all backgrounds are fed up with fraud under Ilhan Omar.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/omars-gop-challenger-comes-firing-vow-clean-mess-deep-blue-district-people-fed",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/omars-gop-challenger-comes-firing-vow-clean-mess-deep-blue-district-people-fed"
+        }
+      ]
+    },
+    {
+      "title": "Russia warns UK will pay for supplying drones to Ukraine",
+      "category": "World",
+      "what": "Russia accuses the UK of escalating the Ukraine war after British-made drones were used, but the MoD says it stands against Russian aggression.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Socialist insurgency storms Trump’s backyard, with pro-Israel Democrats in crosshairs",
+      "category": "Politics",
+      "what": "DSA-endorsed Oliver Larkin challenges Rep. Jared Moskowitz in Florida's 25th District primary as the Democratic Party's left-center civil war heats up.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/socialist-insurgency-storms-trumps-backyard-pro-israel-democrats-crosshairs",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/socialist-insurgency-storms-trumps-backyard-pro-israel-democrats-crosshairs"
+        }
+      ]
+    },
+    {
+      "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+      "category": "World",
+      "what": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Zambia's president wins second term with 60% of the vote",
+      "category": "World",
+      "what": "Hakainde Hichilema says he was “truly humbled” by the victory and promised to work for all Zambians.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Indian student leader ends hunger strike after 16 days",
+      "category": "World",
+      "what": "Devendra Nath Mahto was part of a larger protest which began weeks ago, demanding exam reforms in Jharkhand state.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/cly8m31nvmgo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cly8m31nvmgo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "China censors public mourning as it holds former premier's funeral",
+      "category": "World",
+      "what": "While hailing Zhu’s legacy, authorities are wary that the nostalgia could lead to criticisms of Xi’s rule.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "DOJ opens probe into prestigious college over alleged discrimination favoring minority students",
+      "category": "U.S.",
+      "what": "The Department of Justice is probing whether the College of William & Mary's scholarships and programs favor racial minorities in violation of Title VI.",
       "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
       "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/massachusetts-teen-accused-killing-mom-brother-affluent-suburb-disturbing-chatgpt-activity-da",
+      "source": "https://www.foxnews.com/us/doj-opens-probe-prestigious-college-alleged-discrimination-favoring-minority-students",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/massachusetts-teen-accused-killing-mom-brother-affluent-suburb-disturbing-chatgpt-activity-da"
+          "url": "https://www.foxnews.com/us/doj-opens-probe-prestigious-college-alleged-discrimination-favoring-minority-students"
         }
       ]
     },
     {
-      "title": "Russell Fry endorses ex-rival Darline Graham after failing to advance to special GOP US Senate primary runoff",
-      "category": "Politics",
-      "what": "Rep. Russell Fry, who placed third in the South Carolina special GOP U.S. Senate primary, endorsed Sen. Darline Graham ahead of the runoff in which she will face Rep. Ralph Norman.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/russell-fry-endorses-ex-rival-darline-graham-failing-advance-special-gop-us-senate-primary-runoff",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/russell-fry-endorses-ex-rival-darline-graham-failing-advance-special-gop-us-senate-primary-runoff"
-        }
-      ]
-    },
-    {
-      "title": "Top Zambian opposition figures arrested days after presidential vote",
-      "category": "World",
-      "what": "The authorities allege they were involved in an insurrection plot but the leading opposition candidate says there was an attempt on his life.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Ukrainian strikes kill six in Russia, acting governor says",
-      "category": "World",
-      "what": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
-      "category": "World",
-      "what": "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
-      "category": "World",
-      "what": "Some 53 people were killed and thousands displaced by the earthquake, which struck early on Saturday.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-      "category": "World",
-      "what": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-orders-major-cut-us-south-korea-drills-north-korea-ramps-up-missile-tests"
-        }
-      ]
-    },
-    {
-      "title": "Trump blames vandals for dead grass on National Mall where he hosted 4th of July celebration",
-      "category": "Politics",
-      "what": "President Donald Trump claimed that vandals damaged grass near the World War II Memorial, but photos show his July 4th stage covered the same spot.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/trump-blames-vandals-dead-grass-national-mall-4th-july-celebration",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-blames-vandals-dead-grass-national-mall-4th-july-celebration"
-        }
-      ]
-    },
-    {
-      "title": "NYPD officers fatally shoot man armed with butcher knife after he advanced toward cops: police",
-      "category": "U.S.",
-      "what": "Police said a 54-year-old man armed with a butcher knife was fatally shot by NYPD officers inside a Lower East Side apartment building.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/nypd-officers-fatally-shoot-man-armed-butcher-knife-he-advanced-toward-cops-police",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/nypd-officers-fatally-shoot-man-armed-butcher-knife-he-advanced-toward-cops-police"
-        }
-      ]
-    },
-    {
-      "title": "Louisiana man accused of killing wife, propping her body up for multistate drive",
-      "category": "U.S.",
-      "what": "A man allegedly shot his wife at a park in Louisiana and drove her body through multiple states before a traffic stop in Memphis led to his arrest.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/louisiana-man-accused-killing-wife-propping-body-multistate-drive",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/louisiana-man-accused-killing-wife-propping-body-multistate-drive"
-        }
-      ]
-    },
-    {
-      "title": "Todd Blanche backs Jeanine Pirro after Lincoln Memorial pool vandalism case dismissal",
-      "category": "Politics",
-      "what": "AG Blanche called Pirro's overall work ‘phenomenal’ while acknowledging that President Trump remains frustrated over the dismissed Lincoln Memorial Reflecting Pool case.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/todd-blanche-backs-jeanine-pirro-after-lincoln-memorial-pool-vandalism-case-dismissal",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/todd-blanche-backs-jeanine-pirro-after-lincoln-memorial-pool-vandalism-case-dismissal"
-        }
-      ]
-    },
-    {
-      "title": "Long Island street takeover erupts as drivers block road, perform donuts, burnouts: police",
-      "category": "U.S.",
-      "what": "Suffolk County police broke up an alleged street takeover on Long Island early Saturday, arresting 15 people and impounding seven vehicles.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/long-island-street-takeover-erupts-drivers-block-road-perform-donuts-burnouts-police",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/long-island-street-takeover-erupts-drivers-block-road-perform-donuts-burnouts-police"
-        }
-      ]
-    },
-    {
-      "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
+      "title": "Theban tomb reveals how Egyptian burial trends evolved in time",
       "category": "Tech",
-      "what": "Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/"
-        }
-      ]
-    },
-    {
-      "title": "VisionQuest trailer kicks off Disney's D23 fan event",
-      "category": "Tech",
-      "what": "Also: Ahsoka S2 teaser, Doomsday trailer, news about MCU's X-Men and Star Wars: Starfighter",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/"
-        }
-      ]
-    },
-    {
-      "title": "So much solar: Digging into the list of every US power plant that went online this year",
-      "category": "Tech",
-      "what": "Utility-scale solar leads by a mile, followed by batteries. Fossil fuels, not so much.",
+      "what": "Practices shifted from individuals buried in coffins to reusing sites for later mummy interments.",
       "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
       "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/",
+      "source": "https://arstechnica.com/science/2026/08/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/"
+          "url": "https://arstechnica.com/science/2026/08/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time/"
+        }
+      ]
+    },
+    {
+      "title": "Virginia man acquitted by insanity in killing flees US during 48-hour mental hospital pass",
+      "category": "U.S.",
+      "what": "Court records show Abdulloi Toshpulodzoda failed to return from an authorized 48-hour pass and instead boarded a one-way flight to Tajikistan.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/virginia-man-acquitted-insanity-killing-flees-us-during-48-hour-mental-hospital-pass",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/virginia-man-acquitted-insanity-killing-flees-us-during-48-hour-mental-hospital-pass"
+        }
+      ]
+    },
+    {
+      "title": "US vaccination rates fall again as exemptions continue to rise, CDC data shows",
+      "category": "Tech",
+      "what": "Again, the CDC did not publish a full report and instead simply put the data online.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/"
+        }
+      ]
+    },
+    {
+      "title": "The Moon's shadow raced across the heart of Spain, and I was there to see it",
+      "category": "Tech",
+      "what": "Here's what it was like watching a total solar eclipse 90 minutes north of Madrid.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/space/2026/08/the-moons-shadow-raced-across-the-heart-of-spain-and-i-was-there-to-see-it/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/08/the-moons-shadow-raced-across-the-heart-of-spain-and-i-was-there-to-see-it/"
         }
       ]
     }
