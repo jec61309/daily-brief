@@ -1,217 +1,213 @@
 {
-  "date": "Friday, August 21, 2026",
+  "date": "Saturday, August 22, 2026",
   "stories": [
     {
-      "title": "Bodies of two hikers missing for decades found after Swiss glacier melts",
+      "title": "Rescuers dig through wreckage after 16 killed in Russian strike on Ukraine mall",
       "category": "World",
-      "what": "Officials say the bodies of the two Belgians, who went missing in 1992, were discovered after the Trift Glacier receded.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cd9w1jwdkkjo?at_medium=RSS&at_campaign=rss",
+      "what": "Nine people are still missing after the attack which left 130 injured, including a number of children.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cd9w1jwdkkjo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "LA socialist's fumbled answer to Graham Platner question draws groans from Dem audience",
+      "title": "Klobuchar's fraud fight claim takes hit after GOP opponent combs through receipts: 'Where were you?'",
       "category": "Politics",
-      "what": "Nithya Raman drew groans from the crowd at the Los Angeles mayoral debate over her decision to hire the firm behind Graham Platner's campaign.",
+      "what": "Amy Klobuchar issued over 1,000 press releases since 2022 but never once mentioned Minnesota's $250 million Feeding Our Future fraud scandal.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/politics/klobuchar-fraud-fight-claim-takes-hit-gop-opponent-combs-receipts-where-were-you",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/klobuchar-fraud-fight-claim-takes-hit-gop-opponent-combs-receipts-where-were-you"
+        }
+      ]
+    },
+    {
+      "title": "Senator launches assault on illegal immigration gaps as GOP races midterm clock to lock in key wins",
+      "category": "Politics",
+      "what": "Sen. Jim Banks warns Donald Trump's immigration executive orders face erasure without Congress locking seven bills into law before midterms arrive.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/politics/senator-launches-assault-illegal-immigration-gaps-gop-races-midterm-clock-lock-key-wins",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/senator-launches-assault-illegal-immigration-gaps-gop-races-midterm-clock-lock-key-wins"
+        }
+      ]
+    },
+    {
+      "title": "EXCLUSIVE: 5-time illegal entrant admits ‘mistake’ that finally got him busted by ICE",
+      "category": "Politics",
+      "what": "Ernesto Alejandro Perez-Garcia admitted to lying to ICE agents about his identity in Redondo Beach before being confronted with his own mugshot.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/politics/exclusive-5-time-illegal-entrant-admits-mistake-finally-got-him-busted-ice",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/exclusive-5-time-illegal-entrant-admits-mistake-finally-got-him-busted-ice"
+        }
+      ]
+    },
+    {
+      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
+      "category": "World",
+      "what": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
+      "category": "World",
+      "what": "Online sleuths detected the error after Sydney Marathon unveiled the double-sided medal.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+      "category": "World",
+      "what": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
+      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
+      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
+      "source": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Missing New York grandmother found dead near Las Vegas airport after mysterious Bitcoin texts",
+      "category": "U.S.",
+      "what": "Alisa Goods was found dead in a Las Vegas drainage ditch near Harry Reid International Airport after surveillance showed her collapsing on Aug. 8.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/missing-new-york-grandmother-found-dead-las-vegas-airport-mysterious-bitcoin-texts",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/missing-new-york-grandmother-found-dead-las-vegas-airport-mysterious-bitcoin-texts"
+        }
+      ]
+    },
+    {
+      "title": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
+      "category": "World",
+      "what": "The defence brought their final witness - a forensic psychiatrist - to the stand to testify about the effects of postpartum psychosis.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Trump's space transportation policy calls for new spaceport on federal land",
+      "category": "Tech",
+      "what": "\"We probably need another site that's capable of heavy and super heavy launch capability.\"",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/la-socialist-fumbled-answer-graham-platner-question-draws-groans-dem-audience",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/la-socialist-fumbled-answer-graham-platner-question-draws-groans-dem-audience"
-        }
-      ]
-    },
-    {
-      "title": "Top Dems go silent after McCarthy vindicated for booting Swalwell off intel committee",
-      "category": "Politics",
-      "what": "Democrats rallied behind Eric Swalwell as Republicans raised alarms over Fang Fang — newly declassified FBI files are now casting fresh light on what agents knew.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/politics/top-dems-go-silent-after-mccarthy-vindicated-booting-swalwell-intel-committee",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/top-dems-go-silent-after-mccarthy-vindicated-booting-swalwell-intel-committee"
-        }
-      ]
-    },
-    {
-      "title": "Eight killed in plane crash at remote Alaskan military site, air force says",
-      "category": "World",
-      "what": "It is unclear why the civilian-contracted plane was at the radar site on Alaska's south-west coast.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cj9dmw8183wo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cj9dmw8183wo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/charter-plane-8-aboard-crashes-remote-radar-site-western-alaska-report"
-        }
-      ]
-    },
-    {
-      "title": "Ukraine’s ‘Equalizer’ bomb aims to blow up reliance on US, European weapons",
-      "category": "Politics",
-      "what": "Ukraine's new Vyrivniuvach glide bomb lets MiG-29 and Su-27 pilots strike Russian forces from safer distances while reducing reliance on U.S. weapons.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/politics/ukraines-equalizer-bomb-aims-blow-reliance-us-european-weapons",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/ukraines-equalizer-bomb-aims-blow-reliance-us-european-weapons"
-        }
-      ]
-    },
-    {
-      "title": "Five missing after fire in Swiss Alpine town",
-      "category": "World",
-      "what": "Eight others were injured, local police say, with the cause of the fire still being investigated.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Longest-serving US prisoner dies at 101 after escaping death penalty 8 times",
-      "category": "U.S.",
-      "what": "The longest-serving inmate in U.S. history died at 101 after escaping the death penalty eight times for the killing of a night watchman at a Connecticut yacht club.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/longest-serving-us-prisoner-dies-101-escaping-death-penalty-8-times",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/longest-serving-us-prisoner-dies-101-escaping-death-penalty-8-times"
-        }
-      ]
-    },
-    {
-      "title": "Panama Canal to cut number of ships passing through due to El Niño",
-      "category": "World",
-      "what": "The crucial waterway's operator says low rainfall caused by the ocean pattern had led to the decision.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Gandhi's handwritten notes on life sold for $1.69m at Indian auction",
-      "category": "World",
-      "what": "The collection documents key moments in Gandhi’s freedom movement as well as his personal relationship with close aide.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/c4gdn2vmgvwo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c4gdn2vmgvwo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "‘Darth Vader’ uses dark side to mock controversial surveillance cameras: 'The emperor is a fan of Flock'",
-      "category": "U.S.",
-      "what": "A man dressed as Darth Vader mocked Flock surveillance cameras at a San Diego City Council meeting, saying the technology would help find \"rebel scum.\"",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/darth-vader-uses-dark-side-mock-controversial-surveillance-cameras-emperor-fan-flock",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/darth-vader-uses-dark-side-mock-controversial-surveillance-cameras-emperor-fan-flock"
-        }
-      ]
-    },
-    {
-      "title": "Lindsay Clancy's ex-husband has quietly remarried and started over amid her murder trial",
-      "category": "U.S.",
-      "what": "Patrick Clancy testified about his children as Lindsay Clancy's defense argues postpartum psychosis.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/lindsay-clancy-ex-husband-quietly-remarried-started-amid-murder-trial",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/lindsay-clancy-ex-husband-quietly-remarried-started-amid-murder-trial"
-        }
-      ]
-    },
-    {
-      "title": "Jury awards teens $550K after Oregon amusement park ride left them hanging upside down: report",
-      "category": "U.S.",
-      "what": "Video showed riders suspended vertically on the AtmosFEAR ride at Oaks Park after the spinning pendulum malfunctioned on opening day of summer 2024.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.foxnews.com/us/jury-awards-teens-550k-oregon-amusement-park-ride-left-hanging-upside-down-report",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/jury-awards-teens-550k-oregon-amusement-park-ride-left-hanging-upside-down-report"
-        }
-      ]
-    },
-    {
-      "title": "US distributor of China’s most popular humanoid robots pivots after US ban",
-      "category": "Tech",
-      "what": "FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/",
+      "source": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/"
+          "url": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/"
         }
       ]
     },
     {
-      "title": "Europe cancels planned upgrades for Ariane 6 rocket",
+      "title": "Late-night bull run ends with a little cowboy know-how on busy California highway",
+      "category": "U.S.",
+      "what": "A loose bull ran along Highway 35 for hours before Half Moon Bay ranch foreman Samuel Ramos Palomino answered the late-night call for help.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/late-night-bull-run-ends-little-cowboy-know-how-busy-california-highway",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/late-night-bull-run-ends-little-cowboy-know-how-busy-california-highway"
+        }
+      ]
+    },
+    {
+      "title": "New Jersey mother allegedly drunk when boat hit channel marker on Memorial Day, killing her son",
+      "category": "U.S.",
+      "what": "Jennifer L. Pearson allegedly had a blood alcohol level above the legal limit when her boat struck a channel marker in Barnegat Bay on Memorial Day.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/new-jersey-mother-allegedly-drunk-boat-hit-channel-marker-memorial-day-killing-son",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/new-jersey-mother-allegedly-drunk-boat-hit-channel-marker-memorial-day-killing-son"
+        }
+      ]
+    },
+    {
+      "title": "Iryna Zarutska's family files wrongful death lawsuit alleging no security guard was on train",
+      "category": "U.S.",
+      "what": "The wrongful death lawsuit alleges no security guard was aboard the Charlotte light-rail train when Iryna Zarutska was fatally stabbed in 2025.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/iryna-zarutska-family-files-wrongful-death-lawsuit-alleging-no-security-guard-train",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/iryna-zarutska-family-files-wrongful-death-lawsuit-alleging-no-security-guard-train"
+        }
+      ]
+    },
+    {
+      "title": "Thunder + fiber-optic cabling used for seismic imaging",
       "category": "Tech",
-      "what": "Arianespace hasn’t publicly disclosed the cost for an Ariane 6 launch.",
+      "what": "Thunderstorms make seismic waves that can be used to find sub-surface features.",
       "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
       "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/space/2026/08/europe-cancels-planned-upgrades-for-ariane-6-rocket/",
+      "source": "https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/08/europe-cancels-planned-upgrades-for-ariane-6-rocket/"
+          "url": "https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/"
         }
       ]
     },
     {
-      "title": "They survived 9/11; 25 years later, their bonds remain unbroken",
+      "title": "Hidden Zillow listings created fake supply shock, raising NYC rents, lawsuit says",
       "category": "Tech",
-      "what": "Survivors reconnect with those who saved them in National Geographic's 9/11: Reunited.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/culture/2026/08/new-9-11-documentary-finds-hope-in-the-horror/",
+      "what": "Renters say hidden Zillow listings make it harder to afford living in New York City.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://arstechnica.com/tech-policy/2026/08/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-rents/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/culture/2026/08/new-9-11-documentary-finds-hope-in-the-horror/"
+          "url": "https://arstechnica.com/tech-policy/2026/08/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-rents/"
         }
       ]
     }
