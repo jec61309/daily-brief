@@ -1,213 +1,217 @@
 {
-  "date": "Monday, August 24, 2026",
+  "date": "Tuesday, August 25, 2026",
   "stories": [
     {
-      "title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
-      "category": "World",
-      "what": "The fire has burned around 10,500 acres and is completely uncontained, officials say.",
+      "title": "Smithsonian-linked museum in El-Sayed’s backyard puts America’s post-9/11 response on trial",
+      "category": "Politics",
+      "what": "A Smithsonian Institution affiliate in Dearborn features exhibits arguing Arabs suffered unfair treatment after the Sept. 11 attacks on America.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Thune-aligned groups unleash historic war chest to defend Senate majority: 'Winning message'",
-      "category": "Politics",
-      "what": "The Senate Leadership Fund says it raised over $500 million to defend the Republican majority in 2026 midterm elections, setting a new record.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/thune-aligned-groups-historic-war-chest-defend-senate-majority-winning-message",
+      "source": "https://www.foxnews.com/politics/smithsonian-linked-museum-el-sayeds-backyard-puts-americas-post-9-11-response-trial",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/thune-aligned-groups-historic-war-chest-defend-senate-majority-winning-message"
+          "url": "https://www.foxnews.com/politics/smithsonian-linked-museum-el-sayeds-backyard-puts-americas-post-9-11-response-trial"
         }
       ]
     },
     {
-      "title": "AI's massive appetite for power, water ignites fight in high-stakes Texas Senate race",
+      "title": "Newsom's attack dog taunts Buttigieg over South Carolina visit as 2028 fight heats up",
       "category": "Politics",
-      "what": "Ken Paxton unveils a four-point plan targeting data centers in the Lone Star State as he and James Talarico trade blows over rising power and water costs.",
+      "what": "A Gavin Newsom aide mocked former Transportation Secretary Pete Buttigieg's South Carolina NAACP visit as the Democratic Party faces a growing fight over Black voter outreach in 2028.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/ais-massive-appetite-power-water-ignites-fight-high-stakes-texas-senate-race",
+      "source": "https://www.foxnews.com/politics/newsom-camp-taunts-buttigieg-over-black-voter-outreach-2028-fight-heats-up",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/ais-massive-appetite-power-water-ignites-fight-high-stakes-texas-senate-race"
+          "url": "https://www.foxnews.com/politics/newsom-camp-taunts-buttigieg-over-black-voter-outreach-2028-fight-heats-up"
         }
       ]
     },
     {
-      "title": "Guinea rubbish landfill collapse kills 31",
+      "title": "Charlotte man accused of mass shooting threats at 5 schools released days before classes begin",
+      "category": "U.S.",
+      "what": "Drew Andres Owens was released from Mecklenburg County Jail just three days before CMS students returned to class after allegedly threatening five schools.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/charlotte-man-accused-mass-shooting-threats-5-schools-released-days-before-classes-begin",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/charlotte-man-accused-mass-shooting-threats-5-schools-released-days-before-classes-begin"
+        }
+      ]
+    },
+    {
+      "title": "Sonya Massey's killer Sean Grayson dies in US prison",
       "category": "World",
-      "what": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
+      "what": "The former police officer, whose crime reignited the debate about US police brutality, was undergoing treatment for cancer.",
       "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
       "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/ex-deputy-sean-grayson-dies-serving-20-year-prison-term-sonya-massey-killing-medical-release-denied"
         }
       ]
     },
     {
-      "title": "Four arrested over boxing champion's murder in South Africa",
+      "title": "Lockerbie bombing trial postponed days before it was due to start",
       "category": "World",
-      "what": "One of the suspects is due in court on Monday to be charged with murder and attempted murder.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.bbc.co.uk/news/articles/cg7k9rmnzp7o?at_medium=RSS&at_campaign=rss",
+      "what": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cg7k9rmnzp7o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "King of Norway's health has worsened, palace says",
-      "category": "World",
-      "what": "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Trump's Bedminster turf could make or break his last two years in the White House",
+      "title": "Democrat mayor blasted by DHS for 'hunting down' property owners leasing to ICE: 'Unhinged'",
       "category": "Politics",
-      "what": "Mike Johnson rallied supporters in New Jersey for Tom Kean's re-election, calling the 7th Congressional District a top-three race for House control.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/trumps-bedminster-turf-could-make-break-his-last-two-years-white-house",
+      "what": "DHS calls Boston Mayor Michelle Wu's effort to dissuade property owners from leasing parking to ICE \"unhinged,\" accusing her of hunting them down.",
+      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
+      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
+      "source": "https://www.foxnews.com/politics/democrat-mayor-blasted-dhs-hunting-down-property-owners-leasing-ice-unhinged",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trumps-bedminster-turf-could-make-break-his-last-two-years-white-house"
+          "url": "https://www.foxnews.com/politics/democrat-mayor-blasted-dhs-hunting-down-property-owners-leasing-ice-unhinged"
         }
       ]
     },
     {
-      "title": "Australian shark attack victim grateful for 'second chance at life'",
+      "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
       "category": "World",
-      "what": "Leah Stewart was mauled by a shark in June, suffering multiple bites to her arms and legs.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
+      "what": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to address them.",
+      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
+      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
+      "source": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Suspect in deaths of 5 found dead after cops uncover grim scene at rural property outside Portland",
+      "title": "Kit Harington replaces Nicholas Hoult in HBO's Harry Potter series",
+      "category": "World",
+      "what": "Hoult was announced as Gilderoy Lockhart two weeks ago but has dropped out due to scheduling issues.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Arizona grandpa to undergo amputation after collapsing on scorching sidewalk",
       "category": "U.S.",
-      "what": "A suspect was found dead in Enumclaw, Washington, after five people were discovered killed at a Forest Grove, Oregon, property, according to officials.",
+      "what": "A 72-year-old man collapsed on a 120-degree sidewalk in Arizona and suffered severe burns that will require above-knee amputation of his leg.",
       "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
       "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/suspect-deaths-5-found-dead-cops-uncover-grim-scene-rural-property-outside-portland",
+      "source": "https://www.foxnews.com/us/arizona-grandpa-undergo-amputation-collapsing-scorching-sidewalk",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/suspect-deaths-5-found-dead-cops-uncover-grim-scene-rural-property-outside-portland"
+          "url": "https://www.foxnews.com/us/arizona-grandpa-undergo-amputation-collapsing-scorching-sidewalk"
         }
       ]
     },
     {
-      "title": "Lindsay Clancy's three child victims forgotten amid crowds of support: mother of six",
+      "title": "Lindsay Clancy trial: Postpartum is real, but child killing demands accountability, veteran prosecutor says",
       "category": "U.S.",
-      "what": "Bethany Mandel says Lindsay Clancy's three child victims have been forgotten as crowds rally outside Plymouth Superior Court for the accused mother.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/lindsay-clancy-three-child-victims-forgotten-amid-crowds-support-mother-six",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/lindsay-clancy-three-child-victims-forgotten-amid-crowds-support-mother-six"
-        }
-      ]
-    },
-    {
-      "title": "College grad reportedly dies in Six Flags roller coaster incident as family sues theme park",
-      "category": "U.S.",
-      "what": "Christopher Hawley, a recent San Diego State University graduate, reportedly collapsed after riding X2 in 2022, and his family now alleges the attraction was dangerously rough.",
+      "what": "Veteran child abuse prosecutor Jonathan Hatami says public support for Lindsay Clancy is overshadowing the three children she is accused of killing.",
       "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
       "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/college-grad-reportedly-dies-six-flags-roller-coaster-incident-family-sues-theme-park",
+      "source": "https://www.foxnews.com/us/lindsay-clancy-trial-postpartum-real-child-killing-demands-accountability-veteran-prosecutor-says",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/college-grad-reportedly-dies-six-flags-roller-coaster-incident-family-sues-theme-park"
+          "url": "https://www.foxnews.com/us/lindsay-clancy-trial-postpartum-real-child-killing-demands-accountability-veteran-prosecutor-says"
         }
       ]
     },
     {
-      "title": "California dad paralyzed from neck down after diving into ocean to rescue child",
-      "category": "U.S.",
-      "what": "A California father dove into a rip current to save a child at a beach and suffered a spinal cord injury that left him paralyzed from the neck down.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/california-dad-paralyzed-neck-diving-ocean-rescue-child",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/california-dad-paralyzed-neck-diving-ocean-rescue-child"
-        }
-      ]
-    },
-    {
-      "title": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
-      "category": "Tech",
-      "what": "\"The Chang’e 7 mission does not meet the conditions for launch.\"",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/"
-        }
-      ]
-    },
-    {
-      "title": "Volcanoes that made history",
-      "category": "Tech",
-      "what": "Enormous eruptions altered Earth’s climate and societies all over the globe.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/science/2026/08/volcanoes-that-made-history/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/08/volcanoes-that-made-history/"
-        }
-      ]
-    },
-    {
-      "title": "Putting mice into hibernation causes a major loss of synapses",
-      "category": "Tech",
-      "what": "Hibernation cuts down on synapses, but mice seem to retain memories anyway.",
+      "title": "NZ religious sect leader jailed over death of Chinese follower",
+      "category": "World",
+      "what": "The body of 70-year-old Shulai Wang was found near a marina in Auckland in 2024.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
+      "source": "https://www.bbc.co.uk/news/articles/c3d79z4z953o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c3d79z4z953o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Illegal immigrant accused of fentanyl dealing linked to Virginia high school overdoses",
+      "category": "U.S.",
+      "what": "Isaac Melendez-Carranza, an illegal immigrant from El Salvador, allegedly dealt fentanyl near Park View High School in Loudoun County, Virginia.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/illegal-immigrant-accused-fentanyl-dealing-linked-virginia-high-school-overdoses",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/illegal-immigrant-accused-fentanyl-dealing-linked-virginia-high-school-overdoses"
+        }
+      ]
+    },
+    {
+      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+      "category": "Tech",
+      "what": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
+      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
+      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
+      "source": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/"
+          "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/"
+        }
+      ]
+    },
+    {
+      "title": "Data centers become \"killer application\" for new power transformer tech",
+      "category": "Tech",
+      "what": "Solid-state transformers could also benefit EV charging and someday households.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/"
+        }
+      ]
+    },
+    {
+      "title": "RFK Jr. may upend how vaccine recommendations are categorized",
+      "category": "Tech",
+      "what": "There are currently 3 categories. Without reason, RFK Jr. is considering changes.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/health/2026/08/rfk-jr-may-upend-how-vaccine-recommendations-are-categorized/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/08/rfk-jr-may-upend-how-vaccine-recommendations-are-categorized/"
         }
       ]
     }
