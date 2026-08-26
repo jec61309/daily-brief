@@ -1,217 +1,213 @@
 {
-  "date": "Tuesday, August 25, 2026",
+  "date": "Wednesday, August 26, 2026",
   "stories": [
     {
-      "title": "Smithsonian-linked museum in El-Sayed’s backyard puts America’s post-9/11 response on trial",
+      "title": "Grocers issue warning over Mamdani’s taxpayer-backed stores: 'We're going to go after' them",
       "category": "Politics",
-      "what": "A Smithsonian Institution affiliate in Dearborn features exhibits arguing Arabs suffered unfair treatment after the Sept. 11 attacks on America.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/politics/smithsonian-linked-museum-el-sayeds-backyard-puts-americas-post-9-11-response-trial",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/smithsonian-linked-museum-el-sayeds-backyard-puts-americas-post-9-11-response-trial"
-        }
-      ]
-    },
-    {
-      "title": "Newsom's attack dog taunts Buttigieg over South Carolina visit as 2028 fight heats up",
-      "category": "Politics",
-      "what": "A Gavin Newsom aide mocked former Transportation Secretary Pete Buttigieg's South Carolina NAACP visit as the Democratic Party faces a growing fight over Black voter outreach in 2028.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/newsom-camp-taunts-buttigieg-over-black-voter-outreach-2028-fight-heats-up",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/newsom-camp-taunts-buttigieg-over-black-voter-outreach-2028-fight-heats-up"
-        }
-      ]
-    },
-    {
-      "title": "Charlotte man accused of mass shooting threats at 5 schools released days before classes begin",
-      "category": "U.S.",
-      "what": "Drew Andres Owens was released from Mecklenburg County Jail just three days before CMS students returned to class after allegedly threatening five schools.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/charlotte-man-accused-mass-shooting-threats-5-schools-released-days-before-classes-begin",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/charlotte-man-accused-mass-shooting-threats-5-schools-released-days-before-classes-begin"
-        }
-      ]
-    },
-    {
-      "title": "Sonya Massey's killer Sean Grayson dies in US prison",
-      "category": "World",
-      "what": "The former police officer, whose crime reignited the debate about US police brutality, was undergoing treatment for cancer.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/ex-deputy-sean-grayson-dies-serving-20-year-prison-term-sonya-massey-killing-medical-release-denied"
-        }
-      ]
-    },
-    {
-      "title": "Lockerbie bombing trial postponed days before it was due to start",
-      "category": "World",
-      "what": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Democrat mayor blasted by DHS for 'hunting down' property owners leasing to ICE: 'Unhinged'",
-      "category": "Politics",
-      "what": "DHS calls Boston Mayor Michelle Wu's effort to dissuade property owners from leasing parking to ICE \"unhinged,\" accusing her of hunting them down.",
-      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
-      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
-      "source": "https://www.foxnews.com/politics/democrat-mayor-blasted-dhs-hunting-down-property-owners-leasing-ice-unhinged",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/democrat-mayor-blasted-dhs-hunting-down-property-owners-leasing-ice-unhinged"
-        }
-      ]
-    },
-    {
-      "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
-      "category": "World",
-      "what": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to address them.",
-      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
-      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
-      "source": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Kit Harington replaces Nicholas Hoult in HBO's Harry Potter series",
-      "category": "World",
-      "what": "Hoult was announced as Gilderoy Lockhart two weeks ago but has dropped out due to scheduling issues.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Arizona grandpa to undergo amputation after collapsing on scorching sidewalk",
-      "category": "U.S.",
-      "what": "A 72-year-old man collapsed on a 120-degree sidewalk in Arizona and suffered severe burns that will require above-knee amputation of his leg.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/arizona-grandpa-undergo-amputation-collapsing-scorching-sidewalk",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/arizona-grandpa-undergo-amputation-collapsing-scorching-sidewalk"
-        }
-      ]
-    },
-    {
-      "title": "Lindsay Clancy trial: Postpartum is real, but child killing demands accountability, veteran prosecutor says",
-      "category": "U.S.",
-      "what": "Veteran child abuse prosecutor Jonathan Hatami says public support for Lindsay Clancy is overshadowing the three children she is accused of killing.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/lindsay-clancy-trial-postpartum-real-child-killing-demands-accountability-veteran-prosecutor-says",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/lindsay-clancy-trial-postpartum-real-child-killing-demands-accountability-veteran-prosecutor-says"
-        }
-      ]
-    },
-    {
-      "title": "NZ religious sect leader jailed over death of Chinese follower",
-      "category": "World",
-      "what": "The body of 70-year-old Shulai Wang was found near a marina in Auckland in 2024.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/c3d79z4z953o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c3d79z4z953o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Illegal immigrant accused of fentanyl dealing linked to Virginia high school overdoses",
-      "category": "U.S.",
-      "what": "Isaac Melendez-Carranza, an illegal immigrant from El Salvador, allegedly dealt fentanyl near Park View High School in Loudoun County, Virginia.",
+      "what": "Frank Garcia's coalition threatens to sue any operator joining Zohran Mamdani's NYC government-owned grocery store program in new legal fight.",
       "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
       "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/illegal-immigrant-accused-fentanyl-dealing-linked-virginia-high-school-overdoses",
+      "source": "https://www.foxnews.com/politics/grocers-issue-warning-mamdanis-taxpayer-backed-stores-going-after-them",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/grocers-issue-warning-mamdanis-taxpayer-backed-stores-going-after-them"
+        }
+      ]
+    },
+    {
+      "title": "Michigan GOP lawmaker casts doubt on El-Sayed’s socialist denial as policies tell another story: ‘Sharp odds’",
+      "category": "Politics",
+      "what": "Abdul El-Sayed denies the socialist label, but a Michigan lawmaker says his policies on ICE, Medicare for All, and taxing billionaires say otherwise.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/politics/michigan-gop-lawmaker-casts-doubt-el-sayeds-socialist-denial-policies-tell-another-story-sharp-odds",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/michigan-gop-lawmaker-casts-doubt-el-sayeds-socialist-denial-policies-tell-another-story-sharp-odds"
+        }
+      ]
+    },
+    {
+      "title": "Trump admin pauses visa appointments worldwide amid heightened screening for applicants",
+      "category": "Politics",
+      "what": "The State Department paused all visa interviews at embassies and consulates worldwide as officers undergo training on new public charge guidance.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/trump-immigrant-visa-interview-pause",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/trump-immigrant-visa-interview-pause"
+        }
+      ]
+    },
+    {
+      "title": "Prosecutor in infamous killer mom case says women on Lindsay Clancy jury may bring ‘strange twist’ to verdict",
+      "category": "U.S.",
+      "what": "Rep. Tommy Pope, who prosecuted Susan Smith, says women jurors may be less sympathetic to Lindsay Clancy's postpartum psychosis defense than expected.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/prosecutor-infamous-killer-mom-case-says-women-lindsay-clancy-jury-may-bring-strange-twist-verdict",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/illegal-immigrant-accused-fentanyl-dealing-linked-virginia-high-school-overdoses"
+          "url": "https://www.foxnews.com/us/prosecutor-infamous-killer-mom-case-says-women-lindsay-clancy-jury-may-bring-strange-twist-verdict"
         }
       ]
     },
     {
-      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+      "title": "NYC manhunt underway for suspect accused of deadly shootings across 2 boroughs days apart",
+      "category": "U.S.",
+      "what": "The NYPD released surveillance images of Jesus Acosta, wanted in a fatal Bronx deli robbery and a deadly Brooklyn shooting two days earlier.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/nyc-manhunt-underway-suspect-accused-deadly-shootings-across-2-boroughs-days-apart",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/nyc-manhunt-underway-suspect-accused-deadly-shootings-across-2-boroughs-days-apart"
+        }
+      ]
+    },
+    {
+      "title": "Surrogate, California couple clash in court as newborn fights for life after heart surgery",
+      "category": "U.S.",
+      "what": "Nausheen Gilkar told a Dallas court her newborn is suffering after open-heart surgery as the surrogate custody fight with McKenna West intensifies.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/surrogate-california-couple-clash-court-newborn-fights-life-after-heart-surgery",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/surrogate-california-couple-clash-court-newborn-fights-life-after-heart-surgery"
+        }
+      ]
+    },
+    {
+      "title": "Attempted drone incursion at Virginia prison leads to $324K contraband haul with meth, 17 cellphones",
+      "category": "U.S.",
+      "what": "A drone smuggling attempt at a Virginia prison led to a $324,000 contraband seizure including methamphetamine and 17 cellphones, officials said.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/attempted-drone-incursion-virginia-prison-leads-324k-contraband-haul-meth-17-cellphones",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/attempted-drone-incursion-virginia-prison-leads-324k-contraband-haul-meth-17-cellphones"
+        }
+      ]
+    },
+    {
+      "title": "The world's busiest spaceport is about to get a lot quieter, at least for now",
       "category": "Tech",
-      "what": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
-      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
-      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
-      "source": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+      "what": "SpaceX aims to launch Starship from Florida by the end of the year. 2027 seems more likely.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/"
+          "url": "https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/"
         }
       ]
     },
     {
-      "title": "Data centers become \"killer application\" for new power transformer tech",
+      "title": "World humanoid robot games show runners breaking records, bursting into flames",
       "category": "Tech",
-      "what": "Solid-state transformers could also benefit EV charging and someday households.",
+      "what": "Record-breaking robot races are less substantial than household chore challenges.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
+      "source": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/"
+          "url": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/"
         }
       ]
     },
     {
-      "title": "RFK Jr. may upend how vaccine recommendations are categorized",
+      "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+      "category": "World",
+      "what": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
+      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
+      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
+      "source": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Mass arrests in global crackdown on West African cyber-crime networks",
+      "category": "World",
+      "what": "The operation included the arrest of 39 people in South Africa for romance and investment scams.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Google's anti-nausea Motion Assist dots finally rolling out on Android",
       "category": "Tech",
-      "what": "There are currently 3 categories. Without reason, RFK Jr. is considering changes.",
+      "what": "It's currently only appearing on Pixels running Android 17.",
       "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
       "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/health/2026/08/rfk-jr-may-upend-how-vaccine-recommendations-are-categorized/",
+      "source": "https://arstechnica.com/gadgets/2026/08/google-begins-rolling-out-anti-motion-sickness-feature-on-android-17/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/health/2026/08/rfk-jr-may-upend-how-vaccine-recommendations-are-categorized/"
+          "url": "https://arstechnica.com/gadgets/2026/08/google-begins-rolling-out-anti-motion-sickness-feature-on-android-17/"
+        }
+      ]
+    },
+    {
+      "title": "Nigeria's president orders manhunt after kidnappers upload victim video",
+      "category": "World",
+      "what": "The footage shows dozens of men, women and children sitting in a forest.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/c0rewkerdpyo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c0rewkerdpyo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "European rights court orders Turkey to free imprisoned businessman",
+      "category": "World",
+      "what": "Philanthropist and activist Osman Kavala has spent almost a decade in jail over charges rights groups say are politically motivated.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.bbc.co.uk/news/articles/cn5drvyg92no?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cn5drvyg92no?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Swedish military seeks to take over Russian-owned estate near naval base ",
+      "category": "World",
+      "what": "The armed forces request the seizure of the plot near Muskö Naval Base citing threats from Russian drones.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.bbc.co.uk/news/articles/cvgy3jplvd3o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cvgy3jplvd3o?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
