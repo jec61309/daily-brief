@@ -1,225 +1,213 @@
 {
-  "date": "Friday, August 28, 2026",
+  "date": "Saturday, August 29, 2026",
   "stories": [
     {
-      "title": "Woman accused of defacing WWII Memorial with spray paint indicted by federal grand jury",
-      "category": "Politics",
-      "what": "US Attorney for DC Jeanine Pirro called the World War II Memorial vandalism a \"despicable attack\" as Melissa Farris was formally indicted on two federal counts.",
+      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "category": "World",
+      "what": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/politics/woman-accused-defacing-wwii-memorial-spray-paint-indicted-federal-grand-jury",
+      "source": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/woman-accused-defacing-wwii-memorial-spray-paint-indicted-federal-grand-jury"
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Judge throws out Khalid Sheikh Mohammed's 9/11 confession in already long wait for trial",
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "category": "World",
+      "what": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Mica Miller’s siblings allege pastor husband forced final hospitalization before her 2024 death",
       "category": "U.S.",
-      "what": "A judge ruled that portions of 9/11 mastermind Khalid Sheikh Mohammed's 2007 confession were involuntary, a decision that could further stall the long-delayed trial.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/judge-throws-out-khalid-sheikh-mohammeds-9-11-confession-already-long-wait-trial",
+      "what": "Mica Miller's siblings allege JP Miller had her involuntarily committed as part of a coercive control pattern during their troubled marriage.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/mica-miller-siblings-allege-pastor-husband-forced-final-hospitalization-before-2024-death",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/judge-throws-out-khalid-sheikh-mohammeds-9-11-confession-already-long-wait-trial"
+          "url": "https://www.foxnews.com/us/mica-miller-siblings-allege-pastor-husband-forced-final-hospitalization-before-2024-death"
         }
       ]
     },
     {
-      "title": "Greenland says findings on genocide allegation not final",
-      "category": "World",
-      "what": "Experts examined the use of forced contraception on the Inuit community during the 1960s and 70s.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/czxzv29p12lo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/czxzv29p12lo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
-      "category": "World",
-      "what": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Reagan-era official warns ‘red-green alliance’ has shared goal of ‘destroying’ America",
-      "category": "Politics",
-      "what": "Frank Gaffney warns the red-green alliance between radical Islamists and far-left socialists shares a goal of destroying America's constitutional system.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.foxnews.com/politics/reagan-era-official-warns-red-green-alliance-shared-goal-destroying-america",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/reagan-era-official-warns-red-green-alliance-shared-goal-destroying-america"
-        }
-      ]
-    },
-    {
-      "title": "Antifa-linked sites go dark after State Department terror designation of tech collective",
-      "category": "Politics",
-      "what": "The Rose City Antifa and Jane's Revenge websites went dark after the State Department designated their tech provider, A/I Collective, a global terrorist.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/politics/antifa-linked-sites-dark-state-department-terror-designation-tech-collective",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/antifa-linked-sites-dark-state-department-terror-designation-tech-collective"
-        }
-      ]
-    },
-    {
-      "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
-      "category": "World",
-      "what": "But they say Moscow will likely continue its \"hybrid activity\" against Nato members, short of direct military action.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Jerry Sandusky granted new evidentiary hearing after accuser recants testimony",
+      "title": "Strange Georgia crime-scene clues blow hole in theory of mom’s mysterious death, family says",
       "category": "U.S.",
-      "what": "Jerry Sandusky returns to court Sept. 8 for an evidentiary hearing after one accuser recanted, claiming he was coached to reframe his allegations.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/jerry-sandusky-granted-new-evidentiary-hearing-accuser-recants-testimony",
+      "what": "Natalie Jones' toxicology report came back clean, yet Georgia authorities pushed an overdose theory before closing her 2020 Heard County death case.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/strange-georgia-crime-scene-clues-blow-hole-theory-moms-mysterious-death-family-says",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/jerry-sandusky-granted-new-evidentiary-hearing-accuser-recants-testimony"
+          "url": "https://www.foxnews.com/us/strange-georgia-crime-scene-clues-blow-hole-theory-moms-mysterious-death-family-says"
         }
       ]
     },
     {
-      "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-      "category": "Tech",
-      "what": "Anthropic refused to support lethal autonomous warfare and mass surveillance.",
+      "title": "Viral Dearborn pastor delivers blunt warning on El-Sayed Senate bid: ‘Can you imagine?’",
+      "category": "Politics",
+      "what": "Pastor Lorenzo Sewell warns that Abdul El-Sayed could recommend federal judges aligned with Sharia law if elected to the Michigan Senate seat.",
       "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
       "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
+      "source": "https://www.foxnews.com/politics/viral-dearborn-pastor-delivers-blunt-warning-el-sayed-senate-bid-can-you-imagine",
       "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/"
-        }
-      ]
-    },
-    {
-      "title": "Here's what we know about the \"space academy\" Trump just announced",
-      "category": "Tech",
-      "what": "\"It's called the US Space Academy. That's a big deal.\"",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://arstechnica.com/space/2026/08/trump-calls-for-creation-of-a-space-academy-to-train-future-nasa-leaders/",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss"
-        },
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-signs-order-creating-new-space-academy-akin-west-point-location-determined"
-        },
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/08/trump-calls-for-creation-of-a-space-academy-to-train-future-nasa-leaders/"
+          "url": "https://www.foxnews.com/politics/viral-dearborn-pastor-delivers-blunt-warning-el-sayed-senate-bid-can-you-imagine"
         }
       ]
     },
     {
-      "title": "Thieves steal 600-diamond necklace from Vienna museum in broad daylight",
-      "category": "World",
-      "what": "Police are hunting two suspects they believe bought a ticket for the exhibition to get at the jewellery.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cqxvwpe0plro?at_medium=RSS&at_campaign=rss",
+      "title": "Fox Hollow coroner reveals why he doubts suspected serial killer acted alone in hunt for answers",
+      "category": "U.S.",
+      "what": "Over 9,000 bones remain unexamined at Fox Hollow Farm as the true crime documentary explores whether suspected serial killer Herb Baumeister acted alone.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/fox-hollow-coroner-reveals-why-he-doubts-suspected-serial-killer-acted-alone-hunt-answers",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqxvwpe0plro?at_medium=RSS&at_campaign=rss"
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/fox-hollow-coroner-reveals-why-he-doubts-suspected-serial-killer-acted-alone-hunt-answers"
         }
       ]
     },
     {
-      "title": "Our 10 favorite scenes from T2: Judgment Day",
+      "title": "Trump’s tougher round-two birthright citizenship strategy hinges on key legal distinction, experts say",
+      "category": "Politics",
+      "what": "President Donald Trump's new birthright citizenship orders target children of terrorists and foreign government employees using classic legal exceptions.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/politics/solid-ground-conservative-legal-minds-optimistic-new-targeted-birthright-citizenship-restrictions",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/solid-ground-conservative-legal-minds-optimistic-new-targeted-birthright-citizenship-restrictions"
+        }
+      ]
+    },
+    {
+      "title": "I asked 100 companies for my data. Some deleted it instead.",
       "category": "Tech",
-      "what": "James Cameron's 1991 sci-fi blockbuster returns to theaters this weekend for its 35th anniversary.",
+      "what": "Testing 100 companies found privacy requests often led to confusion and dead ends.",
       "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
       "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/culture/2026/08/our-10-favorite-scenes-from-t2-judgment-day/",
+      "source": "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/culture/2026/08/our-10-favorite-scenes-from-t2-judgment-day/"
+          "url": "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/"
         }
       ]
     },
     {
-      "title": "Violence breaks out in Ceuta as migrant crisis continues",
+      "title": "Appeals court delivers unsettling ruling — and says Supreme Court left it no choice",
+      "category": "Politics",
+      "what": "A federal appeals court says Supreme Court precedent forced it to protect possession of AI-generated child sexual abuse material, raising urgent questions.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/politics/appeals-court-delivers-unsettling-ruling-supreme-court-left-no-choice",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/appeals-court-delivers-unsettling-ruling-supreme-court-left-no-choice"
+        }
+      ]
+    },
+    {
+      "title": "Lynette Hooker’s husband Brian rummages through trash on California streets months after wife’s disappearance",
+      "category": "U.S.",
+      "what": "Brian Hooker was spotted walking dogs and drinking coffee in Citrus Heights, California, months after his wife Lynette Hooker vanished in the Bahamas.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/lynette-hooker-husband-brian-rummages-through-trash-california-streets-months-after-wifes-disappearance",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/lynette-hooker-husband-brian-rummages-through-trash-california-streets-months-after-wifes-disappearance"
+        }
+      ]
+    },
+    {
+      "title": "Dutch health institute issues 'red alert' over Trump-shaped ecstasy pills",
       "category": "World",
-      "what": "A group of migrants is accused of throwing stones at a military vehicle, while some locals set fire to their camps on the beach.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.bbc.co.uk/news/articles/cy9zj11gwzxo?at_medium=RSS&at_campaign=rss",
+      "what": "The drugs have a delayed effect which \"increases the risk of overdose\", the health institute says.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/cy8z9084d00o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cy9zj11gwzxo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cy8z9084d00o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Lindsay Clancy verdict: Retired judge explains what happens if insanity defense prevails",
-      "category": "U.S.",
-      "what": "Lindsay Clancy could spend as few as several years in a mental institution if jurors accept her insanity defense, a retired Massachusetts judge says.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/lindsay-clancy-verdict-retired-judge-explains-what-happens-insanity-defense-prevails",
+      "title": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
+      "category": "World",
+      "what": "The staffer was found to have used his prior knowledge of the president's speeches to place lucrative bets.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/lindsay-clancy-verdict-retired-judge-explains-what-happens-insanity-defense-prevails"
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "ICE officer charged in Minneapolis shooting released in Texas after judge declines to intervene",
-      "category": "U.S.",
-      "what": "Christian Castro, an ICE officer charged in connection with a shooting in Minnesota, was released from lock up in Texas after a judge declined a temporary restraining order.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/ice-officer-charged-minneapolis-shooting-released-texas-judge-declines-intervene",
+      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+      "category": "World",
+      "what": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/ice-officer-charged-minneapolis-shooting-released-texas-judge-declines-intervene"
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Cities terminate Flock contracts at record pace in August",
+      "category": "Tech",
+      "what": "Cancellations have accelerated.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/"
+        }
+      ]
+    },
+    {
+      "title": "\"RFK Jr. has lied to the Senate\": Lawmakers call for criminal probe, ouster",
+      "category": "Tech",
+      "what": "RFK Jr. went to Samoa to spread vaccine fears. The measles outbreak after killed 83.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://arstechnica.com/health/2026/08/rfk-jr-has-lied-to-the-senate-lawmakers-call-for-criminal-probe-ouster/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/08/rfk-jr-has-lied-to-the-senate-lawmakers-call-for-criminal-probe-ouster/"
         }
       ]
     }
