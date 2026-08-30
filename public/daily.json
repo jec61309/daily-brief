@@ -1,101 +1,185 @@
 {
-  "date": "Saturday, August 29, 2026",
+  "date": "Sunday, August 30, 2026",
   "stories": [
     {
-      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "title": "Canada installs large Lake Ontario sign in latest jab at US",
       "category": "World",
-      "what": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+      "what": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-      "category": "World",
-      "what": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+      "title": "Colorado city leader dies after collapsing on mountain hike: 'Loss for our city'",
+      "category": "U.S.",
+      "what": "Joe Anderson, Englewood Colorado's mayor pro tem, collapsed on Quandary Peak's lower slopes as fellow hikers rushed to perform CPR before help arrived.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/colorado-city-leader-dies-collapsing-mountain-hike-loss-city",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/colorado-city-leader-dies-collapsing-mountain-hike-loss-city"
+        }
+      ]
+    },
+    {
+      "title": "Republicans tighten screws on Sherrill as noncitizen voter probe enters new phase",
+      "category": "Politics",
+      "what": "New Jersey Gov. Mikie Sherrill's reply to a voter-roll inquiry drew fire from Jeff Van Drew, who calls it \"snarky\" and signals possible subpoenas.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.foxnews.com/politics/republicans-tighten-screws-sherrill-noncitizen-voter-probe-enters-new-phase",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/republicans-tighten-screws-sherrill-noncitizen-voter-probe-enters-new-phase"
+        }
+      ]
+    },
+    {
+      "title": "Dem Senate hopeful pivots on data centers as rising power costs collide with campaign",
+      "category": "Politics",
+      "what": "Roy Cooper celebrated data center growth as North Carolina governor, but his Senate campaign now targets their energy use as a rate hike driver.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/roy-cooper-changes-tune-data-centers-rising-power-costs-collide-senate-campaign",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/roy-cooper-changes-tune-data-centers-rising-power-costs-collide-senate-campaign"
+        }
+      ]
+    },
+    {
+      "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
+      "category": "World",
+      "what": "Five others in their twenties were injured after shots were fired at a techno event near Zurich.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Mica Miller’s siblings allege pastor husband forced final hospitalization before her 2024 death",
-      "category": "U.S.",
-      "what": "Mica Miller's siblings allege JP Miller had her involuntarily committed as part of a coercive control pattern during their troubled marriage.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/mica-miller-siblings-allege-pastor-husband-forced-final-hospitalization-before-2024-death",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/mica-miller-siblings-allege-pastor-husband-forced-final-hospitalization-before-2024-death"
-        }
-      ]
-    },
-    {
-      "title": "Strange Georgia crime-scene clues blow hole in theory of mom’s mysterious death, family says",
-      "category": "U.S.",
-      "what": "Natalie Jones' toxicology report came back clean, yet Georgia authorities pushed an overdose theory before closing her 2020 Heard County death case.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/strange-georgia-crime-scene-clues-blow-hole-theory-moms-mysterious-death-family-says",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/strange-georgia-crime-scene-clues-blow-hole-theory-moms-mysterious-death-family-says"
-        }
-      ]
-    },
-    {
-      "title": "Viral Dearborn pastor delivers blunt warning on El-Sayed Senate bid: ‘Can you imagine?’",
+      "title": "South Carolina mail-in voting law illegally discriminates, appeals court rules",
       "category": "Politics",
-      "what": "Pastor Lorenzo Sewell warns that Abdul El-Sayed could recommend federal judges aligned with Sharia law if elected to the Michigan Senate seat.",
+      "what": "South Carolina's mail-in ballot age exemption for voters over 65 was struck down as a 26th Amendment violation, but the state plans to appeal further.",
       "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
       "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/viral-dearborn-pastor-delivers-blunt-warning-el-sayed-senate-bid-can-you-imagine",
+      "source": "https://www.foxnews.com/politics/south-carolina-mail-in-voting-law-illegally-discriminates-appeals-court-rules",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/viral-dearborn-pastor-delivers-blunt-warning-el-sayed-senate-bid-can-you-imagine"
+          "url": "https://www.foxnews.com/politics/south-carolina-mail-in-voting-law-illegally-discriminates-appeals-court-rules"
         }
       ]
     },
     {
-      "title": "Fox Hollow coroner reveals why he doubts suspected serial killer acted alone in hunt for answers",
+      "title": "Alleged tomb-raiding trio arrested in cross-country cemetery spree 'to steal from the dead,' police say",
       "category": "U.S.",
-      "what": "Over 9,000 bones remain unexamined at Fox Hollow Farm as the true crime documentary explores whether suspected serial killer Herb Baumeister acted alone.",
+      "what": "Surveillance video shows the accused trio breaking into cemetery niches across the eastern United States, stealing wedding rings and heirlooms, police say.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/fox-hollow-coroner-reveals-why-he-doubts-suspected-serial-killer-acted-alone-hunt-answers",
+      "source": "https://www.foxnews.com/us/alleged-tomb-raiding-trio-arrested-cross-country-cemetery-spree-steal-dead-police-say",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/fox-hollow-coroner-reveals-why-he-doubts-suspected-serial-killer-acted-alone-hunt-answers"
+          "url": "https://www.foxnews.com/us/alleged-tomb-raiding-trio-arrested-cross-country-cemetery-spree-steal-dead-police-say"
         }
       ]
     },
     {
-      "title": "Trump’s tougher round-two birthright citizenship strategy hinges on key legal distinction, experts say",
-      "category": "Politics",
-      "what": "President Donald Trump's new birthright citizenship orders target children of terrorists and foreign government employees using classic legal exceptions.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/solid-ground-conservative-legal-minds-optimistic-new-targeted-birthright-citizenship-restrictions",
+      "title": "Inside Meta’s push to put robots to work in data centers",
+      "category": "Tech",
+      "what": "The company is testing robots on tasks that can performed by technicians.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
       "sources": [
         {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/solid-ground-conservative-legal-minds-optimistic-new-targeted-birthright-citizenship-restrictions"
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/"
+        }
+      ]
+    },
+    {
+      "title": "Iceland votes against restarting talks on joining EU",
+      "category": "World",
+      "what": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume talks.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "North Carolina mountain town ‘whitewashing’ violence amid crime concerns, says pastor with former gang ties",
+      "category": "U.S.",
+      "what": "Dr. Ronald Gates says Asheville, North Carolina, leaders ignored his gang prevention program for a decade before retaliatory shootings rattled the city.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/north-carolina-mountain-town-whitewashing-violence-amid-crime-concerns-says-pastor-former-gang-ties",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/north-carolina-mountain-town-whitewashing-violence-amid-crime-concerns-says-pastor-former-gang-ties"
+        }
+      ]
+    },
+    {
+      "title": "Zambian opposition leader charged with treason",
+      "category": "World",
+      "what": "Mundubile had previously gone into hiding at a United Nations building in Zambia's capital.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Shark sightings surge along southern Maine coast as experts explain what's driving the spike",
+      "category": "U.S.",
+      "what": "According to researchers, white shark sightings are up this year, but it may be due to good beach weather and more people actively seeking them out.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/maine-white-shark-sightings-southern-coast",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/maine-white-shark-sightings-southern-coast"
+        }
+      ]
+    },
+    {
+      "title": "WhatsApp chat used to send cash for crime and extremism",
+      "category": "World",
+      "what": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -114,76 +198,6 @@
       ]
     },
     {
-      "title": "Appeals court delivers unsettling ruling — and says Supreme Court left it no choice",
-      "category": "Politics",
-      "what": "A federal appeals court says Supreme Court precedent forced it to protect possession of AI-generated child sexual abuse material, raising urgent questions.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/appeals-court-delivers-unsettling-ruling-supreme-court-left-no-choice",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/appeals-court-delivers-unsettling-ruling-supreme-court-left-no-choice"
-        }
-      ]
-    },
-    {
-      "title": "Lynette Hooker’s husband Brian rummages through trash on California streets months after wife’s disappearance",
-      "category": "U.S.",
-      "what": "Brian Hooker was spotted walking dogs and drinking coffee in Citrus Heights, California, months after his wife Lynette Hooker vanished in the Bahamas.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/lynette-hooker-husband-brian-rummages-through-trash-california-streets-months-after-wifes-disappearance",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/lynette-hooker-husband-brian-rummages-through-trash-california-streets-months-after-wifes-disappearance"
-        }
-      ]
-    },
-    {
-      "title": "Dutch health institute issues 'red alert' over Trump-shaped ecstasy pills",
-      "category": "World",
-      "what": "The drugs have a delayed effect which \"increases the risk of overdose\", the health institute says.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/cy8z9084d00o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cy8z9084d00o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
-      "category": "World",
-      "what": "The staffer was found to have used his prior knowledge of the president's speeches to place lucrative bets.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-      "category": "World",
-      "what": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
       "title": "Cities terminate Flock contracts at record pace in August",
       "category": "Tech",
       "what": "Cancellations have accelerated.",
@@ -194,20 +208,6 @@
         {
           "name": "Ars Technica",
           "url": "https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/"
-        }
-      ]
-    },
-    {
-      "title": "\"RFK Jr. has lied to the Senate\": Lawmakers call for criminal probe, ouster",
-      "category": "Tech",
-      "what": "RFK Jr. went to Samoa to spread vaccine fears. The measles outbreak after killed 83.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://arstechnica.com/health/2026/08/rfk-jr-has-lied-to-the-senate-lawmakers-call-for-criminal-probe-ouster/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/health/2026/08/rfk-jr-has-lied-to-the-senate-lawmakers-call-for-criminal-probe-ouster/"
         }
       ]
     }
