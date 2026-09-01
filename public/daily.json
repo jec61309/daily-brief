@@ -1,221 +1,217 @@
 {
-  "date": "Monday, August 31, 2026",
+  "date": "Tuesday, September 1, 2026",
   "stories": [
     {
-      "title": "Two dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
-      "category": "World",
-      "what": "\"It was a beautiful day - and then people were screaming,\" one hiker tells the BBC, as 15 people are missing.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/urgent-search-underway-more-than-dozen-people-after-grand-canyon-flash-flood"
-        }
-      ]
-    },
-    {
-      "title": "El-Sayed tries to make peace with Jewish Democrats but draws line at dumping Hasan Piker",
+      "title": "Dem AG urges Jewish voters to put humanity above 'safety and security' of own people",
       "category": "Politics",
-      "what": "Abdul El-Sayed met with Michigan's Democratic Jewish Caucus to apologize, but Mike Rogers calls his remarks a \"sham apology\" amid antisemitism concerns.",
-      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
-      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
-      "source": "https://www.foxnews.com/politics/el-sayed-makes-peace-jewish-democrats-draws-line-dumping-hasan-piker",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/el-sayed-makes-peace-jewish-democrats-draws-line-dumping-hasan-piker"
-        }
-      ]
-    },
-    {
-      "title": "New federal grand jury subpoena issued to former James Comey advisor in leak investigation: sources",
-      "category": "Politics",
-      "what": "Former FBI Director James Comey faces a revived classified leak probe as a grand jury subpoenas his longtime adviser Daniel Richman on Monday.",
-      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
-      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
-      "source": "https://www.foxnews.com/politics/new-federal-grand-jury-subpoena-issued-former-james-comey-advisor-leak-investigation-sources",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/new-federal-grand-jury-subpoena-issued-former-james-comey-advisor-leak-investigation-sources"
-        }
-      ]
-    },
-    {
-      "title": "South Carolina woman accused of stabbing Lyft driver 11 times claims mental health crisis",
-      "category": "U.S.",
-      "what": "A South Carolina woman's attorney says schizophrenia and paranoia triggered a psychiatric emergency before she allegedly stabbed her Lyft driver 11 times.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/south-carolina-woman-accused-stabbing-lyft-driver-11-times-claims-mental-health-crisis",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/south-carolina-woman-accused-stabbing-lyft-driver-11-times-claims-mental-health-crisis"
-        }
-      ]
-    },
-    {
-      "title": "Trump pushes Apple to change 'Lake Ontario' to 'Lake America' on its maps",
-      "category": "World",
-      "what": "The request comes after Google made the switch for US-based users over the weekend. MapQuest, another US map provider, said it will not change the name.",
+      "what": "Amid deep intra-party divides over Israel in battleground Michigan, AG Dana Nessel told Jewish voters in a leaked video that they have a \"moral imperative\" to put global issues ahead of their future.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/c2l80eq5lxno?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c2l80eq5lxno?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
-      "category": "World",
-      "what": "Ayten and Hayri Bicer's two young children are among 20 missing in an incident that killed eight people.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "US and Iran trade strikes for first time in weeks",
-      "category": "World",
-      "what": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
-      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
-      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
-      "source": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/iran-retaliates-against-us-forces-after-american-strikes-key-oil-route-more-top-headlines"
-        }
-      ]
-    },
-    {
-      "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
-      "category": "Tech",
-      "what": "Explosive growth comes with a new regulatory burden in the European Union.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/"
-        }
-      ]
-    },
-    {
-      "title": "Man arrested after Swiss rave shooting that killed woman",
-      "category": "World",
-      "what": "A 22-year-old Italian woman was killed and several injured at a techno rave in Aarau.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "FIRST ON FOX: Texas becomes testing ground for new defense against attacks on America’s water systems",
-      "category": "Politics",
-      "what": "Project Watershed 250 pairs AI security tools with Texas water systems to find cyber vulnerabilities before adversaries can exploit them first.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/politics/first-fox-texas-becomes-testing-ground-new-defense-against-attacks-americas-water-systems",
+      "source": "https://www.foxnews.com/politics/dem-ag-urges-jewish-voters-put-needs-world-above-future-own-people",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/first-fox-texas-becomes-testing-ground-new-defense-against-attacks-americas-water-systems"
+          "url": "https://www.foxnews.com/politics/dem-ag-urges-jewish-voters-put-needs-world-above-future-own-people"
         }
       ]
     },
     {
-      "title": "Newark airport shuttle bus slams into concrete barrier, injuring 13",
-      "category": "U.S.",
-      "what": "Video shows the badly damaged employee shuttle bus crumpled against a concrete barrier at Newark Liberty International Airport's Terminal B.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/newark-airport-shuttle-bus-slams-concrete-barrier-injuring-13",
+      "title": "Ex-Dem fundraiser traces socialist surge to Biden-era leadership vacuum: ‘There’s no one there’",
+      "category": "Politics",
+      "what": "Lindy Li says the DSA is filling a vacuum left by Joe Biden's decline and the Democratic Party's lack of a defining leader heading into 2026.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/ex-dem-fundraiser-traces-socialist-surge-biden-era-leadership-vacuum-theres-no-one-there",
       "sources": [
         {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/newark-airport-shuttle-bus-slams-concrete-barrier-injuring-13"
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/ex-dem-fundraiser-traces-socialist-surge-biden-era-leadership-vacuum-theres-no-one-there"
         }
       ]
     },
     {
-      "title": "Deadly Grand Canyon flooding knocks out critical water line amid race to find missing hikers",
+      "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
+      "category": "World",
+      "what": "Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Ex-House Freedom Caucus chair says GOP isn't 'a conservative party anymore,' but Democrats are 'worse'",
+      "category": "Politics",
+      "what": "Former Rep. Bob Good, former chair of the House Freedom Caucus, indicated that the Republican Party is not \"a conservative party anymore.\"",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/ex-house-freedom-caucus-chair-says-gop-isnt-conservative-party-anymore-democrats-worse",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/ex-house-freedom-caucus-chair-says-gop-isnt-conservative-party-anymore-democrats-worse"
+        }
+      ]
+    },
+    {
+      "title": "Woman killed in Times Square stabbing, suspect shot dead by police",
+      "category": "World",
+      "what": "Police say the double stabbing, which injured another person, was random and the suspect had a mental health history with police.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/ckgvrm5nxexo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ckgvrm5nxexo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/knife-wielding-woman-accused-stabbing-2-times-square-before-being-shot-police"
+        }
+      ]
+    },
+    {
+      "title": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
+      "category": "World",
+      "what": "Reports say the Israeli military carried out strikes after a raid by Israeli special forces and Israel-backed Palestinian militiamen was discovered.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Trump says US position on Falklands 'one of many' under review",
+      "category": "World",
+      "what": "The UK says Falkland islanders \"are British with a right to determine their own future\".",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "2 Grand Canyon flooding victims photographed on hiking trip in days before deaths",
       "category": "U.S.",
-      "what": "A 46-year-old man was found dead and one other body was recovered in the Colorado River as search and rescue teams race to locate over a dozen missing hikers in the Grand Canyon area.",
+      "what": "John Giusti and Brent Rosenkranz, from Texas, posted selfies from the Grand Canyon before devastating flash flooding swept through the area on Saturday.",
       "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
       "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/deadly-grand-canyon-flooding-knocks-critical-water-line-race-find-missing-hikers",
+      "source": "https://www.foxnews.com/us/grand-canyon-flooding-victims-photographed-hiking-trip-days-before-deaths",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/deadly-grand-canyon-flooding-knocks-critical-water-line-race-find-missing-hikers"
+          "url": "https://www.foxnews.com/us/grand-canyon-flooding-victims-photographed-hiking-trip-days-before-deaths"
         }
       ]
     },
     {
-      "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
-      "category": "Tech",
-      "what": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform.",
+      "title": "Zambia's president sworn in for second term while opponent detained",
+      "category": "World",
+      "what": "Hakainde Hichilema swept to victory, but his main rival is now in custody charged with treason.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+      "source": "https://www.bbc.co.uk/news/articles/c62m7vp5895o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/"
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c62m7vp5895o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Accused NC killer mom plans insanity defense — as retired judge says more may follow Lindsay Clancy strategy",
+      "title": "Massive chemical fire erupts at electrical transformer plant in Mississippi, forcing evacuation",
       "category": "U.S.",
-      "what": "Andrea Faust's insanity defense in her son's killing draws direct parallels to Lindsay Clancy's postpartum psychosis case as jurors deliberate.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/accused-nc-killer-mom-plans-insanity-defense-retired-judge-says-more-may-follow-lindsay-clancy-strategy",
+      "what": "A paint booth fire near an explosive tanker truck triggered a massive blaze at Howard Industries in Laurel, Mississippi, forcing evacuations.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/massive-chemical-fire-erupts-electrical-transformer-plant-mississippi-forcing-evacuation",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/accused-nc-killer-mom-plans-insanity-defense-retired-judge-says-more-may-follow-lindsay-clancy-strategy"
+          "url": "https://www.foxnews.com/us/massive-chemical-fire-erupts-electrical-transformer-plant-mississippi-forcing-evacuation"
         }
       ]
     },
     {
-      "title": "A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history",
+      "title": "Trump says Iran is ‘dead’ as Tehran is nearing the brink and more top headlines",
+      "category": "U.S.",
+      "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/us/trump-says-iran-tehran-nearing-brink-more-top-headlines",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/trump-says-iran-tehran-nearing-brink-more-top-headlines"
+        }
+      ]
+    },
+    {
+      "title": "Without new landers or rovers, it's helicopters or bust for NASA's Mars program",
       "category": "Tech",
-      "what": "Cut content from Portal 2, hints of Half Life 2: Episode 3, and so much more.",
+      "what": "NASA's cost estimate for SR-1 Freedom is $2.1 billion, but that doesn't include the helicopters.",
       "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
       "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
+      "source": "https://arstechnica.com/space/2026/09/without-new-landers-or-rovers-its-helicopters-or-bust-for-nasas-mars-program/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/"
+          "url": "https://arstechnica.com/space/2026/09/without-new-landers-or-rovers-its-helicopters-or-bust-for-nasas-mars-program/"
+        }
+      ]
+    },
+    {
+      "title": "NJ boater faces homicide charge as deadly summer on the water claims another life in third fatal crash",
+      "category": "U.S.",
+      "what": "Kevin Wells faces vehicular homicide charges after his boat struck a channel marker in Barnegat Bay, killing a 26-year-old passenger aboard.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/nj-boater-faces-homicide-charge-deadly-summer-water-claims-another-life-third-fatal-crash",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/nj-boater-faces-homicide-charge-deadly-summer-water-claims-another-life-third-fatal-crash"
+        }
+      ]
+    },
+    {
+      "title": "Private group wants to launch \"cheapest possible\" mission to Alpha Centauri",
+      "category": "Tech",
+      "what": "\"We could really be facing the great filter.\"",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/space/2026/09/private-group-wants-to-launch-cheapest-possible-mission-to-alpha-centauri/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/09/private-group-wants-to-launch-cheapest-possible-mission-to-alpha-centauri/"
+        }
+      ]
+    },
+    {
+      "title": "Trump admin shelves Cyclospora research despite record-breaking outbreak",
+      "category": "Tech",
+      "what": "The CDC has tallied nearly 30,000 confirmed and probable cases this summer.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://arstechnica.com/health/2026/08/trump-admin-shelves-cyclospora-research-despite-record-breaking-outbreak/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/08/trump-admin-shelves-cyclospora-research-despite-record-breaking-outbreak/"
         }
       ]
     }
