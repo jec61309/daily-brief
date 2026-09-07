@@ -1,17 +1,189 @@
 {
-  "date": "Sunday, September 6, 2026",
+  "date": "Monday, September 7, 2026",
   "stories": [
     {
-      "title": "‘Destroying the American way of life’: El-Sayed’s political orbit complicates effort to moderate his image",
+      "title": "Burundians rush to leave Kenya ahead of crackdown on unregistered traders",
+      "category": "World",
+      "what": "Kenya is due to start enforcing measures to restrict foreign nationals from operating small-scale businesses.",
+      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
+      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
+      "source": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Alleged cryptoscam ringleader set for plea hearing in $240M bitcoin theft",
+      "category": "U.S.",
+      "what": "Malone Lam allegedly used a social engineering attack to steal over 4,100 Bitcoin, then blew millions on Lamborghinis, nightclubs and mansions.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/alleged-cryptoscam-ringleader-set-plea-hearing-240m-bitcoin-theft",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/alleged-cryptoscam-ringleader-set-plea-hearing-240m-bitcoin-theft"
+        }
+      ]
+    },
+    {
+      "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+      "category": "World",
+      "what": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Sherrill anti-ICE policy hammered after fleeing migrant driver injures Dem mayor’s wife",
       "category": "Politics",
-      "what": "Abdul El-Sayed claims he's not a socialist, but Bernie Sanders, Alexandria Ocasio-Cortez and Democratic Socialists of America ties tell a different story.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/politics/destroying-american-way-life-el-sayeds-political-orbit-complicates-effort-moderate-his-image",
+      "what": "An illegal immigrant fled ICE agents and crashed into a Democratic mayor's wife on a New Jersey highway, reigniting the sanctuary state debate.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/politics/sherrill-anti-ice-policy-hammered-fleeing-migrant-driver-injures-dem-mayors-wife",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/destroying-american-way-life-el-sayeds-political-orbit-complicates-effort-moderate-his-image"
+          "url": "https://www.foxnews.com/politics/sherrill-anti-ice-policy-hammered-fleeing-migrant-driver-injures-dem-mayors-wife"
+        }
+      ]
+    },
+    {
+      "title": "Tanzanian President Samia's husband dies in hospital",
+      "category": "World",
+      "what": "Hafidh Ameir Hassan kept a low profile and was rarely seen in public with the president.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/cgqd774wzpdo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cgqd774wzpdo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Indonesia volcano eruption leaves 270,000 stranded as airports extend closure",
+      "category": "World",
+      "what": "Anak Krakatau, which lies about 150km from the capital Jakarta, began erupting late on Friday.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Sen Jim Justice finds way through Senate polarization to bring WWII hero memorial to DC",
+      "category": "Politics",
+      "what": "Jim Justice reveals how a last-minute conversation with Martin Heinrich broke a partisan logjam to pass the Hershel Woody Williams monument bill.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/sen-jim-justice-way-through-senate-polarization-bring-wwii-hero-memorial-dc",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/sen-jim-justice-way-through-senate-polarization-bring-wwii-hero-memorial-dc"
+        }
+      ]
+    },
+    {
+      "title": "Israel's ambassador says NYC’s Mamdani is ‘sowing chaos’ ahead of Netanyahu’s UN appearance",
+      "category": "Politics",
+      "what": "Israel's U.N. Ambassador Danny Danon said \"instead of actually welcoming all world leaders,\" NYC Mayor Zohran Mamdani is \"doing exactly the opposite.\"",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/politics/israels-ambassador-says-nycs-mamdani-sowing-chaos-ahead-netanyahu-un-appearance",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/israels-ambassador-says-nycs-mamdani-sowing-chaos-ahead-netanyahu-un-appearance"
+        }
+      ]
+    },
+    {
+      "title": "The complex corporate web behind a $3.2 billion AI data center",
+      "category": "Tech",
+      "what": "When multiple companies are behind one project, who bears responsibility for problems?",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/"
+        }
+      ]
+    },
+    {
+      "title": "Rescuers dig through debris as seven dead in building collapse in Delhi",
+      "category": "World",
+      "what": "It's not clear how many people were inside the building - or if there are still people under the debris.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Florida AG seeks death penalty for couple who allegedly held 4 children in ‘rolling prison’ for nearly 7 years",
+      "category": "U.S.",
+      "what": "Florida Attorney General James Uthmeier says his office will seek the death penalty for two adults who allegedly confined four children to a truck cab.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/florida-ag-seeks-death-penalty-couple-allegedly-held-4-children-rolling-prison-nearly-7-years",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/florida-ag-seeks-death-penalty-couple-allegedly-held-4-children-rolling-prison-nearly-7-years"
+        },
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/sanders-pushes-death-penalty-crucial-us-industry-critics-advantage-foreign-adversaries"
+        }
+      ]
+    },
+    {
+      "title": "Former USCIS official, accomplice charged in alleged $960K citizenship bribery scheme",
+      "category": "U.S.",
+      "what": "A former USCIS official and his accomplice allegedly accepted nearly $960,000 in bribes to fast-track citizenship applications, skipping key checks.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/former-uscis-official-accomplice-charged-alleged-960k-citizenship-bribery-scheme",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/former-uscis-official-accomplice-charged-alleged-960k-citizenship-bribery-scheme"
+        }
+      ]
+    },
+    {
+      "title": "Dramatic video captures floodwaters bursting through glass doors of college students’ home",
+      "category": "U.S.",
+      "what": "Dramatic video shows several feet of floodwater building up outside the glass doors before one panel suddenly gives way and sends water rushing into the student home.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/dramatic-video-captures-floodwaters-bursting-through-glass-doors-college-students-home",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/dramatic-video-captures-floodwaters-bursting-through-glass-doors-college-students-home"
         }
       ]
     },
@@ -30,52 +202,6 @@
       ]
     },
     {
-      "title": "Kushner, Witkoff set for Kyiv talks after Putin meeting in US push for peace",
-      "category": "Politics",
-      "what": "Steve Witkoff and Jared Kushner met with Vladimir Putin for over three hours in Moscow before heading to Kyiv to meet Volodymyr Zelenskyy.",
-      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
-      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
-      "source": "https://www.foxnews.com/politics/kushner-witkoff-set-kyiv-talks-after-putin-meeting-us-push-peace",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/kushner-witkoff-set-kyiv-talks-after-putin-meeting-us-push-peace"
-        }
-      ]
-    },
-    {
-      "title": "Dems descend on posh island getaway packed with deep-pocketed donors as midterms close in",
-      "category": "Politics",
-      "what": "Hakeem Jeffries, Jon Ossoff, and Josh Turek are among Democrats flocking to Nantucket to court wealthy donors despite the party's anti-elite rhetoric.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/dems-descend-posh-island-getaway-packed-deep-pocketed-donors-midterms-close",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/dems-descend-posh-island-getaway-packed-deep-pocketed-donors-midterms-close"
-        }
-      ]
-    },
-    {
-      "title": "Karmelo Anthony seeks $250K for murder appeal as questions persist over family’s previous $634K fundraiser",
-      "category": "U.S.",
-      "what": "Karmelo Anthony's family launches a new $250,000 GiveSendGo appeal fund after a previous campaign raised nearly $634,000 and sparked spending questions.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/us/karmelo-anthony-seeks-250k-murder-appeal-questions-persist-familys-previous-634k-fundraiser",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/karmelo-anthony-seeks-250k-murder-appeal-questions-persist-familys-previous-634k-fundraiser"
-        }
-      ]
-    },
-    {
       "title": "Farmed salmon may not be as nutritious as it once was, new research suggests",
       "category": "Tech",
       "what": "The shift in the fish’s diet is having significant downstream impacts on the environment and climate.",
@@ -86,132 +212,6 @@
         {
           "name": "Ars Technica",
           "url": "https://arstechnica.com/science/2026/09/farmed-salmon-may-not-be-as-nutritious-as-it-once-was-new-research-suggests/"
-        }
-      ]
-    },
-    {
-      "title": "Volcano eruption leaves 150,000 passengers stranded in Indonesia",
-      "category": "World",
-      "what": "More than 150,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "California pizza joint allegedly used as meth distribution hub as illegal immigrant charged",
-      "category": "U.S.",
-      "what": "Kawal Preet Singh allegedly used a Round Table Pizza in Dinuba to distribute over 40 pounds of methamphetamine as part of an organized crime network.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/california-pizza-joint-meth-den-illegal-immigrant",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/california-pizza-joint-meth-den-illegal-immigrant"
-        }
-      ]
-    },
-    {
-      "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
-      "category": "World",
-      "what": "Chandika Shrestha was airlifted to hospital after spending more than 10 days in her partially buried house.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "EXCLUSIVE: FBI's fifth Most Wanted Fraudster captured after alleged SNAP scam suspect arrested in India",
-      "category": "U.S.",
-      "what": "Manjit Singh Bedi was arrested in India after allegedly fleeing the U.S. to escape SNAP benefits fraud charges tied to an alleged $600,000 EBT scheme.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/exclusive-fbis-fifth-most-wanted-fraudster-captured-alleged-snap-scam-suspect-arrested-india",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/exclusive-fbis-fifth-most-wanted-fraudster-captured-alleged-snap-scam-suspect-arrested-india"
-        }
-      ]
-    },
-    {
-      "title": "Prince William to attend King Harald's funeral in Norway",
-      "category": "World",
-      "what": "The Prince of Wales will represent the King at the funeral of Harald V in Oslo next week.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Detransitioner takes malpractice fight to appeals court after North Carolina law change",
-      "category": "U.S.",
-      "what": "Prisha Mosley's detransition lawsuit against doctors who advised her double mastectomy and hormone therapy heads to a North Carolina appeals court.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/detransitioner-takes-malpractice-fight-appeals-court-north-carolina-law-change",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/detransitioner-takes-malpractice-fight-appeals-court-north-carolina-law-change"
-        }
-      ]
-    },
-    {
-      "title": "At least two dead in blast at Bolivia military barracks",
-      "category": "World",
-      "what": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Tesla’s Cybercab has been deployed, and it’s already under investigation",
-      "category": "Tech",
-      "what": "The US government is investigating whether the Cybercab meets vehicle safety standards.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/"
-        }
-      ]
-    },
-    {
-      "title": "Trump signs order to remove endangered species protection for grey wolves",
-      "category": "World",
-      "what": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
