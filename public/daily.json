@@ -1,115 +1,171 @@
 {
-  "date": "Monday, September 7, 2026",
+  "date": "Tuesday, September 8, 2026",
   "stories": [
     {
-      "title": "Burundians rush to leave Kenya ahead of crackdown on unregistered traders",
-      "category": "World",
-      "what": "Kenya is due to start enforcing measures to restrict foreign nationals from operating small-scale businesses.",
-      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
-      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
-      "source": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Alleged cryptoscam ringleader set for plea hearing in $240M bitcoin theft",
+      "title": "Third Burning Man festivalgoer dies during final days of annual Nevada desert gathering",
       "category": "U.S.",
-      "what": "Malone Lam allegedly used a social engineering attack to steal over 4,100 Bitcoin, then blew millions on Lamborghinis, nightclubs and mansions.",
+      "what": "A third Burning Man festivalgoer died while being transported to a Reno-area hospital, following two earlier deaths at Black Rock City during this year's gathering.",
       "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
       "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/alleged-cryptoscam-ringleader-set-plea-hearing-240m-bitcoin-theft",
+      "source": "https://www.foxnews.com/us/third-burning-man-festivalgoer-dies-final-days-annual-nevada-desert-gathering",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/alleged-cryptoscam-ringleader-set-plea-hearing-240m-bitcoin-theft"
+          "url": "https://www.foxnews.com/us/third-burning-man-festivalgoer-dies-final-days-annual-nevada-desert-gathering"
         }
       ]
     },
     {
-      "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+      "title": "Lindsay Clancy attorney Kevin Reddington signals he's open to a deal, hopes DA will 'revisit' case",
+      "category": "U.S.",
+      "what": "Lindsay Clancy's defense attorney says he hopes prosecutors will \"revisit\" the case and signals openness to a plea deal after the murder mistrial.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/lindsay-clancy-attorney-kevin-reddington-signals-open-deal-hopes-da-revisit-case",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/lindsay-clancy-attorney-kevin-reddington-signals-open-deal-hopes-da-revisit-case"
+        }
+      ]
+    },
+    {
+      "title": "New York City releases documents about air quality after 9/11",
       "category": "World",
-      "what": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
+      "what": "Officials assured the public the air was safe after the attacks, but the new documents suggest there were concerns.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cjdvyk3pm27o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cjdvyk3pm27o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Sherrill anti-ICE policy hammered after fleeing migrant driver injures Dem mayor’s wife",
+      "title": "Mamdani to release documents on 9/11 health impacts before 25th anniversary",
       "category": "Politics",
-      "what": "An illegal immigrant fled ICE agents and crashed into a Democratic mayor's wife on a New Jersey highway, reigniting the sanctuary state debate.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/sherrill-anti-ice-policy-hammered-fleeing-migrant-driver-injures-dem-mayors-wife",
+      "what": "Summary not available yet.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/politics/mamdani-release-documents-9-11-health-impacts-before-25th-anniversary",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/sherrill-anti-ice-policy-hammered-fleeing-migrant-driver-injures-dem-mayors-wife"
+          "url": "https://www.foxnews.com/politics/mamdani-release-documents-9-11-health-impacts-before-25th-anniversary"
         }
       ]
     },
     {
-      "title": "Tanzanian President Samia's husband dies in hospital",
+      "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
       "category": "World",
-      "what": "Hafidh Ameir Hassan kept a low profile and was rarely seen in public with the president.",
+      "what": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.",
+      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
+      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
+      "source": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "US rebuilding weapons stockpile could delay orders from allies",
+      "category": "Politics",
+      "what": "Patriot missile stockpiles have dropped to 36% of pre-Iran war levels as allies face delayed deliveries and U.S. rebuilds its defense inventory.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.foxnews.com/politics/us-rebuilding-weapons-stockpile-could-delay-orders-allies",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/us-rebuilding-weapons-stockpile-could-delay-orders-allies"
+        }
+      ]
+    },
+    {
+      "title": "Massive fire engulfs apartment complex under construction, forces evacuations in South Bend",
+      "category": "U.S.",
+      "what": "A massive construction fire engulfed the Stadium Flats apartments in South Bend, Indiana, forcing emergency evacuation of neighboring residents.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/massive-fire-engulfs-apartment-complex-construction-forces-evacuations-south-bend",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/massive-fire-engulfs-apartment-complex-construction-forces-evacuations-south-bend"
+        }
+      ]
+    },
+    {
+      "title": "Investigation after female staff at Eiffel Tower replaced by men for religious visit",
+      "category": "World",
+      "what": "The move saw outraged staff walk off the job on Monday, closing the French landmark for a day.",
       "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
       "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cgqd774wzpdo?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cgqd774wzpdo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Indonesia volcano eruption leaves 270,000 stranded as airports extend closure",
-      "category": "World",
-      "what": "Anak Krakatau, which lies about 150km from the capital Jakarta, began erupting late on Friday.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Sen Jim Justice finds way through Senate polarization to bring WWII hero memorial to DC",
-      "category": "Politics",
-      "what": "Jim Justice reveals how a last-minute conversation with Martin Heinrich broke a partisan logjam to pass the Hershel Woody Williams monument bill.",
+      "title": "President Trump's move just before the midterms looks to defy historic trend and more top headlines",
+      "category": "U.S.",
+      "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/sen-jim-justice-way-through-senate-polarization-bring-wwii-hero-memorial-dc",
+      "source": "https://www.foxnews.com/us/president-trumps-move-just-before-midterms-looks-defy-historic-trend-more-top-headlines",
       "sources": [
         {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/sen-jim-justice-way-through-senate-polarization-bring-wwii-hero-memorial-dc"
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/president-trumps-move-just-before-midterms-looks-defy-historic-trend-more-top-headlines"
         }
       ]
     },
     {
-      "title": "Israel's ambassador says NYC’s Mamdani is ‘sowing chaos’ ahead of Netanyahu’s UN appearance",
-      "category": "Politics",
-      "what": "Israel's U.N. Ambassador Danny Danon said \"instead of actually welcoming all world leaders,\" NYC Mayor Zohran Mamdani is \"doing exactly the opposite.\"",
+      "title": "Argentina to file criminal case against oil company operating in Falklands",
+      "category": "World",
+      "what": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/politics/israels-ambassador-says-nycs-mamdani-sowing-chaos-ahead-netanyahu-un-appearance",
+      "source": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Unearthed interview exposes what Talarico thought about 'tough-on-crime' tactics",
+      "category": "Politics",
+      "what": "Democratic Senate candidate James Talarico pushed restorative justice over suspension and expulsion, linking school discipline to criminal reform.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/unearthed-interview-exposes-what-talarico-thought-tough-crime-tactics",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/israels-ambassador-says-nycs-mamdani-sowing-chaos-ahead-netanyahu-un-appearance"
+          "url": "https://www.foxnews.com/politics/unearthed-interview-exposes-what-talarico-thought-tough-crime-tactics"
+        }
+      ]
+    },
+    {
+      "title": "At least two people dead after Russian strikes on Kyiv",
+      "category": "World",
+      "what": "Air raid alerts and sounds of explosions rang out in Ukraine's capital as Russian forces launched drone strikes early on Tuesday.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -119,71 +175,11 @@
       "what": "When multiple companies are behind one project, who bears responsibility for problems?",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+      "source": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/"
-        }
-      ]
-    },
-    {
-      "title": "Rescuers dig through debris as seven dead in building collapse in Delhi",
-      "category": "World",
-      "what": "It's not clear how many people were inside the building - or if there are still people under the debris.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Florida AG seeks death penalty for couple who allegedly held 4 children in ‘rolling prison’ for nearly 7 years",
-      "category": "U.S.",
-      "what": "Florida Attorney General James Uthmeier says his office will seek the death penalty for two adults who allegedly confined four children to a truck cab.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/florida-ag-seeks-death-penalty-couple-allegedly-held-4-children-rolling-prison-nearly-7-years",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/florida-ag-seeks-death-penalty-couple-allegedly-held-4-children-rolling-prison-nearly-7-years"
-        },
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/sanders-pushes-death-penalty-crucial-us-industry-critics-advantage-foreign-adversaries"
-        }
-      ]
-    },
-    {
-      "title": "Former USCIS official, accomplice charged in alleged $960K citizenship bribery scheme",
-      "category": "U.S.",
-      "what": "A former USCIS official and his accomplice allegedly accepted nearly $960,000 in bribes to fast-track citizenship applications, skipping key checks.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/former-uscis-official-accomplice-charged-alleged-960k-citizenship-bribery-scheme",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/former-uscis-official-accomplice-charged-alleged-960k-citizenship-bribery-scheme"
-        }
-      ]
-    },
-    {
-      "title": "Dramatic video captures floodwaters bursting through glass doors of college students’ home",
-      "category": "U.S.",
-      "what": "Dramatic video shows several feet of floodwater building up outside the glass doors before one panel suddenly gives way and sends water rushing into the student home.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/dramatic-video-captures-floodwaters-bursting-through-glass-doors-college-students-home",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/dramatic-video-captures-floodwaters-bursting-through-glass-doors-college-students-home"
+          "url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/"
         }
       ]
     },
