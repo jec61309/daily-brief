@@ -1,221 +1,217 @@
 {
-  "date": "Friday, September 11, 2026",
+  "date": "Saturday, September 12, 2026",
   "stories": [
     {
-      "title": "Claude users found ways around safeguards for bioweapons research",
-      "category": "Tech",
-      "what": "Some dangerous biology looks much like legitimate research, complicating AI safeguards.",
+      "title": "Passenger train derails in France leaving at least 44 injured",
+      "category": "World",
+      "what": "Local officials say186 passengers were on board the train operating the Rouen-Caen route in Normandy.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/"
-        }
-      ]
-    },
-    {
-      "title": "Lone holdout juror in Lindsay Clancy trial was only Black person on the jury, panelist reveals: report",
-      "category": "U.S.",
-      "what": "The lone holdout juror in the Lindsay Clancy mistrial was the only Black person on the jury, a fellow panelist revealed on \"CBS Mornings\" Friday.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/lone-holdout-juror-lindsay-clancy-trial-only-black-person-jury-panelist-reveals-report",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/lone-holdout-juror-lindsay-clancy-trial-only-black-person-jury-panelist-reveals-report"
-        }
-      ]
-    },
-    {
-      "title": "Princess Diana's 'revenge dress' goes up for auction",
-      "category": "World",
-      "what": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Massachusetts' highest court publicly reprimands judge accused of enabling immigrant to escape ICE",
-      "category": "Politics",
-      "what": "Judge Shelley Joseph was publicly rebuked after an illegal immigrant evaded Immigration and Customs Enforcement in her Massachusetts courtroom.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/massachusetts-highest-court-publicly-reprimands-judge-accused-enabling-immigrant-escape-ice",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/massachusetts-highest-court-publicly-reprimands-judge-accused-enabling-immigrant-escape-ice"
-        }
-      ]
-    },
-    {
-      "title": "Israel says it has destroyed major underground Hezbollah base",
+      "title": "Record heatwaves in France set to make champagne stronger",
       "category": "World",
-      "what": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "ClickFix attacks infecting PCs and Macs are going viral",
-      "category": "Tech",
-      "what": "Simplicity—combined with the difficulty of getting stuff done—makes ClickFix ideal.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/"
-        }
-      ]
-    },
-    {
-      "title": "What happens when quantum mechanics and relativity meet?",
-      "category": "Tech",
-      "what": "Experiment put atoms in a superposition of trajectories to find out.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/science/2026/09/what-happens-when-quantum-mechanics-and-relativity-meet/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/09/what-happens-when-quantum-mechanics-and-relativity-meet/"
-        }
-      ]
-    },
-    {
-      "title": "Trump set to honor 9/11 victims and first responders at Pentagon and more top headlines",
-      "category": "U.S.",
-      "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/us/trump-set-honor-9-11-victims-first-responders-pentagon-more-top-headlines",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/trump-set-honor-9-11-victims-first-responders-pentagon-more-top-headlines"
-        },
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-set-honor-9-11-victims-first-responders-pentagon-25th-anniversary"
-        }
-      ]
-    },
-    {
-      "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
-      "category": "World",
-      "what": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "25 years later, 9/11 memories endure as nation gathers to honor nearly 3,000 lives lost",
-      "category": "Politics",
-      "what": "Trump is expected to speak at the Pentagon ceremony as Ground Zero and the Flight 93 Memorial mark 25 years since the 9/11 terrorist attacks.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/25-years-later-9-11-memories-endure-nation-gathers-honor-nearly-3000-lives-lost",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/im-coming-home-last-words-haunt-911-daughter-25-years-later-builds-legacy-his-honor"
-        },
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/25-years-later-9-11-memories-endure-nation-gathers-honor-nearly-3000-lives-lost"
-        }
-      ]
-    },
-    {
-      "title": "Six Nigerians accused of romance scams to be extradited to the US",
-      "category": "World",
-      "what": "The six will face wire fraud and money-laundry charges in the US, South African police say.",
+      "what": "Winemakers can produce bubbly up to 15% ABV following an unusual harvest that produced sweeter grapes.",
       "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
       "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Ontario premier wants Republicans to lose House and Senate over Trump's trade war",
+      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+      "category": "World",
+      "what": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "White House unloads on violent ‘criminal alien’ nabbed after investigators uncover election offense",
       "category": "Politics",
-      "what": "Ontario Premier Doug Ford says he hopes Republicans lose the House and Senate in the midterms to hold President Donald Trump accountable for the trade war with Canada.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/ontario-premier-wants-republicans-lose-house-senate-trumps-trade-war",
+      "what": "Anthony Tyrone Higgs, a Bahamian green card holder with a violent rap sheet, was arrested after officials say he illegally voted in the 2020 election.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/politics/white-house-rips-violent-criminal-alien-nabbed-after-investigators-uncover-election-offense",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/ontario-premier-wants-republicans-lose-house-senate-trumps-trade-war"
+          "url": "https://www.foxnews.com/politics/white-house-rips-violent-criminal-alien-nabbed-after-investigators-uncover-election-offense"
         }
       ]
     },
     {
-      "title": "Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi",
-      "category": "World",
-      "what": "As Brics leaders meet in Delhi, divisions within the bloc make a united response to Washington unlikely.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/c07lv53l7jjo?at_medium=RSS&at_campaign=rss",
+      "title": "NBC beefs up security at 'Today' studio after Nancy Guthrie kidnapping, intruder incident",
+      "category": "U.S.",
+      "what": "NBC boosted security at its \"Today\" studio after Craig Melvin was accosted by an intruder who allegedly targeted Al Roker in a secure area.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/nbc-beefs-security-today-studio-nancy-guthrie-kidnapping-intruder-incident",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/nbc-beefs-security-today-studio-nancy-guthrie-kidnapping-intruder-incident"
+        }
+      ]
+    },
+    {
+      "title": "What does ‘Never Forget’ mean for a generation with no memory of 9/11?",
+      "category": "Politics",
+      "what": "Pentagon 9/11 Memorial leader says new education center aims to connect generations with no memory of 9/11 to the facts and gravity of the attacks.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/politics/what-does-never-forget-mean-generation-no-memory-9-11",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c07lv53l7jjo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/what-does-never-forget-mean-generation-no-memory-9-11"
         }
       ]
     },
     {
-      "title": "Charlie Kirk supporters return to site of assassination 1 year later: ‘We are still standing’",
-      "category": "U.S.",
-      "what": "Turning Point USA returned to Utah Valley University to reclaim the space where Charlie Kirk was assassinated, unveiling a new statue in his honor.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/charlie-kirk-supporters-return-site-assassination-1-year-later-still-standing",
+      "title": "Trump says he would 'love' to see Ireland unified as one nation",
+      "category": "Politics",
+      "what": "Speaking to reporters, President Donald Trump said he hopes to see Ireland become one country in the future, predicting reunification will happen over time.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/trump-says-he-would-love-see-ireland-unified-one-nation",
       "sources": [
         {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/charlie-kirk-supporters-return-site-assassination-1-year-later-still-standing"
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/trump-says-he-would-love-see-ireland-unified-one-nation"
         }
       ]
     },
     {
-      "title": "Patrol sergeant accused of murdering sheriff’s captain in yearslong romantic dispute over woman they dated",
+      "title": "I spent $4,000 on a robot dog from China",
+      "category": "Tech",
+      "what": "Unitree might be the world’s most important robotics company.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/"
+        }
+      ]
+    },
+    {
+      "title": "New York City Council pushes bill to take press passes away from 'Mangionistas'",
       "category": "U.S.",
-      "what": "Sgt. Nekime Matu Oxendine is accused of fatally shooting Cumberland County Sheriff’s Capt. Adam Bean after a confrontation outside a woman’s home.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/patrol-sergeant-accused-murdering-sheriffs-captain-yearslong-romantic-dispute-woman-dated",
+      "what": "A trio of Luigi Mangione supporters flaunted city-issued press passes at his trial, prompting a New York City Council bill to overhaul credentials.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/new-york-city-council-pushes-bill-take-press-passes-away-mangionistas",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/patrol-sergeant-accused-murdering-sheriffs-captain-yearslong-romantic-dispute-woman-dated"
+          "url": "https://www.foxnews.com/us/new-york-city-council-pushes-bill-take-press-passes-away-mangionistas"
+        }
+      ]
+    },
+    {
+      "title": "Lindsay Clancy DA rarely does plea deals, but her case could be the 'exception,' veteran attorney says",
+      "category": "U.S.",
+      "what": "Lindsay Clancy's mistrial sparks plea deal speculation as a veteran attorney says the Plymouth County DA's office may break its no-deal norm.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/lindsay-clancy-da-rarely-plea-deals-case-could-exception-veteran-attorney-says",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/lindsay-clancy-da-rarely-plea-deals-case-could-exception-veteran-attorney-says"
+        }
+      ]
+    },
+    {
+      "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
+      "category": "World",
+      "what": "The authorities have struggled to contain the fallout, as frightened migrants flee the country.",
+      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
+      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
+      "source": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
+      "category": "World",
+      "what": "The Chicago rapper was arrested in 2024 and accused of involvement in a shooting that killed the cousin of rival rapper Quando Rondo.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/c1kx0jje18wo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c1kx0jje18wo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Some satellite companies still have an appetite for boutique launch services",
+      "category": "Tech",
+      "what": "\"Dedicated launch is pretty essential for us for most of our missions.\"",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/"
+        }
+      ]
+    },
+    {
+      "title": "Fox News True Crime Newsletter: Lindsay Clancy jurors, Bryan Kohberger's legal move, Menendez brothers hearing",
+      "category": "U.S.",
+      "what": "Stay up to date with the Fox News True Crime Newsletter, which brings you the latest cases ripped from the headlines, from crime to courts, legal and scandal.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/fox-news-true-crime-newsletter-lindsay-clancy-jurors-bryan-kohbergers-legal-move-menendez-brothers-hearing",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/fox-news-true-crime-newsletter-lindsay-clancy-jurors-bryan-kohbergers-legal-move-menendez-brothers-hearing"
+        }
+      ]
+    },
+    {
+      "title": "Random rewards enrich classic game-theory insights",
+      "category": "Tech",
+      "what": "Simple games gain rich strategies in the face of noise.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/"
         }
       ]
     }
