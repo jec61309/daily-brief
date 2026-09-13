@@ -1,105 +1,171 @@
 {
-  "date": "Saturday, September 12, 2026",
+  "date": "Sunday, September 13, 2026",
   "stories": [
     {
-      "title": "Passenger train derails in France leaving at least 44 injured",
+      "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
       "category": "World",
-      "what": "Local officials say186 passengers were on board the train operating the Rouen-Caen route in Normandy.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Record heatwaves in France set to make champagne stronger",
-      "category": "World",
-      "what": "Winemakers can produce bubbly up to 15% ABV following an unusual harvest that produced sweeter grapes.",
+      "what": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
       "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
       "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-      "category": "World",
-      "what": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "White House unloads on violent ‘criminal alien’ nabbed after investigators uncover election offense",
+      "title": "GOP women sound alarm as Lindsay Clancy backlash revives calls to repeal 19th Amendment: ‘Definitely a threat’",
       "category": "Politics",
-      "what": "Anthony Tyrone Higgs, a Bahamian green card holder with a violent rap sheet, was arrested after officials say he illegally voted in the 2020 election.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/white-house-rips-violent-criminal-alien-nabbed-after-investigators-uncover-election-offense",
+      "what": "Republican women warn that online calls to repeal the 19th Amendment after the Lindsay Clancy trial could alienate female voters from the GOP.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/gop-women-sound-alarm-lindsay-clancy-backlash-revives-calls-repeal-19th-amendment-definitely-threat",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/white-house-rips-violent-criminal-alien-nabbed-after-investigators-uncover-election-offense"
+          "url": "https://www.foxnews.com/politics/gop-women-sound-alarm-lindsay-clancy-backlash-revives-calls-repeal-19th-amendment-definitely-threat"
         }
       ]
     },
     {
-      "title": "NBC beefs up security at 'Today' studio after Nancy Guthrie kidnapping, intruder incident",
+      "title": "Georgia killer who murdered two suburban real estate agents faces execution after 23-year wait for justice",
       "category": "U.S.",
-      "what": "NBC boosted security at its \"Today\" studio after Craig Melvin was accosted by an intruder who allegedly targeted Al Roker in a secure area.",
+      "what": "Lori Brown's mother recalls the 2003 Powder Springs murders of two real estate agents as Stacey Ian Humphreys' Georgia execution date nears.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/nbc-beefs-security-today-studio-nancy-guthrie-kidnapping-intruder-incident",
+      "source": "https://www.foxnews.com/us/georgia-killer-murdered-two-suburban-real-estate-agents-faces-execution-after-23-year-wait-justice",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/nbc-beefs-security-today-studio-nancy-guthrie-kidnapping-intruder-incident"
+          "url": "https://www.foxnews.com/us/georgia-killer-murdered-two-suburban-real-estate-agents-faces-execution-after-23-year-wait-justice"
         }
       ]
     },
     {
-      "title": "What does ‘Never Forget’ mean for a generation with no memory of 9/11?",
-      "category": "Politics",
-      "what": "Pentagon 9/11 Memorial leader says new education center aims to connect generations with no memory of 9/11 to the facts and gravity of the attacks.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/politics/what-does-never-forget-mean-generation-no-memory-9-11",
+      "title": "Iran war reshapes Brics ties but also exposes divisions",
+      "category": "World",
+      "what": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/what-does-never-forget-mean-generation-no-memory-9-11"
+          "url": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Trump says he would 'love' to see Ireland unified as one nation",
+      "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+      "category": "World",
+      "what": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Penn State frat cocaine bust blows lid off wider stimulant scourge hitting college campuses — and beyond",
+      "category": "U.S.",
+      "what": "The alleged Penn State cocaine ring exposed a surge in stimulant use across rural America, with methamphetamine and synthetic drugs alarming officials.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/penn-state-frat-cocaine-bust-blows-lid-wider-stimulant-scourge-hitting-college-campuses-beyond",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/penn-state-frat-cocaine-bust-blows-lid-wider-stimulant-scourge-hitting-college-campuses-beyond"
+        }
+      ]
+    },
+    {
+      "title": "Vulnerable House Republicans embrace Trump as GOP bets on defying midterm history",
       "category": "Politics",
-      "what": "Speaking to reporters, President Donald Trump said he hopes to see Ireland become one country in the future, predicting reunification will happen over time.",
+      "what": "President Donald Trump urged Republicans to \"pretend that I'm on the ballot,\" as vulnerable GOP incumbents rallied at the first-ever midterm convention.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/trump-says-he-would-love-see-ireland-unified-one-nation",
+      "source": "https://www.foxnews.com/politics/vulnerable-house-republicans-embrace-trump-gop-bets-defying-midterm-history",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-says-he-would-love-see-ireland-unified-one-nation"
+          "url": "https://www.foxnews.com/politics/vulnerable-house-republicans-embrace-trump-gop-bets-defying-midterm-history"
+        }
+      ]
+    },
+    {
+      "title": "GOP rising star reveals how Republicans can lock down minority voters without Trump on ballot",
+      "category": "Politics",
+      "what": "T.W. Shannon says Donald Trump transformed the GOP into a working party, pointing to job creation and lower crime as keys to winning Black voters.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/gop-rising-star-reveals-how-republicans-lock-down-minority-voters-without-trump-ballot",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/gop-rising-star-reveals-how-republicans-lock-down-minority-voters-without-trump-ballot"
+        }
+      ]
+    },
+    {
+      "title": "Man accused in brutal motel stabbing sought as person of interest in 4 deaths, child attack",
+      "category": "U.S.",
+      "what": "Kaegan Jude Solet is sought as a person of interest after four people were found stabbed to death and a child critically wounded in Houma, Louisiana.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/kaegan-solet-houma-louisiana-stabbing-person-of-interest",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/kaegan-solet-houma-louisiana-stabbing-person-of-interest"
+        }
+      ]
+    },
+    {
+      "title": "Florida woman accused of setting stranger on fire at gas station, leaving horrific burns",
+      "category": "U.S.",
+      "what": "Video captured Eleanor Crawford allegedly igniting gasoline while a stranger pumped fuel at a St. Petersburg Mobil gas station, police said.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/florida-woman-accused-setting-stranger-fire-gas-station-leaving-horrific-burns",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/florida-woman-accused-setting-stranger-fire-gas-station-leaving-horrific-burns"
+        }
+      ]
+    },
+    {
+      "title": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
+      "category": "World",
+      "what": "Some people fired in the wake of Kirk's assassination have won big settlements from employers, others have had to start over from scratch.",
+      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
+      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
+      "source": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
+      "category": "World",
+      "what": "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -118,62 +184,6 @@
       ]
     },
     {
-      "title": "New York City Council pushes bill to take press passes away from 'Mangionistas'",
-      "category": "U.S.",
-      "what": "A trio of Luigi Mangione supporters flaunted city-issued press passes at his trial, prompting a New York City Council bill to overhaul credentials.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/new-york-city-council-pushes-bill-take-press-passes-away-mangionistas",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/new-york-city-council-pushes-bill-take-press-passes-away-mangionistas"
-        }
-      ]
-    },
-    {
-      "title": "Lindsay Clancy DA rarely does plea deals, but her case could be the 'exception,' veteran attorney says",
-      "category": "U.S.",
-      "what": "Lindsay Clancy's mistrial sparks plea deal speculation as a veteran attorney says the Plymouth County DA's office may break its no-deal norm.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/lindsay-clancy-da-rarely-plea-deals-case-could-exception-veteran-attorney-says",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/lindsay-clancy-da-rarely-plea-deals-case-could-exception-veteran-attorney-says"
-        }
-      ]
-    },
-    {
-      "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
-      "category": "World",
-      "what": "The authorities have struggled to contain the fallout, as frightened migrants flee the country.",
-      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
-      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
-      "source": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
-      "category": "World",
-      "what": "The Chicago rapper was arrested in 2024 and accused of involvement in a shooting that killed the cousin of rival rapper Quando Rondo.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/c1kx0jje18wo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c1kx0jje18wo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
       "title": "Some satellite companies still have an appetite for boutique launch services",
       "category": "Tech",
       "what": "\"Dedicated launch is pretty essential for us for most of our missions.\"",
@@ -184,20 +194,6 @@
         {
           "name": "Ars Technica",
           "url": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/"
-        }
-      ]
-    },
-    {
-      "title": "Fox News True Crime Newsletter: Lindsay Clancy jurors, Bryan Kohberger's legal move, Menendez brothers hearing",
-      "category": "U.S.",
-      "what": "Stay up to date with the Fox News True Crime Newsletter, which brings you the latest cases ripped from the headlines, from crime to courts, legal and scandal.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/fox-news-true-crime-newsletter-lindsay-clancy-jurors-bryan-kohbergers-legal-move-menendez-brothers-hearing",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/fox-news-true-crime-newsletter-lindsay-clancy-jurors-bryan-kohbergers-legal-move-menendez-brothers-hearing"
         }
       ]
     },
