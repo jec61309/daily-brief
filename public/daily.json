@@ -1,213 +1,221 @@
 {
-  "date": "Wednesday, September 16, 2026",
+  "date": "Thursday, September 17, 2026",
   "stories": [
     {
-      "title": "Jim Jordan subpoenas blue state DAs accused of 'preferential treatment' for illegal immigrant criminals",
+      "title": "Leaked Trump plan sparks GOP showdown over how far Republicans should go to support families",
       "category": "Politics",
-      "what": "Jim Jordan issued subpoenas to district attorneys in Fairfax County and Boulder County, accusing both of giving preferential treatment to criminal aliens.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/jim-jordan-subpoenas-blue-state-das-accused-preferential-treatment-illegal-immigrant-criminals",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/jim-jordan-subpoenas-blue-state-das-accused-preferential-treatment-illegal-immigrant-criminals"
-        }
-      ]
-    },
-    {
-      "title": "Trump DHS hits 16 straight months with 0 releases at the border",
-      "category": "Politics",
-      "what": "President Donald Trump's border policies hit 16 consecutive months of zero releases as apprehensions dropped 94% from Biden-era averages.",
+      "what": "The Trump admin's $9,000 stay-at-home parent proposal sparks a fierce conservative divide, with some critics calling it socialism and a slippery slope.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/trump-dhs-hits-16-straight-months-0-releases-border",
+      "source": "https://www.foxnews.com/politics/leaked-trump-plan-sparks-gop-showdown-over-how-far-republicans-should-go-support-families",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-dhs-hits-16-straight-months-0-releases-border"
+          "url": "https://www.foxnews.com/politics/leaked-trump-plan-sparks-gop-showdown-over-how-far-republicans-should-go-support-families"
         }
       ]
     },
     {
-      "title": "US limits visas for South African officials over alleged anti-white discrimination",
+      "title": "Ninth woman's body found as South African police investigate string of deaths",
       "category": "World",
-      "what": "Secretary of State Marco Rubio says South Africa has not addressed US concerns over racial inequality.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o?at_medium=RSS&at_campaign=rss",
+      "what": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
+      "title": "Democrats reluctantly hand Trump major victory on key program targeting Tim Walz",
+      "category": "Politics",
+      "what": "Hakeem Jeffries and over 140 House Democrats joined Republicans to make Trump's National Fraud Enforcement Division permanent in a 352-72 vote.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/democrats-reluctantly-hand-trump-major-victory-key-program-targeting-tim-walz",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/democrats-reluctantly-hand-trump-major-victory-key-program-targeting-tim-walz"
+        }
+      ]
+    },
+    {
+      "title": "Republicans just got a powerful new playbook for the battle for Congress. Here's what's inside",
+      "category": "Politics",
+      "what": "First on Fox: Advancing American Freedom unveils over 100 proposals to cut housing, energy and healthcare costs ahead of 2026 midterm elections.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/republicans-powerful-new-playbook-battle-congress-whats-inside",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/republicans-powerful-new-playbook-battle-congress-whats-inside"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/culture/2026/09/haymitch-gets-a-backstory-in-sunrise-on-the-reaping-trailer/"
+        }
+      ]
+    },
+    {
+      "title": "Klopp wants to 'reclaim' flag amid German elections",
       "category": "World",
-      "what": "Dozens of people are missing beneath the rubble of a building hit by an Israeli strike last year, where some 10 families had been living.",
+      "what": "New Germany coach Jurgen Klopp says his team can help ensure \"national pride is not entrusted to the wrong people\" after a recent far-right election victory.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/sport/football/articles/cmwyzk6xkrd0o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzk6xkrd0o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "San Diego bystanders chase down suspected Tesla thief after woman struck on boardwalk",
+      "category": "U.S.",
+      "what": "Video captured on smart glasses shows bystander Alex Srour chasing down a suspect who allegedly drove a stolen Tesla through a San Diego pedestrian walkway.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/san-diego-bystanders-chase-down-suspected-tesla-thief-woman-struck-boardwalk",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/san-diego-bystanders-chase-down-suspected-tesla-thief-woman-struck-boardwalk"
+        }
+      ]
+    },
+    {
+      "title": "Swedish PM Kristersson resigns after election loss",
+      "category": "World",
+      "what": "Left-wing opposition parties led by Magdalena Andersson look set to form the next government.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Arizona sheriff deploys helicopter to save 2 stranded in flooded car",
+      "category": "U.S.",
+      "what": "Video shows a Maricopa County Sheriff's Office helicopter rescuing two people in their 80s from a flooded car on State Route 238 during heavy rains.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/arizona-sheriff-deploys-helicopter-save-2-stranded-flooded-car",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/arizona-sheriff-deploys-helicopter-save-2-stranded-flooded-car"
+        }
+      ]
+    },
+    {
+      "title": "Texas man who killed 3 in 2005 burglary executed after warden asks him for last words",
+      "category": "U.S.",
+      "what": "LeJames Norman was the fifth death row inmate executed in Texas this year after he pleaded guilty to capital murder in a 2005 triple killing.",
       "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
       "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Florida woman allegedly drugs man she met at club, steals his nearly $100K Rolex: police",
-      "category": "U.S.",
-      "what": "Lynda Mae Crouse allegedly drugged a man she met at a South Florida club before stealing his $98,400 diamond-bedazzled Rolex Presidential watch.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/florida-woman-allegedly-drugs-man-met-club-steals-nearly-100k-rolex-police",
+      "source": "https://www.foxnews.com/us/texas-man-killed-3-2005-burglary-executed-warden-asks-last-words",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/florida-woman-allegedly-drugs-man-met-club-steals-nearly-100k-rolex-police"
+          "url": "https://www.foxnews.com/us/texas-man-killed-3-2005-burglary-executed-warden-asks-last-words"
         }
       ]
     },
     {
-      "title": "Dem House speaker torched for invoking 9/11 to attack key Trump policy: 'Totally wrong'",
-      "category": "Politics",
-      "what": "Ryan Mackenzie demands Joanna McClinton apologize after the Pennsylvania House speaker linked Trump's immigration crackdown to potential 9/11 violence.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/dem-house-speaker-torched-invoking-9-11-attack-key-trump-policy-totally-wrong",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/dem-house-speaker-torched-invoking-9-11-attack-key-trump-policy-totally-wrong"
-        }
-      ]
-    },
-    {
-      "title": "EU chief backs plan for Canada to become 'associate member'",
-      "category": "World",
-      "what": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "NBC reporter, pilot among the victims identified in deadly Los Angeles helicopter crash",
-      "category": "U.S.",
-      "what": "Journalist Eliana Moreno and pilot George Marciniw were identified as victims of the NBC4 helicopter crash in Los Angeles' Chatsworth neighborhood.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/nbc-reporter-pilot-among-victims-identified-deadly-los-angeles-helicopter-crash",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/nbc-reporter-pilot-among-victims-identified-deadly-los-angeles-helicopter-crash"
-        }
-      ]
-    },
-    {
-      "title": "Philippines' Duterte seen in person at International Criminal Court for first time",
-      "category": "World",
-      "what": "He is due to be tried for crimes against humanity over thousands of deaths linked to his war on drugs.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.bbc.co.uk/news/articles/cq986j7x1nd3o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cq986j7x1nd3o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Colombia and Brazil deadliest countries for environmental activists, report says",
-      "category": "World",
-      "what": "The two countries accounted for 52% of killings of environmental activists in 2025, according to Global Witness.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/c6kgxjl35822o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6kgxjl35822o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Attempted Trump assassin Thomas Crooks’ behavior revealed ‘red flags’ before attack: former FBI agent",
-      "category": "U.S.",
-      "what": "FBI documents reveal Thomas Crooks was \"spiraling\" before the Trump assassination attempt, with witnesses noting erratic behavior and odd habits.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/us/attempted-trump-assassin-thomas-crooks-behavior-revealed-red-flags-before-attack-former-fbi-agent",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/attempted-trump-assassin-thomas-crooks-behavior-revealed-red-flags-before-attack-former-fbi-agent"
-        }
-      ]
-    },
-    {
-      "title": "Charlie Kirk's family alleges UVU knew of security risk before his assassination and more top headlines",
+      "title": "Kavanaugh throws Trump ‘a lifeline’ on mail ballot rules despite Supreme Court loss and more top headlines",
       "category": "U.S.",
       "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/charlie-kirks-family-alleges-uvu-knew-security-risk-more-top-headlines",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/kavanaugh-throws-trump-lifeline-mail-ballot-rules-supreme-court-more-top-headlines",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/charlie-kirks-family-alleges-uvu-knew-security-risk-more-top-headlines"
+          "url": "https://www.foxnews.com/us/kavanaugh-throws-trump-lifeline-mail-ballot-rules-supreme-court-more-top-headlines"
+        },
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/kavanaugh-throws-trump-lifeline-mail-ballot-rules-despite-supreme-court-loss-midterms"
         }
       ]
     },
     {
-      "title": "How chimps teach their kids tool tricks",
-      "category": "Tech",
-      "what": "Adults first demonstrate tool use, then hand over the implements to their infants, who copy the behavior.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/",
+      "title": "River home to 500 crocodiles chosen as Olympic rowing venue",
+      "category": "World",
+      "what": "A river that is home to about 500 saltwater crocodiles is given the OK to host Olympic and Paralympic rowing and canoeing events at the 2032 Brisbane Games.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/sport/olympics/articles/cqvgy1m9z4k8o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/"
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/sport/olympics/articles/cqvgy1m9z4k8o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "The Roman telescope has enough gas for 22 years, double NASA's expectations",
-      "category": "Tech",
-      "what": "The Nancy Grace Roman Space Telescope is the first NASA observatory designed for in-space refueling.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/",
+      "title": "Aztec document goes on display in Mexico after 186 years abroad",
+      "category": "World",
+      "what": "France's national library is lending the manuscript recounting the history of the Aztecs to Mexico.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/ck980qyy6d2zo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/"
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ck980qyy6d2zo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "“Filmmaker” suing PassThePopcorn may be banned user out for revenge",
+      "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
       "category": "Tech",
-      "what": "Allegedly fake filmmaker targeted trackers like PassThePopcorn, BroadcasTheNet, and HDBits.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/tech-policy/2026/09/filmmaker-suing-passthepopcorn-may-be-banned-user-out-for-revenge/",
+      "what": "Planned 2029 debut could make this Apple’s first enterprise server in decades.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/09/filmmaker-suing-passthepopcorn-may-be-banned-user-out-for-revenge/"
+          "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/"
+        }
+      ]
+    },
+    {
+      "title": "Epstein had huge cache of child sex pics; victims sue to find out who's in them",
+      "category": "Tech",
+      "what": "Survivors appalled nobody will tell them if they’re in Epstein’s CSAM collection.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/tech-policy/2026/09/lawsuit-trump-doj-notified-very-few-victims-in-epsteins-stash-of-child-sex-images/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-trump-doj-notified-very-few-victims-in-epsteins-stash-of-child-sex-images/"
+        }
+      ]
+    },
+    {
+      "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
+      "category": "Tech",
+      "what": "Group plans to be largely out of commission for several weeks.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/"
         }
       ]
     }
