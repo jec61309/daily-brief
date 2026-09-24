@@ -1,221 +1,213 @@
 {
-  "date": "Wednesday, September 23, 2026",
+  "date": "Thursday, September 24, 2026",
   "stories": [
     {
-      "title": "Eleven killed in mass shooting at house in South Africa",
-      "category": "World",
-      "what": "One of those killed is believed to be a pregnant woman, police said.",
+      "title": "Top public university’s ‘LGBTQ+ lab’ hit with race-bias complaint amid $700K in Trump-era federal funding",
+      "category": "Politics",
+      "what": "The University of Maryland's Lavender Lab faces a Title VI complaint alleging its advisory board and hiring practices discriminate based on race.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Newsom's admission that infamous COVID move was 'insane' triggers viral fury: 'We all told you'",
-      "category": "Politics",
-      "what": "Gavin Newsom called California's COVID beach closures \"insane\" in hindsight, sparking fierce backlash from critics who say they warned him then.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.foxnews.com/politics/newsoms-admission-infamous-covid-move-insane-triggers-viral-fury-we-all-told-you",
+      "source": "https://www.foxnews.com/politics/top-public-university-lgbtq-lab-hit-race-bias-complaint-amid-700k-trump-era-federal-funding",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/newsoms-admission-infamous-covid-move-insane-triggers-viral-fury-we-all-told-you"
+          "url": "https://www.foxnews.com/politics/top-public-university-lgbtq-lab-hit-race-bias-complaint-amid-700k-trump-era-federal-funding"
         }
       ]
     },
     {
-      "title": "America gave up its rare earth edge. China took full advantage.",
-      "category": "Tech",
-      "what": "Decades of cheaper imports left US dependent on China for crucial rare earth processing.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://arstechnica.com/reviews/2026/09/how-the-us-handed-china-control-of-the-rare-earth-supply-chain/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/reviews/2026/09/how-the-us-handed-china-control-of-the-rare-earth-supply-chain/"
-        }
-      ]
-    },
-    {
-      "title": "Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing",
+      "title": "Judge temporarily overturns Trump's White House media ban",
       "category": "World",
-      "what": "The US Justice Department's response to a lawsuit filed by CNN, Politico and MS NOW also cites national security.",
+      "what": "A court has ordered the US government to reinstate access to the building for CNN, Politico and MS NOW.",
       "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
       "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/cqm2mg34x2v7o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cqm2mg34x2v7o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Angry Anderson, rock star who soundtracked Kylie's wedding in Neighbours, dies aged 79",
-      "category": "World",
-      "what": "He fronted the rock band Rose Tattoo, but became best known for his solo hit Suddenly.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cqn745px55nno?at_medium=RSS&at_campaign=rss",
+      "title": "Trump administration uncovers $1.2B in suspected COVID contract fraud tied to Biden-era spending",
+      "category": "Politics",
+      "what": "The General Services Administration uncovered $1.22 billion in suspected fraud across five HHS COVID-era contracts that outlasted the pandemic.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/trump-administration-uncovers-1-2b-suspected-covid-contract-fraud-tied-biden-era-spending",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqn745px55nno?at_medium=RSS&at_campaign=rss"
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/trump-administration-uncovers-1-2b-suspected-covid-contract-fraud-tied-biden-era-spending"
         }
       ]
     },
     {
-      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-      "category": "World",
-      "what": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "New Jersey police pull out 3-foot python from woman's car grille, bodycam video shows",
+      "title": "Texas triple murderer uses last words before execution to send message to death row inmates",
       "category": "U.S.",
-      "what": "Body camera footage shows New Jersey police dismantling a car's front bumper to free a 3-foot ball python wedged inside the vehicle's grille.",
+      "what": "Ker'Sean Ramey received lethal injection at Huntsville prison, one week after accomplice LeJames Norman was executed for the same triple killing.",
       "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
       "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/new-jersey-police-pull-3-foot-python-womans-car-grille-bodycam-video-shows",
+      "source": "https://www.foxnews.com/us/texas-triple-murderer-uses-last-words-execution-send-message-death-row-inmates",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/new-jersey-police-pull-3-foot-python-womans-car-grille-bodycam-video-shows"
+          "url": "https://www.foxnews.com/us/texas-triple-murderer-uses-last-words-execution-send-message-death-row-inmates"
         }
       ]
     },
     {
-      "title": "Pro-life leader sounds alarm after doctor gets 6 months for forcing abortion pills on girlfriend",
+      "title": "Trump-Xi summit could hold key to lower gas prices, GOP chairman says",
       "category": "Politics",
-      "what": "Marjorie Dannenfelser slams the six-month sentence for Hassan-James Abbas, who forced crushed abortion pills into his pregnant girlfriend's mouth.",
-      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
-      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
-      "source": "https://www.foxnews.com/politics/pro-life-leader-sounds-alarm-doctor-gets-6-months-forcing-abortion-pills-girlfriend",
+      "what": "Rep. Brian Mast says President Donald Trump can press Xi Jinping to stop arming Iran, potentially easing gas prices tied to Strait of Hormuz chaos.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/trump-xi-summit-could-hold-key-lower-gas-prices-gop-chairman-says",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/pro-life-leader-sounds-alarm-doctor-gets-6-months-forcing-abortion-pills-girlfriend"
+          "url": "https://www.foxnews.com/politics/trump-xi-summit-could-hold-key-lower-gas-prices-gop-chairman-says"
         }
       ]
     },
     {
-      "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
+      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
       "category": "World",
-      "what": "The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it.",
+      "what": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Lost in translation: Israel, Huckabee blast Macron over Hamas comments as France clarifies wording",
-      "category": "Politics",
-      "what": "President Donald Trump vowed Iran will never have a nuclear weapon as United Nations leaders accused Israel of war crimes and forced displacement.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/lost-translation-israel-huckabee-blast-macron-over-hamas-comments-france-clarifies-wording",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/lost-translation-israel-huckabee-blast-macron-over-hamas-comments-france-clarifies-wording"
-        }
-      ]
-    },
-    {
-      "title": "Small undersea volcanoes may unleash outsized tsunamis",
-      "category": "Tech",
-      "what": "Post-eruption imaging of the Hunga caldera gives new details of its collapse.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/science/2026/09/small-undersea-volcanoes-may-unleash-outsized-tsunamis/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/09/small-undersea-volcanoes-may-unleash-outsized-tsunamis/"
-        }
-      ]
-    },
-    {
-      "title": "Chinese President Xi set to arrive in DC for high-stakes Trump summit and more top headlines",
+      "title": "President Trump to hold high-stakes summit with China's Xi and more top headlines",
       "category": "U.S.",
       "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/us/chinese-president-xi-set-arrive-dc-high-stakes-trump-summit-more-top-headlines",
+      "source": "https://www.foxnews.com/us/trump-hold-high-stakes-summit-chinas-xi-more-top-headlines",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cj207y30wp0lo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/chinese-president-xi-set-arrive-dc-high-stakes-trump-summit-more-top-headlines"
-        },
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/chinas-xi-arrive-washington-high-stakes-trump-summit-ai-supremacy-battle-looms-large"
+          "url": "https://www.foxnews.com/us/trump-hold-high-stakes-summit-chinas-xi-more-top-headlines"
         }
       ]
     },
     {
-      "title": "A new report from Europe raises serious alarms about orbital collisions",
-      "category": "Tech",
-      "what": "\"I think we are going to lose the ability to use certain orbits.\"",
+      "title": "Mistress says she gave ‘American Idol’ contestant ultimatum before wife’s killing blew up affair",
+      "category": "U.S.",
+      "what": "Caleb Flynn's mistress testified he talked about wanting Ashley Flynn dead and once said he was thinking about ways to kill her before the shooting.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/space/2026/09/there-are-now-17000-satellites-in-orbit-and-growing-should-we-be-concerned/",
+      "source": "https://www.foxnews.com/us/mistress-gave-american-idol-contestant-ultimatum-before-wife-killing-blew-up-affair",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/mistress-gave-american-idol-contestant-ultimatum-before-wife-killing-blew-up-affair"
+        }
+      ]
+    },
+    {
+      "title": "Review: Apple's hyper-pricey M5 Ultra Mac Studio made me into a vibe coder",
+      "category": "Tech",
+      "what": "Usable local AI is a lot of fun, but how much would you pay for it?",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/gadgets/2026/09/review-apples-hyper-pricey-m5-ultra-mac-studio-made-me-into-a-vibe-coder/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/09/there-are-now-17000-satellites-in-orbit-and-growing-should-we-be-concerned/"
+          "url": "https://arstechnica.com/gadgets/2026/09/review-apples-hyper-pricey-m5-ultra-mac-studio-made-me-into-a-vibe-coder/"
         }
       ]
     },
     {
-      "title": "Texas lawmaker warns accused wife-killer's Italy escape could open 'Pandora's box' for future suspects",
-      "category": "U.S.",
-      "what": "Lee Gilley fled Texas for Italy after being charged with capital murder, and a lawmaker warns the extradition fight could set a dangerous precedent.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.foxnews.com/us/texas-lawmaker-warns-accused-wife-killers-italy-escape-could-open-pandoras-box-future-suspects",
+      "title": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
+      "category": "World",
+      "what": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/texas-lawmaker-warns-accused-wife-killers-italy-escape-could-open-pandoras-box-future-suspects"
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Massachusetts lesbian bar ignites fury after easing mask rules for one night a week",
+      "title": "Ole Miss deaths, druggings have ‘people scared to leave’ dorms as bars, Greek life clamp down: students",
       "category": "U.S.",
-      "what": "Last Ditch Bar in Greenfield, Massachusetts, faces a boycott and accusations of ableism after lifting its mask mandate on Saturdays to stay afloat.",
+      "what": "Mary Harvey says she was drugged at an Ole Miss bar and found passed out in her dorm hallway, as kratom was recovered near two student deaths.",
       "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
       "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/massachusetts-lesbian-bar-ignites-fury-after-easing-mask-rules-for-one-night-a-week",
+      "source": "https://www.foxnews.com/us/ole-miss-deaths-druggings-people-scared-leave-dorms-bars-greek-life-clamp-down-students",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/massachusetts-lesbian-bar-ignites-fury-after-easing-mask-rules-for-one-night-a-week"
+          "url": "https://www.foxnews.com/us/ole-miss-deaths-druggings-people-scared-leave-dorms-bars-greek-life-clamp-down-students"
+        }
+      ]
+    },
+    {
+      "title": "Why India's Election Commission is in the eye of a storm - again",
+      "category": "World",
+      "what": "India's polling monitor is facing yet another crisis of credibility with fresh allegations against its chief.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+      "category": "World",
+      "what": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "RFK Jr.'s CDC isn’t letting states order COVID-19 shots for kids, blocking access",
+      "category": "Tech",
+      "what": "US health deptartment said it wants to ensure the vaccine orders are \"appropriate.\"",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/health/2026/09/rfk-jr-s-cdc-isnt-letting-states-order-covid-19-shots-for-kids-blocking-access/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/09/rfk-jr-s-cdc-isnt-letting-states-order-covid-19-shots-for-kids-blocking-access/"
+        }
+      ]
+    },
+    {
+      "title": "FBI rushes to investigate if ShinyHunters hack of thousands of employees is real",
+      "category": "Tech",
+      "what": "It's unclear what will happen if FBI misses ShinyHunters' deadline.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/tech-policy/2026/09/fbi-rushes-to-investigate-if-shinyhunters-hack-of-thousands-of-employees-is-real/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/09/fbi-rushes-to-investigate-if-shinyhunters-hack-of-thousands-of-employees-is-real/"
         }
       ]
     }
