@@ -1,38 +1,94 @@
 {
-  "date": "Sunday, September 27, 2026",
+  "date": "Monday, September 28, 2026",
   "stories": [
     {
-      "title": "Two mass shootings in South Africa leave 27 dead",
+      "title": "Yemen-born vape shop owner near Ole Miss fled country after synthetic drug trafficking indictment: docs",
+      "category": "U.S.",
+      "what": "Amer Alowdi, owner of a vape shop near Ole Miss, was previously indicted for trafficking synthetic cannabinoid before the recent kratom raid.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/yemen-born-vape-shop-owner-ole-miss-fled-country-synthetic-drug-trafficking-indictment-docs",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/yemen-born-vape-shop-owner-ole-miss-fled-country-synthetic-drug-trafficking-indictment-docs"
+        }
+      ]
+    },
+    {
+      "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
       "category": "World",
-      "what": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+      "what": "South African President Cyril Ramaphosa says the murders are a \"stain on our national conscience\".",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Trump's Greenland obsession isn’t random. Here’s what’s at stake",
+      "title": "Iran court upholds lashes sentence for singer who performed without hijab",
+      "category": "World",
+      "what": "Parastoo Ahmadi was convicted of \"offending public decency\" after singing while wearing a sleeveless dress during a livestreamed concert.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Remains of dozens of suspected kidnap victims found in Nigerian forests",
+      "category": "World",
+      "what": "Investigations are ongoing to establish the identities of at least 28 people whose remains were recovered by police.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/c6e30x757nx4o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6e30x757nx4o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Reporter's Notebook: Senate Republicans scrap early exit from Washington as midterm stakes soar",
       "category": "Politics",
-      "what": "Greenland's untapped rare earth minerals, oil and gas reserves could reshape U.S. energy security as Trump's Denmark deal expands military presence.",
+      "what": "Senate Republicans force a test vote on the Ratepayer Protection Act, daring Democrats to block a data center affordability bill boosting Jon Husted.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/trumps-greenland-obsession-isnt-random-heres-whats-stake",
+      "source": "https://www.foxnews.com/politics/reporters-notebook-senate-republicans-scrap-early-exit-washington-midterm-stakes-soar",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trumps-greenland-obsession-isnt-random-heres-whats-stake"
+          "url": "https://www.foxnews.com/politics/reporters-notebook-senate-republicans-scrap-early-exit-washington-midterm-stakes-soar"
         }
       ]
     },
     {
-      "title": "Ten climbers missing after avalanche hits Himalayan base camp",
+      "title": "WATCH: ‘American Idol’ alum Caleb Flynn tells cops flag-carrying stranger came to door before wife’s shooting",
+      "category": "U.S.",
+      "what": "Caleb Flynn's recorded police interview reveals what he told investigators happened the night Ashley Flynn was fatally shot in their Tipp City home.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/american-idol-alum-caleb-flynn-tells-cops-flag-carrying-stranger-came-door-before-wifes-shooting",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/american-idol-alum-caleb-flynn-tells-cops-flag-carrying-stranger-came-door-before-wifes-shooting"
+        }
+      ]
+    },
+    {
+      "title": "Four bodies found after avalanche hits Himalayan climbing group",
       "category": "World",
-      "what": "The Nepali team was preparing to take overseas climbers up the Himlung Himal peak.",
+      "what": "Rescuers are still looking for 12 Nepalese cook staff who were preparing for climbers to ascend the Himlung Himal peak.",
       "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
       "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
       "source": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
@@ -44,128 +100,100 @@
       ]
     },
     {
-      "title": "Trump reaffirms ICE arrest policy after confusing guidance sparks alarm among agents",
+      "title": "Blue city funds immigrant activist program with taxpayer dollars, critics say it 'shuts citizens out'",
       "category": "Politics",
-      "what": "Trump told officials that anyone in the country illegally remains \"on the table\" for arrest and deportation after internal ICE guidance caused confusion.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/trump-reaffirms-ice-arrest-policy-confusing-guidance-sparks-alarm-agents",
+      "what": "Boston Mayor Michelle Wu's office offers $575 taxpayer-funded scholarships training immigrants in civic engagement and community organizing.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/politics/blue-city-funds-immigrant-activist-program-taxpayer-dollars-critics-say-shuts-citizens",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-reaffirms-ice-arrest-policy-confusing-guidance-sparks-alarm-agents"
+          "url": "https://www.foxnews.com/politics/blue-city-funds-immigrant-activist-program-taxpayer-dollars-critics-say-shuts-citizens"
         }
       ]
     },
     {
-      "title": "One dead as nor'easter storm pummels New York and New Jersey",
+      "title": "Nigerian attempts to break world record by dancing non-stop for seven days",
       "category": "World",
-      "what": "Tens of millions of people from Maine to Virginia found themselves in the path of the powerful weather system.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Florida sex offender accused of babysitting-ad trap as police investigate potential interstate predator",
-      "category": "U.S.",
-      "what": "Julius Hunter allegedly lured a teen to a fake $300 babysitting job on Craigslist before a hours-long sexual assault at a Clarkston apartment.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/florida-sex-offender-accused-babysitting-ad-trap-police-investigate-potential-interstate-predator",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/florida-sex-offender-accused-babysitting-ad-trap-police-investigate-potential-interstate-predator"
-        }
-      ]
-    },
-    {
-      "title": "'Scourge' of abuse must be rooted out, says Pope, during Lourdes visit",
-      "category": "World",
-      "what": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.",
+      "what": "Crowds have gathered in Lagos to watch Ben Dancer, who says he will carry on dancing until Tuesday morning.",
       "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
       "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Lee Gilley’s Texas attorney ‘never had one like this’ as accused wife killer clings to Italian lifeline",
-      "category": "U.S.",
-      "what": "Lee Gilley's attorney says Italy blocked extradition over capital murder death penalty concerns, forcing Harris County prosecutors to make concessions.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/lee-gilley-texas-attorney-never-had-one-like-this-accused-wife-killer-clings-italian-lifeline",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/lee-gilley-texas-attorney-never-had-one-like-this-accused-wife-killer-clings-italian-lifeline"
-        }
-      ]
-    },
-    {
-      "title": "Iran ‘miscalculating’ by betting on midterms after 3-hour talks, Trump officials warn",
+      "title": "Republicans zero in on key player accused of helping Democrat fundraising giant hide foreign cash",
       "category": "Politics",
-      "what": "President Donald Trump says Iran is waiting on midterm elections to cut a deal, but Marco Rubio warns Tehran misreads U.S. presidential powers.",
+      "what": "House Republicans summon ActBlue attorney Ronald Machen for a closed-door interview, citing contradictions in his prior statements on donor verification.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/iran-miscalculating-betting-midterms-after-3-hour-talks-trump-officials-warn",
+      "source": "https://www.foxnews.com/politics/republicans-zero-key-player-accused-helping-democrat-fundraising-giant-hide-foreign-cash",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/iran-miscalculating-betting-midterms-after-3-hour-talks-trump-officials-warn"
+          "url": "https://www.foxnews.com/politics/republicans-zero-key-player-accused-helping-democrat-fundraising-giant-hide-foreign-cash"
         }
       ]
     },
     {
-      "title": "Lindsay Clancy attorney Kevin Reddington fires back at lone holdout juror's attorney after fiery interview",
+      "title": "Lindsay Clancy holdout juror’s lawyer challenges claim he broke the law and more top headlines",
       "category": "U.S.",
-      "what": "Kevin Reddington fires back at Edward Paltzik, calling the holdout juror's attorney a \"histrionic individual\" as Lindsay Clancy's defense fights on.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.foxnews.com/us/lindsay-clancy-attorney-kevin-reddington-fires-back-lone-holdout-juror-attorney-fiery-interview",
+      "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/lindsay-clancy-holdout-jurors-lawyer-challenges-claim-he-broke-law-more-top-headlines",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/lindsay-clancy-attorney-kevin-reddington-fires-back-lone-holdout-juror-attorney-fiery-interview"
+          "url": "https://www.foxnews.com/us/lindsay-clancy-holdout-jurors-lawyer-challenges-claim-he-broke-law-more-top-headlines"
         }
       ]
     },
     {
-      "title": "Bangkok roads submerged as flood disaster declared",
-      "category": "World",
-      "what": "Authorities said the heavy rains have subsided but the flooding is not yet over.",
+      "title": "Microsoft goes quiet after church groups ask for 1% of data center costs",
+      "category": "Tech",
+      "what": "“Microsoft claims to want to be a good neighbor, but the jury is still out.\"",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
+      "source": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss"
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/"
         }
       ]
     },
     {
-      "title": "Hiker falls up to 1,000 feet to his death day after another body found on same mountain",
+      "title": "Texas man arrested after 'intentionally' crashing into a closed Kroger to use bathroom: cops",
       "category": "U.S.",
-      "what": "Gary Idleburg fell 800 to 1,000 feet from a Sauk Mountain switchback trail in Skagit County, marking the second hiker death there in two days.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/hiker-falls-1000-feet-death-day-after-another-body-found-same-mountain",
+      "what": "A 60-year-old Texas man crashed his vehicle into a closed Kroger because he needed to use the bathroom and now faces criminal mischief charges.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/texas-man-arrested-intentionally-crashing-closed-kroger-use-bathroom-cops",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/hiker-falls-1000-feet-death-day-after-another-body-found-same-mountain"
+          "url": "https://www.foxnews.com/us/texas-man-arrested-intentionally-crashing-closed-kroger-use-bathroom-cops"
+        }
+      ]
+    },
+    {
+      "title": "How the Smithsonian became the latest front in Trump’s culture war",
+      "category": "Tech",
+      "what": "The Smithsonian has faced withering pressure from the Trump administration.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/"
         }
       ]
     },
@@ -180,34 +208,6 @@
         {
           "name": "Ars Technica",
           "url": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/"
-        }
-      ]
-    },
-    {
-      "title": "Can Trump ever be wrong? His pick to lead FDA refused to say.",
-      "category": "Tech",
-      "what": "Heidi Overton faced questions focused on vaccines, birth control, and vapes.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/"
-        }
-      ]
-    },
-    {
-      "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
-      "category": "Tech",
-      "what": "\"Overly constrained AI models\" could cause military operations to fail, judges say.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/"
         }
       ]
     }
