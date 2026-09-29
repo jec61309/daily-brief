@@ -1,122 +1,56 @@
 {
-  "date": "Monday, September 28, 2026",
+  "date": "Tuesday, September 29, 2026",
   "stories": [
     {
-      "title": "Yemen-born vape shop owner near Ole Miss fled country after synthetic drug trafficking indictment: docs",
-      "category": "U.S.",
-      "what": "Amer Alowdi, owner of a vape shop near Ole Miss, was previously indicted for trafficking synthetic cannabinoid before the recent kratom raid.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/yemen-born-vape-shop-owner-ole-miss-fled-country-synthetic-drug-trafficking-indictment-docs",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/yemen-born-vape-shop-owner-ole-miss-fled-country-synthetic-drug-trafficking-indictment-docs"
-        }
-      ]
-    },
-    {
-      "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
+      "title": "Dutch police arrest suspected member of group that claimed FBI hack",
       "category": "World",
-      "what": "South African President Cyril Ramaphosa says the murders are a \"stain on our national conscience\".",
+      "what": "The suspect, 24, was arrested before the alleged cyber attack took place.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/cw5ym18znr0ro?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cw5ym18znr0ro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/fbi-strikes-back-hacking-group-overseas-arrest-alleged-leader"
         }
       ]
     },
     {
-      "title": "Iran court upholds lashes sentence for singer who performed without hijab",
+      "title": "Spain announces ban on evictions after protests over 87-year-old woman's eviction",
       "category": "World",
-      "what": "Parastoo Ahmadi was convicted of \"offending public decency\" after singing while wearing a sleeveless dress during a livestreamed concert.",
+      "what": "The ban is part of a number of proposals that must be approved in parliament within 30 days.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Trans NYT Games executive killed after accusing in-laws of years of abuse amid bitter custody battle",
+      "category": "U.S.",
+      "what": "Jonathan McKinsey alleged years of abuse by his wife's parents in court filings before the Dublin, California, shooting that claimed his life Saturday.",
       "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
       "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Remains of dozens of suspected kidnap victims found in Nigerian forests",
-      "category": "World",
-      "what": "Investigations are ongoing to establish the identities of at least 28 people whose remains were recovered by police.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/c6e30x757nx4o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6e30x757nx4o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Reporter's Notebook: Senate Republicans scrap early exit from Washington as midterm stakes soar",
-      "category": "Politics",
-      "what": "Senate Republicans force a test vote on the Ratepayer Protection Act, daring Democrats to block a data center affordability bill boosting Jon Husted.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/reporters-notebook-senate-republicans-scrap-early-exit-washington-midterm-stakes-soar",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/reporters-notebook-senate-republicans-scrap-early-exit-washington-midterm-stakes-soar"
-        }
-      ]
-    },
-    {
-      "title": "WATCH: ‘American Idol’ alum Caleb Flynn tells cops flag-carrying stranger came to door before wife’s shooting",
-      "category": "U.S.",
-      "what": "Caleb Flynn's recorded police interview reveals what he told investigators happened the night Ashley Flynn was fatally shot in their Tipp City home.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/american-idol-alum-caleb-flynn-tells-cops-flag-carrying-stranger-came-door-before-wifes-shooting",
+      "source": "https://www.foxnews.com/us/trans-nyt-games-executive-killed-accusing-in-laws-years-abuse-bitter-custody-battle",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/american-idol-alum-caleb-flynn-tells-cops-flag-carrying-stranger-came-door-before-wifes-shooting"
+          "url": "https://www.foxnews.com/us/trans-nyt-games-executive-killed-accusing-in-laws-years-abuse-bitter-custody-battle"
         }
       ]
     },
     {
-      "title": "Four bodies found after avalanche hits Himalayan climbing group",
+      "title": "Nigerian dances non-stop for seven days in world record bid",
       "category": "World",
-      "what": "Rescuers are still looking for 12 Nepalese cook staff who were preparing for climbers to ascend the Himlung Himal peak.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Blue city funds immigrant activist program with taxpayer dollars, critics say it 'shuts citizens out'",
-      "category": "Politics",
-      "what": "Boston Mayor Michelle Wu's office offers $575 taxpayer-funded scholarships training immigrants in civic engagement and community organizing.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/politics/blue-city-funds-immigrant-activist-program-taxpayer-dollars-critics-say-shuts-citizens",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/blue-city-funds-immigrant-activist-program-taxpayer-dollars-critics-say-shuts-citizens"
-        }
-      ]
-    },
-    {
-      "title": "Nigerian attempts to break world record by dancing non-stop for seven days",
-      "category": "World",
-      "what": "Crowds have gathered in Lagos to watch Ben Dancer, who says he will carry on dancing until Tuesday morning.",
+      "what": "Crowds cheered on Ben Dancer as completed his challenge and he has now gone to hospital for a check-up",
       "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
       "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
       "source": "https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o?at_medium=RSS&at_campaign=rss",
@@ -128,86 +62,156 @@
       ]
     },
     {
-      "title": "Republicans zero in on key player accused of helping Democrat fundraising giant hide foreign cash",
+      "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
+      "category": "World",
+      "what": "It comes after the woman filed a civil lawsuit alleging she was drugged and raped at a fraternity house in 2024.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "OpenAI says planned GPT-6.1 is too insecure to release",
+      "category": "Tech",
+      "what": "Similar performance, security tradeoffs also seen in current public models.",
+      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
+      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
+      "source": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/"
+        }
+      ]
+    },
+    {
+      "title": "Inside Operation Blackout: Patel reveals global scam ‘cities’ targeting your parents’ life savings",
       "category": "Politics",
-      "what": "House Republicans summon ActBlue attorney Ronald Machen for a closed-door interview, citing contradictions in his prior statements on donor verification.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/republicans-zero-key-player-accused-helping-democrat-fundraising-giant-hide-foreign-cash",
+      "what": "FBI Director Kash Patel says Operation Blackout has seized roughly $17 billion tied to scam compounds targeting senior citizens across the globe.",
+      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
+      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
+      "source": "https://www.foxnews.com/politics/inside-operation-blackout-patel-reveals-global-scam-cities-targeting-your-parents-life-savings",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/republicans-zero-key-player-accused-helping-democrat-fundraising-giant-hide-foreign-cash"
+          "url": "https://www.foxnews.com/politics/inside-operation-blackout-patel-reveals-global-scam-cities-targeting-your-parents-life-savings"
         }
       ]
     },
     {
-      "title": "Lindsay Clancy holdout juror’s lawyer challenges claim he broke the law and more top headlines",
-      "category": "U.S.",
-      "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/lindsay-clancy-holdout-jurors-lawyer-challenges-claim-he-broke-law-more-top-headlines",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/lindsay-clancy-holdout-jurors-lawyer-challenges-claim-he-broke-law-more-top-headlines"
-        }
-      ]
-    },
-    {
-      "title": "Microsoft goes quiet after church groups ask for 1% of data center costs",
+      "title": "Anthropic’s IPO pitch includes a warning about human extinction",
       "category": "Tech",
-      "what": "“Microsoft claims to want to be a good neighbor, but the jury is still out.\"",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/",
+      "what": "The Claude maker warns its own models could resist shutdowns and cause catastrophic harm.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/"
+          "url": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/"
         }
       ]
     },
     {
-      "title": "Texas man arrested after 'intentionally' crashing into a closed Kroger to use bathroom: cops",
-      "category": "U.S.",
-      "what": "A 60-year-old Texas man crashed his vehicle into a closed Kroger because he needed to use the bathroom and now faces criminal mischief charges.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/texas-man-arrested-intentionally-crashing-closed-kroger-use-bathroom-cops",
+      "title": "US ban on Canadian alcohol and dairy takes effect as trade war drags on",
+      "category": "World",
+      "what": "It is the latest escalation in the Canada-US trade war after negotiations collapsed in late August, with no word on when talks may resume.",
+      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
+      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
+      "source": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/texas-man-arrested-intentionally-crashing-closed-kroger-use-bathroom-cops"
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "How the Smithsonian became the latest front in Trump’s culture war",
-      "category": "Tech",
-      "what": "The Smithsonian has faced withering pressure from the Trump administration.",
+      "title": "EXCLUSIVE: Hegseth to double cuts to generals, admirals in major Pentagon shakeup",
+      "category": "Politics",
+      "what": "Pete Hegseth's State of the Force address doubles last year's cuts, targeting a 20% reduction in general and flag officer billets across all services.",
+      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
+      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
+      "source": "https://www.foxnews.com/politics/exclusive-hegseth-double-cuts-generals-admirals-major-pentagon-shakeup",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/exclusive-hegseth-double-cuts-generals-admirals-major-pentagon-shakeup"
+        }
+      ]
+    },
+    {
+      "title": "Jack Smith's Trump probe swept up Fox News, other media communications as investigation went beyond lawmakers",
+      "category": "Politics",
+      "what": "Jack Smith's investigators obtained records containing communications between nearly 50 journalists and government officials during the Trump probe.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/",
+      "source": "https://www.foxnews.com/politics/jack-smith-probe-swept-up-fox-news-other-media-communications-government-sources",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/"
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/jack-smith-probe-swept-up-fox-news-other-media-communications-government-sources"
         }
       ]
     },
     {
-      "title": "Tesla’s big electric truck faces an even bigger infrastructure challenge",
+      "title": "Interview: Firefox's chief on why he hopes a redesign will help win users from Chrome",
       "category": "Tech",
-      "what": "The 500-mile Semi arrives as charging gaps still limit electric trucking.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/",
+      "what": "Mozilla's Ajit Varma explains why a redesign suits the fight for the open web.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/"
+          "url": "https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/"
+        }
+      ]
+    },
+    {
+      "title": "Lindsay Clancy holdout juror breaks silence for first time and more top headlines",
+      "category": "U.S.",
+      "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/lindsay-clancy-holdout-juror-breaks-silence-time-more-top-headlines",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/lindsay-clancy-holdout-juror-breaks-silence-time-more-top-headlines"
+        }
+      ]
+    },
+    {
+      "title": "Mass migration eroding Western sovereignty, immigration expert warns",
+      "category": "U.S.",
+      "what": "President Donald Trump challenged the United Nations General Assembly on mass migration, but an expert says the sovereignty crisis runs deeper.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/us/mass-migration-eroding-western-sovereignty-immigration-expert-warns",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/mass-migration-eroding-western-sovereignty-immigration-expert-warns"
+        }
+      ]
+    },
+    {
+      "title": "LSU frat pledges allegedly waterboarded, forced to chug milk in hazing rituals: report",
+      "category": "U.S.",
+      "what": "An urgent complaint alleges waterboarding at Delta Kappa Epsilon as Louisiana State University suspends two fraternities amid a hazing probe.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/lsu-frat-pledges-allegedly-waterboarded-forced-chug-milk-hazing-rituals-report",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/lsu-frat-pledges-allegedly-waterboarded-forced-chug-milk-hazing-rituals-report"
         }
       ]
     }
