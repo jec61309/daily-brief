@@ -1,213 +1,217 @@
 {
-  "date": "Thursday, October 1, 2026",
+  "date": "Friday, October 2, 2026",
   "stories": [
     {
-      "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
+      "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
       "category": "World",
-      "what": "Lawyers for Good's family say US officials created \"an unprecedented environment for state sponsored violence\" in Minneapolis.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss",
+      "what": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Police near Ole Miss respond to suspected overdose, say 'not student-related'",
+      "title": "Trump campaign insider reveals strategy behind midterm blitz that White House hopes pays off big",
+      "category": "Politics",
+      "what": "Donald Trump's 32-state rally tour through deep red states has a hidden strategy that pundits are missing, says a veteran campaign strategist.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/trump-campaign-insider-reveals-strategy-midterm-blitz-white-house-hopes-pays-off-big",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/trump-campaign-insider-reveals-strategy-midterm-blitz-white-house-hopes-pays-off-big"
+        }
+      ]
+    },
+    {
+      "title": "Cornell rape allegations prompt NY Attorney General Letitia James to open ‘active criminal investigation’",
       "category": "U.S.",
-      "what": "A 22-year-old was revived after a suspected overdose in Oxford, Miss., but police say it's unrelated to two recent Ole Miss student deaths.",
+      "what": "Letitia James announced an active criminal probe into the alleged Cornell University gang rape after Gov. Kathy Hochul named her special prosecutor.",
       "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
       "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/police-near-ole-miss-respond-suspected-overdose-say-not-student-related",
+      "source": "https://www.foxnews.com/us/cornell-rape-allegations-prompt-ny-attorney-general-letitia-james-open-active-criminal-investigation",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/police-near-ole-miss-respond-suspected-overdose-say-not-student-related"
+          "url": "https://www.foxnews.com/us/cornell-rape-allegations-prompt-ny-attorney-general-letitia-james-open-active-criminal-investigation"
+        },
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/aocs-dramatic-retelling-cornell-rape-allegations-collides-complaint-details"
         }
       ]
     },
     {
-      "title": "Fires break out at French schools as students protest nationwide",
+      "title": "DOJ moves to boot federal judges from immigration cases over NYT interview",
+      "category": "Politics",
+      "what": "The Justice Department filed a judicial misconduct complaint against seven Minnesota federal judges over a New York Times immigration interview.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/politics/doj-moves-boot-federal-judges-immigration-cases-nyt-interview",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/doj-moves-boot-federal-judges-immigration-cases-nyt-interview"
+        }
+      ]
+    },
+    {
+      "title": "DHS torches sanctuary Fairfax after accused child predator released despite immigration detainer",
+      "category": "Politics",
+      "what": "DHS blasted Fairfax County, Virginia, after ICE arrested a Honduran illegal immigrant charged with child sex crimes whom the sanctuary county had released.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/politics/dhs-torches-sanctuary-fairfax-accused-child-predator-released-despite-immigration-detainer",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/dhs-torches-sanctuary-fairfax-accused-child-predator-released-despite-immigration-detainer"
+        }
+      ]
+    },
+    {
+      "title": "I've seen nearly 500 executions - but never one like Christa Pike's",
       "category": "World",
-      "what": "The French government holds a crisis meeting as demonstrations grow and become violent in places.",
+      "what": "Texas reporter Michael Graczyk has seen botched executions in his time, but not one in which an inmate survived.",
       "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
       "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/c6d080d1e3l4o?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6d080d1e3l4o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Algeria introduces death penalty for arsonists after deadly wildfires",
+      "title": "Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract",
+      "category": "Tech",
+      "what": "Blue Origin seeks FAA approval for up to 50 New Glenn launches and 50 booster landings per year.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/"
+        }
+      ]
+    },
+    {
+      "title": "Ms Rachel pours cash into progressive campaigns and more top headlines",
+      "category": "U.S.",
+      "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/us/ms-rachel-pours-cash-progressive-campaigns-more-top-headlines",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/ms-rachel-pours-cash-progressive-campaigns-more-top-headlines"
+        }
+      ]
+    },
+    {
+      "title": "Christa Pike’s botched lethal injection takes focus off victim, jeopardizes execution: former police chief",
+      "category": "U.S.",
+      "what": "Christa Pike's botched lethal injection could end capital punishment in Tennessee altogether, warns former Knoxville Police chief Phil Keith.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.foxnews.com/us/christa-pike-botched-lethal-injection-takes-focus-off-victim-jeopardizes-execution-former-police-chief",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/christa-pike-botched-lethal-injection-takes-focus-off-victim-jeopardizes-execution-former-police-chief"
+        }
+      ]
+    },
+    {
+      "title": "TCL is right to question Samsung’s use of the term “Mini LED”",
+      "category": "Tech",
+      "what": "Can it be Mini LED without a FALD backlight?",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/gadgets/2026/10/tcl-is-right-to-question-samsungs-use-of-the-term-mini-led/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/10/tcl-is-right-to-question-samsungs-use-of-the-term-mini-led/"
+        }
+      ]
+    },
+    {
+      "title": "Kash Patel defends FBI's ‘Most Wanted’ busts amid manipulation accusations, highlights 'Summer Heat' success",
+      "category": "U.S.",
+      "what": "Kash Patel defends the FBI's Most Wanted list amid scrutiny, pointing to Operation Summer Heat 2.0's 8,900-plus arrests and record seizures.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/kash-patel-defends-fbis-most-wanted-busts-amid-manipulation-accusations-highlights-summer-heat-success",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/kash-patel-defends-fbis-most-wanted-busts-amid-manipulation-accusations-highlights-summer-heat-success"
+        }
+      ]
+    },
+    {
+      "title": "Cornell students gather to voice anger over alleged gang rape",
       "category": "World",
-      "what": "It is estimated more than 200 people have died in blazes in the north-east of the country over the summer.",
+      "what": "Students tell the BBC that the tension on campus has become palpable since allegations from 2024 resurfaced.",
       "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
       "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cmge4exg44v5o?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmge4exg44v5o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Fox News ‘Antisemitism Exposed’ Newsletter: Bravery stops terror in sky and at temple",
-      "category": "U.S.",
-      "what": "Fox News' \"Antisemitism Exposed\" newsletter brings you stories on the rising anti-Jewish prejudice across the U.S. and the world.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-bravery-stops-terror-sky-temple",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-bravery-stops-terror-sky-temple"
-        }
-      ]
-    },
-    {
-      "title": "Trump handing 1 million Americans Obamacare refund checks in 30 states",
-      "category": "Politics",
-      "what": "The White House is sending $500 refund checks with a personal Trump letter to 950,000 Americans across 30 states over Obamacare overcharges.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/trump-handing-1-million-americans-obamacare-refund-checks-30-states",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-handing-1-million-americans-obamacare-refund-checks-30-states"
-        }
-      ]
-    },
-    {
-      "title": "Wisconsin mosque leader’s deportation fight takes dramatic turn as Trump admin scores major win",
-      "category": "Politics",
-      "what": "Marco Rubio ordered the deportation of Milwaukee's largest mosque leader on national security grounds, citing Israeli convictions and alleged terror ties.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/wisconsin-mosque-leader-deportation-fight-takes-dramatic-turn-trump-admin-scores-major-win",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/wisconsin-mosque-leader-deportation-fight-takes-dramatic-turn-trump-admin-scores-major-win"
-        }
-      ]
-    },
-    {
-      "title": "Tennessee halts executions after death row inmate Christa Pike survives hers",
+      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
       "category": "World",
-      "what": "Christa Pike was transported to hospital after the failed attempts. Her condition remains unknown.",
+      "what": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Netanyahu says flight attacker 'underwent Islamist radical indoctrination'",
+      "title": "OpenAI fires workers for 'mishandling sensitive information'",
       "category": "World",
-      "what": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
+      "what": "The former employees were investigated for sharing data with an outside AI evaluation group.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Iranian negotiators kicked out of US as talks stall, Trump lays out 'possible' timeline for more strikes",
-      "category": "Politics",
-      "what": "Marco Rubio ordered Iran's delegation to leave New York after talks stalled, as President Donald Trump warned ramped-up bombing is \"possible.\"",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/iranian-negotiators-kicked-out-us-talks-stall-trump-lays-possible-timeline-more-strikes",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/iranian-negotiators-kicked-out-us-talks-stall-trump-lays-possible-timeline-more-strikes"
-        }
-      ]
-    },
-    {
-      "title": "Loyal dog fetches police to help owner who fell at Kansas home",
-      "category": "U.S.",
-      "what": "Bodycam footage shows a Leawood police officer following the leashed dog down the street to a garage where its owner had been on the floor for hours.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/loyal-dog-fetches-police-help-owner-who-fell-kansas-home",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/loyal-dog-fetches-police-help-owner-who-fell-kansas-home"
-        }
-      ]
-    },
-    {
-      "title": "Former Arizona fraternity leader sentenced to jail time after pledge dies in off-campus hazing",
-      "category": "U.S.",
-      "what": "Carter Eslick, former Northern Arizona University fraternity leader, pleaded guilty to felony hazing in the alcohol poisoning death of a pledge.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/former-arizona-fraternity-leader-sentenced-jail-time-pledge-dies-off-campus-hazing",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/former-arizona-fraternity-leader-sentenced-jail-time-pledge-dies-off-campus-hazing"
-        }
-      ]
-    },
-    {
-      "title": "PS5 emulation is suddenly making big strides on PC",
+      "title": "Venus' mysterious haze is actually cosmic dust",
       "category": "Tech",
-      "what": "Games like Astro Bot and Demon’s Souls are running ably without a console.",
+      "what": "A physical model show that iron dust and sulfuric acid create the right properties.",
       "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
       "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/gaming/2026/10/ps5-emulation-is-suddenly-making-big-strides-on-pc/",
+      "source": "https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/gaming/2026/10/ps5-emulation-is-suddenly-making-big-strides-on-pc/"
-        }
-      ]
-    },
-    {
-      "title": "NASA squeezed Treasury, vibe coded, and broke the mold in bid to save Swift",
-      "category": "Tech",
-      "what": "\"We did some really, really cool stuff. I'm absolutely gutted we weren't able to get further.\"",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/space/2026/10/heres-why-nasa-is-celebrating-the-failed-mission-to-save-the-swift-observatory/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/10/heres-why-nasa-is-celebrating-the-failed-mission-to-save-the-swift-observatory/"
-        }
-      ]
-    },
-    {
-      "title": "Dinosaur-killing impact crater might have been teeming with life",
-      "category": "Tech",
-      "what": "Hot, nutrient water might have lasted for over 5 million years after the impact.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/science/2026/09/dinosaur-killing-impact-crater-might-have-been-teeming-with-life/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/09/dinosaur-killing-impact-crater-might-have-been-teeming-with-life/"
+          "url": "https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/"
         }
       ]
     }
