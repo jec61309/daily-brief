@@ -1,217 +1,213 @@
 {
-  "date": "Friday, October 2, 2026",
+  "date": "Saturday, October 3, 2026",
   "stories": [
     {
-      "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
-      "category": "World",
-      "what": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Trump campaign insider reveals strategy behind midterm blitz that White House hopes pays off big",
+      "title": "DHS exposes dilemma behind SCOTUS deportation fight: ‘We have two choices’",
       "category": "Politics",
-      "what": "Donald Trump's 32-state rally tour through deep red states has a hidden strategy that pundits are missing, says a veteran campaign strategist.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/trump-campaign-insider-reveals-strategy-midterm-blitz-white-house-hopes-pays-off-big",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-campaign-insider-reveals-strategy-midterm-blitz-white-house-hopes-pays-off-big"
-        }
-      ]
-    },
-    {
-      "title": "Cornell rape allegations prompt NY Attorney General Letitia James to open ‘active criminal investigation’",
-      "category": "U.S.",
-      "what": "Letitia James announced an active criminal probe into the alleged Cornell University gang rape after Gov. Kathy Hochul named her special prosecutor.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/cornell-rape-allegations-prompt-ny-attorney-general-letitia-james-open-active-criminal-investigation",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/cornell-rape-allegations-prompt-ny-attorney-general-letitia-james-open-active-criminal-investigation"
-        },
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/aocs-dramatic-retelling-cornell-rape-allegations-collides-complaint-details"
-        }
-      ]
-    },
-    {
-      "title": "DOJ moves to boot federal judges from immigration cases over NYT interview",
-      "category": "Politics",
-      "what": "The Justice Department filed a judicial misconduct complaint against seven Minnesota federal judges over a New York Times immigration interview.",
+      "what": "DHS General Counsel James Percival defends third-country removals on social media as the Supreme Court temporarily stays a lower-court ruling.",
       "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
       "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/doj-moves-boot-federal-judges-immigration-cases-nyt-interview",
+      "source": "https://www.foxnews.com/politics/dhs-exposes-dilemma-behind-scotus-deportation-fight-two-choices",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/doj-moves-boot-federal-judges-immigration-cases-nyt-interview"
+          "url": "https://www.foxnews.com/politics/dhs-exposes-dilemma-behind-scotus-deportation-fight-two-choices"
         }
       ]
     },
     {
-      "title": "DHS torches sanctuary Fairfax after accused child predator released despite immigration detainer",
-      "category": "Politics",
-      "what": "DHS blasted Fairfax County, Virginia, after ICE arrested a Honduran illegal immigrant charged with child sex crimes whom the sanctuary county had released.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/dhs-torches-sanctuary-fairfax-accused-child-predator-released-despite-immigration-detainer",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/dhs-torches-sanctuary-fairfax-accused-child-predator-released-despite-immigration-detainer"
-        }
-      ]
-    },
-    {
-      "title": "I've seen nearly 500 executions - but never one like Christa Pike's",
+      "title": "Why has Brazil accused the US of election interference?",
       "category": "World",
-      "what": "Texas reporter Michael Graczyk has seen botched executions in his time, but not one in which an inmate survived.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract",
-      "category": "Tech",
-      "what": "Blue Origin seeks FAA approval for up to 50 New Glenn launches and 50 booster landings per year.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/"
-        }
-      ]
-    },
-    {
-      "title": "Ms Rachel pours cash into progressive campaigns and more top headlines",
-      "category": "U.S.",
-      "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+      "what": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/us/ms-rachel-pours-cash-progressive-campaigns-more-top-headlines",
+      "source": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/ms-rachel-pours-cash-progressive-campaigns-more-top-headlines"
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Christa Pike’s botched lethal injection takes focus off victim, jeopardizes execution: former police chief",
+      "title": "Protesters across Spain demand action over housing crisis",
+      "category": "World",
+      "what": "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "MAGA mom's dire warning over tech guardrails as Trump puts pedal to the metal on race with China",
+      "category": "Politics",
+      "what": "Amy Kremer's Humans First organization demands AI guardrails to protect children from chatbot dangers and prevent mass displacement of American workers.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/maga-mom-dire-warning-tech-guardrails-trump-pedal-metal-race-china",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/maga-mom-dire-warning-tech-guardrails-trump-pedal-metal-race-china"
+        }
+      ]
+    },
+    {
+      "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
+      "category": "World",
+      "what": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "‘Activist judge’ rules Congress cannot bar noncitizens from voting in federal elections",
+      "category": "Politics",
+      "what": "A Biden-appointed federal judge ruled the law criminalizing noncitizen voting is unconstitutional, dismissing charges against a woman who voted in 2020.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/politics/activist-judge-rules-congress-cannot-bar-noncitizens-voting-federal-elections",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/activist-judge-rules-congress-cannot-bar-noncitizens-voting-federal-elections"
+        }
+      ]
+    },
+    {
+      "title": "Boston-bound plane vanishes with 6 on board; Coast Guard launches search off Nantucket coast",
       "category": "U.S.",
-      "what": "Christa Pike's botched lethal injection could end capital punishment in Tennessee altogether, warns former Knoxville Police chief Phil Keith.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.foxnews.com/us/christa-pike-botched-lethal-injection-takes-focus-off-victim-jeopardizes-execution-former-police-chief",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/christa-pike-botched-lethal-injection-takes-focus-off-victim-jeopardizes-execution-former-police-chief"
-        }
-      ]
-    },
-    {
-      "title": "TCL is right to question Samsung’s use of the term “Mini LED”",
-      "category": "Tech",
-      "what": "Can it be Mini LED without a FALD backlight?",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/gadgets/2026/10/tcl-is-right-to-question-samsungs-use-of-the-term-mini-led/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/10/tcl-is-right-to-question-samsungs-use-of-the-term-mini-led/"
-        }
-      ]
-    },
-    {
-      "title": "Kash Patel defends FBI's ‘Most Wanted’ busts amid manipulation accusations, highlights 'Summer Heat' success",
-      "category": "U.S.",
-      "what": "Kash Patel defends the FBI's Most Wanted list amid scrutiny, pointing to Operation Summer Heat 2.0's 8,900-plus arrests and record seizures.",
+      "what": "A Gulfstream G100 with six people on board vanished en route to Boston from Bermuda on Saturday as search crews deploy off Nantucket to conduct a search.",
       "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
       "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/kash-patel-defends-fbis-most-wanted-busts-amid-manipulation-accusations-highlights-summer-heat-success",
+      "source": "https://www.foxnews.com/us/boston-bound-plane-vanishes-6-board-coast-guard-launches-search-nantucket-coast",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/kash-patel-defends-fbis-most-wanted-busts-amid-manipulation-accusations-highlights-summer-heat-success"
+          "url": "https://www.foxnews.com/us/boston-bound-plane-vanishes-6-board-coast-guard-launches-search-nantucket-coast"
         }
       ]
     },
     {
-      "title": "Cornell students gather to voice anger over alleged gang rape",
+      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
       "category": "World",
-      "what": "Students tell the BBC that the tension on campus has become palpable since allegations from 2024 resurfaced.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-      "category": "World",
-      "what": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
+      "what": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "OpenAI fires workers for 'mishandling sensitive information'",
-      "category": "World",
-      "what": "The former employees were investigated for sharing data with an outside AI evaluation group.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Venus' mysterious haze is actually cosmic dust",
+      "title": "The dawn of the age of the exoskeleton",
       "category": "Tech",
-      "what": "A physical model show that iron dust and sulfuric acid create the right properties.",
+      "what": "The devices continue to show noticeable benefits for users in various real-world tasks.",
       "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
       "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/",
+      "source": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/"
+          "url": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/"
+        }
+      ]
+    },
+    {
+      "title": "‘Tinder Swindler’ romance fraudster promises ‘safe’ dating app – using intel from con man playbook",
+      "category": "U.S.",
+      "what": "Simon Leviev, the notorious 'Tinder Swindler' who was born Shimon Hayut, says his new Safe Love dating app will use identity verification to prevent the fraud he once committed.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/tinder-swindler-romance-fraudster-promises-safe-dating-app-using-intel-con-man-playbook",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/tinder-swindler-romance-fraudster-promises-safe-dating-app-using-intel-con-man-playbook"
+        }
+      ]
+    },
+    {
+      "title": "UK-Iranian dual national bailed after RAF Fairford incident arrest",
+      "category": "World",
+      "what": "The 25-year-old man was arrested in the London borough of Westminster on Thursday.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Former Knoxville police chief says investigators are still haunted by Colleen Slemmer's murder 31 years later",
+      "category": "U.S.",
+      "what": "Former Knoxville Police Chief Phil Keith says the \"satanic\" crime scene from Christa Pike's 1995 murder of Colleen Slemmer still haunts him.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/former-knoxville-police-chief-says-investigators-still-haunted-colleen-slemmer-murder-31-years-later",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/former-knoxville-police-chief-says-investigators-still-haunted-colleen-slemmer-murder-31-years-later"
+        }
+      ]
+    },
+    {
+      "title": "Fox News Campus Radicals Newsletter: Christianity rejected, socialist streamer speaks, violence glorified",
+      "category": "U.S.",
+      "what": "Stay up to date with the Fox News Campus Radicals newsletter.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/fox-news-campus-radicals-newsletter-christianity-rejected-far-left-phenom-visits-campus-violence-glorified",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/fox-news-campus-radicals-newsletter-christianity-rejected-far-left-phenom-visits-campus-violence-glorified"
+        }
+      ]
+    },
+    {
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "category": "Tech",
+      "what": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/"
+        }
+      ]
+    },
+    {
+      "title": "Someone got Doom in an SQL database",
+      "category": "Tech",
+      "what": "1,300 lines of SQL querying renders accurate bitmapped views of Hell at 35 fps.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/"
         }
       ]
     }
