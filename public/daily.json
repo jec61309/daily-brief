@@ -1,213 +1,217 @@
 {
-  "date": "Monday, October 5, 2026",
+  "date": "Tuesday, October 6, 2026",
   "stories": [
     {
-      "title": "Emerging tech has new Army leaders warning troops can't ‘AI’ their way to victory on the battlefield",
+      "title": "Dad vanishes on trip with friend to see Cleveland Browns game; police call case 'concerning'",
+      "category": "U.S.",
+      "what": "Phoenix Phillips, 24, vanished in downtown Cleveland hours after watching the Pittsburgh Steelers play. Police call the circumstances \"concerning.\"",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/dad-vanishes-trip-friend-cleveland-browns-game-police-call-case-concerning",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/dad-vanishes-trip-friend-cleveland-browns-game-police-call-case-concerning"
+        }
+      ]
+    },
+    {
+      "title": "Kenya confirms its first Ebola death as outbreak spreads",
+      "category": "World",
+      "what": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Blue city emerges as 'suspected hotspot' of visa fraud as swing state lawmaker demands answers",
       "category": "Politics",
-      "what": "Gen. Christopher LaNeve says command and control is the Army's top modernization priority as new leadership narrows its sweeping transformation push.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/politics/emerging-tech-army-leaders-warning-troops-cant-ai-way-victory-battlefield",
+      "what": "First on Fox, a blue city in battleground Georgia faces H-1B visa fraud allegations as Rep. Rich McCormick urges a Trump administration probe.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/blue-city-emerges-suspected-hotspot-visa-fraud-swing-state-lawmaker-demands-answers",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/emerging-tech-army-leaders-warning-troops-cant-ai-way-victory-battlefield"
+          "url": "https://www.foxnews.com/politics/blue-city-emerges-suspected-hotspot-visa-fraud-swing-state-lawmaker-demands-answers"
         }
       ]
     },
     {
-      "title": "'American Idol' contestant Caleb Flynn faces in-laws after conviction for wife’s murder",
+      "title": "DNA testing confirms body of flight attendant who was killed and thrown from bridge",
       "category": "U.S.",
-      "what": "Caleb Flynn faces sentencing Monday after an Ohio jury convicted the former \"American Idol\" contestant on all nine charges in Ashley Flynn's murder.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/american-idol-contestant-caleb-flynn-faces-betrayed-family-conviction-wifes-murder",
+      "what": "Dennis Day allegedly admitted to strangling Rana Nofal Soluri and dumping her body off a Texas bridge, but DNA testing now links him to the remains.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/dna-testing-confirms-body-flight-attendant-killed-thrown-bridge",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/american-idol-contestant-caleb-flynn-faces-betrayed-family-conviction-wifes-murder"
+          "url": "https://www.foxnews.com/us/dna-testing-confirms-body-flight-attendant-killed-thrown-bridge"
         }
       ]
     },
     {
-      "title": "Biden's 'anti-MAGA task force' sparked internal alarm across DOJ, new report shows",
-      "category": "Politics",
-      "what": "Merrick Garland's school board memo triggered internal revolt at the Department of Justice, with one official dubbing it the \"Anti-MAGA Task Force.\"",
+      "title": "AfD candidate elected speaker of German regional parliament for first time",
+      "category": "World",
+      "what": "Although Tobias Rausch's role is largely symbolic, opponents have described the result as a watershed moment.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/c54g1m2g1pg3o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c54g1m2g1pg3o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Lethal injection survivor Christa Pike's former satanist boyfriend could be released in 5 years",
+      "category": "U.S.",
+      "what": "Tadaryl Shipp was denied parole in the 1995 satanic torture murder of Colleen Slemmer in Knoxville and won't face another hearing until 2031.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/lethal-injection-survivor-christa-pike-former-satanist-boyfriend-could-be-released-5-years",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/lethal-injection-survivor-christa-pike-former-satanist-boyfriend-could-be-released-5-years"
+        }
+      ]
+    },
+    {
+      "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+      "category": "World",
+      "what": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/bidens-anti-maga-task-force-sparked-internal-alarm-across-doj-new-report-shows",
+      "source": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Trump responds to concerns over suspected plague case in Russia, saying US 'willing to help'",
+      "category": "Politics",
+      "what": "President Donald Trump declares that the United States is \"willing to help\" amid the scare regarding the death of a person who worked at an anti-plague facility in Russia.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/trump-responds-concerns-suspected-plague-case-russia-saying-us-willing-help",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/bidens-anti-maga-task-force-sparked-internal-alarm-across-doj-new-report-shows"
+          "url": "https://www.foxnews.com/politics/trump-responds-concerns-suspected-plague-case-russia-saying-us-willing-help"
         }
       ]
     },
     {
-      "title": "House GOP bill moves to close whistleblower gaps exposed by Minnesota Medicaid fraud scandal",
+      "title": "Luke Daley, briefly detained in Nancy Guthrie disappearance probe, arrested again",
+      "category": "U.S.",
+      "what": "Luke Daley, detained and released in the Nancy Guthrie kidnapping probe, was arrested again on unrelated charges in Pima County, authorities say.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/luke-daley-briefly-detained-nancy-guthrie-disappearance-probe-arrested-again",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/luke-daley-briefly-detained-nancy-guthrie-disappearance-probe-arrested-again"
+        }
+      ]
+    },
+    {
+      "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
+      "category": "World",
+      "what": "New York Attorney General Letitia James is investigating the rape allegations, but the lawyer says comments she made on the case should disqualify her.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "US televangelist Jim Bakker, disgraced from sex scandal and fraud, dies at 86",
+      "category": "World",
+      "what": "US televangelist Jim Bakker co-founded The PTL Club with his then-wife Tammy Faye before being jailed for fraud and conspiracy.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/ckly02gd1xppo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ckly02gd1xppo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/jim-bakker-ptl-club-televangelist-fmr-husband-tammy-faye-dead-86"
+        }
+      ]
+    },
+    {
+      "title": "Big Oil asks Supreme Court to kill climate lawsuits before trial",
+      "category": "Tech",
+      "what": "Oil companies say federal law should block state climate deception claims.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://arstechnica.com/tech-policy/2026/10/big-oil-asks-supreme-court-to-kill-climate-lawsuits-before-trial/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/10/big-oil-asks-supreme-court-to-kill-climate-lawsuits-before-trial/"
+        }
+      ]
+    },
+    {
+      "title": "NYT columnist thrashed online for suggesting Trump is to blame for alleged Cornell gang rape",
       "category": "Politics",
-      "what": "A new House GOP bill would shield Medicaid whistleblowers from retaliation after Minnesota workers alleged firings and surveillance for flagging fraud.",
+      "what": "New York Times columnist Michelle Cottle blamed Trump for the culture behind an alleged Cornell University gang rape that occurred under Biden.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/house-gop-bill-moves-close-whistleblower-gaps-exposed-minnesota-medicaid-fraud-scandal",
+      "source": "https://www.foxnews.com/politics/nyt-columnist-thrashed-online-suggesting-trump-blame-alleged-cornell-gang-rape",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/house-gop-bill-moves-close-whistleblower-gaps-exposed-minnesota-medicaid-fraud-scandal"
+          "url": "https://www.foxnews.com/politics/nyt-columnist-thrashed-online-suggesting-trump-blame-alleged-cornell-gang-rape"
         }
       ]
     },
     {
-      "title": "Yemeni military says it has retaken Mokha and 'secured' Red Sea waterway",
-      "category": "World",
-      "what": "Saudi-backed forces say they seized the port city of Mocha, near the Bab al-Mandab Strait, at the start of an offensive against the Houthis.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Florida student killed in rollover school bus crash",
-      "category": "U.S.",
-      "what": "A 10th grade Winter Haven High School student was among two killed in the Polk County school bus crash that injured several others Monday morning.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/florida-student-killed-rollover-school-bus-crash",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/florida-student-killed-rollover-school-bus-crash"
-        }
-      ]
-    },
-    {
-      "title": "Teenager's hand blown off during confrontation between France school protesters and police",
-      "category": "World",
-      "what": "The prefect of Pas-de-Calais says the 15-year-old's life is \"not in danger\" after the \"very serious\" incident.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
-      "category": "World",
-      "what": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
-      "category": "World",
-      "what": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "F1 in Bahrain... in Malaysia: The race needed a software update to start",
+      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
       "category": "Tech",
-      "what": "A software bug waylaid half the field and required a race reboot.",
+      "what": "The reports of OpenAI agents harming 3rd party sites keep coming.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/cars/2026/10/f1-in-bahrain-in-malaysia-the-race-needed-a-software-update-to-start/",
+      "source": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/10/f1-in-bahrain-in-malaysia-the-race-needed-a-software-update-to-start/"
+          "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/"
         }
       ]
     },
     {
-      "title": "Cornell campus police made drug arrest at Chi Phi fraternity house hours before alleged gang rape",
-      "category": "U.S.",
-      "what": "Cornell University campus police made a drug arrest at the Chi Phi fraternity house less than 24 hours before an alleged gang rape at a party there.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/us/cornell-campus-police-drug-arrest-chi-phi-fraternity-house-hours-before-alleged-gang-rape",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/cornell-campus-police-drug-arrest-chi-phi-fraternity-house-hours-before-alleged-gang-rape"
-        }
-      ]
-    },
-    {
-      "title": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
-      "category": "World",
-      "what": "The vessel's captain was killed and 11 crew members were rescued after the attack on the Turkish-owned ship, Ukraine's leader says.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Mass quarantine issued in Russia after unexplained death of plague researcher",
+      "title": "Licensing costs driving 90 percent of VMware users to explore options: Survey",
       "category": "Tech",
-      "what": "Unconfirmed reports have suggested there was a laboratory accident.",
-      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
-      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
-      "source": "https://arstechnica.com/health/2026/10/researchers-death-from-undisclosed-illness-sparks-mass-quarantine-in-russia/",
+      "what": "Users want to \"reduce risk and avoid unnecessary disruption\" while making changes.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://arstechnica.com/information-technology/2026/10/operational-complexity-a-top-barrier-for-vmware-migrations-survey/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/health/2026/10/researchers-death-from-undisclosed-illness-sparks-mass-quarantine-in-russia/"
-        }
-      ]
-    },
-    {
-      "title": "AI glasses face their first major government crackdown",
-      "category": "Tech",
-      "what": "Norway wants time to write permanent rules for glasses that can record bystanders.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/"
-        }
-      ]
-    },
-    {
-      "title": "Arizona State cheerleader charged after confrontation with police caught on viral video",
-      "category": "U.S.",
-      "what": "Viral police video shows Tempe, Arizona, officers throwing an Arizona State University cheerleader to the ground, leaving bruises on her face.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/arizona-state-cheerleader-charged-confrontation-police-viral-video",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/arizona-state-cheerleader-charged-confrontation-police-viral-video"
+          "url": "https://arstechnica.com/information-technology/2026/10/operational-complexity-a-top-barrier-for-vmware-migrations-survey/"
         }
       ]
     }
