@@ -1,221 +1,213 @@
 {
-  "date": "Friday, October 9, 2026",
+  "date": "Saturday, October 10, 2026",
   "stories": [
     {
-      "title": "Man named Hitler Mussolini elected mayor in Peru",
+      "title": "Christa Pike discharged from hospital and returned to prison, her lawyers say",
       "category": "World",
-      "what": "The left-wing candidate won a narrow victory in a remote district in the Peruvian Andes, exit polls show.",
+      "what": "The convicted murderer was left in a critical condition after she survived two lethal injections.",
       "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
       "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Firing squad execution to be livestreamed, Pentagon says",
+      "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
       "category": "World",
-      "what": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/pentagon-confirms-fort-hood-terrorists-firing-squad-execution-livestreamed-details-follow"
-        }
-      ]
-    },
-    {
-      "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
-      "category": "World",
-      "what": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "US imposes sanctions on International Criminal Court",
-      "category": "World",
-      "what": "The US says the measures are aimed at restricting the tribunal's resources and ability to operate.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Denver, Boulder ignored ICE detainers for migrants with child abuse, assault arrests, House GOP report reveals",
-      "category": "Politics",
-      "what": "Jim Jordan's committee names illegal immigrants accused of violent crimes whose ICE detainers were allegedly ignored in both Denver and Boulder.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/denver-boulder-ignored-ice-detainers-migrants-child-abuse-assault-arrests-house-gop-report-reveals",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/denver-boulder-ignored-ice-detainers-migrants-child-abuse-assault-arrests-house-gop-report-reveals"
-        }
-      ]
-    },
-    {
-      "title": "Radical anti-Trump language riddles California voter guide on high-stakes ballot measure",
-      "category": "Politics",
-      "what": "California's Prop 39 voter ID ballot guide draws backlash online for its politically charged language, including a reference to \"MAGA billionaires.\"",
+      "what": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/radical-anti-trump-language-riddles-california-voter-guide-high-stakes-ballot-measure",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/radical-anti-trump-language-riddles-california-voter-guide-high-stakes-ballot-measure"
-        }
-      ]
-    },
-    {
-      "title": "Attorney for former Cornell fraternity member wants AG James off case over post supporting accuser",
-      "category": "U.S.",
-      "what": "Letitia James posted \"We stand with you\" days before being named independent prosecutor in the Cornell University Chi Phi sexual assault case.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/attorney-former-cornell-fraternity-member-wants-ag-james-off-case-post-supporting-accuser",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/attorney-former-cornell-fraternity-member-wants-ag-james-off-case-post-supporting-accuser"
-        }
-      ]
-    },
-    {
-      "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
-      "category": "World",
-      "what": "Truckloads of Eritrean soldiers have been seen driving into Ethiopia, which has reportedly responded with drone strikes.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "'Thrill killer' and desert executioner — meet the dozens of criminals Dem AG backed for parole: 'No brainer'",
-      "category": "Politics",
-      "what": "Aaron Ford voted to pardon or reduce sentences for 30 convicted murderers, records show, as he campaigns to unseat Gov. Joe Lombardo in Nevada.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/thrill-killer-desert-executioner-dozens-criminals-dem-ag-backed-parole-no-brainer",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/thrill-killer-desert-executioner-dozens-criminals-dem-ag-backed-parole-no-brainer"
-        }
-      ]
-    },
-    {
-      "title": "Kohberger prosecutors say no as Idaho killer tries to boot judge who called him a 'faceless coward'",
-      "category": "U.S.",
-      "what": "Bryan Kohberger's new legal team argues Judge Steven Hippler's \"faceless coward\" remarks at sentencing prove bias as they seek post-conviction relief.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/kohberger-prosecutors-say-no-idaho-killer-tries-boot-judge-called-faceless-coward",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/kohberger-prosecutors-say-no-idaho-killer-tries-boot-judge-called-faceless-coward"
-        }
-      ]
-    },
-    {
-      "title": "Microsoft barred from sponsoring foreign workers for US residency",
-      "category": "Tech",
-      "what": "The US says Microsoft abused immigration rules; the company disputes the claim.",
+      "title": "Saudi capital airport hit again, sparking evacuations, reports say",
+      "category": "World",
+      "what": "The suspected attack comes a day after Yemen's Houthi rebels claimed two deadly attacks on the Riyadh airport.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown/"
-        }
-      ]
-    },
-    {
-      "title": "Severe turbulence diverts New York City flight to Miami, 8 injured",
-      "category": "U.S.",
-      "what": "Eight people were hospitalized after an Avianca flight from Medellin to New York City was forced to divert to Miami due to severe turbulence",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/severe-turbulence-hospitalizes-8-diverted-new-york-city-flight",
+      "source": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/severe-turbulence-hospitalizes-8-diverted-new-york-city-flight"
+          "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
-      "category": "Tech",
-      "what": "\"I can say we’re weeks away from launching on Vulcan.\"",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/",
+      "title": "Woman injures three people in third Poland school knife attack in a week",
+      "category": "World",
+      "what": "Polish police had already deployed to schools after a female caretaker was killed and several others injured in two earlier attacks in two days.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/"
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Charles Manson follower tied to Sharon Tate murders gets recommended for parole after 55 years in prison",
+      "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
+      "category": "World",
+      "what": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Key American industry seeing blue-collar jobs boom as Trump's re-shoring policies pay off",
+      "category": "Politics",
+      "what": "First on Fox: A CEA report says 72,000 manufacturing jobs were added in 2026 as reshoring and tariff policies reversed Biden-era offshoring.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/key-american-industry-seeing-blue-collar-jobs-boom-trump-reshoring-policies-pay",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/key-american-industry-seeing-blue-collar-jobs-boom-trump-reshoring-policies-pay"
+        }
+      ]
+    },
+    {
+      "title": "Socialists set sights on the ground floor of government as GOP warns of bigger plan unfolding",
+      "category": "Politics",
+      "what": "At least 65 Democratic Socialists of America-backed candidates are contesting state legislature seats, pushing defund police and reparations agendas.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.foxnews.com/politics/socialists-set-sights-ground-floor-government-gop-warns-bigger-plan-unfolding",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/socialists-set-sights-ground-floor-government-gop-warns-bigger-plan-unfolding"
+        }
+      ]
+    },
+    {
+      "title": "Multiple people killed in Pennsylvania shooting; suspected gunman found dead: report",
       "category": "U.S.",
-      "what": "Patricia Krenwinkel's third parole recommendation in four years sets up another potential clash with Gavin Newsom over the Manson Family killer's release.",
+      "what": "Erie Police Chief Rick Lorah called the Perry Street mass shooting the worst scene he has encountered in nearly three decades of law enforcement.",
       "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
       "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/charles-manson-follower-tied-sharon-tate-murders-recommended-parole-55-years-prison",
+      "source": "https://www.foxnews.com/us/multiple-people-killed-pennsylvania-shooting-suspected-gunman-found-dead-report",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/charles-manson-follower-tied-sharon-tate-murders-recommended-parole-55-years-prison"
+          "url": "https://www.foxnews.com/us/multiple-people-killed-pennsylvania-shooting-suspected-gunman-found-dead-report"
         }
       ]
     },
     {
-      "title": "Volkswagen's replacement for the ID.4 crossover is here",
+      "title": "Philadelphia police officers shot in ambush attack; suspect found hiding in tree",
+      "category": "U.S.",
+      "what": "Two Philadelphia police officers were ambushed and shot multiple times on North 52nd Street.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/philadelphia-police-officers-shot-15-times-combined-ambush-attack-suspect-found-hiding-tree",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/philadelphia-police-officers-shot-15-times-combined-ambush-attack-suspect-found-hiding-tree"
+        }
+      ]
+    },
+    {
+      "title": "Fetterman plays political maverick, but his voting record tells another story",
+      "category": "Politics",
+      "what": "John Fetterman votes with Democrats a majority of the time, yet his Israel stance and Republican friendships fuel intense party-switch speculation.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/fetterman-plays-political-maverick-his-voting-record-tells-another-story",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/fetterman-plays-political-maverick-his-voting-record-tells-another-story"
+        }
+      ]
+    },
+    {
+      "title": "Discarded trash uncaps 41-year-old murder case in ritzy seaside resort town, authorities say",
+      "category": "U.S.",
+      "what": "A Rhode Island investigator trailed William Morton to a concert and seized a water bottle that allegedly links him to a 1985 Newport murder.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/discarded-trash-uncaps-41-year-old-murder-case-ritzy-seaside-resort-town-authorities-say",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/discarded-trash-uncaps-41-year-old-murder-case-ritzy-seaside-resort-town-authorities-say"
+        }
+      ]
+    },
+    {
+      "title": "One with the world? A new look at brains transformed by psychedelics.",
       "category": "Tech",
-      "what": "The new EV’s digital cockpit can mimic instrument displays from VWs of old.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/cars/2026/10/volkswagens-replacement-for-the-id-4-crossover-is-here/",
+      "what": "Participants meditated inside an MRI tube, with and without psilocybin.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/10/volkswagens-replacement-for-the-id-4-crossover-is-here/"
+          "url": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/"
+        }
+      ]
+    },
+    {
+      "title": "Sally Yates' Cornell alleged gang rape review could scrutinize crucial police interview, attorney says",
+      "category": "U.S.",
+      "what": "Cornell University's Chi Phi fraternity case faces fresh scrutiny as Sally Yates examines a key police interview prosecutors never fully received.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/sally-yates-cornell-alleged-gang-rape-review-scrutinize-crucial-police-interview-attorney-says",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/sally-yates-cornell-alleged-gang-rape-review-scrutinize-crucial-police-interview-attorney-says"
+        }
+      ]
+    },
+    {
+      "title": "Neanderthal wooden tools from Spain found preserved in stone",
+      "category": "Tech",
+      "what": "Dissolved rock precipitated around the tools, which then decayed.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/"
+        }
+      ]
+    },
+    {
+      "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+      "category": "Tech",
+      "what": "One damaged data center has supercomputers used for training Yandex’s AI model.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/"
         }
       ]
     }
