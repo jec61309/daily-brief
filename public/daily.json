@@ -1,213 +1,221 @@
 {
-  "date": "Sunday, October 11, 2026",
+  "date": "Monday, October 12, 2026",
   "stories": [
     {
-      "title": "Poland stabbings driven by online glorification of violence, Tusk says",
-      "category": "World",
-      "what": "The PM was speaking after violent attacks at Polish schools this week left one dead and others injured.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Trump announces immediate energy ceasefire between Russia and Ukraine",
+      "title": "Fort Hood shooter should be executed '13 times over' — but not on live stream, survivor says",
       "category": "Politics",
-      "what": "President Donald Trump declared an immediate energy ceasefire, but his recent deal easing Russian diesel exports drew sharp criticism from Kyiv.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/trump-announces-immediate-energy-ceasefire-between-russia-ukraine",
+      "what": "Julia Wilson survived the 2009 Fort Hood massacre and wants Nidal Hasan executed, but she has reservations about livestreaming his death penalty.",
+      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
+      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
+      "source": "https://www.foxnews.com/politics/fort-hood-shooter-executed-13-times-over-not-live-stream-survivor-says",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-announces-immediate-energy-ceasefire-between-russia-ukraine"
+          "url": "https://www.foxnews.com/politics/fort-hood-shooter-executed-13-times-over-not-live-stream-survivor-says"
         }
       ]
     },
     {
-      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-      "category": "World",
-      "what": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
+      "title": "Texas hiker found dead after going missing in Great Smoky Mountains, family says",
+      "category": "U.S.",
+      "what": "Sahil Jilani's phone, keys, and clothes were found near Abrams Falls before dive teams recovered his body in Tennessee's Great Smoky Mountains.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.foxnews.com/us/texas-hiker-found-dead-after-going-missing-great-smoky-mountains-family-says",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss"
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/texas-hiker-found-dead-after-going-missing-great-smoky-mountains-family-says"
         }
       ]
     },
     {
-      "title": "Minnesota GOP chair blasts progressive group over KKK-themed sign shown during Black House speaker's remarks",
+      "title": "Russia was not ready for the data center war it started with Ukraine",
+      "category": "Tech",
+      "what": "Russian bloggers warn Russia’s hyper-centralized digital economy is vulnerable.",
+      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
+      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
+      "source": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/"
+        }
+      ]
+    },
+    {
+      "title": "Republican lawmakers break with Trump on diesel deal with Russia",
       "category": "Politics",
-      "what": "Sunrise Movement Twin Cities said it disrupted a Minnesota Republican Party fundraiser, displaying a \"RepubliKKKan Party\" banner during Lisa Demuth's remarks.",
+      "what": "Some Republican lawmakers voiced staunch opposition after United States President Donald Trump announced a diesel agreement with Russia.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/minnesota-gop-chair-blasts-progressive-group-kkk-themed-sign-shown-during-black-house-speakers-remarks",
+      "source": "https://www.foxnews.com/politics/republican-lawmakers-break-trump-diesel-deal-russia",
       "sources": [
         {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/minnesota-gop-chair-blasts-progressive-group-kkk-themed-sign-shown-during-black-house-speakers-remarks"
+          "url": "https://www.foxnews.com/politics/republican-lawmakers-break-trump-diesel-deal-russia"
         }
       ]
     },
     {
-      "title": "NYC councilwoman blasts Mamdani over Italian Heritage Month post praising ‘communist’",
-      "category": "Politics",
-      "what": "Vickie Paladino slammed Zohran Mamdani for honoring a congressman with Communist Party ties during Italian Heritage Month, calling it propaganda.",
+      "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+      "category": "World",
+      "what": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/nyc-councilwoman-blasts-mamdani-italian-heritage-month-post-praising-communist",
+      "source": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
       "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Pupil arrested after two teachers shot at French school",
+      "category": "World",
+      "what": "A 14-year-old was detained after the middle-school principal and teacher were injured.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Immigration agents search Congresswoman Ilhan Omar's home",
+      "category": "World",
+      "what": "Omar, an outspoken Trump critic, said the search was \"an attempt to target political enemies\" and she \"will not be silenced\".",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss"
+        },
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/nyc-councilwoman-blasts-mamdani-italian-heritage-month-post-praising-communist"
+          "url": "https://www.foxnews.com/politics/ilhan-omars-home-dc-searched-hsi-pre-dawn-raid"
         }
       ]
     },
     {
-      "title": "Pope Leo to have surgery after lump found on lung",
-      "category": "World",
-      "what": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Homes and bridges swept away as fresh floods hit Nepal",
-      "category": "World",
-      "what": "Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "NYPD detective gives update on condition after illegal immigrant duo allegedly stabbed him 7 times",
-      "category": "U.S.",
-      "what": "Video shows Det. Jose Mercedes covered in blood after two suspects on an e-bike allegedly stabbed him seven times during a Bronx gold chain robbery.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/nypd-detective-gives-update-condition-illegal-immigrant-duo-allegedly-stabbed-7-times",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/nypd-detective-gives-update-condition-illegal-immigrant-duo-allegedly-stabbed-7-times"
-        }
-      ]
-    },
-    {
-      "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
-      "category": "World",
-      "what": "Hundreds of people who came out on the streets despite the police's restrictions were detained on Sunday.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Hero deputy rescues wheelchair-bound grandfather who fell into shark-infested waterway",
-      "category": "U.S.",
-      "what": "Bodycam footage shows a Volusia County sergeant diving into shark-filled waters near New Smyrna Beach to rescue Bill Von Herbulis from drowning.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/hero-deputy-rescues-wheelchair-bound-grandfather-fell-shark-infested-waterway",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/hero-deputy-rescues-wheelchair-bound-grandfather-fell-shark-infested-waterway"
-        }
-      ]
-    },
-    {
-      "title": "Fort Hood shooter's firing squad could usher in new era of executions across US, expert says",
-      "category": "U.S.",
-      "what": "Fort Hood shooter Nidal Malik Hasan's firing squad execution could pave the way for more states to adopt the method, a death penalty expert says.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/fort-hood-shooter-firing-squad-usher-new-era-executions-across-us-expert-says",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/fort-hood-shooter-firing-squad-usher-new-era-executions-across-us-expert-says"
-        }
-      ]
-    },
-    {
-      "title": "Delaware neighborhood on edge after masked men with apparent weapons knock on doors of homes",
-      "category": "U.S.",
-      "what": "Home security footage shows a masked man in a tactical vest carrying what appeared to be a rifle knocking on doors in a New Castle County neighborhood.",
+      "title": "US attorney warns Chinese espionage is 'extremely pervasive,' says Beijing 'playing the long game'",
+      "category": "Politics",
+      "what": "First Assistant U.S. Attorney Bill Essayli says Chinese espionage is \"extremely pervasive\" after his office charged alleged spies in recent months.",
       "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
       "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.foxnews.com/us/delaware-neighborhood-edge-after-masked-men-apparent-weapons-knock-doors-homes",
+      "source": "https://www.foxnews.com/politics/us-attorney-warns-chinese-espionage-extremely-pervasive-beijing-playing-long-game",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/us-attorney-warns-chinese-espionage-extremely-pervasive-beijing-playing-long-game"
+        }
+      ]
+    },
+    {
+      "title": "South Africa's deputy police chief resigns after being charged with sexual offences",
+      "category": "World",
+      "what": "Shadrack Sibiya had denied grooming a 16-year-old and raping an 18-year-old.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Two teens arrested after carrying what looked like rifles to Delaware homes in late-night prank: police",
+      "category": "U.S.",
+      "what": "Surveillance images show masked teens in tactical vests approaching homes in a Delaware neighborhood before New Castle County police arrested them.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.foxnews.com/us/masked-figures-carrying-apparent-rifles-delaware-homes-teens-pulling-prank-police",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/delaware-neighborhood-edge-after-masked-men-apparent-weapons-knock-doors-homes"
+          "url": "https://www.foxnews.com/us/masked-figures-carrying-apparent-rifles-delaware-homes-teens-pulling-prank-police"
         }
       ]
     },
     {
-      "title": "One with the world? A new look at brains transformed by psychedelics.",
-      "category": "Tech",
-      "what": "Participants meditated inside an MRI tube, with and without psilocybin.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
+      "title": "Idaho professor falsely accused of student murders by TikTok psychic reveals fear for children's safety",
+      "category": "U.S.",
+      "what": "Rebecca Scofield describes sleepless nights guarding her children after TikTok psychic Ashley Guillard accused her in the University of Idaho murders.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/idaho-professor-falsely-accused-student-murders-tiktok-psychic-reveals-fear-childrens-safety",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/"
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/idaho-professor-falsely-accused-student-murders-tiktok-psychic-reveals-fear-childrens-safety"
         }
       ]
     },
     {
-      "title": "Neanderthal wooden tools from Spain found preserved in stone",
+      "title": "Long-lost horror gaming cult classic P.T. gets a much-needed PC port",
       "category": "Tech",
-      "what": "Dissolved rock precipitated around the tools, which then decayed.",
+      "what": "Kojima's discontinued \"playable trailer\" is no longer stuck on a few aging PS4 hard drives.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
+      "source": "https://arstechnica.com/gaming/2026/10/long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed-pc-port/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/"
+          "url": "https://arstechnica.com/gaming/2026/10/long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed-pc-port/"
         }
       ]
     },
     {
-      "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+      "title": "Thousands march to Indian Supreme Court to demand election chief resign",
+      "category": "World",
+      "what": "The march follows a chaotic weekend in Delhi which saw thousands of protesters detained by police.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "F1 in Singapore: There's a new fastest car now",
       "category": "Tech",
-      "what": "One damaged data center has supercomputers used for training Yandex’s AI model.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+      "what": "Also, F1’s final sprint saw our first real wet racing of the year.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/cars/2026/10/f1-in-singapore-theres-a-new-fastest-car-now/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/"
+          "url": "https://arstechnica.com/cars/2026/10/f1-in-singapore-theres-a-new-fastest-car-now/"
+        }
+      ]
+    },
+    {
+      "title": "Pennsylvania gunman who killed 8 was grandfather who seemed normal, victim relatives say",
+      "category": "U.S.",
+      "what": "The Erie, Pennsylvania, gunman was a \"good guy\" before he \"started going downhill,\" killing eight people and himself, a friend of a victim said.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/pennsylvania-gunman-killed-8-grandfather-seemed-normal-victim-relatives-say",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/pennsylvania-gunman-killed-8-grandfather-seemed-normal-victim-relatives-say"
         }
       ]
     }
