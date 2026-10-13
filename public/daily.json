@@ -1,221 +1,213 @@
 {
-  "date": "Monday, October 12, 2026",
+  "date": "Tuesday, October 13, 2026",
   "stories": [
     {
-      "title": "Fort Hood shooter should be executed '13 times over' — but not on live stream, survivor says",
+      "title": "Letitia James’ ‘fair’ Cornell rape probe vow collides with accused aide’s ‘quiet’ exit",
       "category": "Politics",
-      "what": "Julia Wilson survived the 2009 Fort Hood massacre and wants Nidal Hasan executed, but she has reservations about livestreaming his death penalty.",
-      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
-      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
-      "source": "https://www.foxnews.com/politics/fort-hood-shooter-executed-13-times-over-not-live-stream-survivor-says",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/fort-hood-shooter-executed-13-times-over-not-live-stream-survivor-says"
-        }
-      ]
-    },
-    {
-      "title": "Texas hiker found dead after going missing in Great Smoky Mountains, family says",
-      "category": "U.S.",
-      "what": "Sahil Jilani's phone, keys, and clothes were found near Abrams Falls before dive teams recovered his body in Tennessee's Great Smoky Mountains.",
+      "what": "New York Attorney General Letitia James faces recusal demands in the Cornell 7 case after publicly expressing support for Jane Doe before the probe.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/texas-hiker-found-dead-after-going-missing-great-smoky-mountains-family-says",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/texas-hiker-found-dead-after-going-missing-great-smoky-mountains-family-says"
-        }
-      ]
-    },
-    {
-      "title": "Russia was not ready for the data center war it started with Ukraine",
-      "category": "Tech",
-      "what": "Russian bloggers warn Russia’s hyper-centralized digital economy is vulnerable.",
-      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
-      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
-      "source": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/"
-        }
-      ]
-    },
-    {
-      "title": "Republican lawmakers break with Trump on diesel deal with Russia",
-      "category": "Politics",
-      "what": "Some Republican lawmakers voiced staunch opposition after United States President Donald Trump announced a diesel agreement with Russia.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/republican-lawmakers-break-trump-diesel-deal-russia",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/republican-lawmakers-break-trump-diesel-deal-russia"
-        }
-      ]
-    },
-    {
-      "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-      "category": "World",
-      "what": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Pupil arrested after two teachers shot at French school",
-      "category": "World",
-      "what": "A 14-year-old was detained after the middle-school principal and teacher were injured.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Immigration agents search Congresswoman Ilhan Omar's home",
-      "category": "World",
-      "what": "Omar, an outspoken Trump critic, said the search was \"an attempt to target political enemies\" and she \"will not be silenced\".",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/ilhan-omars-home-dc-searched-hsi-pre-dawn-raid"
-        }
-      ]
-    },
-    {
-      "title": "US attorney warns Chinese espionage is 'extremely pervasive,' says Beijing 'playing the long game'",
-      "category": "Politics",
-      "what": "First Assistant U.S. Attorney Bill Essayli says Chinese espionage is \"extremely pervasive\" after his office charged alleged spies in recent months.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.foxnews.com/politics/us-attorney-warns-chinese-espionage-extremely-pervasive-beijing-playing-long-game",
+      "source": "https://www.foxnews.com/politics/letitia-james-fair-cornell-rape-probe-vow-collides-accused-aides-quiet-exit",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/us-attorney-warns-chinese-espionage-extremely-pervasive-beijing-playing-long-game"
+          "url": "https://www.foxnews.com/politics/letitia-james-fair-cornell-rape-probe-vow-collides-accused-aides-quiet-exit"
         }
       ]
     },
     {
-      "title": "South Africa's deputy police chief resigns after being charged with sexual offences",
-      "category": "World",
-      "what": "Shadrack Sibiya had denied grooming a 16-year-old and raping an 18-year-old.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Two teens arrested after carrying what looked like rifles to Delaware homes in late-night prank: police",
+      "title": "Transgender woman accused of killing man after separate feud over McDonald's bathroom use",
       "category": "U.S.",
-      "what": "Surveillance images show masked teens in tactical vests approaching homes in a Delaware neighborhood before New Castle County police arrested them.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.foxnews.com/us/masked-figures-carrying-apparent-rifles-delaware-homes-teens-pulling-prank-police",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/masked-figures-carrying-apparent-rifles-delaware-homes-teens-pulling-prank-police"
-        }
-      ]
-    },
-    {
-      "title": "Idaho professor falsely accused of student murders by TikTok psychic reveals fear for children's safety",
-      "category": "U.S.",
-      "what": "Rebecca Scofield describes sleepless nights guarding her children after TikTok psychic Ashley Guillard accused her in the University of Idaho murders.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/idaho-professor-falsely-accused-student-murders-tiktok-psychic-reveals-fear-childrens-safety",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/idaho-professor-falsely-accused-student-murders-tiktok-psychic-reveals-fear-childrens-safety"
-        }
-      ]
-    },
-    {
-      "title": "Long-lost horror gaming cult classic P.T. gets a much-needed PC port",
-      "category": "Tech",
-      "what": "Kojima's discontinued \"playable trailer\" is no longer stuck on a few aging PS4 hard drives.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/gaming/2026/10/long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed-pc-port/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/gaming/2026/10/long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed-pc-port/"
-        }
-      ]
-    },
-    {
-      "title": "Thousands march to Indian Supreme Court to demand election chief resign",
-      "category": "World",
-      "what": "The march follows a chaotic weekend in Delhi which saw thousands of protesters detained by police.",
+      "what": "A Cook County judge ordered Kelly Day held without bail after prosecutors described the knife attack that left a blade fragment in the victim's skull.",
       "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
       "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "F1 in Singapore: There's a new fastest car now",
-      "category": "Tech",
-      "what": "Also, F1’s final sprint saw our first real wet racing of the year.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/cars/2026/10/f1-in-singapore-theres-a-new-fastest-car-now/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/10/f1-in-singapore-theres-a-new-fastest-car-now/"
-        }
-      ]
-    },
-    {
-      "title": "Pennsylvania gunman who killed 8 was grandfather who seemed normal, victim relatives say",
-      "category": "U.S.",
-      "what": "The Erie, Pennsylvania, gunman was a \"good guy\" before he \"started going downhill,\" killing eight people and himself, a friend of a victim said.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/pennsylvania-gunman-killed-8-grandfather-seemed-normal-victim-relatives-say",
+      "source": "https://www.foxnews.com/us/transgender-woman-accused-killing-man-feud-mcdonalds-bathroom-use",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/pennsylvania-gunman-killed-8-grandfather-seemed-normal-victim-relatives-say"
+          "url": "https://www.foxnews.com/us/transgender-woman-accused-killing-man-feud-mcdonalds-bathroom-use"
+        }
+      ]
+    },
+    {
+      "title": "NYPD detective who survived stabbing attack makes first public remarks since leaving hospital",
+      "category": "U.S.",
+      "what": "NYPD Detective Jose Mercedes speaks out after two illegal immigrants from the Dominican Republic allegedly stabbed him seven times in the Bronx.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/nypd-detective-survived-stabbing-attack-makes-first-public-remarks-leaving-hospital",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/nypd-detective-survived-stabbing-attack-makes-first-public-remarks-leaving-hospital"
+        }
+      ]
+    },
+    {
+      "title": "Americans draw the line at livestreaming ‘spectacle’ of Fort Hood shooter's execution: ‘It’s an abomination’",
+      "category": "Politics",
+      "what": "Americans blast Pete Hegseth's plan to livestream convicted Fort Hood shooter Nidal Hasan's firing squad execution as \"absolutely absurd\" and dangerous.",
+      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
+      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
+      "source": "https://www.foxnews.com/politics/americans-draw-line-livestreaming-spectacle-fort-hood-shooters-execution-abomination",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/americans-draw-line-livestreaming-spectacle-fort-hood-shooters-execution-abomination"
+        }
+      ]
+    },
+    {
+      "title": "Pope admitted to hospital for surgery to remove lump on his lung",
+      "category": "World",
+      "what": "Pope Leo has said the growth is \"contained\" and had been found \"at a very early stage\".",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "GOP governor candidate skips debate against former Biden advisor, replaced by empty podium",
+      "category": "Politics",
+      "what": "Georgia Republican gubernatorial candidate Rick Jackson did not attend a debate, leaving Democratic rival Keisha Lance Bottoms next to an empty podium at the event.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/gop-governor-candidate-skips-debate-former-biden-advisor-replaced-empty-podium",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/gop-governor-candidate-skips-debate-former-biden-advisor-replaced-empty-podium"
+        }
+      ]
+    },
+    {
+      "title": "Mom accused of driving car off cliff with young kids inside, faces DUI, child neglect charges",
+      "category": "U.S.",
+      "what": "Chase Ryan Klinedinst allegedly drove off a Chattanooga cliff with two children inside, landing upside down near railroad tracks, police say.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/mom-accused-driving-car-off-cliff-young-kids-inside-faces-dui-child-neglect-charges",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/mom-accused-driving-car-off-cliff-young-kids-inside-faces-dui-child-neglect-charges"
+        }
+      ]
+    },
+    {
+      "title": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
+      "category": "World",
+      "what": "One person is dead and others were injured after an incident at the amusement park in the US state of Georgia.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
+      "category": "World",
+      "what": "Six crew members are rescued but 10 are missing after a merchant ship was sunk overnight, Bulgaria says.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Isaias aftermath brings arrests after suspects allegedly trick woman into letting them in car, store looted",
+      "category": "U.S.",
+      "what": "Dustin Kelley and Amanda Carr allegedly tricked a woman into letting them charge a phone in her car before stealing it amid Hurricane Isaias chaos.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/isaias-aftermath-brings-arrests-suspects-allegedly-trick-woman-letting-car-store-looted",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/isaias-aftermath-brings-arrests-suspects-allegedly-trick-woman-letting-car-store-looted"
+        }
+      ]
+    },
+    {
+      "title": "Ex-president named leader of new DR Congo rebel coalition ",
+      "category": "World",
+      "what": "Joseph Kabila had previously denied having links to the M23 rebels, which control much of eastern DR Congo.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/c8y56re7ldqyo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c8y56re7ldqyo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Hungarian MPs scrap Orbán's anti-LGBTQ measures",
+      "category": "World",
+      "what": "LGBTQ and human rights activists warmly welcomed the move, but call for changes to other Orbán-era laws.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.bbc.co.uk/news/articles/c6vg9nj4l322o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6vg9nj4l322o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "High-speed video reveals how honey bee stingers pump venom",
+      "category": "Tech",
+      "what": "Co-author: “The unique geometry of the valves is the key; they act as collapsible pistons\" to deliver venom.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/"
+        }
+      ]
+    },
+    {
+      "title": "39-year-old unvaccinated woman becomes 6th measles death in Pennsylvania",
+      "category": "Tech",
+      "what": "As of Friday, state health officials reported 1,136 cases across 41 counties.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/health/2026/10/39-year-old-unvaccinated-woman-becomes-6th-measles-death-in-pennsylvania/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/10/39-year-old-unvaccinated-woman-becomes-6th-measles-death-in-pennsylvania/"
+        }
+      ]
+    },
+    {
+      "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+      "category": "Tech",
+      "what": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/"
         }
       ]
     }
