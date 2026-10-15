@@ -1,217 +1,213 @@
 {
-  "date": "Wednesday, October 14, 2026",
+  "date": "Thursday, October 15, 2026",
   "stories": [
     {
-      "title": "NPR affiliate apologizes for sponsoring anarchist event linked to anti-ICE attackers",
+      "title": "Trump rules out livestream for Nidal Hasan firing squad execution",
       "category": "Politics",
-      "what": "New Hampshire Public Radio admitted it \"erred\" by sponsoring an anarchist book fair that expressed solidarity with defendants tied to a violent Texas ICE facility attack.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/politics/npr-affiliate-apologizes-sponsoring-anarchist-event-linked-anti-ice-attackers",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/npr-affiliate-apologizes-sponsoring-anarchist-event-linked-anti-ice-attackers"
-        }
-      ]
-    },
-    {
-      "title": "Dem senator says 'zero interest in running for president' in debate with GOP opponent",
-      "category": "Politics",
-      "what": "Democratic Sen. Jon Ossoff, who has repeatedly indicated that he is not interested in running for president in 2028, reiterated his position during a Georgia U.S. Senate debate.",
+      "what": "President Donald Trump reversed the Pentagon's plan to livestream Nidal Hasan's firing squad execution, saying the event could deter terrorism but many Americans would rather not watch.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/dem-senator-says-zero-interest-running-president-debate-gop-opponent",
+      "source": "https://www.foxnews.com/politics/trump-rules-out-livestream-nidal-hasan-firing-squad-execution",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/dem-senator-says-zero-interest-running-president-debate-gop-opponent"
+          "url": "https://www.foxnews.com/politics/trump-rules-out-livestream-nidal-hasan-firing-squad-execution"
         }
       ]
     },
     {
-      "title": "Ilhan Omar’s husband insists he has ‘no concerns’ amid federal immigration investigation",
-      "category": "Politics",
-      "what": "Tim Mynett says he has \"no concerns\" after HSI agents raided his and Ilhan Omar's D.C. home as subpoenas reach multiple family members nearby.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/politics/ilhan-omar-husband-insists-no-concerns-federal-immigration-investigation",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/vance-gives-pointed-warning-after-federal-raid-ilhan-omars-home-more-top-headlines"
-        },
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/ilhan-omar-husband-insists-no-concerns-federal-immigration-investigation"
-        }
-      ]
-    },
-    {
-      "title": "Hundreds of thousands of workers on strike across Republic of Ireland",
-      "category": "World",
-      "what": "It comes amidst an an ongoing pay dispute between public sector workers and the Irish government.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cjn5vxlrgqn4o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cjn5vxlrgqn4o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-      "category": "World",
-      "what": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Bryan Kohberger's court hearings abruptly canceled as lawyer warns of lengthy legal battle",
+      "title": "Fox News ‘Antisemitism Exposed’ Newsletter: Israel haters admit what they really want",
       "category": "U.S.",
-      "what": "Bryan Kohberger's upcoming hearings have been vacated as his new lawyer seeks to disqualify the judge, marking the start of a longer legal battle.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/bryan-kohberger-court-hearings-abruptly-canceled-lawyer-warns-lengthy-legal-battle",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/bryan-kohberger-court-hearings-abruptly-canceled-lawyer-warns-lengthy-legal-battle"
-        }
-      ]
-    },
-    {
-      "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
-      "category": "World",
-      "what": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
-      "category": "World",
-      "what": "It comes ahead of a meeting between the prime minister and President Zelensky at Downing Street.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
-      "category": "Tech",
-      "what": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/"
-        }
-      ]
-    },
-    {
-      "title": "Six Flags rider who fell to his death was in remission from cancer, survived 'crazy' car fire, sister says",
-      "category": "U.S.",
-      "what": "Six Flags Over Georgia's Goliath roller coaster remains under investigation after Hassan Kariem fell from the 200-foot-tall ride during a park visit.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/six-flags-rider-fell-death-remission-cancer-survived-crazy-car-fire-sister-says",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/six-flags-rider-fell-death-remission-cancer-survived-crazy-car-fire-sister-says"
-        }
-      ]
-    },
-    {
-      "title": "Mauritius reels from worst riots in decades after woman shot by police",
-      "category": "World",
-      "what": "Prime Minister Navin Ramgoolam imposed a curfew after days of unrest that first began over water shortages.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cm4g1rnj5qweo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm4g1rnj5qweo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "The Internet’s undersea backbone is slipping into the danger zone",
-      "category": "Tech",
-      "what": "Elisabeth Braw’s book Undersea War on rising risks for undersea infrastructure.",
+      "what": "Fox News' \"Antisemitism Exposed\" newsletter brings you stories on the rising anti-Jewish prejudice across the U.S. and the world.",
       "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
       "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://arstechnica.com/gadgets/2026/10/the-internets-undersea-backbone-is-slipping-into-to-the-danger-zone/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/10/the-internets-undersea-backbone-is-slipping-into-to-the-danger-zone/"
-        }
-      ]
-    },
-    {
-      "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
-      "category": "Tech",
-      "what": "Attack method exposes flaws in OpenAI, Google safeguards against AI nudes.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/"
-        }
-      ]
-    },
-    {
-      "title": "Criminologist professor at Big Ten college offers warning to students as police probe possible serial killer",
-      "category": "U.S.",
-      "what": "A Michigan State University criminology professor warns Lansing residents to avoid the River Trail as police probe five possibly connected deaths.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/criminologist-professor-big-ten-college-offers-warning-students-police-probe-possible-serial-killer",
+      "source": "https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-israel-haters-admit-what-really-want",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/criminologist-professor-big-ten-college-offers-warning-students-police-probe-possible-serial-killer"
+          "url": "https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-israel-haters-admit-what-really-want"
         }
       ]
     },
     {
-      "title": "Trump Energy Department issues emergency order to prevent blackouts across 13 states amid unusual October heat",
-      "category": "U.S.",
-      "what": "The Department of Energy authorized PJM Interconnection to tap backup power as unseasonably warm October temperatures strain the grid across 13 states.",
+      "title": "Collins insists socialist rival won't beat her as Maine's money machine: 'You'll lose big time'",
+      "category": "Politics",
+      "what": "A Suffolk University poll shows Troy Jackson edging Susan Collins 49%-47% ahead of their final Maine Senate debate in a statistical dead heat.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/us/trump-energy-department-issues-emergency-order-prevent-blackouts-13-states-unusual-october-heat",
+      "source": "https://www.foxnews.com/politics/collins-insists-socialist-rival-wont-beat-her-maines-money-machine-youll-lose-big-time",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/collins-insists-socialist-rival-wont-beat-her-maines-money-machine-youll-lose-big-time"
+        }
+      ]
+    },
+    {
+      "title": "Fears of China spying on US military prompt GOP hawks to demand retaliation against the shipping giant",
+      "category": "Politics",
+      "what": "Three House Republicans demand DHS revoke COSCO's Qualship 21 enrollment after the Pentagon designated the Chinese shipping giant a military company.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/fears-china-spying-us-military-prompt-gop-hawks-demand-retaliation-shipping-giant",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/fears-china-spying-us-military-prompt-gop-hawks-demand-retaliation-shipping-giant"
+        }
+      ]
+    },
+    {
+      "title": "Investigators zero in on possible cause of Wisconsin plane crash that killed 6",
+      "category": "U.S.",
+      "what": "Flight data shows the Piper Malibu's airspeed nearly doubled to 340 mph as it plunged at 4,000 feet per minute after the pilot reported wing icing.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/investigators-zero-possible-cause-wisconsin-plane-crash-killed-6",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/trump-energy-department-issues-emergency-order-prevent-blackouts-13-states-unusual-october-heat"
+          "url": "https://www.foxnews.com/us/investigators-zero-possible-cause-wisconsin-plane-crash-killed-6"
+        }
+      ]
+    },
+    {
+      "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan ",
+      "category": "World",
+      "what": "Rescue officials fear more people are buried under the debris in the north-western city of Peshawar.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+      "category": "World",
+      "what": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Chinese national accused of poisoning cancer researcher had laptops seized while fleeing U.S.: cops",
+      "category": "U.S.",
+      "what": "University of Wyoming student Aili Wang was allegedly caught on surveillance footage poisoning a colleague's mug with acrylamide, a neurotoxin.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/chinese-national-accused-poisoning-cancer-researcher-laptops-seized-fleeing-us-cops",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/chinese-national-accused-poisoning-cancer-researcher-laptops-seized-fleeing-us-cops"
+        }
+      ]
+    },
+    {
+      "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
+      "category": "World",
+      "what": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Lindsay Clancy holdout explains 'methodical' slayings and more top headlines",
+      "category": "U.S.",
+      "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/lindsay-clancy-holdout-explains-methodical-slayings-more-top-headlines",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/lindsay-clancy-holdout-explains-methodical-slayings-more-top-headlines"
+        }
+      ]
+    },
+    {
+      "title": "Eight crew missing after drone attack leaves tanker ablaze off Romania's coast",
+      "category": "World",
+      "what": "A search and rescue operation is under way in the Black Sea after the latest attack in the area.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Obama says drift towards extremism 'not inevitable'",
+      "category": "World",
+      "what": "More than 12,000 people filled a major venue in the city to hear the former US president's take on the challenges the world is facing. .",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
+      "category": "Tech",
+      "what": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.",
+      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
+      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
+      "source": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/"
+        }
+      ]
+    },
+    {
+      "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
+      "category": "Tech",
+      "what": "But the new \"Preview\" app \"will have some bugs,\" Epic warns.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/"
+        }
+      ]
+    },
+    {
+      "title": "NATO may redeploy anti-drone defenses as attacks sink more Black Sea shipping",
+      "category": "Tech",
+      "what": "Suspected Russian drones have sunk or damaged 5 ships near Bulgaria and Romania.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://arstechnica.com/gadgets/2026/10/nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-black-sea-shipping/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/10/nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-black-sea-shipping/"
         }
       ]
     }
