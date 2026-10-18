@@ -1,87 +1,171 @@
 {
-  "date": "Saturday, October 17, 2026",
+  "date": "Sunday, October 18, 2026",
   "stories": [
     {
-      "title": "Ilhan Omar should be jailed, deported if citizenship fraud proven, Top House Republican says",
+      "title": "The nine key races that will decide who controls the Senate, and where they stand",
       "category": "Politics",
-      "what": "House Majority Whip Tom Emmer says Ilhan Omar should serve jail time and be deported if the federal investigation proves she lied on paperwork.",
+      "what": "Democrats eye multiple paths to flip the Senate majority as six toss-up races across Alaska, Iowa, Maine, Ohio and Texas shape Election Day.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/ilhan-omar-should-jailed-deported-citizenship-fraud-proven-top-house-republican-says",
+      "source": "https://www.foxnews.com/politics/nine-key-races-could-decide-who-controls-senate-where-stand",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/ilhan-omar-should-jailed-deported-citizenship-fraud-proven-top-house-republican-says"
+          "url": "https://www.foxnews.com/politics/nine-key-races-could-decide-who-controls-senate-where-stand"
         }
       ]
     },
     {
-      "title": "Pope to be discharged days after lung cancer surgery",
+      "title": "Several dead or injured in major fire at Canada military base",
       "category": "World",
-      "what": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
+      "what": "Officials have not given a cause or death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "category": "World",
+      "what": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+      "category": "World",
+      "what": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
       "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
       "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
-      "category": "World",
-      "what": "She and five staff members were found to have used the inedible paint in meals to make them look more appealing.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Your bumper sticker could help Flock cameras track where you go — new bill aims to stop it",
+      "title": "Trump tries different approach with Russia to bring Americans relief amid ongoing war with Ukraine",
       "category": "Politics",
-      "what": "Rep. Pat Harrigan's bill would require warrants for ALPR searches, delete records within 24 hours and ban tracking political or religious stickers.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/politics/bumper-sticker-help-flock-cameras-track-new-bill-aims-stop",
+      "what": "Trump's Russian diesel deal faces bipartisan pushback as analysts question whether easing sanctions on Vladimir Putin will lower prices or aid peace.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/trump-tries-different-approach-russia-bring-americans-relief-amid-ongoing-war-ukraine",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/bumper-sticker-help-flock-cameras-track-new-bill-aims-stop"
+          "url": "https://www.foxnews.com/politics/trump-tries-different-approach-russia-bring-americans-relief-amid-ongoing-war-ukraine"
         }
       ]
     },
     {
-      "title": "Detective suspected in girl’s murder may have killed others, former investigator fears",
+      "title": "WATCH: Virginia cops crawl through burning house to save man trapped in fire",
       "category": "U.S.",
-      "what": "A fingerprint on an 8-year-old's communion purse finally identified Chicago cop Thomas McInerney as Gloria Kowalewicz's killer after 65 years, police say.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/detective-suspected-girls-murder-may-have-killed-others-former-investigator-fears",
+      "what": "Body-worn camera footage captures four Culpeper, Virginia, police officers crawling through heavy smoke to drag an unresponsive man to safety.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/us/watch-virginia-cops-crawl-burning-house-save-man-trapped-fire",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/detective-suspected-girls-murder-may-have-killed-others-former-investigator-fears"
+          "url": "https://www.foxnews.com/us/watch-virginia-cops-crawl-burning-house-save-man-trapped-fire"
         }
       ]
     },
     {
-      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
       "category": "World",
-      "what": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "what": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "House panel warns Singham-linked nonprofits: Comply with subpoenas or face Congress",
+      "category": "Politics",
+      "what": "Neville Roy Singham and 20 others face potential depositions as the House Ways and Means Committee escalates its probe into nonprofit foreign funding.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/house-panel-warns-singham-linked-nonprofits-comply-subpoenas-face-congress",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/house-panel-warns-singham-linked-nonprofits-comply-subpoenas-face-congress"
+        }
+      ]
+    },
+    {
+      "title": "Accused teen killer's own dashcam could prove murder of two girls mowed down, lawyer says: 'not an accident'",
+      "category": "U.S.",
+      "what": "Vincent Battiloro's own dashcam footage allegedly shows him turning to follow two New Jersey teens before the fatal e-bike crash on Burnside Avenue.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/accused-teen-killer-dashcam-prove-murder-two-girls-mowed-down-lawyer-says-not-accident",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/accused-teen-killer-dashcam-prove-murder-two-girls-mowed-down-lawyer-says-not-accident"
+        }
+      ]
+    },
+    {
+      "title": "Teen suspected of killing boy and stepmom was in prosecutors' sights for years — until new law let them strike",
+      "category": "U.S.",
+      "what": "A legal gap in Indiana's juvenile jurisdiction law delayed murder charges for nearly two decades in the stabbing deaths of Blake and Chynna Dickus.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/teen-suspected-killing-boy-stepmom-prosecutors-sights-years-until-new-law-let-them-strike",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/teen-suspected-killing-boy-stepmom-prosecutors-sights-years-until-new-law-let-them-strike"
+        }
+      ]
+    },
+    {
+      "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+      "category": "World",
+      "what": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Bend school district honors slain teacher, praises staff member's courage during attack: ‘Forever grateful’",
+      "category": "U.S.",
+      "what": "Bend-La Pine Schools praised educators who risked their lives during the Silver Rail Elementary School shooting that killed three students and a teacher.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/bend-school-district-honors-slain-teacher-praises-staff-member-courage-during-attack-forever-grateful",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/bend-school-district-honors-slain-teacher-praises-staff-member-courage-during-attack-forever-grateful"
         }
       ]
     },
@@ -110,94 +194,6 @@
         {
           "name": "Ars Technica",
           "url": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/"
-        }
-      ]
-    },
-    {
-      "title": "Serial killer's ex-wife slept beside murderer for 8 years, never suspected his deadly double life",
-      "category": "U.S.",
-      "what": "Bonnie Lou Gower reveals the haunting warning signs she missed while sharing a bed with serial killer Richard Evonitz for over eight years.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.foxnews.com/us/serial-killer-ex-wife-slept-beside-murderer-8-years-never-suspected-deadly-double-life",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/serial-killer-ex-wife-slept-beside-murderer-8-years-never-suspected-deadly-double-life"
-        }
-      ]
-    },
-    {
-      "title": "Ilhan Omar's turbulent week explained: The dueling probes that threw the Somali-born progressive into chaos",
-      "category": "Politics",
-      "what": "Federal agents raided Ilhan Omar's D.C. home, seizing her phone, computers and passport as part of a criminal probe into immigration fraud.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/politics/ilhan-omars-turbulent-week-explained-dueling-probes-threw-somali-born-progressive-chaos",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/ilhan-omars-turbulent-week-explained-dueling-probes-threw-somali-born-progressive-chaos"
-        }
-      ]
-    },
-    {
-      "title": "Alex Murdaugh's defense makes 'high risk' move to show DNA proves he didn't kill family, prosecutor says",
-      "category": "U.S.",
-      "what": "Alex Murdaugh's defense team is betting on a Y-STR DNA test by Othram that prosecutors call \"high risk\" ahead of his April 2027 murder retrial.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/alex-murdaugh-defense-high-risk-move-show-dna-proves-didnt-kill-family-prosecutor-says",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/alex-murdaugh-defense-high-risk-move-show-dna-proves-didnt-kill-family-prosecutor-says"
-        }
-      ]
-    },
-    {
-      "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-      "category": "World",
-      "what": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/hero-dad-took-down-oregon-school-shooter-identified-along-teacher-killed-attack"
-        }
-      ]
-    },
-    {
-      "title": "Katie Zacharia leaving White House role less than five days into job",
-      "category": "World",
-      "what": "Her public debut as press secretary ended with a flurry of media criticism about her credentials and preparedness.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Fox News Campus Radicals Newsletter: Judeo-Christian values under assault in American schools",
-      "category": "U.S.",
-      "what": "Stay up to date with the Fox News Campus Radicals newsletter.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/fox-news-campus-radicals-newsletter-judeo-christian-values-under-assault-american-schools",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/fox-news-campus-radicals-newsletter-judeo-christian-values-under-assault-american-schools"
         }
       ]
     },
