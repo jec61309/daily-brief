@@ -1,217 +1,221 @@
 {
-  "date": "Tuesday, October 20, 2026",
+  "date": "Wednesday, October 21, 2026",
   "stories": [
     {
-      "title": "China ties suspected in sprawling California pot operations as GOP urges FBI probe",
+      "title": "Thune makes bold prediction about Republicans' Senate chances as GOP pulls millions from key races",
       "category": "Politics",
-      "what": "Rep. James Gallagher urged FBI Director Kash Patel to crack down on illegal marijuana cultivation in Siskiyou County allegedly tied to Chinese organized crime.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/china-ties-suspected-sprawling-california-pot-operations-gop-urges-fbi-probe",
+      "what": "John Thune says Republicans will outperform the polls in toss-up senate races despite shifting campaign cash away from Georgia and into Kansas.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/thune-makes-bold-prediction-republicans-senate-chances-gop-pulls-millions-key-races",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/china-ties-suspected-sprawling-california-pot-operations-gop-urges-fbi-probe"
+          "url": "https://www.foxnews.com/politics/thune-makes-bold-prediction-republicans-senate-chances-gop-pulls-millions-key-races"
         }
       ]
     },
     {
-      "title": "American who fled US after allegedly killing pregnant wife could return within days with murder charge dropped",
-      "category": "U.S.",
-      "what": "Italy granted Lee Gilley partial extradition on a reduced first-degree murder charge, but his defense attorney says an appeal is likely coming.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/american-fled-us-allegedly-killing-pregnant-wife-could-return-within-days-murder-charge-dropped",
+      "title": "Macron accuses foreign leaders of exploiting French riots   ",
+      "category": "World",
+      "what": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/american-fled-us-allegedly-killing-pregnant-wife-could-return-within-days-murder-charge-dropped"
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Zelensky and US envoys to hold Oslo talks as Rubio denies withholding intelligence",
-      "category": "World",
-      "what": "The US secretary of state rejects accusations Ukrainians were dying because the US was withholding intelligence.",
+      "title": "Socialist primary sweep sparks launch of new resource laying out what’s at stake in 2026",
+      "category": "Politics",
+      "what": "AAF launches \"DSA Exposed\" website countering Democratic Socialists of America policies from universal healthcare to abolishing the Senate.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/socialist-primary-sweep-sparks-launch-new-resource-laying-whats-stake-2026",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/socialist-primary-sweep-sparks-launch-new-resource-laying-whats-stake-2026"
+        }
+      ]
+    },
+    {
+      "title": "Trump delivers $1 billion to Marines to relieve decades-long suffering of American heroes and their families",
+      "category": "Politics",
+      "what": "Trump announced nearly $1 billion in Camp Lejeune toxic water settlements at a North Carolina rally, ordering the DOJ to resolve all remaining claims.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/trump-delivers-1-billion-marines-relieve-decades-long-suffering-american-heroes-families",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/trump-delivers-1-billion-marines-relieve-decades-long-suffering-american-heroes-families"
+        }
+      ]
+    },
+    {
+      "title": "Building a Layered Homeland Defense",
+      "category": "U.S.",
+      "what": "Modern homeland missile defense requires the ability to detect different threats, understand them quickly and choose the right response. Lockheed Martin experts explain how satellites, radars and interceptors can work together in a layered ",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.foxnews.com/us/building-layered-homeland-defense",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss"
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/building-layered-homeland-defense"
         }
       ]
     },
     {
-      "title": "Torched cars, ransacked businesses: Anti-Sharia crusader warns France 'civil war' could be imported to US",
-      "category": "Politics",
-      "what": "A top House Republican blames France riots on mass migration, warning America could face the same future if it doesn't learn from the Paris chaos.",
+      "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
+      "category": "World",
+      "what": "The 74-year-old former teacher, who was captured, has been released without any \"swap\" required, Trump says.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/torched-cars-ransacked-businesses-anti-sharia-crusader-warns-france-civil-war-could-imported-us",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/torched-cars-ransacked-businesses-anti-sharia-crusader-warns-france-civil-war-could-imported-us"
-        }
-      ]
-    },
-    {
-      "title": "Kenya cult leader's children still being starved weeks before trial, son says",
-      "category": "World",
-      "what": "Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Fox News Power Rankings: Trump country at a crossroads",
-      "category": "Politics",
-      "what": "Rural voters are wavering on the GOP as cost of living, unemployment and AI data centers reshape the political landscape in heartland states.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/fox-news-power-rankings-trump-country-crossroads",
-      "sources": [
+          "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss"
+        },
         {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/fox-news-power-rankings-trump-country-crossroads"
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/imprisoned-american-teacher-stephen-hubbard-released-russia-more-top-headlines"
         }
       ]
     },
     {
-      "title": "Suspect arrested after historic town hall set alight - French media",
+      "title": "Family of prison officer killed by IRA receives state apology",
       "category": "World",
-      "what": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
+      "what": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later.",
       "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
       "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Dashcam video captures small plane crashing on San Jose highway, injuring three on board, including child",
+      "title": "Nigeria confirms Ebola case linked to East Africa   ",
+      "category": "World",
+      "what": "The female patient, who sources have told the BBC is not Nigerian, is in isolation and in an Abuja hospital.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Philly officer murdered in line of duty promoted to sergeant as police from around US attend his funeral",
       "category": "U.S.",
-      "what": "Dash cam video captures a Cessna 177 crashing into a Capitol Expressway overpass in San Jose, California, as the FAA and NTSB investigate it.",
+      "what": "Thousands of officers gathered as Shane Seiber was promoted posthumously to sergeant during an emotional Philadelphia funeral service Tuesday.",
       "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
       "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/dashcam-video-captures-small-plane-crashing-san-jose-highway-injuring-three-board-including-child",
+      "source": "https://www.foxnews.com/us/philly-officer-murdered-line-duty-promoted-sergeant-police-around-us-attend-funeral",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/dashcam-video-captures-small-plane-crashing-san-jose-highway-injuring-three-board-including-child"
+          "url": "https://www.foxnews.com/us/philly-officer-murdered-line-duty-promoted-sergeant-police-around-us-attend-funeral"
         }
       ]
     },
     {
-      "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
-      "category": "Tech",
-      "what": "A single query is all that's required to find thousands of conversations listed by title.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+      "title": "OceanGate CEO Stockton Rush wanted to join ‘Titanic mythology’ when Titan sub imploded, friend claims",
+      "category": "U.S.",
+      "what": "Karl Stanley claims OceanGate CEO Stockton Rush intentionally designed the Titan submersible to implode, calling it a \"mousetrap for billionaires.\"",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/oceangate-ceo-stockton-rush-wanted-join-titanic-mythology-titan-sub-imploded-friend-claims",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/"
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/oceangate-ceo-stockton-rush-wanted-join-titanic-mythology-titan-sub-imploded-friend-claims"
         }
       ]
     },
     {
-      "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
+      "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
       "category": "World",
-      "what": "France's second city saw some of the worst violence as chaos gripped the country on Saturday.",
+      "what": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
       "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
       "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
-      "category": "World",
-      "what": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "GOP Senate hopeful sees opening with key Dem voter blocs in battleground race and more top headlines",
-      "category": "U.S.",
-      "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/us/gop-senate-hopeful-opening-key-dem-voter-battleground-race-more-top-headlines",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/gop-senate-hopeful-opening-key-dem-voter-battleground-race-more-top-headlines"
-        }
-      ]
-    },
-    {
-      "title": "Elderly Miss man killed with own gun in random home invasion as sheriff questions possible religious motive",
-      "category": "U.S.",
-      "what": "A video captured the alleged burglar screaming what sounds like \"God is dead\" before the fatal home invasion that killed Bobby McGill in Mississippi.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/elderly-miss-man-killed-own-gun-random-home-invasion-sheriff-questions-possible-religious-motive",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/elderly-miss-man-killed-own-gun-random-home-invasion-sheriff-questions-possible-religious-motive"
-        }
-      ]
-    },
-    {
-      "title": "Visiting Slate’s first showroom as its $25,000 electric truck nears production",
-      "category": "Tech",
-      "what": "Slate's first showroom sells the promise. Mass production will determine the rest.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/cars/2026/10/visiting-slates-first-showroom-as-its-25000-electric-truck-nears-production/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/10/visiting-slates-first-showroom-as-its-25000-electric-truck-nears-production/"
-        }
-      ]
-    },
-    {
-      "title": "Japan launches mission to bring home a piece of the Martian moon Phobos",
-      "category": "Tech",
-      "what": "The climax for MMX will come in 2029, when the spacecraft will attempt up to two landings on Phobos.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/"
+          "url": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/"
+        }
+      ]
+    },
+    {
+      "title": "Alabama governor commutes death sentence as doubts emerge about evidence in murder conviction",
+      "category": "U.S.",
+      "what": "Alabama Gov. Kay Ivey commuted Toforest Johnson's death sentence, but his attorneys say the fight for a new trial and full exoneration continues.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/alabama-governor-commutes-death-sentence-doubts-emerge-evidence-murder-conviction",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/alabama-governor-commutes-death-sentence-doubts-emerge-evidence-murder-conviction"
+        }
+      ]
+    },
+    {
+      "title": "PHP warns it plans to release 2 emergency patches imminently",
+      "category": "Tech",
+      "what": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/"
+        }
+      ]
+    },
+    {
+      "title": "Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies",
+      "category": "Tech",
+      "what": "Guinea-Bissau police said hepatitis B vaccine doses were taken as part of an investigation.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/"
+        }
+      ]
+    },
+    {
+      "title": "Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix",
+      "category": "Tech",
+      "what": "Xbox maker is also apparently planning its own gaming handheld for next year.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/"
         }
       ]
     }
