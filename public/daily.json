@@ -1,221 +1,217 @@
 {
-  "date": "Wednesday, October 21, 2026",
+  "date": "Thursday, October 22, 2026",
   "stories": [
     {
-      "title": "Thune makes bold prediction about Republicans' Senate chances as GOP pulls millions from key races",
+      "title": "Trump pushback, Biden 'disaster' and gender surprise: 5 key moments from Kansas Senate debate",
       "category": "Politics",
-      "what": "John Thune says Republicans will outperform the polls in toss-up senate races despite shifting campaign cash away from Georgia and into Kansas.",
+      "what": "Republican Sen. Roger Marshall and Democrat Adam Hamilton clashed over Trump, transgender athletes and AI in a heated Kansas Senate debate on Wednesday.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/thune-makes-bold-prediction-republicans-senate-chances-gop-pulls-millions-key-races",
+      "source": "https://www.foxnews.com/politics/trump-pushback-biden-disaster-gender-surprise-5-key-moments-from-kansas-senate-debate",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/thune-makes-bold-prediction-republicans-senate-chances-gop-pulls-millions-key-races"
+          "url": "https://www.foxnews.com/politics/trump-pushback-biden-disaster-gender-surprise-5-key-moments-from-kansas-senate-debate"
         }
       ]
     },
     {
-      "title": "Macron accuses foreign leaders of exploiting French riots   ",
-      "category": "World",
-      "what": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Socialist primary sweep sparks launch of new resource laying out what’s at stake in 2026",
+      "title": "Obama-appointed judge at center of Trump's anti-weaponization fund case hit with misconduct claim",
       "category": "Politics",
-      "what": "AAF launches \"DSA Exposed\" website countering Democratic Socialists of America policies from universal healthcare to abolishing the Senate.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/socialist-primary-sweep-sparks-launch-new-resource-laying-whats-stake-2026",
+      "what": "Jim Jordan demands a judicial misconduct probe into Judge Kathleen Williams after she sanctioned Trump's lawyers in the IRS lawsuit case.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/politics/obama-appointed-judge-center-trumps-anti-weaponization-fund-case-hit-misconduct-claim",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/socialist-primary-sweep-sparks-launch-new-resource-laying-whats-stake-2026"
-        }
-      ]
-    },
-    {
-      "title": "Trump delivers $1 billion to Marines to relieve decades-long suffering of American heroes and their families",
-      "category": "Politics",
-      "what": "Trump announced nearly $1 billion in Camp Lejeune toxic water settlements at a North Carolina rally, ordering the DOJ to resolve all remaining claims.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/trump-delivers-1-billion-marines-relieve-decades-long-suffering-american-heroes-families",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-delivers-1-billion-marines-relieve-decades-long-suffering-american-heroes-families"
-        }
-      ]
-    },
-    {
-      "title": "Building a Layered Homeland Defense",
-      "category": "U.S.",
-      "what": "Modern homeland missile defense requires the ability to detect different threats, understand them quickly and choose the right response. Lockheed Martin experts explain how satellites, radars and interceptors can work together in a layered ",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/building-layered-homeland-defense",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/building-layered-homeland-defense"
-        }
-      ]
-    },
-    {
-      "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
-      "category": "World",
-      "what": "The 74-year-old former teacher, who was captured, has been released without any \"swap\" required, Trump says.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/imprisoned-american-teacher-stephen-hubbard-released-russia-more-top-headlines"
-        }
-      ]
-    },
-    {
-      "title": "Family of prison officer killed by IRA receives state apology",
-      "category": "World",
-      "what": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Nigeria confirms Ebola case linked to East Africa   ",
-      "category": "World",
-      "what": "The female patient, who sources have told the BBC is not Nigerian, is in isolation and in an Abuja hospital.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Philly officer murdered in line of duty promoted to sergeant as police from around US attend his funeral",
-      "category": "U.S.",
-      "what": "Thousands of officers gathered as Shane Seiber was promoted posthumously to sergeant during an emotional Philadelphia funeral service Tuesday.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/philly-officer-murdered-line-duty-promoted-sergeant-police-around-us-attend-funeral",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/philly-officer-murdered-line-duty-promoted-sergeant-police-around-us-attend-funeral"
-        }
-      ]
-    },
-    {
-      "title": "OceanGate CEO Stockton Rush wanted to join ‘Titanic mythology’ when Titan sub imploded, friend claims",
-      "category": "U.S.",
-      "what": "Karl Stanley claims OceanGate CEO Stockton Rush intentionally designed the Titan submersible to implode, calling it a \"mousetrap for billionaires.\"",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/oceangate-ceo-stockton-rush-wanted-join-titanic-mythology-titan-sub-imploded-friend-claims",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/oceangate-ceo-stockton-rush-wanted-join-titanic-mythology-titan-sub-imploded-friend-claims"
-        }
-      ]
-    },
-    {
-      "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
-      "category": "World",
-      "what": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.foxnews.com/politics/obama-appointed-judge-center-trumps-anti-weaponization-fund-case-hit-misconduct-claim"
         },
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/"
+          "url": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/"
         }
       ]
     },
     {
-      "title": "Alabama governor commutes death sentence as doubts emerge about evidence in murder conviction",
+      "title": "Fox News ‘Antisemitism Exposed’ Newsletter: French Jews forced into hiding as rioters terrorize streets",
       "category": "U.S.",
-      "what": "Alabama Gov. Kay Ivey commuted Toforest Johnson's death sentence, but his attorneys say the fight for a new trial and full exoneration continues.",
+      "what": "Fox News' \"Antisemitism Exposed\" newsletter brings you stories on the rising anti-Jewish prejudice across the U.S. and the world.",
       "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
       "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/alabama-governor-commutes-death-sentence-doubts-emerge-evidence-murder-conviction",
+      "source": "https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-french-jews-forced-hiding-rioters-terrorize-streets",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/alabama-governor-commutes-death-sentence-doubts-emerge-evidence-murder-conviction"
+          "url": "https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-french-jews-forced-hiding-rioters-terrorize-streets"
         }
       ]
     },
     {
-      "title": "PHP warns it plans to release 2 emergency patches imminently",
-      "category": "Tech",
-      "what": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+      "title": "Lindsay Clancy holdout juror won't have to turn over phone or face inquiry, judge says",
+      "category": "U.S.",
+      "what": "Judge William Sullivan denied a defense motion to examine the Clancy mistrial holdout juror's phone, ruling post-trial evidence is irrelevant.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/lindsay-clancy-holdout-juror-wont-have-turn-over-phone-face-inquiry-judge-says",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/lindsay-clancy-holdout-juror-wont-have-turn-over-phone-face-inquiry-judge-says"
+        }
+      ]
+    },
+    {
+      "title": "Virginia state senator indicted, accused of leading a marijuana distribution enterprise",
+      "category": "U.S.",
+      "what": "Summary not available yet.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+      "source": "https://www.foxnews.com/us/virginia-state-senator-indicted-accused-leading-marijuana-distribution-enterprise",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/"
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/virginia-state-senator-indicted-accused-leading-marijuana-distribution-enterprise"
         }
       ]
     },
     {
-      "title": "Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies",
-      "category": "Tech",
-      "what": "Guinea-Bissau police said hepatitis B vaccine doses were taken as part of an investigation.",
+      "title": "Teacher in Oregon shooting said she pretended to be dead to survive",
+      "category": "World",
+      "what": "The teacher said she could not help children because she was badly injured by the attacker.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/",
+      "source": "https://www.bbc.co.uk/news/articles/cqvgrmzdzgr7o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/"
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqvgrmzdzgr7o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix",
+      "title": "First human case of Shamonda virus detected in France, officials say",
+      "category": "World",
+      "what": "The disease, which usually affects cattle, has been identified in a patient who died in early October.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Ilhan Omar issues stunning admission when confronted with brother marriage rumors",
+      "category": "Politics",
+      "what": "Ilhan Omar broke her silence on the federal investigation and search warrant, denying she married Ahmed Nur Said Elmi to commit immigration fraud.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/politics/ilhan-omar-issues-stunning-admission-confronted-brother-marriage-rumors",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/ilhan-omar-issues-stunning-admission-confronted-brother-marriage-rumors"
+        }
+      ]
+    },
+    {
+      "title": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
+      "category": "World",
+      "what": "It is the latest in a series of attacks by the Houthi movement targeting airports and other sites in the kingdom.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Ilhan Omar says 'bizarre' pre-dawn raid on her home is forcing her to move out",
+      "category": "World",
+      "what": "The congresswoman said federal agents seized over a dozen items, including cell phones and notebooks, as part of a federal investigation.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/cm75p1kxryl5o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm75p1kxryl5o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Two European women held captive for more than a year in Niger freed in Libya ",
+      "category": "World",
+      "what": "The Swiss government told the BBC that the freed national was on her way back to Switzerland.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Forget \"Malaise 2.0,\" GM says it's still all-in on EVs and autonomy",
       "category": "Tech",
-      "what": "Xbox maker is also apparently planning its own gaming handheld for next year.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/",
+      "what": "General Motors' plans will require quite a lot of customers' trust.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/cars/2026/10/forget-malaise-2-0-gm-says-its-still-all-in-on-evs-and-autonomy/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/"
+          "url": "https://arstechnica.com/cars/2026/10/forget-malaise-2-0-gm-says-its-still-all-in-on-evs-and-autonomy/"
+        }
+      ]
+    },
+    {
+      "title": "Injured Bend, Oregon, teacher tried to shut classroom door during school shooting before playing dead",
+      "category": "U.S.",
+      "what": "A Silver Rail Elementary teacher described being shot at close range and pretending to be dead as the Bend, Oregon, school shooting unfolded.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/injured-bend-oregon-teacher-tried-shut-classroom-door-during-school-shooting-before-playing-dead",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/injured-bend-oregon-teacher-tried-shut-classroom-door-during-school-shooting-before-playing-dead"
+        }
+      ]
+    },
+    {
+      "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
+      "category": "Tech",
+      "what": "For 3 days this month, 333 exit nodes were hacked in hopes of stealing sensitive data.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/"
+        }
+      ]
+    },
+    {
+      "title": "UN says we're going to blow past 1.5º warming, offers a \"now what?\" answer",
+      "category": "Tech",
+      "what": "Best case is now an overshoot to 1.8º C, accompanied by massive carbon removal.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://arstechnica.com/science/2026/10/un-accepts-the-obvious-were-not-going-to-avoid-a-1-5o-c-warming/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/10/un-accepts-the-obvious-were-not-going-to-avoid-a-1-5o-c-warming/"
         }
       ]
     }
