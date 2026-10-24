@@ -1,38 +1,192 @@
 {
-  "date": "Friday, October 23, 2026",
+  "date": "Saturday, October 24, 2026",
   "stories": [
     {
-      "title": "Six shot dead by gunmen at church funeral in Jordan, officials say",
-      "category": "World",
-      "what": "Another 28 people are injured in the southern Karak governorate, and a manhunt is now under way.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump's war on drug cartels could gain powerful new ally after pivotal election",
+      "category": "Politics",
+      "what": "Eduardo Bolsonaro says Brazil would join Trump's Shield of the Americas anti-cartel coalition if brother Flávio Bolsonaro wins the Oct. 25 runoff.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/trumps-war-drug-cartels-could-gain-powerful-new-ally-after-pivotal-election",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss"
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/trumps-war-drug-cartels-could-gain-powerful-new-ally-after-pivotal-election"
         }
       ]
     },
     {
-      "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
-      "category": "World",
-      "what": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+      "title": "Missouri businesswoman and single mom killed when police SUV responding to emergency crashes into her Audi",
+      "category": "U.S.",
+      "what": "Misty Leslie, 48, was killed when an Independence Police Department SUV struck her Audi outside Kansas City, but key details remain unknown.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/missouri-businesswoman-single-mom-killed-police-suv-responding-emergency-crashes-audi",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss"
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/missouri-businesswoman-single-mom-killed-police-suv-responding-emergency-crashes-audi"
         }
       ]
     },
     {
-      "title": "Melania Trump brokers truce for Ukraine city 'on brink of disaster', White House says",
+      "title": "Cornell rape accuser can remain 'Jane Doe' as judge warns threats could lead to federal charges",
+      "category": "U.S.",
+      "what": "A New York judge ruled the Cornell Jane Doe accuser can keep her pseudonym in the civil case against Chi Phi fraternity members she accused of rape.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/cornell-rape-accuser-remain-jane-doe-judge-warns-threats-could-lead-federal-charges",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/cornell-rape-accuser-remain-jane-doe-judge-warns-threats-could-lead-federal-charges"
+        }
+      ]
+    },
+    {
+      "title": "Ukraine says Starlink connection 'now stable' after network limits",
       "category": "World",
-      "what": "Ukraine and Russia have not confirmed the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+      "what": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Alabama man allegedly decapitates family members with chainsaw hours after 911 warning",
+      "category": "U.S.",
+      "what": "Thomas Henry Steele faces capital murder charges after allegedly killing two family members with a chainsaw at a Mobile, Alabama, home.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/alabama-man-allegedly-decapitates-family-members-chainsaw-hours-after-911-warning",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/alabama-man-allegedly-decapitates-family-members-chainsaw-hours-after-911-warning"
+        }
+      ]
+    },
+    {
+      "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+      "category": "Tech",
+      "what": "A new model suggests Mars may host ice-forming physics never directly observed before.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/"
+        }
+      ]
+    },
+    {
+      "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "category": "World",
+      "what": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Canada is feeling the pain from Trump's tariffs — but the trade fight didn't start overnight",
+      "category": "Politics",
+      "what": "President Donald Trump's trade showdown with Canada targets dairy, lumber and market access, reviving decades-old tensions between allied economies.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/canada-feeling-pain-trumps-tariffs-trade-fight-didnt-start-overnight",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/canada-feeling-pain-trumps-tariffs-trade-fight-didnt-start-overnight"
+        }
+      ]
+    },
+    {
+      "title": "Jon Bon Jovi impersonator uses AI videos to scam woman out of $10K, nearly costing her home",
+      "category": "U.S.",
+      "what": "Leslie Pickett lost over $10,000 to a deepfake scam after a fake Jon Bon Jovi account on Instagram used AI videos to build trust over months.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/jon-bon-jovi-impersonator-uses-ai-videos-scam-woman-10k-nearly-costing-her-home",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/jon-bon-jovi-impersonator-uses-ai-videos-scam-woman-10k-nearly-costing-her-home"
+        }
+      ]
+    },
+    {
+      "title": "Trump officials warn decades-long decline among American men could carry national security consequences",
+      "category": "Politics",
+      "what": "President Donald Trump's administration develops testosterone screening for troops as an HHS official warns 77% of young Americans can't serve.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/trump-officials-warn-decades-long-decline-american-men-could-carry-national-security-consequences",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/trump-officials-warn-decades-long-decline-american-men-could-carry-national-security-consequences"
+        }
+      ]
+    },
+    {
+      "title": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
+      "category": "Tech",
+      "what": "The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/"
+        }
+      ]
+    },
+    {
+      "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+      "category": "World",
+      "what": "The children were subsequently rescued from the water, police say.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Seven missing after multi-storey building collapses in Kenya's capital",
+      "category": "World",
+      "what": "Rescue efforts are under way to find people trapped under the block, which was still under construction when it buckled.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
+      "category": "World",
+      "what": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
       "source": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
@@ -44,170 +198,16 @@
       ]
     },
     {
-      "title": "Jackson again publicly breaks with Supreme Court as justices side with GOP in last-minute voter ID fight",
-      "category": "Politics",
-      "what": "Ketanji Brown Jackson publicly dissented as the Supreme Court let New Hampshire block student ID cards as ballot identification for midterm elections.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/jackson-publicly-breaks-supreme-court-justices-side-gop-last-minute-voter-id-fight",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/jackson-publicly-breaks-supreme-court-justices-side-gop-last-minute-voter-id-fight"
-        }
-      ]
-    },
-    {
-      "title": "Ilhan Omar hit with expulsion threat as GOP lawmaker vows to boot her from Congress over DOJ probe",
-      "category": "Politics",
-      "what": "Rep. Randy Fine says he plans to pursue House expulsion of Rep. Ilhan Omar if the Justice Department finds her guilty of immigration fraud.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/ilhan-omar-hit-expulsion-threat-gop-lawmaker-vows-boot-her-from-congress-over-doj-probe",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/ilhan-omar-hit-expulsion-threat-gop-lawmaker-vows-boot-her-from-congress-over-doj-probe"
-        }
-      ]
-    },
-    {
-      "title": "EXCLUSIVE: Fed timeline challenges reports of migrant baby facing immigration judge alone",
-      "category": "Politics",
-      "what": "ORR officials say the former Acacia Center contract lacked accountability, with redacted invoices totaling over $20 million monthly for legal services.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/fed-timeline-challenges-reports-migrant-baby-facing-immigration-judge-alone",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/fed-timeline-challenges-reports-migrant-baby-facing-immigration-judge-alone"
-        }
-      ]
-    },
-    {
-      "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
-      "category": "World",
-      "what": "The two attackers were shot dead after a gun battle outside Hebron, four days before Israel's general election.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Denmark to ban mink farming in government U-turn",
-      "category": "World",
-      "what": "Once the world's largest producer of mink pelts, the nation's industry has declined in recent years.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/c59vzjm118j1o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c59vzjm118j1o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
+      "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
       "category": "Tech",
-      "what": "Ukraine has changed drone and war-fighting tech to reduce reliance on Starlink.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/"
-        }
-      ]
-    },
-    {
-      "title": "Ilhan Omar birth name questions could have far-reaching legal implications and more top headlines",
-      "category": "U.S.",
-      "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/ilhan-omar-birth-name-questions-could-have-far-reaching-legal-implications-more-top-headlines",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/ilhan-omar-birth-name-questions-could-have-far-reaching-legal-implications-more-top-headlines"
-        }
-      ]
-    },
-    {
-      "title": "Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees",
-      "category": "Tech",
-      "what": "Friday the 13th prequel series based on Jason’s mom drags at first, then hits a vein.",
+      "what": "\"We have the mandate, we have the resources, and the support from our stakeholders.\"",
       "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
       "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/culture/2026/10/review-crystal-lake-suffers-a-bit-from-its-obsession-with-pam-voorhees/",
+      "source": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/culture/2026/10/review-crystal-lake-suffers-a-bit-from-its-obsession-with-pam-voorhees/"
-        }
-      ]
-    },
-    {
-      "title": "Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready",
-      "category": "Tech",
-      "what": "\"We believe Canada should be able to reach orbit on its own terms.\"",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/"
-        }
-      ]
-    },
-    {
-      "title": "California sheriff fights plan to house convicted sex predator near Girl Scout camp",
-      "category": "U.S.",
-      "what": "A convicted rapist could be placed in a rental home near a Girl Scout camp in the Santa Cruz Mountains, and the local sheriff is fighting back.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/us/california-sheriff-fights-plan-house-convicted-sex-predator-near-girl-scout-camp",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/california-sheriff-fights-plan-house-convicted-sex-predator-near-girl-scout-camp"
-        }
-      ]
-    },
-    {
-      "title": "Ex-cop sped away in hedge fund’s SUV after fatal George Washington Bridge road rage shooting: report",
-      "category": "U.S.",
-      "what": "Victor Romero, a former NYPD detective, allegedly fired a fatal shot from his employer's SUV during a George Washington Bridge road rage encounter.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/ex-cop-sped-away-hedge-funds-suv-after-fatal-george-washington-bridge-road-rage-shooting-report",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/ex-cop-sped-away-hedge-funds-suv-after-fatal-george-washington-bridge-road-rage-shooting-report"
-        }
-      ]
-    },
-    {
-      "title": "Gabby Petito court battle could decide whether Charlie Kirk family can prevail in Utah wrongful death lawsuit",
-      "category": "U.S.",
-      "what": "A Utah Supreme Court appeal in the Gabby Petito wrongful death case could clear the way for Charlie Kirk's family to sue over security failures.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/gabby-petito-court-battle-decide-charlie-kirk-family-prevail-utah-wrongful-death-lawsuit",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/gabby-petito-court-battle-decide-charlie-kirk-family-prevail-utah-wrongful-death-lawsuit"
+          "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/"
         }
       ]
     }
