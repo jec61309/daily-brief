@@ -1,73 +1,175 @@
 {
-  "date": "Saturday, October 24, 2026",
+  "date": "Sunday, October 25, 2026",
   "stories": [
     {
-      "title": "Trump's war on drug cartels could gain powerful new ally after pivotal election",
+      "title": "Man admits beating dad to death in picturesque town decades ago after bragging to cops about 'first body'",
+      "category": "U.S.",
+      "what": "Douglas Herlihy admitted to killing his father in a New Hampshire home in 2003. A closet door message and a 2020 boast to police helped crack the case.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/man-admits-beating-dad-death-picturesque-town-decades-ago-bragging-cops-first-body",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/man-admits-beating-dad-death-picturesque-town-decades-ago-bragging-cops-first-body"
+        }
+      ]
+    },
+    {
+      "title": "Fugitive mom wanted in daughter’s Arizona murder used cartels to hide for years before capture in Mexico: feds",
+      "category": "U.S.",
+      "what": "Anna Marlene Somoza's cartel connections helped her evade U.S. Marshals for over 12 years as a fugitive in Mexico after her daughter's 1997 death.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/fugitive-mom-wanted-daughters-arizona-murder-used-cartels-hide-years-before-capture-mexico-feds",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/fugitive-mom-wanted-daughters-arizona-murder-used-cartels-hide-years-before-capture-mexico-feds"
+        }
+      ]
+    },
+    {
+      "title": "Socialism's growing appeal meets an awkward reality check on college campus",
       "category": "Politics",
-      "what": "Eduardo Bolsonaro says Brazil would join Trump's Shield of the Americas anti-cartel coalition if brother Flávio Bolsonaro wins the Oct. 25 runoff.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/trumps-war-drug-cartels-could-gain-powerful-new-ally-after-pivotal-election",
+      "what": "University of Michigan students offered over a dozen different definitions of socialism, reflecting a national confusion highlighted by Gallup polling.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.foxnews.com/politics/socialisms-growing-appeal-meets-awkward-reality-check-college-campus",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trumps-war-drug-cartels-could-gain-powerful-new-ally-after-pivotal-election"
+          "url": "https://www.foxnews.com/politics/socialisms-growing-appeal-meets-awkward-reality-check-college-campus"
         }
       ]
     },
     {
-      "title": "Missouri businesswoman and single mom killed when police SUV responding to emergency crashes into her Audi",
-      "category": "U.S.",
-      "what": "Misty Leslie, 48, was killed when an Independence Police Department SUV struck her Audi outside Kansas City, but key details remain unknown.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/missouri-businesswoman-single-mom-killed-police-suv-responding-emergency-crashes-audi",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/missouri-businesswoman-single-mom-killed-police-suv-responding-emergency-crashes-audi"
-        }
-      ]
-    },
-    {
-      "title": "Cornell rape accuser can remain 'Jane Doe' as judge warns threats could lead to federal charges",
-      "category": "U.S.",
-      "what": "A New York judge ruled the Cornell Jane Doe accuser can keep her pseudonym in the civil case against Chi Phi fraternity members she accused of rape.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/cornell-rape-accuser-remain-jane-doe-judge-warns-threats-could-lead-federal-charges",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/cornell-rape-accuser-remain-jane-doe-judge-warns-threats-could-lead-federal-charges"
-        }
-      ]
-    },
-    {
-      "title": "Ukraine says Starlink connection 'now stable' after network limits",
+      "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
       "category": "World",
-      "what": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+      "what": "Flávio Bolsonaro, the son of Brazil's imprisoned ex-president, is challenging Lula, who is seeking a fourth term in office.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Alabama man allegedly decapitates family members with chainsaw hours after 911 warning",
+      "title": "Young woman joked about going missing — 10 years later, mom won't rest until she finds out who killed her",
       "category": "U.S.",
-      "what": "Thomas Henry Steele faces capital murder charges after allegedly killing two family members with a chainsaw at a Mobile, Alabama, home.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/alabama-man-allegedly-decapitates-family-members-chainsaw-hours-after-911-warning",
+      "what": "Angie Barlow vanished after texting her roommate about a private party gig in Indianapolis. Her mother says prosecutors have gone silent on the case.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/young-woman-joked-going-missing-10-years-later-mom-wont-rest-until-finds-who-killed-her",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/alabama-man-allegedly-decapitates-family-members-chainsaw-hours-after-911-warning"
+          "url": "https://www.foxnews.com/us/young-woman-joked-going-missing-10-years-later-mom-wont-rest-until-finds-who-killed-her"
+        }
+      ]
+    },
+    {
+      "title": "Mike Johnson's future hangs in balance as the 'accidental speaker' marks 3 years",
+      "category": "Politics",
+      "what": "Mike Johnson marks three years as House Speaker with $526 million in fundraising, but the midterm elections could threaten the Republican majority.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/mike-johnsons-future-hangs-balance-accidental-speaker-marks-3-years",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/mike-johnsons-future-hangs-balance-accidental-speaker-marks-3-years"
+        }
+      ]
+    },
+    {
+      "title": "El Salvador president says bodies found in Haiti are not those of hostages ",
+      "category": "World",
+      "what": "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
+      "category": "World",
+      "what": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Foster children's autism therapy at risk as Georgia lawmakers step into funding fight",
+      "category": "Politics",
+      "what": "Georgia foster children face losing ABA therapy progress after Amerigroup's 30% Medicaid reimbursement cut, as advocates warn clinics may close.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/politics/foster-childrens-autism-therapy-risk-georgia-lawmakers-step-funding-fight",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/foster-childrens-autism-therapy-risk-georgia-lawmakers-step-funding-fight"
+        }
+      ]
+    },
+    {
+      "title": "New Pentagon UFO files detail FBI agents' sighting of silent triangular object with no visible engines",
+      "category": "U.S.",
+      "what": "FBI agents described a silent black triangular UAP hovering before accelerating at fighter-jet speeds in newly released Department of War documents.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/pentagon-ufo-files-detail-fbi-agents-sighting-silent-triangular-object-no-visible-engines",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/pentagon-ufo-files-detail-fbi-agents-sighting-silent-triangular-object-no-visible-engines"
+        }
+      ]
+    },
+    {
+      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+      "category": "World",
+      "what": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/ukraines-starlink-restored-elon-musk-claims-kyiv-violated-terms-service-kill-people"
+        }
+      ]
+    },
+    {
+      "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+      "category": "World",
+      "what": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -86,62 +188,6 @@
       ]
     },
     {
-      "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
-      "category": "World",
-      "what": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Canada is feeling the pain from Trump's tariffs — but the trade fight didn't start overnight",
-      "category": "Politics",
-      "what": "President Donald Trump's trade showdown with Canada targets dairy, lumber and market access, reviving decades-old tensions between allied economies.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/canada-feeling-pain-trumps-tariffs-trade-fight-didnt-start-overnight",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/canada-feeling-pain-trumps-tariffs-trade-fight-didnt-start-overnight"
-        }
-      ]
-    },
-    {
-      "title": "Jon Bon Jovi impersonator uses AI videos to scam woman out of $10K, nearly costing her home",
-      "category": "U.S.",
-      "what": "Leslie Pickett lost over $10,000 to a deepfake scam after a fake Jon Bon Jovi account on Instagram used AI videos to build trust over months.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/jon-bon-jovi-impersonator-uses-ai-videos-scam-woman-10k-nearly-costing-her-home",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/jon-bon-jovi-impersonator-uses-ai-videos-scam-woman-10k-nearly-costing-her-home"
-        }
-      ]
-    },
-    {
-      "title": "Trump officials warn decades-long decline among American men could carry national security consequences",
-      "category": "Politics",
-      "what": "President Donald Trump's administration develops testosterone screening for troops as an HHS official warns 77% of young Americans can't serve.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/trump-officials-warn-decades-long-decline-american-men-could-carry-national-security-consequences",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-officials-warn-decades-long-decline-american-men-could-carry-national-security-consequences"
-        }
-      ]
-    },
-    {
       "title": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
       "category": "Tech",
       "what": "The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny.",
@@ -152,48 +198,6 @@
         {
           "name": "Ars Technica",
           "url": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/"
-        }
-      ]
-    },
-    {
-      "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
-      "category": "World",
-      "what": "The children were subsequently rescued from the water, police say.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Seven missing after multi-storey building collapses in Kenya's capital",
-      "category": "World",
-      "what": "Rescue efforts are under way to find people trapped under the block, which was still under construction when it buckled.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
-      "category": "World",
-      "what": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
