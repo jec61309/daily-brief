@@ -1,217 +1,213 @@
 {
-  "date": "Monday, October 26, 2026",
+  "date": "Tuesday, October 27, 2026",
   "stories": [
     {
-      "title": "Shot 12 times in ambush that killed his partner, Philadelphia officer leaves hospital to cheers",
-      "category": "U.S.",
-      "what": "Video shows Hector Rodriguez wheeled past cheering supporters as he left Penn Presbyterian two weeks after the ambush that killed Shane Seiber.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/shot-12-times-ambush-killed-partner-philadelphia-officer-leaves-hospital-cheers",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/shot-12-times-ambush-killed-partner-philadelphia-officer-leaves-hospital-cheers"
-        }
-      ]
-    },
-    {
-      "title": "College campus rocked by two alleged attacks in just weeks as second student arrested at dorm",
-      "category": "U.S.",
-      "what": "James Vandenberg was arrested at a Wichita State University dorm on a rape charge, the second alleged sexual assault on campus in one month.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/college-campus-rocked-two-alleged-attacks-weeks-second-student-arrested-dorm",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/college-campus-rocked-two-alleged-attacks-weeks-second-student-arrested-dorm"
-        }
-      ]
-    },
-    {
-      "title": "Catholic bishops apologise for 'exploited' Trump meeting ",
-      "category": "World",
-      "what": "Two bishops in images that show them praying with Trump have said they believed the meeting was private.",
+      "title": "Schumer, Dems are quietly betting big on one sleeper race in the Deep South",
+      "category": "Politics",
+      "what": "National Democrats reserved $1.2 million in Mississippi ads for Scott Colom as they target Cindy Hyde-Smith's Senate seat in a GOP stronghold.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.foxnews.com/politics/schumer-dems-quietly-betting-big-one-sleeper-race-deep-south",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/schumer-dems-quietly-betting-big-one-sleeper-race-deep-south"
+        }
+      ]
+    },
+    {
+      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+      "category": "World",
+      "what": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Trump-appointed judge slams door on DOJ as court losses pile up days ahead of midterms",
+      "title": "Multi-state manhunt underway as murder victim's close friend fears escaped killer could strike again",
+      "category": "U.S.",
+      "what": "Jacob Allen Morley breached the Northwest Correctional Complex perimeter fence and stole a pickup truck, triggering a massive multi-state manhunt.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/multi-state-manhunt-underway-murder-victim-close-friend-fears-escaped-killer-could-strike-again",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/multi-state-manhunt-underway-murder-victim-close-friend-fears-escaped-killer-could-strike-again"
+        }
+      ]
+    },
+    {
+      "title": "Illinois man accused of threatening Congress with white substances in letters marked with his return address",
       "category": "Politics",
-      "what": "A judge President Donald Trump appointed dismissed the DOJ's lawsuit against Utah Lt. Gov. Deidre Henderson over state voter data with prejudice.",
+      "what": "Matthew Unglesbee allegedly told the FBI the white powder substance was salt and that he mailed the threatening letters to Congress as a joke.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/illinois-man-accused-threatening-congress-white-substances-letters-marked-return-address",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/illinois-man-accused-threatening-congress-white-substances-letters-marked-return-address"
+        }
+      ]
+    },
+    {
+      "title": "Kamala Harris calls Trump administration 'most callous and corrupt' in American history",
+      "category": "Politics",
+      "what": "Kamala Harris called the Trump White House the \"most callous and corrupt\" administration in history while campaigning for David Crowley in Wisconsin.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/kamala-harris-calls-trump-administration-most-callous-corrupt-american-history",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/kamala-harris-calls-trump-administration-most-callous-corrupt-american-history"
+        }
+      ]
+    },
+    {
+      "title": "Norway and Finland leaders hold rare call with Putin",
+      "category": "World",
+      "what": "This is the first time European leaders have had direct communication with Russia's president in more than a year.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Apple iPhone Duo review: Two screens, two experiences, two thousand dollars",
+      "category": "Tech",
+      "what": "I respect Apple's first crack at a foldable phone, but I'm not sure I like it.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/"
+        }
+      ]
+    },
+    {
+      "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+      "category": "World",
+      "what": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
       "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
       "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/trump-appointed-judge-slams-door-doj-court-losses-pile-up-days-ahead-midterms",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-appointed-judge-slams-door-doj-court-losses-pile-up-days-ahead-midterms"
-        }
-      ]
-    },
-    {
-      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-      "category": "World",
-      "what": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Ilhan Omar joins 'polarizing and dangerous' streamer at campaign event despite Democratic backlash",
-      "category": "Politics",
-      "what": "Rep. Ilhan Omar is set to share the stage with Hasan Piker despite fellow Minnesota Democrats urging her to cancel the appearance before midterm elections.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/ilhan-omar-joins-polarizing-dangerous-streamer-campaign-event-despite-democratic-backlash",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/ilhan-omar-joins-polarizing-dangerous-streamer-campaign-event-despite-democratic-backlash"
-        }
-      ]
-    },
-    {
-      "title": "Bull rider's final ride turns deadly when beast throws him off and stomps on his chest",
-      "category": "U.S.",
-      "what": "Justin Blake Saylor, 35, was thrown and stomped by a bull at Fox Hollow Rodeo in Waynesville, Ohio, suffering a fatal traumatic chest injury.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/bull-rider-final-ride-turns-deadly-beast-throws-stomps-chest",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/bull-rider-final-ride-turns-deadly-beast-throws-stomps-chest"
-        }
-      ]
-    },
-    {
-      "title": "Major school district's pledge with teachers' union sparks racial discrimination complaint",
-      "category": "Politics",
-      "what": "Defending Education filed a civil rights complaint alleging Cherry Creek Schools in Colorado discriminates by race in its teacher hiring policies.",
+      "title": "Nanotyrannus skeleton goes to auction in New York with £4.5m price tag",
+      "category": "World",
+      "what": "The auction of the rare skeleton comes amid debate in the scientific community about whether dinosaur remains should end up in private hands or public view.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/politics/major-school-district-pledge-teachers-union-sparks-racial-discrimination-complaint",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/major-school-district-pledge-teachers-union-sparks-racial-discrimination-complaint"
-        }
-      ]
-    },
-    {
-      "title": "Part of Antarctica named after former BBC science correspondent",
-      "category": "World",
-      "what": "A stretch of water in the west of the continent is now called the Amos Channel after the ex-BBC journalist.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/ckvg7w919x09o?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckvg7w919x09o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "F1 in Texas: The American race that fans love to attend",
+      "title": "US officials want Section 702 renewed before damaging court ruling goes public",
       "category": "Tech",
-      "what": "Ars spends the weekend with the Audi Revolut F1 team at the Circuit of the Americas.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/cars/2026/10/f1-in-texas-one-more-race-and-well-have-a-new-champion/",
+      "what": "Senators say officials hid a ruling on warrantless searches past its release deadline.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://arstechnica.com/tech-policy/2026/10/us-officials-want-section-702-renewed-before-damaging-court-ruling-goes-public/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/10/f1-in-texas-one-more-race-and-well-have-a-new-champion/"
+          "url": "https://arstechnica.com/tech-policy/2026/10/us-officials-want-section-702-renewed-before-damaging-court-ruling-goes-public/"
         }
       ]
     },
     {
-      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+      "title": "Co-ordinated cattle raids kill at least 72 people in South Sudan",
       "category": "World",
-      "what": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+      "what": "The cycle of revenge attacks continue as the country heads towards its first election since independence.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/cr3wvl9qz3v2o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cr3wvl9qz3v2o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race",
-      "category": "Tech",
-      "what": "Tesla hopes autonomy subscriptions can deliver the margins car sales cannot.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/"
-        }
-      ]
-    },
-    {
-      "title": "Nurse killed in attack while responding to Ebola alert in DR Congo",
-      "category": "World",
-      "what": "Local youths reportedly accused the health workers of contaminating water sources and spreading Ebola.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Trump escalates attacks on El-Sayed as Michigan Senate race tightens and more top headlines",
+      "title": "Trump takes campaign blitz to Texas with one week until midterms and more top headlines",
       "category": "U.S.",
       "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/us/trump-escalates-attacks-el-sayed-michigan-senate-race-tightens-more-top-headlines",
+      "source": "https://www.foxnews.com/us/trump-takes-campaign-blitz-texas-one-week-until-midterms-more-top-headlines",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/trump-escalates-attacks-el-sayed-michigan-senate-race-tightens-more-top-headlines"
-        },
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/mapped-states-trump-top-democrats-targeting-election-day"
+          "url": "https://www.foxnews.com/us/trump-takes-campaign-blitz-texas-one-week-until-midterms-more-top-headlines"
         }
       ]
     },
     {
-      "title": "From impulse purchase to pocket studio: The M-Vave FM-1",
+      "title": "Frustrated Illinois residents seek to redraw state map in bid to break free from Chicago",
+      "category": "U.S.",
+      "what": "Frustrated Illinois residents in 11 counties will vote on a non-binding referendum to break away from Cook County and form a new state in November.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/us/frustrated-illinois-residents-seek-redraw-state-map-bid-break-free-chicago",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/frustrated-illinois-residents-seek-redraw-state-map-bid-break-free-chicago"
+        }
+      ]
+    },
+    {
+      "title": "Dems silent after violent attack in wealthy area of New York City as suspect remains at large",
+      "category": "U.S.",
+      "what": "The NYPD says a woman was raped at knifepoint inside Central Park as the suspect remains at large and the investigation continues in New York City.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/dems-silent-violent-attack-wealthy-area-new-york-city-suspect-remains-large",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/dems-silent-violent-attack-wealthy-area-new-york-city-suspect-remains-large"
+        }
+      ]
+    },
+    {
+      "title": "Microsoft offers to buy out a quarter of its workforce",
       "category": "Tech",
-      "what": "M-Vave's cheap FM-1 pocket synth has exploded as a community firmware playground.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/",
+      "what": "Employees in the US, Canada, India, and the UK may receive offers to leave MS today.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/"
+          "url": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/"
         }
       ]
     }
