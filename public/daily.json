@@ -1,213 +1,225 @@
 {
-  "date": "Wednesday, October 28, 2026",
+  "date": "Thursday, October 29, 2026",
   "stories": [
     {
-      "title": "GOP senator takes aim at blue-city mayor for move promoting foreign workers in key industry: 'Lit on fire'",
-      "category": "Politics",
-      "what": "Sen. Bernie Moreno blasted Columbus Mayor Andrew Ginther over $225,000 in taxpayer dollars directed toward a Ghana nursing partnership program.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/politics/gop-senator-takes-aim-blue-city-mayor-move-promoting-foreign-workers-key-industry-lit-fire",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/gop-senator-takes-aim-blue-city-mayor-move-promoting-foreign-workers-key-industry-lit-fire"
-        }
-      ]
-    },
-    {
-      "title": "Murkowski snubs Trump-backed Alaska candidate, endorses Democrat for governor",
-      "category": "Politics",
-      "what": "GOP Sen. Lisa Murkowski of Alaska endorses Democratic gubernatorial candidate Jonathan Kreiss-Tomkins for governor, despite President Trump's endorsement of a Republican candidate.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/murkowski-snubs-trump-backed-alaska-candidate-endorses-democrat-governor",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/murkowski-snubs-trump-backed-alaska-candidate-endorses-democrat-governor"
-        }
-      ]
-    },
-    {
-      "title": "GOP Senate majority faces fresh uncertainty as 2 key races tighten days before midterms",
-      "category": "Politics",
-      "what": "Sherrod Brown leads Jon Husted within the margin of error in Ohio while Darline Graham and Annie Andrews are tied in South Carolina polling.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/gop-senate-majority-faces-fresh-uncertainty-2-key-races-tighten-days-before-midterms",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/gop-senate-majority-faces-fresh-uncertainty-2-key-races-tighten-days-before-midterms"
-        }
-      ]
-    },
-    {
-      "title": "Husband arrested in wife's disappearance after family kept getting mystery texts",
-      "category": "U.S.",
-      "what": "Epifanio Gaminde allegedly mailed his missing wife's credit cards to a relative in the Philippines to create the illusion she was alive overseas.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/husband-arrested-wifes-disappearance-family-kept-getting-mystery-texts",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/husband-arrested-wifes-disappearance-family-kept-getting-mystery-texts"
-        }
-      ]
-    },
-    {
-      "title": "Mystery woman arrested in American's death after manhunt in Costa Rican tourist destination",
-      "category": "U.S.",
-      "what": "Security video shows the suspect walking down a street after the alleged killing of a 74-year-old American tourist in Playas del Coco, Costa Rica.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/mystery-woman-arrested-americans-death-manhunt-costa-rican-tourist-destination",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/mystery-woman-arrested-americans-death-manhunt-costa-rican-tourist-destination"
-        }
-      ]
-    },
-    {
-      "title": "How could Israel break election deadlock? Here are four scenarios",
+      "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
       "category": "World",
-      "what": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
+      "what": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Israel's election result is messy - here's why",
-      "category": "World",
-      "what": "Despite having the highest voter turnout in nearly three decades, Israel's elections have had no clear winner. What does this mean for the country, asks the BBC's Yolande Knell.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
-      "sources": [
+          "url": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss"
+        },
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss"
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/alaskas-governor-orders-investigation-nyt-report-alleged-dem-linked-senate-election-scheme"
         }
       ]
     },
     {
-      "title": "Nightmare at Halloween attraction sparks hunt for more victims, 1 arrested",
-      "category": "U.S.",
-      "what": "Edward Eisenhard allegedly strangled and assaulted a woman at Valley of Fear haunted hayride in Bucks County on the attraction's opening night.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.foxnews.com/us/nightmare-halloween-attraction-sparks-hunt-more-victims-1-arrested",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/nightmare-halloween-attraction-sparks-hunt-more-victims-1-arrested"
-        }
-      ]
-    },
-    {
-      "title": "A hidden ocean change near Antarctica could have global consequences",
-      "category": "Tech",
-      "what": "Antarctic waters are getting saltier as sea-ice loss reshapes ocean circulation.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/science/2026/10/antarctic-sea-ice-loss-could-reshape-weather-far-beyond-the-pole/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/10/antarctic-sea-ice-loss-could-reshape-weather-far-beyond-the-pole/"
-        }
-      ]
-    },
-    {
-      "title": "Former immigration judge breaks down legal risks and what's next for Ilhan Omar and more top headlines",
-      "category": "U.S.",
-      "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+      "title": "Trump DOJ's fight over 20K suspected noncitizen voters takes sharp turn as California ballots pour in",
+      "category": "Politics",
+      "what": "A federal judge blocked the Justice Department's bid to sequester ballots from over 20,000 suspected noncitizen voters on California's voter rolls.",
       "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
       "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/former-immigration-judge-breaks-down-legal-risks-whats-next-ilhan-omar-more-top-headlines",
+      "source": "https://www.foxnews.com/politics/trump-dojs-fight-over-20k-suspected-noncitizen-voters-takes-sharp-turn-california-ballots-pour",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/trump-dojs-fight-over-20k-suspected-noncitizen-voters-takes-sharp-turn-california-ballots-pour"
+        }
+      ]
+    },
+    {
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "category": "World",
+      "what": "With 99% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "DOJ’s ‘Operation Ghostbusters’ targets massive student-aid fraud scheme built on fake enrollees",
+      "category": "U.S.",
+      "what": "Operation Ghostbusters targets ghost students and identity theft in a student aid fraud scheme with potentially hundreds of millions in taxpayer losses.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/dojs-operation-ghostbusters-aims-crush-massive-student-aid-fraud-scheme-involving-fake-students",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/former-immigration-judge-breaks-down-legal-risks-whats-next-ilhan-omar-more-top-headlines"
+          "url": "https://www.foxnews.com/us/dojs-operation-ghostbusters-aims-crush-massive-student-aid-fraud-scheme-involving-fake-students"
         }
       ]
     },
     {
-      "title": "China’s snooping around Pacific undersea cables raises risks for Big Tech",
-      "category": "Tech",
-      "what": "US-owned trans-Pacific cables face growing risks from sabotage and China.",
+      "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
+      "category": "World",
+      "what": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Obama admin first launched the investigation into Ilhan Omar's alleged brother marriage",
+      "category": "Politics",
+      "what": "The FBI probe into whether Ilhan Omar married her brother began under Barack Obama in 2016, but a Biden-appointed attorney shut it down in 2021.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/obama-admin-first-launched-investigation-ilhan-omars-alleged-brother-marriage",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/obama-admin-first-launched-investigation-ilhan-omars-alleged-brother-marriage"
+        }
+      ]
+    },
+    {
+      "title": "Ex-chief says Christa Pike was 'almost giddy' describing murder as governor weighs in after botched execution",
+      "category": "U.S.",
+      "what": "A former Knoxville police chief recalled Christa Pike being \"ruthless\" and \"almost giddy\" while describing Colleen Slemmer's brutal 1995 murder.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/ex-chief-says-christa-pike-almost-giddy-describing-murder-governor-weighs-botched-execution",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/ex-chief-says-christa-pike-almost-giddy-describing-murder-governor-weighs-botched-execution"
+        }
+      ]
+    },
+    {
+      "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
+      "category": "World",
+      "what": "The defeated presidential candidate says he will lead the opposition from the US.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/brazils-bolsonaro-arrives-miami-following-exodus-passport-seizure-order-investigation"
+        }
+      ]
+    },
+    {
+      "title": "Maine, Kansas Senate races neck and neck as Democrats lead in Texas, Michigan, poll shows",
+      "category": "Politics",
+      "what": "High-profile Senate races in Maine, Texas, Michigan and Kansas are extremely tight, with Democrats leading in all four according to a new CNN poll.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/maine-kansas-senate-races-neck-and-neck-democrats-lead-texas-michigan-poll-shows",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/maine-kansas-senate-races-neck-and-neck-democrats-lead-texas-michigan-poll-shows"
+        }
+      ]
+    },
+    {
+      "title": "Lindsay Clancy's lawyer denies she'll testify about homicidal thoughts in ex's suit against her doctors",
+      "category": "U.S.",
+      "what": "Lindsay Clancy's lawyer says she never told healthcare providers about homicidal ideation toward her children, disputing Patrick Clancy's counsel.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/",
+      "source": "https://www.foxnews.com/us/lindsay-clancy-lawyer-denies-testify-homicidal-thoughts-ex-suit-against-doctors",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/lindsay-clancy-lawyer-denies-testify-homicidal-thoughts-ex-suit-against-doctors"
+        }
+      ]
+    },
+    {
+      "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+      "category": "World",
+      "what": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "'Baby killers, cop killers' have an ally in Newsom, murdered girl's father says amid death row controversy",
+      "category": "U.S.",
+      "what": "California Gov. Gavin Newsom is reportedly considering commuting sentences for 563 death row inmates, sparking fierce backlash from victims' families.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/baby-killers-cop-killers-ally-newsom-murdered-girls-father-says-death-row-controversy",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/baby-killers-cop-killers-ally-newsom-murdered-girls-father-says-death-row-controversy"
+        }
+      ]
+    },
+    {
+      "title": "Massive leak exposes 41,000 DHS workers and undercover ICE agents",
+      "category": "Tech",
+      "what": "The leak reveals undercover agents, surveillance groups, and sensitive DHS access.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/dhs-investigates-massive-data-breach-exposing-40000-employees-including-ice-border-patrol-agents"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/"
+        }
+      ]
+    },
+    {
+      "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
+      "category": "Tech",
+      "what": "\"NASA desperately needs SpaceX, and SpaceX knows it, and Elon knows it.\"",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/"
+          "url": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/"
         }
       ]
     },
     {
-      "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-      "category": "World",
-      "what": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
-      "category": "World",
-      "what": "The energy minister described it as a \"major milestone\" for the East African nation.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
-      "category": "World",
-      "what": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
+      "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
       "category": "Tech",
-      "what": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
+      "what": "This Vulcan launch will be first to use a full complement of 6 solid rocket boosters.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/"
+          "url": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/"
         }
       ]
     }
