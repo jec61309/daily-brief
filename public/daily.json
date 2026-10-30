@@ -1,225 +1,217 @@
 {
-  "date": "Thursday, October 29, 2026",
+  "date": "Friday, October 30, 2026",
   "stories": [
     {
-      "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
+      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
       "category": "World",
-      "what": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
+      "what": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/alaskas-governor-orders-investigation-nyt-report-alleged-dem-linked-senate-election-scheme"
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/death-row-killer-christa-pike-describes-waking-up-after-execution-never-expected-survive"
         }
       ]
     },
     {
-      "title": "Trump DOJ's fight over 20K suspected noncitizen voters takes sharp turn as California ballots pour in",
-      "category": "Politics",
-      "what": "A federal judge blocked the Justice Department's bid to sequester ballots from over 20,000 suspected noncitizen voters on California's voter rolls.",
+      "title": "US tech stocks see sharp falls over AI cost fears",
+      "category": "World",
+      "what": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
+      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
+      "source": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
+      "category": "World",
+      "what": "Chris Murphy said waiving a human rights condition on aid paved the way for arrests of journalists.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Six dead after helicopter crashes in northern Indian state ",
+      "category": "World",
+      "what": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Spain transport minister says he won't resign over high-speed rail disaster",
+      "category": "World",
+      "what": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Clancy father targeted in alleged wiretap as medical lawsuits hint at strategy split: cops",
+      "category": "U.S.",
+      "what": "Shawna Gramkow faces felony wiretapping charges after allegedly posting a recording of a call with Patrick Clancy's father that police say was made without his consent.",
       "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
       "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/trump-dojs-fight-over-20k-suspected-noncitizen-voters-takes-sharp-turn-california-ballots-pour",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-dojs-fight-over-20k-suspected-noncitizen-voters-takes-sharp-turn-california-ballots-pour"
-        }
-      ]
-    },
-    {
-      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "category": "World",
-      "what": "With 99% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "DOJ’s ‘Operation Ghostbusters’ targets massive student-aid fraud scheme built on fake enrollees",
-      "category": "U.S.",
-      "what": "Operation Ghostbusters targets ghost students and identity theft in a student aid fraud scheme with potentially hundreds of millions in taxpayer losses.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/dojs-operation-ghostbusters-aims-crush-massive-student-aid-fraud-scheme-involving-fake-students",
+      "source": "https://www.foxnews.com/us/clancy-father-targeted-alleged-wiretap-medical-lawsuits-hint-strategy-split-cops",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/dojs-operation-ghostbusters-aims-crush-massive-student-aid-fraud-scheme-involving-fake-students"
+          "url": "https://www.foxnews.com/us/clancy-father-targeted-alleged-wiretap-medical-lawsuits-hint-strategy-split-cops"
         }
       ]
     },
     {
-      "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
-      "category": "World",
-      "what": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Obama admin first launched the investigation into Ilhan Omar's alleged brother marriage",
+      "title": "Dem operative admits Ilhan Omar case has legs as liberal firewall begins to crack: 'I'm not stupid'",
       "category": "Politics",
-      "what": "The FBI probe into whether Ilhan Omar married her brother began under Barack Obama in 2016, but a Biden-appointed attorney shut it down in 2021.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/obama-admin-first-launched-investigation-ilhan-omars-alleged-brother-marriage",
+      "what": "A prominent Minnesota Dem operative says the federal investigation into Ilhan Omar's marriage fraud allegations is \"almost certainly\" legitimate.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/politics/dem-operative-admits-ilhan-omar-case-has-legs-liberal-firewall-begins-crack-im-not-stupid",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/obama-admin-first-launched-investigation-ilhan-omars-alleged-brother-marriage"
+          "url": "https://www.foxnews.com/politics/dem-operative-admits-ilhan-omar-case-has-legs-liberal-firewall-begins-crack-im-not-stupid"
         }
       ]
     },
     {
-      "title": "Ex-chief says Christa Pike was 'almost giddy' describing murder as governor weighs in after botched execution",
+      "title": "GM to pay $220 million after selling customer Smart Driver data",
+      "category": "Tech",
+      "what": "Owners of GM cars found their driving data had been sold to insurance companies.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/cars/2026/10/gm-to-pay-220-million-after-selling-customer-smart-driver-data/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/cars/2026/10/gm-to-pay-220-million-after-selling-customer-smart-driver-data/"
+        }
+      ]
+    },
+    {
+      "title": "Hackers steal $6.3 billion from Binance in record crypto heist",
+      "category": "Tech",
+      "what": "Binance scrambles to freeze billions after record-breaking hack linked to North Korea.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/"
+        }
+      ]
+    },
+    {
+      "title": "Texas' red wall facing its biggest threat in decades as Republicans scramble to defend it",
+      "category": "Politics",
+      "what": "James Talarico raised over $146 million for the Texas Senate race while Elon Musk bankrolled more than $200 million in outside support for Paxton.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/red-wall-facing-its-biggest-threat-decades-republicans-scramble-defend-texas",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/red-wall-facing-its-biggest-threat-decades-republicans-scramble-defend-texas"
+        }
+      ]
+    },
+    {
+      "title": "Unhinged judge who called Latino attorney a 'White savior' ordered to undergo psychiatric examination",
+      "category": "Politics",
+      "what": "Judge Ada Brown called attorney Ezra Young a \"White savior\" intimidated by \"Black excellence\" in a hearing now under Fifth Circuit investigation.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/politics/unhinged-judge-called-latino-attorney-white-savior-ordered-undergo-psychiatric-examination",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/unhinged-judge-called-latino-attorney-white-savior-ordered-undergo-psychiatric-examination"
+        }
+      ]
+    },
+    {
+      "title": "2027 Nissan Rogue Hybrid: Drives like an EV, but there's no plug involved",
+      "category": "Tech",
+      "what": "Nissan’s series hybrid e-Power system has been retuned for American roads.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/cars/2026/10/2027-nissan-rogue-hybrid-drives-like-an-ev-but-theres-no-plug-involved/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/cars/2026/10/2027-nissan-rogue-hybrid-drives-like-an-ev-but-theres-no-plug-involved/"
+        }
+      ]
+    },
+    {
+      "title": "Vance calls for investigation into alleged Dem ballot scheme and more top headlines",
       "category": "U.S.",
-      "what": "A former Knoxville police chief recalled Christa Pike being \"ruthless\" and \"almost giddy\" while describing Colleen Slemmer's brutal 1995 murder.",
+      "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
       "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
       "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/ex-chief-says-christa-pike-almost-giddy-describing-murder-governor-weighs-botched-execution",
+      "source": "https://www.foxnews.com/us/vance-calls-investigation-alleged-dem-ballot-scheme-more-top-headlines",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/ex-chief-says-christa-pike-almost-giddy-describing-murder-governor-weighs-botched-execution"
+          "url": "https://www.foxnews.com/us/vance-calls-investigation-alleged-dem-ballot-scheme-more-top-headlines"
         }
       ]
     },
     {
-      "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
-      "category": "World",
-      "what": "The defeated presidential candidate says he will lead the opposition from the US.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/brazils-bolsonaro-arrives-miami-following-exodus-passport-seizure-order-investigation"
-        }
-      ]
-    },
-    {
-      "title": "Maine, Kansas Senate races neck and neck as Democrats lead in Texas, Michigan, poll shows",
-      "category": "Politics",
-      "what": "High-profile Senate races in Maine, Texas, Michigan and Kansas are extremely tight, with Democrats leading in all four according to a new CNN poll.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/maine-kansas-senate-races-neck-and-neck-democrats-lead-texas-michigan-poll-shows",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/maine-kansas-senate-races-neck-and-neck-democrats-lead-texas-michigan-poll-shows"
-        }
-      ]
-    },
-    {
-      "title": "Lindsay Clancy's lawyer denies she'll testify about homicidal thoughts in ex's suit against her doctors",
+      "title": "‘Your kids are the target’: College drug deaths, alleged coke ring expose lethal threat, warns retired cop",
       "category": "U.S.",
-      "what": "Lindsay Clancy's lawyer says she never told healthcare providers about homicidal ideation toward her children, disputing Patrick Clancy's counsel.",
+      "what": "From FIT's fentanyl poisoning to Penn State's cocaine ring, campus drug deaths reveal how organized crime networks are targeting college students.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/lindsay-clancy-lawyer-denies-testify-homicidal-thoughts-ex-suit-against-doctors",
+      "source": "https://www.foxnews.com/us/your-kids-are-target-college-drug-deaths-alleged-coke-ring-expose-lethal-threat-warns-retired-cop",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/lindsay-clancy-lawyer-denies-testify-homicidal-thoughts-ex-suit-against-doctors"
+          "url": "https://www.foxnews.com/us/your-kids-are-target-college-drug-deaths-alleged-coke-ring-expose-lethal-threat-warns-retired-cop"
         }
       ]
     },
     {
-      "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
-      "category": "World",
-      "what": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
+      "title": "Three killed in midair helicopter collision near Oregon airport, authorities confirm",
+      "category": "U.S.",
+      "what": "Two helicopters collided midair near McMinnville Municipal Airport in Oregon, crashing in a field and forcing highway closures as the FAA investigates.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "'Baby killers, cop killers' have an ally in Newsom, murdered girl's father says amid death row controversy",
-      "category": "U.S.",
-      "what": "California Gov. Gavin Newsom is reportedly considering commuting sentences for 563 death row inmates, sparking fierce backlash from victims' families.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/baby-killers-cop-killers-ally-newsom-murdered-girls-father-says-death-row-controversy",
+      "source": "https://www.foxnews.com/us/two-helicopters-collide-midair-near-oregon-airport-three-people-aboard-faa-confirms",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/baby-killers-cop-killers-ally-newsom-murdered-girls-father-says-death-row-controversy"
-        }
-      ]
-    },
-    {
-      "title": "Massive leak exposes 41,000 DHS workers and undercover ICE agents",
-      "category": "Tech",
-      "what": "The leak reveals undercover agents, surveillance groups, and sensitive DHS access.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/dhs-investigates-massive-data-breach-exposing-40000-employees-including-ice-border-patrol-agents"
-        },
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/"
-        }
-      ]
-    },
-    {
-      "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
-      "category": "Tech",
-      "what": "\"NASA desperately needs SpaceX, and SpaceX knows it, and Elon knows it.\"",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/"
-        }
-      ]
-    },
-    {
-      "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
-      "category": "Tech",
-      "what": "This Vulcan launch will be first to use a full complement of 6 solid rocket boosters.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/"
+          "url": "https://www.foxnews.com/us/two-helicopters-collide-midair-near-oregon-airport-three-people-aboard-faa-confirms"
         }
       ]
     }
