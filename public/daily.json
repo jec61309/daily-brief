@@ -1,221 +1,217 @@
 {
-  "date": "Tuesday, November 3, 2026",
+  "date": "Wednesday, November 4, 2026",
   "stories": [
     {
-      "title": "Irish Olympian Ciara Mageean was a 'talented and inspirational human being'",
+      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
       "category": "World",
-      "what": "The former European champion and two-time Olympic runner had been diagnosed with stage four bowel cancer.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cw62ye1030njo?at_medium=RSS&at_campaign=rss",
+      "what": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cw62ye1030njo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/what-2026-midterm-results-mean-capitol-hill"
         }
       ]
     },
     {
-      "title": "This space company is betting its future on a propellant available everywhere",
-      "category": "Tech",
-      "what": "Is that water in your spacecraft, or are you just happy to see the delta-V?",
+      "title": "'Most difficult days of my life' for keeper Owono",
+      "category": "World",
+      "what": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/",
+      "source": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+      "category": "World",
+      "what": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Israel's president begins consultations with parties after election deadlock",
+      "category": "World",
+      "what": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Binance says hackers who stole billions in crypto spent months planning heist",
+      "category": "Tech",
+      "what": "Techniques included laptop infections, compromised internal tooling, and fake job interviews.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/"
+          "url": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/"
         }
       ]
     },
     {
-      "title": "Paper ballots in NY county unable to be accepted by voting machines, will still be counted",
-      "category": "Politics",
-      "what": "Westchester County Board of Elections confirms voting machines are rejecting paper ballots countywide as officials scramble to resolve the issue.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/paper-ballots-ny-county-unable-accepted-voting-machines-still-counted",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/paper-ballots-ny-county-unable-accepted-voting-machines-still-counted"
-        }
-      ]
-    },
-    {
-      "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
+      "title": "What I learned driving the Slate electric truck prototype",
       "category": "Tech",
-      "what": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.",
+      "what": "After 45 minutes behind the wheel, I am more optimistic about the $25,000 EV.",
       "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
       "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
+      "source": "https://arstechnica.com/cars/2026/11/what-i-learned-driving-the-slate-electric-truck-prototype/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/"
+          "url": "https://arstechnica.com/cars/2026/11/what-i-learned-driving-the-slate-electric-truck-prototype/"
         }
       ]
     },
     {
-      "title": "Illegal immigrant accused of violent attempted murder, kidnapping of a minor was released under Biden admin",
+      "title": "Majority of Americans broadly reject socialist ideology even as far left surges to power",
+      "category": "Politics",
+      "what": "The Fox News Voter Poll finds 54% view socialism unfavorably, yet 69% say the economy favors the wealthy, revealing a striking political tension.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/majority-americans-broadly-reject-socialist-ideology-far-left-surges-power",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/majority-americans-broadly-reject-socialist-ideology-far-left-surges-power"
+        }
+      ]
+    },
+    {
+      "title": "Democrats seize majority of governors’ offices in election-night shift",
+      "category": "Politics",
+      "what": "Democrats flipped enough governorships to seize a majority, reversing a 26-24 Republican edge and shifting state government power opposite the White House.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/democrats-seize-majority-governors-offices-election-night-shift",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/democrats-seize-majority-governors-offices-election-night-shift"
+        }
+      ]
+    },
+    {
+      "title": "Vance's scathing Iran war postmortem puts potential 2028 GOP showdown in focus: 'Everyone knows why'",
+      "category": "Politics",
+      "what": "JD Vance blamed the war for Republicans' sweeping midterm elections losses, saying voters who backed Trump in 2024 turned against the party in 2026.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/vances-scathing-iran-war-postmortem-puts-potential-2028-gop-showdown-focus-everyone-knows-why",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/vances-scathing-iran-war-postmortem-puts-potential-2028-gop-showdown-focus-everyone-knows-why"
+        }
+      ]
+    },
+    {
+      "title": "Secret police files released in Hungary, 37 years after fall of communism",
+      "category": "World",
+      "what": "Critics say the move comes too late, that the files themselves are incomplete, and the move risks sowing division and causing unnecessary anguish.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/c977p01kgmmko?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c977p01kgmmko?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "The DEA banned a drug some opioid users called a miracle",
+      "category": "Tech",
+      "what": "Researchers say the Schedule I ban could kill studies of a promising opioid treatment.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/health/2026/11/the-dea-banned-a-drug-some-opioid-users-called-a-miracle/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/11/the-dea-banned-a-drug-some-opioid-users-called-a-miracle/"
+        }
+      ]
+    },
+    {
+      "title": "Pilots' push to level jet may have torn off key piece found miles from Florida crash, former NTSB expert says",
       "category": "U.S.",
-      "what": "DHS Secretary Markwayne Mullin blasts sanctuary policies after Baltimore, Maryland, stabbing suspect was previously released by NYC despite ICE detainer.",
+      "what": "NTSB investigators found the Learjet 60's left tail elevator scattered up to 3.8 miles from the Florida crash site, pointing to an in-flight breakup.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/pilots-push-level-jet-may-have-torn-off-key-piece-found-miles-florida-crash-former-ntsb-expert-says",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/pilots-push-level-jet-may-have-torn-off-key-piece-found-miles-florida-crash-former-ntsb-expert-says"
+        }
+      ]
+    },
+    {
+      "title": "MICHAEL RUIZ: Tyler Robinson blames Trump post in push for camera ban",
+      "category": "U.S.",
+      "what": "Tyler Robinson's lawyers cite Trump's Truth Social post slamming the judge as they renew efforts to block cameras from the Charlie Kirk case hearing.",
       "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
       "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/illegal-immigrant-accused-violent-attempted-murder-kidnapping-minor-released-biden-admin",
+      "source": "https://www.foxnews.com/us/michael-ruiz-charlie-kirks-accused-assassin-tyler-robinson-blames-trumps-judge-post-push-camera-ban",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/illegal-immigrant-accused-violent-attempted-murder-kidnapping-minor-released-biden-admin"
+          "url": "https://www.foxnews.com/us/michael-ruiz-charlie-kirks-accused-assassin-tyler-robinson-blames-trumps-judge-post-push-camera-ban"
         }
       ]
     },
     {
-      "title": "Trump wanted to give No Kings no air. Then, Meta suspended its Instagram.",
-      "category": "Tech",
-      "what": "Meta faces pressure to protect No Kings Instagram on election day.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://arstechnica.com/tech-policy/2026/11/trump-wanted-to-give-no-kings-no-air-then-meta-suspended-its-instagram/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/11/trump-wanted-to-give-no-kings-no-air-then-meta-suspended-its-instagram/"
-        }
-      ]
-    },
-    {
-      "title": "Michigan voters make surprising cross-party choices as Rogers, El-Sayed race reaches final hours",
-      "category": "Politics",
-      "what": "A former Democrat backs Mike Rogers while a lifelong Republican holds his nose to vote for Abdul El-Sayed in Michigan's pivotal Senate race.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/michigan-voters-surprising-cross-party-choices-rogers-el-sayed-race-final-hours",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/michigan-voters-surprising-cross-party-choices-rogers-el-sayed-race-final-hours"
-        }
-      ]
-    },
-    {
-      "title": "FBI nabs suspect accused of sending hundreds of white powder letters to public officials: source",
-      "category": "Politics",
-      "what": "A suspect was arrested by the FBI’s Oklahoma City field office in connection to hundreds of suspicious letters sent to government and election offices.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/fbi-nabs-suspect-accused-sending-hundreds-white-powder-letters-public-officials",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/fbi-nabs-suspect-accused-sending-hundreds-white-powder-letters-public-officials"
-        }
-      ]
-    },
-    {
-      "title": "MICHAEL RUIZ: Mangione’s new argument to escape NY murder case: Same gun, same killing, same prosecution",
+      "title": "Teen previously convicted in shooting accused of killing pregnant mom of 4 inside Spirit Halloween",
       "category": "U.S.",
-      "what": "Luigi Mangione's lawyers argue murder and federal stalking charges target the same evil, pressing a double jeopardy defense to dismiss New York charges.",
+      "what": "Monte Smith, 17, allegedly opened fire inside a Spirit Halloween store at Solano Town Center, killing pregnant mother Constance Hages and wounding six.",
       "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
       "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/michael-ruiz-mangiones-argument-escape-ny-murder-case-same-gun-same-killing-same-prosecution",
+      "source": "https://www.foxnews.com/us/teen-previously-convicted-shooting-accused-killing-pregnant-mom-4-spirit-halloween",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/michael-ruiz-mangiones-argument-escape-ny-murder-case-same-gun-same-killing-same-prosecution"
+          "url": "https://www.foxnews.com/us/teen-previously-convicted-shooting-accused-killing-pregnant-mom-4-spirit-halloween"
         }
       ]
     },
     {
-      "title": "Libya's top religious authority rules against wearing Nike clothes",
-      "category": "World",
-      "what": "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Austin tech founder killed with wife and children in Florida jet crash had reached a $10M business milestone",
+      "title": "Man, 86, and his dog rescued hundreds of miles off California coast after going silent for 2 months",
       "category": "U.S.",
-      "what": "Adam Robinson's final LinkedIn post celebrated RB2B hitting $10 million in annual recurring revenue and teased a live debate he would never attend.",
+      "what": "A Coast Guard aircrew spotted the sailboat 460 miles off San Diego after an emergency beacon alert launched a dramatic search and rescue mission.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/austin-tech-founder-killed-wife-children-florida-jet-crash-reached-10m-business-milestone",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/austin-tech-founder-killed-wife-children-florida-jet-crash-reached-10m-business-milestone"
-        }
-      ]
-    },
-    {
-      "title": "Trump to remove Rwanda and South Africa from US trade deal",
-      "category": "World",
-      "what": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
-      "category": "World",
-      "what": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president calls an \"utterly horrific\" attack.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "US urges Venezuela to release remaining political prisoners",
-      "category": "World",
-      "what": "The US secretary of state also discusses laying the groundwork for 'free, fair, and credible elections'.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/cxg5jln586pno?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cxg5jln586pno?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "What's at stake on Election Day in the battle for Congress and more top headlines",
-      "category": "U.S.",
-      "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/us/whats-stake-election-day-battle-congress-more-top-headlines",
+      "source": "https://www.foxnews.com/us/man-86-dog-rescued-hundreds-miles-california-coast-going-silent-2-months",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/whats-stake-election-day-battle-congress-more-top-headlines"
-        },
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/battle-congress-just-beginning-heres-whats-stake-election-day"
+          "url": "https://www.foxnews.com/us/man-86-dog-rescued-hundreds-miles-california-coast-going-silent-2-months"
         }
       ]
     }
