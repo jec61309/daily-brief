@@ -1,213 +1,217 @@
 {
-  "date": "Thursday, November 5, 2026",
+  "date": "Friday, November 6, 2026",
   "stories": [
     {
-      "title": "Paraguay President Santiago Peña resigns after bank collapse",
+      "title": "AI stocks climb after trillions wiped from market values",
       "category": "World",
-      "what": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
+      "what": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Ohio's most popular midterm Republican says election results hold a warning for Dems",
-      "category": "Politics",
-      "what": "Frank LaRose says the Republican Party must refocus on human freedom and free market principles after GOP candidates struggled on Election Day.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/ohios-popular-midterm-republican-says-election-results-hold-warning-dems",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/ohios-popular-midterm-republican-says-election-results-hold-warning-dems"
-        }
-      ]
-    },
-    {
-      "title": "Hegseth faces bipartisan impeachment threat after Iran war gets blame for GOP midterm slaughter",
-      "category": "Politics",
-      "what": "Secretary of War Pete Hegseth faces a bipartisan impeachment threat as House Republicans say a privileged resolution could pass when Congress returns.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/hegseth-faces-bipartisan-impeachment-threat-after-iran-war-gets-blame-gop-midterm-slaughter",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/hegseth-faces-bipartisan-impeachment-threat-after-iran-war-gets-blame-gop-midterm-slaughter"
-        }
-      ]
-    },
-    {
-      "title": "DOJ civil rights chief Harmeet Dhillon resigns, says White House asked her to wait until after midterms",
-      "category": "Politics",
-      "what": "Harmeet Dhillon resigned Thursday as the Department of Justice's assistant attorney general for civil rights, sources told Fox News.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/doj-civil-rights-chief-harmeet-dhillon-resigns-says-white-house-asked-her-wait-until-after-midterms",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/doj-civil-rights-chief-harmeet-dhillon-resigns-says-white-house-asked-her-wait-until-after-midterms"
-        }
-      ]
-    },
-    {
-      "title": "Russell Brand is being investigated over two new rape complaints, police say",
+      "title": "Two dead after bus crashes in France, officials say",
       "category": "World",
-      "what": "Det Supt Andy Furphy said he hoped other potential victims would gain \"courage\" and \"confidence\" from the guilty verdicts.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "France holds new strikes and protests as unions demand immediate answers",
-      "category": "World",
-      "what": "Five of France's unions join a wave of strikes and protests in a national day of action.",
+      "what": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
       "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
       "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Cops return to New Jersey mother's home months after she was found stabbed and husband called 911",
-      "category": "U.S.",
-      "what": "Police returned with at least 15 vehicles to Brooke Hanlon's Chester, New Jersey, home weeks after her autopsy ruled the stabbing a homicide.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/cops-return-new-jersey-mothers-home-months-after-found-stabbed-husband-called-911",
+      "title": "Blue wave battered GOP strongholds across America, but one red state held the line",
+      "category": "Politics",
+      "what": "South Dakota's GOP held firm as Dan Ahler's moderate Democrat strategy fell flat, even as similar campaigns slashed Republican margins elsewhere.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/blue-wave-battered-gop-strongholds-across-america-one-red-state-held-line",
       "sources": [
         {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/cops-return-new-jersey-mothers-home-months-after-found-stabbed-husband-called-911"
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/blue-wave-battered-gop-strongholds-across-america-one-red-state-held-line"
         }
       ]
     },
     {
-      "title": "MICHAEL RUIZ: 'Today' segment may explain key Apple Watch detail in Nancy Guthrie ransom note, expert says",
-      "category": "U.S.",
-      "what": "A retired detective says Savannah Guthrie's \"Today\" show Tucson segment may have sparked her abductor's interest in Nancy Guthrie before her kidnapping.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/michael-ruiz-today-segment-may-explain-key-apple-watch-detail-nancy-guthrie-ransom-note-expert-says",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/michael-ruiz-today-segment-may-explain-key-apple-watch-detail-nancy-guthrie-ransom-note-expert-says"
-        }
-      ]
-    },
-    {
-      "title": "3 injured in shooting at Des Moines, Iowa post office, suspect detained: Police",
-      "category": "U.S.",
-      "what": "Police in Des Moines, Iowa, said multiple people were injured and a suspect is in custody following a shooting Thursday at a United States Postal Service facility.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/multiple-people-shot-united-states-postal-service-office-des-moines-suspect-detained",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/multiple-people-shot-united-states-postal-service-office-des-moines-suspect-detained"
-        }
-      ]
-    },
-    {
-      "title": "Watch: How rapist Brand was never far from controversy",
+      "title": "New wave of bomb threats hit European airlines",
       "category": "World",
-      "what": "BBC correspondent Sima Kotecha explains how the trial unfolded.",
+      "what": "No link has been established between the threats against the airlines and those against the media outlets.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/videos/c9dr8713zjgyo?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/c9dr8713zjgyo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+      "title": "DOJ shake-up continues with head of national security division, US attorney in Miami resigning",
+      "category": "Politics",
+      "what": "John Eisenberg and Miami U.S. Attorney Jason Reding Quiñones are leaving the Justice Department, one day after Harmeet Dhillon announced her departure.",
+      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
+      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
+      "source": "https://www.foxnews.com/politics/doj-shake-up-continues-head-national-security-division-us-attorney-miami-resigning",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/doj-shake-up-continues-head-national-security-division-us-attorney-miami-resigning"
+        }
+      ]
+    },
+    {
+      "title": "Reporter's Notebook: How midterms may change the House impeachment equation for Hegseth",
+      "category": "Politics",
+      "what": "Thomas Massie plans to reintroduce articles of impeachment against Pete Hegseth next week, and post-midterm GOP math could work against the Pentagon chief.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/reporters-notebook-how-midterms-may-change-house-impeachment-equation-hegseth",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/reporters-notebook-how-midterms-may-change-house-impeachment-equation-hegseth"
+        }
+      ]
+    },
+    {
+      "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
       "category": "World",
-      "what": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
+      "what": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Motorola's new Signature 27 has it all if you can stomach the $1,600 price tag",
+      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+      "category": "World",
+      "what": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Florida Learjet crash investigators dig up engine piece after pilots warned of rough weather ahead",
+      "category": "U.S.",
+      "what": "NTSB crews recovered part of an engine from the Learjet 60 crash site in Greenacres, Florida, as the probe focuses on icing and turbulence reports.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.foxnews.com/us/florida-learjet-crash-investigators-dig-up-engine-piece-after-pilots-warned-rough-weather-ahead",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/florida-learjet-crash-investigators-dig-up-engine-piece-after-pilots-warned-rough-weather-ahead"
+        }
+      ]
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
       "category": "Tech",
-      "what": "It has all the bells and whistles (and cameras).",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/gadgets/2026/11/motorolas-new-signature-27-has-it-all-if-you-can-stomach-the-1600-price-tag/",
+      "what": "Lawmakers want answers about Jensen Huang’s ties to an alleged Chinese intelligence asset.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/11/motorolas-new-signature-27-has-it-all-if-you-can-stomach-the-1600-price-tag/"
+          "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/"
         }
       ]
     },
     {
-      "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
+      "title": "No more Cybertrucks; Musk moves on from the angular metallic flop",
       "category": "Tech",
-      "what": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.",
-      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
-      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
-      "source": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
+      "what": "Tesla wanted to unseat the Ford F-150, instead it made the Edsel look successful.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/cars/2026/11/the-cybertruck-is-dead-makes-way-for-cybercab-says-elon-musk/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/"
+          "url": "https://arstechnica.com/cars/2026/11/the-cybertruck-is-dead-makes-way-for-cybercab-says-elon-musk/"
         }
       ]
     },
     {
-      "title": "2026 iPad mini review: Maximizing the mini",
+      "title": "Rocket Report: Artemis II literally tore through the atmosphere; New Glenn delay",
       "category": "Tech",
-      "what": "It's more compelling than ever, but also more expensive.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/gadgets/2026/11/ipad-mini-2026-review-maximizing-the-mini/",
+      "what": "Interstellar Technologies announces more government funding for the Japanese Zero rocket.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/space/2026/11/rocket-report-new-glenn-wont-fly-this-year-china-launches-mini-falcon-heavy/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/11/ipad-mini-2026-review-maximizing-the-mini/"
+          "url": "https://arstechnica.com/space/2026/11/rocket-report-new-glenn-wont-fly-this-year-china-launches-mini-falcon-heavy/"
         }
       ]
     },
     {
-      "title": "Ted Cruz delivers scathing assessment after far-left Dems sweep midterms and more top headlines",
+      "title": "2028 GOP battle lines emerge as Vance, Cruz, DeSantis clash over midterm losses and more top headlines",
       "category": "U.S.",
       "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
       "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
       "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/ted-cruz-delivers-scathing-assessment-after-far-left-dems-sweep-midterms-more-top-headlines",
+      "source": "https://www.foxnews.com/us/gop-battle-lines-emerge-vance-cruz-desantis-clash-over-midterm-losses-more-top-headlines",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/ted-cruz-delivers-scathing-assessment-after-far-left-dems-sweep-midterms-more-top-headlines"
+          "url": "https://www.foxnews.com/us/gop-battle-lines-emerge-vance-cruz-desantis-clash-over-midterm-losses-more-top-headlines"
+        },
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/vance-cruz-desantis-diagnose-gop-midterm-disaster-battle-party-future-begins"
+        }
+      ]
+    },
+    {
+      "title": "Ex-MIT professor wins $6M after sex claims wrecked career, accuser joked about ‘#hetoo’",
+      "category": "U.S.",
+      "what": "David Sabatini's $6 million defamation win over Kristin Knouse now faces cross-appeals as both sides prepare to battle in Massachusetts courts.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/ex-mit-professor-wins-6m-after-sex-claims-wrecked-career-accuser-joked-about-hetoo",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/ex-mit-professor-wins-6m-after-sex-claims-wrecked-career-accuser-joked-about-hetoo"
+        }
+      ]
+    },
+    {
+      "title": "Fox News ‘Antisemitism Exposed’ Newsletter: Radical Democrats rally behind Piker after election",
+      "category": "U.S.",
+      "what": "Fox News' \"Antisemitism Exposed\" newsletter brings you stories on the rising anti-Jewish prejudice across the U.S. and the world.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-radical-democrats-rally-behind-piker-after-election",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-radical-democrats-rally-behind-piker-after-election"
         }
       ]
     }
