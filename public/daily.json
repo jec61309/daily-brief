@@ -1,217 +1,221 @@
 {
-  "date": "Friday, November 6, 2026",
+  "date": "Saturday, November 7, 2026",
   "stories": [
     {
-      "title": "AI stocks climb after trillions wiped from market values",
+      "title": "No clear winner after tight New Zealand general election",
       "category": "World",
-      "what": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+      "what": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Two dead after bus crashes in France, officials say",
-      "category": "World",
-      "what": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Blue wave battered GOP strongholds across America, but one red state held the line",
+      "title": "Newsom’s death-row commutations spark DA revolt as prosecutors warn of legal fight",
       "category": "Politics",
-      "what": "South Dakota's GOP held firm as Dan Ahler's moderate Democrat strategy fell flat, even as similar campaigns slashed Republican margins elsewhere.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/blue-wave-battered-gop-strongholds-across-america-one-red-state-held-line",
+      "what": "California district attorneys accuse Gavin Newsom of overriding juries and ignoring victims' families with his plan to commute all 548 death sentences in the state.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/politics/newsoms-death-row-commutations-spark-da-revolt-prosecutors-warn-legal-fight",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/blue-wave-battered-gop-strongholds-across-america-one-red-state-held-line"
+          "url": "https://www.foxnews.com/politics/newsoms-death-row-commutations-spark-da-revolt-prosecutors-warn-legal-fight"
         }
       ]
     },
     {
-      "title": "New wave of bomb threats hit European airlines",
-      "category": "World",
-      "what": "No link has been established between the threats against the airlines and those against the media outlets.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "DOJ shake-up continues with head of national security division, US attorney in Miami resigning",
-      "category": "Politics",
-      "what": "John Eisenberg and Miami U.S. Attorney Jason Reding Quiñones are leaving the Justice Department, one day after Harmeet Dhillon announced her departure.",
-      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
-      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
-      "source": "https://www.foxnews.com/politics/doj-shake-up-continues-head-national-security-division-us-attorney-miami-resigning",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/doj-shake-up-continues-head-national-security-division-us-attorney-miami-resigning"
-        }
-      ]
-    },
-    {
-      "title": "Reporter's Notebook: How midterms may change the House impeachment equation for Hegseth",
-      "category": "Politics",
-      "what": "Thomas Massie plans to reintroduce articles of impeachment against Pete Hegseth next week, and post-midterm GOP math could work against the Pentagon chief.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/reporters-notebook-how-midterms-may-change-house-impeachment-equation-hegseth",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/reporters-notebook-how-midterms-may-change-house-impeachment-equation-hegseth"
-        }
-      ]
-    },
-    {
-      "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
-      "category": "World",
-      "what": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-      "category": "World",
-      "what": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Florida Learjet crash investigators dig up engine piece after pilots warned of rough weather ahead",
+      "title": "Turning Point USA event at University of New Mexico ends with two arrests and a string of charges",
       "category": "U.S.",
-      "what": "NTSB crews recovered part of an engine from the Learjet 60 crash site in Greenacres, Florida, as the probe focuses on icing and turbulence reports.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.foxnews.com/us/florida-learjet-crash-investigators-dig-up-engine-piece-after-pilots-warned-rough-weather-ahead",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/florida-learjet-crash-investigators-dig-up-engine-piece-after-pilots-warned-rough-weather-ahead"
-        }
-      ]
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
-      "category": "Tech",
-      "what": "Lawmakers want answers about Jensen Huang’s ties to an alleged Chinese intelligence asset.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/"
-        }
-      ]
-    },
-    {
-      "title": "No more Cybertrucks; Musk moves on from the angular metallic flop",
-      "category": "Tech",
-      "what": "Tesla wanted to unseat the Ford F-150, instead it made the Edsel look successful.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/cars/2026/11/the-cybertruck-is-dead-makes-way-for-cybercab-says-elon-musk/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/11/the-cybertruck-is-dead-makes-way-for-cybercab-says-elon-musk/"
-        }
-      ]
-    },
-    {
-      "title": "Rocket Report: Artemis II literally tore through the atmosphere; New Glenn delay",
-      "category": "Tech",
-      "what": "Interstellar Technologies announces more government funding for the Japanese Zero rocket.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/space/2026/11/rocket-report-new-glenn-wont-fly-this-year-china-launches-mini-falcon-heavy/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/11/rocket-report-new-glenn-wont-fly-this-year-china-launches-mini-falcon-heavy/"
-        }
-      ]
-    },
-    {
-      "title": "2028 GOP battle lines emerge as Vance, Cruz, DeSantis clash over midterm losses and more top headlines",
-      "category": "U.S.",
-      "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+      "what": "Video shows two men allegedly plotting to hurl objects at a Turning Point USA campus event at the University of New Mexico before their arrest.",
       "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
       "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/gop-battle-lines-emerge-vance-cruz-desantis-clash-over-midterm-losses-more-top-headlines",
+      "source": "https://www.foxnews.com/us/turning-point-usa-event-university-new-mexico-ends-two-arrests-string-charges",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/gop-battle-lines-emerge-vance-cruz-desantis-clash-over-midterm-losses-more-top-headlines"
+          "url": "https://www.foxnews.com/us/turning-point-usa-event-university-new-mexico-ends-two-arrests-string-charges"
+        }
+      ]
+    },
+    {
+      "title": "9 mystery fingerprints from OJ Simpson murder case could hold new clues more than 30 years later",
+      "category": "U.S.",
+      "what": "Nine unidentified fingerprints from the Nicole Brown Simpson and Ron Goldman crime scene could now be retested using modern forensic technology.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/9-mystery-fingerprints-oj-simpson-murder-case-could-hold-new-clues-more-than-30-years-later",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/9-mystery-fingerprints-oj-simpson-murder-case-could-hold-new-clues-more-than-30-years-later"
+        }
+      ]
+    },
+    {
+      "title": "Republican state lawmakers reported Omar to the IRS in 2019",
+      "category": "Politics",
+      "what": "Years before Omar's latest federal probe, Minnesota Republicans flagged her controversial tax filings to the IRS, according to newly obtained correspondence.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/politics/republican-state-lawmakers-reported-omar-irs-2019",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/republican-state-lawmakers-reported-omar-irs-2019"
+        }
+      ]
+    },
+    {
+      "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+      "category": "World",
+      "what": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "House GOP erupts at Stephen Miller as Trump elevates him after midterm massacre: 'Megalomaniac'",
+      "category": "Politics",
+      "what": "House Republicans expressed shock and anger after Trump promoted Stephen Miller to chief of staff following the GOP's historic midterm losses.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/house-gop-erupts-stephen-miller-trump-elevates-him-after-midterm-massacre-megalomaniac",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/vance-cruz-desantis-diagnose-gop-midterm-disaster-battle-party-future-begins"
+          "url": "https://www.foxnews.com/politics/house-gop-erupts-stephen-miller-trump-elevates-him-after-midterm-massacre-megalomaniac"
         }
       ]
     },
     {
-      "title": "Ex-MIT professor wins $6M after sex claims wrecked career, accuser joked about ‘#hetoo’",
+      "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
+      "category": "Tech",
+      "what": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/"
+        }
+      ]
+    },
+    {
+      "title": "Navy veteran blindsided as attacker could land parole hearing months after sentencing: ‘Where is my justice?’",
       "category": "U.S.",
-      "what": "David Sabatini's $6 million defamation win over Kristin Knouse now faces cross-appeals as both sides prepare to battle in Massachusetts courts.",
+      "what": "Amy's 1992 Valentine's Day rape cold case was solved by DNA evidence, but a VINE text revealed Virginia's parole board may review her attacker.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/navy-veteran-blindsided-attacker-could-land-parole-hearing-months-after-sentencing-where-is-my-justice",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/navy-veteran-blindsided-attacker-could-land-parole-hearing-months-after-sentencing-where-is-my-justice"
+        }
+      ]
+    },
+    {
+      "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
+      "category": "Tech",
+      "what": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
       "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
       "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/ex-mit-professor-wins-6m-after-sex-claims-wrecked-career-accuser-joked-about-hetoo",
+      "source": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
       "sources": [
         {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/ex-mit-professor-wins-6m-after-sex-claims-wrecked-career-accuser-joked-about-hetoo"
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/"
         }
       ]
     },
     {
-      "title": "Fox News ‘Antisemitism Exposed’ Newsletter: Radical Democrats rally behind Piker after election",
+      "title": "Newsom orders California’s most reviled killers off death row – 10 of the worst who could benefit",
       "category": "U.S.",
-      "what": "Fox News' \"Antisemitism Exposed\" newsletter brings you stories on the rising anti-Jewish prejudice across the U.S. and the world.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-radical-democrats-rally-behind-piker-after-election",
+      "what": "Gavin Newsom's death row commutation covers 548 inmates, including notorious serial killers like Randy Kraft and Chester Turner on California's death row.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/newsom-orders-california-reviled-killers-off-death-row-10-worst-could-benefit",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-radical-democrats-rally-behind-piker-after-election"
+          "url": "https://www.foxnews.com/us/newsom-orders-california-reviled-killers-off-death-row-10-worst-could-benefit"
+        }
+      ]
+    },
+    {
+      "title": "Texas mayor instructs police to limit co-operation with ICE",
+      "category": "World",
+      "what": "There has been months of public outcry in Houston after an Immigration and Customs Enforcement (ICE) officer fatally shot a man who was driving to work.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/houston-mayor-bolts-early-ice-cooperation-blue-wave-crashes-texas"
+        }
+      ]
+    },
+    {
+      "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
+      "category": "World",
+      "what": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Paraguay's president impeached and under house arrest after bank collapse",
+      "category": "World",
+      "what": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
+      "category": "Tech",
+      "what": "It's the exact path, not the apparent severity that matters most, doctors say.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/"
         }
       ]
     }
