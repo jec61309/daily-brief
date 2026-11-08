@@ -1,105 +1,185 @@
 {
-  "date": "Saturday, November 7, 2026",
+  "date": "Sunday, November 8, 2026",
   "stories": [
     {
-      "title": "No clear winner after tight New Zealand general election",
-      "category": "World",
-      "what": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Newsom’s death-row commutations spark DA revolt as prosecutors warn of legal fight",
+      "title": "11th-hour power play targets incoming Dem governor after historic GOP defeat",
       "category": "Politics",
-      "what": "California district attorneys accuse Gavin Newsom of overriding juries and ignoring victims' families with his plan to commute all 548 death sentences in the state.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/newsoms-death-row-commutations-spark-da-revolt-prosecutors-warn-legal-fight",
+      "what": "Republican Texas Rep. Brian Harrison urged Greg Abbott to convene a special session restricting emergency powers before Gina Hinojosa is sworn in.",
+      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
+      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
+      "source": "https://www.foxnews.com/politics/11th-hour-power-play-targets-incoming-dem-governor-historic-gop-defeat",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/newsoms-death-row-commutations-spark-da-revolt-prosecutors-warn-legal-fight"
+          "url": "https://www.foxnews.com/politics/11th-hour-power-play-targets-incoming-dem-governor-historic-gop-defeat"
         }
       ]
     },
     {
-      "title": "Turning Point USA event at University of New Mexico ends with two arrests and a string of charges",
+      "title": "Stephen Colbert accused of crossing Harvard picket line before event with Yo-Yo Ma cut short by alarm",
       "category": "U.S.",
-      "what": "Video shows two men allegedly plotting to hurl objects at a Turning Point USA campus event at the University of New Mexico before their arrest.",
+      "what": "Stephen Colbert and Yo-Yo Ma are accused of crossing the Harvard Graduate Students Union picket line before a fire alarm cut their event short.",
       "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
       "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/turning-point-usa-event-university-new-mexico-ends-two-arrests-string-charges",
+      "source": "https://www.foxnews.com/us/stephen-colbert-accused-crossing-harvard-picket-line-event-yo-yo-ma-cut-short-alarm",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/turning-point-usa-event-university-new-mexico-ends-two-arrests-string-charges"
+          "url": "https://www.foxnews.com/us/stephen-colbert-accused-crossing-harvard-picket-line-event-yo-yo-ma-cut-short-alarm"
         }
       ]
     },
     {
-      "title": "9 mystery fingerprints from OJ Simpson murder case could hold new clues more than 30 years later",
-      "category": "U.S.",
-      "what": "Nine unidentified fingerprints from the Nicole Brown Simpson and Ron Goldman crime scene could now be retested using modern forensic technology.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/9-mystery-fingerprints-oj-simpson-murder-case-could-hold-new-clues-more-than-30-years-later",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/9-mystery-fingerprints-oj-simpson-murder-case-could-hold-new-clues-more-than-30-years-later"
-        }
-      ]
-    },
-    {
-      "title": "Republican state lawmakers reported Omar to the IRS in 2019",
-      "category": "Politics",
-      "what": "Years before Omar's latest federal probe, Minnesota Republicans flagged her controversial tax filings to the IRS, according to newly obtained correspondence.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/politics/republican-state-lawmakers-reported-omar-irs-2019",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/republican-state-lawmakers-reported-omar-irs-2019"
-        }
-      ]
-    },
-    {
-      "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+      "title": "What we know so far after Krakow gun attack",
       "category": "World",
-      "what": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
+      "what": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "House GOP erupts at Stephen Miller as Trump elevates him after midterm massacre: 'Megalomaniac'",
+      "title": "Blue Angels pilot removed from team for 'failing to uphold' standards, Navy says",
+      "category": "U.S.",
+      "what": "Blue Angels pilot Scott Laux was removed for failing to uphold team standards, forcing the squadron to fly five jets at its Pensacola season finale.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/blue-angels-pilot-removed-team-failing-uphold-standards-navy-says",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/blue-angels-pilot-removed-team-failing-uphold-standards-navy-says"
+        }
+      ]
+    },
+    {
+      "title": "Democrats’ midterm sweep opens path to bypassing Electoral College by 2028",
       "category": "Politics",
-      "what": "House Republicans expressed shock and anger after Trump promoted Stephen Miller to chief of staff following the GOP's historic midterm losses.",
+      "what": "Democrat trifectas in key swing states could push the National Popular Vote Interstate Compact past 270 electoral votes needed to activate it and thus change the way Americans select the presidency.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/house-gop-erupts-stephen-miller-trump-elevates-him-after-midterm-massacre-megalomaniac",
+      "source": "https://www.foxnews.com/politics/democrats-midterm-sweep-opens-path-bypassing-electoral-college-2028",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/democrats-midterm-sweep-opens-path-bypassing-electoral-college-2028"
+        }
+      ]
+    },
+    {
+      "title": "Physicists listened to electrical noise to crack a superconductor mystery",
+      "category": "Tech",
+      "what": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/"
+        }
+      ]
+    },
+    {
+      "title": "Killer’s chewing gum blows open 40-year-old murders, detective warns there may be more victims",
+      "category": "U.S.",
+      "what": "Mitchell Gaff admitted to six rapes during state evaluations, yet a court later freed him. DNA evidence now ties him to two 1984 Everett murders.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/killers-chewing-gum-blows-open-40-year-old-murders-detective-warns-there-may-be-more-victims",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/killers-chewing-gum-blows-open-40-year-old-murders-detective-warns-there-may-be-more-victims"
+        }
+      ]
+    },
+    {
+      "title": "MAGA voters reveal who they want to see lead GOP in 2028",
+      "category": "Politics",
+      "what": "MAGA voters at a Trump rally name JD Vance and Marco Rubio as early 2028 presidential election favorites after Democrats swept the midterms.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/maga-voters-reveal-who-they-want-see-lead-gop-2028",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/maga-voters-reveal-who-they-want-see-lead-gop-2028"
+        }
+      ]
+    },
+    {
+      "title": "Alexander brothers allegedly paid for coverage of sex-trafficking trial as writers deny favorable treatment",
+      "category": "U.S.",
+      "what": "The Alexander brothers each received 30 years in prison, but allegations that they paid journalists for favorable trial coverage add a new twist.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/alexander-brothers-allegedly-paid-coverage-sex-trafficking-trial-writers-deny-favorable-treatment",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/alexander-brothers-allegedly-paid-coverage-sex-trafficking-trial-writers-deny-favorable-treatment"
+        }
+      ]
+    },
+    {
+      "title": "Houthis say at least 33 killed in Saudi air strike",
+      "category": "World",
+      "what": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss"
-        },
+          "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "category": "World",
+      "what": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "sources": [
         {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/house-gop-erupts-stephen-miller-trump-elevates-him-after-midterm-massacre-megalomaniac"
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+      "category": "World",
+      "what": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Paraguay's former president charged after bank collapse",
+      "category": "World",
+      "what": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -118,20 +198,6 @@
       ]
     },
     {
-      "title": "Navy veteran blindsided as attacker could land parole hearing months after sentencing: ‘Where is my justice?’",
-      "category": "U.S.",
-      "what": "Amy's 1992 Valentine's Day rape cold case was solved by DNA evidence, but a VINE text revealed Virginia's parole board may review her attacker.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/navy-veteran-blindsided-attacker-could-land-parole-hearing-months-after-sentencing-where-is-my-justice",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/navy-veteran-blindsided-attacker-could-land-parole-hearing-months-after-sentencing-where-is-my-justice"
-        }
-      ]
-    },
-    {
       "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
       "category": "Tech",
       "what": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
@@ -142,80 +208,6 @@
         {
           "name": "Ars Technica",
           "url": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/"
-        }
-      ]
-    },
-    {
-      "title": "Newsom orders California’s most reviled killers off death row – 10 of the worst who could benefit",
-      "category": "U.S.",
-      "what": "Gavin Newsom's death row commutation covers 548 inmates, including notorious serial killers like Randy Kraft and Chester Turner on California's death row.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/newsom-orders-california-reviled-killers-off-death-row-10-worst-could-benefit",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/newsom-orders-california-reviled-killers-off-death-row-10-worst-could-benefit"
-        }
-      ]
-    },
-    {
-      "title": "Texas mayor instructs police to limit co-operation with ICE",
-      "category": "World",
-      "what": "There has been months of public outcry in Houston after an Immigration and Customs Enforcement (ICE) officer fatally shot a man who was driving to work.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/houston-mayor-bolts-early-ice-cooperation-blue-wave-crashes-texas"
-        }
-      ]
-    },
-    {
-      "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
-      "category": "World",
-      "what": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Paraguay's president impeached and under house arrest after bank collapse",
-      "category": "World",
-      "what": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
-      "category": "Tech",
-      "what": "It's the exact path, not the apparent severity that matters most, doctors say.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/"
         }
       ]
     }
