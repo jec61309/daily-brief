@@ -1,213 +1,217 @@
 {
-  "date": "Sunday, November 8, 2026",
+  "date": "Monday, November 9, 2026",
   "stories": [
     {
-      "title": "11th-hour power play targets incoming Dem governor after historic GOP defeat",
-      "category": "Politics",
-      "what": "Republican Texas Rep. Brian Harrison urged Greg Abbott to convene a special session restricting emergency powers before Gina Hinojosa is sworn in.",
-      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
-      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
-      "source": "https://www.foxnews.com/politics/11th-hour-power-play-targets-incoming-dem-governor-historic-gop-defeat",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/11th-hour-power-play-targets-incoming-dem-governor-historic-gop-defeat"
-        }
-      ]
-    },
-    {
-      "title": "Stephen Colbert accused of crossing Harvard picket line before event with Yo-Yo Ma cut short by alarm",
-      "category": "U.S.",
-      "what": "Stephen Colbert and Yo-Yo Ma are accused of crossing the Harvard Graduate Students Union picket line before a fire alarm cut their event short.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/stephen-colbert-accused-crossing-harvard-picket-line-event-yo-yo-ma-cut-short-alarm",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/stephen-colbert-accused-crossing-harvard-picket-line-event-yo-yo-ma-cut-short-alarm"
-        }
-      ]
-    },
-    {
-      "title": "What we know so far after Krakow gun attack",
+      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
       "category": "World",
-      "what": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
+      "what": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Blue Angels pilot removed from team for 'failing to uphold' standards, Navy says",
-      "category": "U.S.",
-      "what": "Blue Angels pilot Scott Laux was removed for failing to uphold team standards, forcing the squadron to fly five jets at its Pensacola season finale.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/blue-angels-pilot-removed-team-failing-uphold-standards-navy-says",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/blue-angels-pilot-removed-team-failing-uphold-standards-navy-says"
-        }
-      ]
-    },
-    {
-      "title": "Democrats’ midterm sweep opens path to bypassing Electoral College by 2028",
-      "category": "Politics",
-      "what": "Democrat trifectas in key swing states could push the National Popular Vote Interstate Compact past 270 electoral votes needed to activate it and thus change the way Americans select the presidency.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/democrats-midterm-sweep-opens-path-bypassing-electoral-college-2028",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/democrats-midterm-sweep-opens-path-bypassing-electoral-college-2028"
-        }
-      ]
-    },
-    {
-      "title": "Physicists listened to electrical noise to crack a superconductor mystery",
+      "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
       "category": "Tech",
-      "what": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/"
-        }
-      ]
-    },
-    {
-      "title": "Killer’s chewing gum blows open 40-year-old murders, detective warns there may be more victims",
-      "category": "U.S.",
-      "what": "Mitchell Gaff admitted to six rapes during state evaluations, yet a court later freed him. DNA evidence now ties him to two 1984 Everett murders.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/killers-chewing-gum-blows-open-40-year-old-murders-detective-warns-there-may-be-more-victims",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/killers-chewing-gum-blows-open-40-year-old-murders-detective-warns-there-may-be-more-victims"
-        }
-      ]
-    },
-    {
-      "title": "MAGA voters reveal who they want to see lead GOP in 2028",
-      "category": "Politics",
-      "what": "MAGA voters at a Trump rally name JD Vance and Marco Rubio as early 2028 presidential election favorites after Democrats swept the midterms.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/maga-voters-reveal-who-they-want-see-lead-gop-2028",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/maga-voters-reveal-who-they-want-see-lead-gop-2028"
-        }
-      ]
-    },
-    {
-      "title": "Alexander brothers allegedly paid for coverage of sex-trafficking trial as writers deny favorable treatment",
-      "category": "U.S.",
-      "what": "The Alexander brothers each received 30 years in prison, but allegations that they paid journalists for favorable trial coverage add a new twist.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/alexander-brothers-allegedly-paid-coverage-sex-trafficking-trial-writers-deny-favorable-treatment",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/alexander-brothers-allegedly-paid-coverage-sex-trafficking-trial-writers-deny-favorable-treatment"
-        }
-      ]
-    },
-    {
-      "title": "Houthis say at least 33 killed in Saudi air strike",
-      "category": "World",
-      "what": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
-      "category": "World",
-      "what": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-      "category": "World",
-      "what": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Paraguay's former president charged after bank collapse",
-      "category": "World",
-      "what": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
-      "category": "Tech",
-      "what": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
+      "what": "\"*sshole\" poses a serious threat to Internet security.",
       "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
       "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
+      "source": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/"
+          "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/"
         }
       ]
     },
     {
-      "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
-      "category": "Tech",
-      "what": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
+      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+      "category": "World",
+      "what": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/hegseth-impeachment-vote-looms-house-republicans-privately-warn-could-pass"
+        }
+      ]
+    },
+    {
+      "title": "Arizona Republican holds House seat, surviving re-election scare",
+      "category": "Politics",
+      "what": "Republican Rep. Eli Crane thanked rural Arizonans and vowed to fight the status quo in Congress after defeating Jonathan Nez in their Arizona rematch.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/arizona-republican-holds-house-seat-surviving-reelection-scare",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/arizona-republican-holds-house-seat-surviving-reelection-scare"
+        }
+      ]
+    },
+    {
+      "title": "White House doubles down after Trump angers base by floating illegal alien deal with Dems",
+      "category": "Politics",
+      "what": "Trump signaled willingness to work a deal for illegal immigrants who have lived in the U.S. for over a decade, drawing fierce amnesty backlash.",
       "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
       "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
+      "source": "https://www.foxnews.com/politics/white-house-doubles-down-trump-angers-base-floating-illegal-alien-deal-dems",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/white-house-doubles-down-trump-angers-base-floating-illegal-alien-deal-dems"
+        }
+      ]
+    },
+    {
+      "title": "Alaska Senate fight heats up as Sullivan moves to block Peltola lawsuit over rejected absentee ballot records",
+      "category": "Politics",
+      "what": "Dan Sullivan's campaign accuses Mary Peltola of trying to \"rig the system\" by suing Alaska's Division of Elections amid a razor-thin Senate race.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/politics/alaska-senate-fight-heats-sullivan-moves-block-peltola-lawsuit-rejected-absentee-ballot-records",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/alaska-senate-fight-heats-sullivan-moves-block-peltola-lawsuit-rejected-absentee-ballot-records"
+        }
+      ]
+    },
+    {
+      "title": "Pentagon mulls placing fleet of military satellites around the Moon",
+      "category": "Tech",
+      "what": "\"Please jump on my cislunar bandwagon because I need some more friends here.\"",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/"
+          "url": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/"
+        }
+      ]
+    },
+    {
+      "title": "Next Generation OPIR GEO: Building America’s gateway to the future of space-based missile warning and tracking",
+      "category": "U.S.",
+      "what": "As missile threats grow faster and more maneuverable, detecting and tracking them presents new challenges. Explore how Lockheed Martin’s Next Gen OPIR GEO is designed to improve infrared sensing and support timely military decision-making.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.foxnews.com/us/next-generation-opir-geo-building-americas-gateway-future-space-based-missile-warning-tracking",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/next-generation-opir-geo-building-americas-gateway-future-space-based-missile-warning-tracking"
+        }
+      ]
+    },
+    {
+      "title": "Russia's leading independent newspaper closes after eviction",
+      "category": "World",
+      "what": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Trump questions midterm elections integrity after previously accepting results",
+      "category": "World",
+      "what": "Trump made the claims, without evidence, on Truth Social on Monday.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Claude Code is accidentally exposing secrets all over GitHub",
+      "category": "Tech",
+      "what": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/"
+        }
+      ]
+    },
+    {
+      "title": "California police probe 'suspicious circumstances' after nearly 20 hospitalized following half-marathon",
+      "category": "U.S.",
+      "what": "Santa Barbara Police Department is probing suspicious circumstances after 19 half-marathon runners sought emergency care for unusual symptoms.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/california-police-probe-suspicious-circumstances-nearly-20-hospitalized-following-half-marathon",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/california-police-probe-suspicious-circumstances-nearly-20-hospitalized-following-half-marathon"
+        }
+      ]
+    },
+    {
+      "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
+      "category": "World",
+      "what": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Blue state repeat offender accused of murdering wife at family’s home months after domestic violence charge",
+      "category": "U.S.",
+      "what": "Thomas John Iovenitti was out on just $1,000 bail for domestic violence charges when he allegedly stabbed his wife Alisha in their Concord home.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/blue-state-repeat-offender-accused-murdering-wife-familys-home-months-after-domestic-violence-charge",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/blue-state-repeat-offender-accused-murdering-wife-familys-home-months-after-domestic-violence-charge"
+        }
+      ]
+    },
+    {
+      "title": "Trump says Air Force pilots described a round UFO flying three times faster than an F-22 fighter jet",
+      "category": "U.S.",
+      "what": "Trump says Air Force pilots told him a round, non-aerodynamic object flew past an F-22 at three times its speed during a mysterious encounter.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/us/trump-air-force-pilots-round-ufo-flying-three-times-faster-f22-fighter-jet",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/trump-air-force-pilots-round-ufo-flying-three-times-faster-f22-fighter-jet"
         }
       ]
     }
