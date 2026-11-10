@@ -1,217 +1,217 @@
 {
-  "date": "Monday, November 9, 2026",
+  "date": "Tuesday, November 10, 2026",
   "stories": [
     {
-      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+      "title": "Israel's new parliament sworn in as leaders compete to form government",
       "category": "World",
-      "what": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+      "what": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+      "title": "Cornyn meets with Sen-elect Talarico, describes him as 'basically ... a good person'",
+      "category": "Politics",
+      "what": "Sen. John Cornyn meets with Sen.-elect James Talarico in Texas and D.C. after the Democrat's massive win against Texas Attorney General Ken Paxton in a U.S. Senate contest.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/cornyn-meets-sen-elect-talarico-describes-him-basically-good-person",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/cornyn-meets-sen-elect-talarico-describes-him-basically-good-person"
+        }
+      ]
+    },
+    {
+      "title": "High oil prices have led to a dip in global carbon emissions",
       "category": "Tech",
-      "what": "\"*sshole\" poses a serious threat to Internet security.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
+      "what": "Bucking recent trends, fossil fuel emissions look to be down 0.4 percent.",
+      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
+      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
+      "source": "https://arstechnica.com/science/2026/11/carbon-emissions-are-down-this-year-but-that-probably-wont-last/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/"
+          "url": "https://arstechnica.com/science/2026/11/carbon-emissions-are-down-this-year-but-that-probably-wont-last/"
         }
       ]
     },
     {
-      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-      "category": "World",
-      "what": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
+      "title": "Progressive org launches campaign urging AOC to run for president while progressives eye socialist candidate",
+      "category": "Politics",
+      "what": "Ready for AOC launched a nationwide signature drive urging Alexandria Ocasio-Cortez to run for president in 2028 as DSA allies eye a socialist nominee.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.foxnews.com/politics/progressive-org-launches-campaign-urging-aoc-run-president-while-progressives-eye-socialist-candidate",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/progressive-org-launches-campaign-urging-aoc-run-president-while-progressives-eye-socialist-candidate"
+        }
+      ]
+    },
+    {
+      "title": "Nvidia spy case exposes how foreign agents target America’s corporate elite: 'He is compromised'",
+      "category": "Politics",
+      "what": "Nvidia's CEO apologized to employees for infidelity as the board launched an independent probe into his alleged ties to a suspected Chinese spy.",
+      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
+      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
+      "source": "https://www.foxnews.com/politics/nvidia-spy-case-exposes-foreign-agents-target-americas-corporate-elite-compromised",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/nvidia-spy-case-exposes-foreign-agents-target-americas-corporate-elite-compromised"
+        }
+      ]
+    },
+    {
+      "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
+      "category": "World",
+      "what": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "One space station company sues another for copying its work",
+      "category": "Tech",
+      "what": "\"NASA advised that Vast’s submission in some locations substituted 'the PAM Provider' for Axiom\"",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/"
+        }
+      ]
+    },
+    {
+      "title": "Cruise ship murder suspect said he snapped before beating and choking woman: affidavit",
+      "category": "U.S.",
+      "what": "Jason Leon Watford told FBI investigators he snapped during an argument before beating and choking a woman aboard the MSC Seascape cruise ship.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/cruise-ship-murder-suspect-snapped-beating-choking-woman-affidavit",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/cruise-ship-murder-suspect-snapped-beating-choking-woman-affidavit"
+        }
+      ]
+    },
+    {
+      "title": "Tennessee warns executions could grind to a halt if Christa Pike's lawyers see a single drug label: court docs",
+      "category": "U.S.",
+      "what": "Tennessee officials warn that exposing their pentobarbital supplier could halt all future executions after Christa Pike survived two lethal doses.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/tennessee-warns-executions-could-grind-halt-christa-pike-lawyers-see-single-drug-label-court-docs",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/tennessee-warns-executions-could-grind-halt-christa-pike-lawyers-see-single-drug-label-court-docs"
+        }
+      ]
+    },
+    {
+      "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+      "category": "Tech",
+      "what": "The new model is up to twice as successful at some tasks.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/"
+        }
+      ]
+    },
+    {
+      "title": "Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut",
+      "category": "World",
+      "what": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
+      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
+      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
+      "source": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "First day of Ukraine peace talks 'very productive', US says",
+      "category": "World",
+      "what": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/hegseth-impeachment-vote-looms-house-republicans-privately-warn-could-pass"
+          "url": "https://www.foxnews.com/politics/kushner-enters-ukraine-peace-talks-trump-eyes-securing-safeguards-against-another-russian-invasion"
         }
       ]
     },
     {
-      "title": "Arizona Republican holds House seat, surviving re-election scare",
-      "category": "Politics",
-      "what": "Republican Rep. Eli Crane thanked rural Arizonans and vowed to fight the status quo in Congress after defeating Jonathan Nez in their Arizona rematch.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/arizona-republican-holds-house-seat-surviving-reelection-scare",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/arizona-republican-holds-house-seat-surviving-reelection-scare"
-        }
-      ]
-    },
-    {
-      "title": "White House doubles down after Trump angers base by floating illegal alien deal with Dems",
-      "category": "Politics",
-      "what": "Trump signaled willingness to work a deal for illegal immigrants who have lived in the U.S. for over a decade, drawing fierce amnesty backlash.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/white-house-doubles-down-trump-angers-base-floating-illegal-alien-deal-dems",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/white-house-doubles-down-trump-angers-base-floating-illegal-alien-deal-dems"
-        }
-      ]
-    },
-    {
-      "title": "Alaska Senate fight heats up as Sullivan moves to block Peltola lawsuit over rejected absentee ballot records",
-      "category": "Politics",
-      "what": "Dan Sullivan's campaign accuses Mary Peltola of trying to \"rig the system\" by suing Alaska's Division of Elections amid a razor-thin Senate race.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/alaska-senate-fight-heats-sullivan-moves-block-peltola-lawsuit-rejected-absentee-ballot-records",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/alaska-senate-fight-heats-sullivan-moves-block-peltola-lawsuit-rejected-absentee-ballot-records"
-        }
-      ]
-    },
-    {
-      "title": "Pentagon mulls placing fleet of military satellites around the Moon",
-      "category": "Tech",
-      "what": "\"Please jump on my cislunar bandwagon because I need some more friends here.\"",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/"
-        }
-      ]
-    },
-    {
-      "title": "Next Generation OPIR GEO: Building America’s gateway to the future of space-based missile warning and tracking",
-      "category": "U.S.",
-      "what": "As missile threats grow faster and more maneuverable, detecting and tracking them presents new challenges. Explore how Lockheed Martin’s Next Gen OPIR GEO is designed to improve infrared sensing and support timely military decision-making.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.foxnews.com/us/next-generation-opir-geo-building-americas-gateway-future-space-based-missile-warning-tracking",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/next-generation-opir-geo-building-americas-gateway-future-space-based-missile-warning-tracking"
-        }
-      ]
-    },
-    {
-      "title": "Russia's leading independent newspaper closes after eviction",
+      "title": "French wartime resistance heroine Solange Alexandre dies aged 104",
       "category": "World",
-      "what": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Trump questions midterm elections integrity after previously accepting results",
-      "category": "World",
-      "what": "Trump made the claims, without evidence, on Truth Social on Monday.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Claude Code is accidentally exposing secrets all over GitHub",
-      "category": "Tech",
-      "what": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
+      "what": "With 30 men under her orders, she organised sabotage operations, sheltered Allied airmen and joined the fight against the occupying German forces.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+      "source": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/"
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "California police probe 'suspicious circumstances' after nearly 20 hospitalized following half-marathon",
+      "title": "Texas’ Democrat governor-elect has vowed to impose ‘emergency’ day-one policy and more top headlines",
       "category": "U.S.",
-      "what": "Santa Barbara Police Department is probing suspicious circumstances after 19 half-marathon runners sought emergency care for unusual symptoms.",
+      "what": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
       "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
       "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/california-police-probe-suspicious-circumstances-nearly-20-hospitalized-following-half-marathon",
+      "source": "https://www.foxnews.com/us/texas-democrat-governor-elect-has-vowed-impose-emergency-policy-more-top-headlines",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/california-police-probe-suspicious-circumstances-nearly-20-hospitalized-following-half-marathon"
+          "url": "https://www.foxnews.com/us/texas-democrat-governor-elect-has-vowed-impose-emergency-policy-more-top-headlines"
         }
       ]
     },
     {
-      "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
-      "category": "World",
-      "what": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
+      "title": "'SNL' writer’s sister vanished — now her boyfriend and rival face charges in deadly love triangle",
+      "category": "U.S.",
+      "what": "\"Saturday Night Live\" writer Jimmy Fowlie's sister Christina Downer faced alleged stalking and blackmail before her disappearance and presumed death.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Blue state repeat offender accused of murdering wife at family’s home months after domestic violence charge",
-      "category": "U.S.",
-      "what": "Thomas John Iovenitti was out on just $1,000 bail for domestic violence charges when he allegedly stabbed his wife Alisha in their Concord home.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/blue-state-repeat-offender-accused-murdering-wife-familys-home-months-after-domestic-violence-charge",
+      "source": "https://www.foxnews.com/us/snl-writers-sister-vanished-boyfriend-rival-face-charges-deadly-love-triangle",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/blue-state-repeat-offender-accused-murdering-wife-familys-home-months-after-domestic-violence-charge"
-        }
-      ]
-    },
-    {
-      "title": "Trump says Air Force pilots described a round UFO flying three times faster than an F-22 fighter jet",
-      "category": "U.S.",
-      "what": "Trump says Air Force pilots told him a round, non-aerodynamic object flew past an F-22 at three times its speed during a mysterious encounter.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/us/trump-air-force-pilots-round-ufo-flying-three-times-faster-f22-fighter-jet",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/trump-air-force-pilots-round-ufo-flying-three-times-faster-f22-fighter-jet"
+          "url": "https://www.foxnews.com/us/snl-writers-sister-vanished-boyfriend-rival-face-charges-deadly-love-triangle"
         }
       ]
     }
