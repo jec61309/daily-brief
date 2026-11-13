@@ -1,213 +1,217 @@
 {
-  "date": "Thursday, November 12, 2026",
+  "date": "Friday, November 13, 2026",
   "stories": [
     {
-      "title": "Howard Lutnick is next Trump official top Dems want on the chopping block amid NVIDIA scandal",
-      "category": "Politics",
-      "what": "Top House Democrats are calling for an investigation into Howard Lutnick over his alleged role in the NVIDIA Jensen Huang Chinese spy scandal.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/howard-lutnick-next-trump-official-dems-want-chopping-block-amid-nvidia-scandal",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/howard-lutnick-next-trump-official-dems-want-chopping-block-amid-nvidia-scandal"
-        }
-      ]
-    },
-    {
-      "title": "Trump opens door to immigration deal, but Republicans have one condition",
-      "category": "Politics",
-      "what": "President Donald Trump floated a deal for long-term immigrants, but Senate Republicans drew a hard line, insisting amnesty is completely off the table.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/trump-opens-door-immigration-deal-republicans-have-one-condition",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-opens-door-immigration-deal-republicans-have-one-condition"
-        }
-      ]
-    },
-    {
-      "title": "The amazing disappearing exoplanet",
-      "category": "Tech",
-      "what": "An exoplanet seems to stopped transiting in front of its host star.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/science/2026/11/the-amazing-disappearing-exoplanet/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/11/the-amazing-disappearing-exoplanet/"
-        }
-      ]
-    },
-    {
-      "title": "WATCH: Deranged animal rights activist arrested after allegedly hitting carriage driver with skateboard",
-      "category": "U.S.",
-      "what": "Video captures Abigail Holbrook allegedly striking a Central Park horse carriage driver with a skateboard while shouting about animal abuse.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/watch-deranged-animal-rights-activist-arrested-allegedly-hitting-carriage-driver-skateboard",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/watch-deranged-animal-rights-activist-arrested-allegedly-hitting-carriage-driver-skateboard"
-        }
-      ]
-    },
-    {
-      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
       "category": "World",
-      "what": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+      "what": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Pentagon backs war memorial guard who reprimanded Hegseth's group",
+      "title": "SOUND OFF: Will Democrats and Republicans come together for the good of the country?",
+      "category": "Politics",
+      "what": "What issues do you think the Republicans and Democrats can come together on?",
+      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
+      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
+      "source": "https://www.foxnews.com/politics/sound-off-democrats-republicans-come-together-good-country",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/sound-off-democrats-republicans-come-together-good-country"
+        }
+      ]
+    },
+    {
+      "title": "MICHAEL RUIZ: Cold case DNA unmasks 'Montauk Mary' as cops probe link to Jersey Shore 'Thrill Killer'",
+      "category": "U.S.",
+      "what": "Sofia Margherita Marrone, known as \"Montauk Mary\" for decades, was identified via DNA and linked to Jersey Shore \"Thrill Killer\" Richard Biegenwald.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/michael-ruiz-cold-case-dna-unmasks-montauk-mary-cops-probe-link-jersey-shore-thrill-killer",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/michael-ruiz-cold-case-dna-unmasks-montauk-mary-cops-probe-link-jersey-shore-thrill-killer"
+        }
+      ]
+    },
+    {
+      "title": "Incoming GOP congressman backs halting all immigration to US, warns about Sharia law in Texas",
+      "category": "Politics",
+      "what": "Rep.-elect Jace Yarbrough says he favors stopping immigration altogether and repealing the 1965 Hart-Celler Act as he prepares to enter Congress.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/incoming-gop-congressman-backs-halting-all-immigration-us-warns-sharia-law-texas",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/incoming-gop-congressman-backs-halting-all-immigration-us-warns-sharia-law-texas"
+        }
+      ]
+    },
+    {
+      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
       "category": "World",
-      "what": "The defence secretary on Thursday awarded the soldier, Specialist Thomas Iglesias, a Joint Service Commendation Medal for the execution of his duties.",
+      "what": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Illegal immigrant trucker charged in crash that killed mom, 2 young sons heading to airport",
+      "category": "U.S.",
+      "what": "A tablet with YouTube open was found in the semi-truck driven by Eldar Skander, who allegedly caused the fatal Kansas City crash at high speed.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/illegal-immigrant-trucker-charged-crash-killed-mom-2-young-sons-heading-airport",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/illegal-immigrant-trucker-charged-crash-killed-mom-2-young-sons-heading-airport"
+        }
+      ]
+    },
+    {
+      "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+      "category": "Tech",
+      "what": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/"
+        }
+      ]
+    },
+    {
+      "title": "Trump's spy chiefs put Republican leaders on the clock over 'huge priority' as power shift looms over Congress",
+      "category": "Politics",
+      "what": "Trump's intelligence chiefs set a Dec. 9 deadline for Congress to reauthorize FISA Section 702 before Democrats take control of Capitol Hill.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/trumps-spy-chiefs-put-republican-leaders-clock-huge-priority-power-shift-looms-congress",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/trumps-spy-chiefs-put-republican-leaders-clock-huge-priority-power-shift-looms-congress"
+        }
+      ]
+    },
+    {
+      "title": "SEE IT: Door-kicking pranksters target California homes as police warn trend can end badly",
+      "category": "U.S.",
+      "what": "Irvine Police Department shared surveillance videos of the door kick challenge, warning the viral prank is vandalism that can lead to criminal charges.",
       "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
       "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.foxnews.com/us/door-kicking-pranksters-target-california-homes-police-warn-trend-end-badly",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss"
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/door-kicking-pranksters-target-california-homes-police-warn-trend-end-badly"
         }
       ]
     },
     {
-      "title": "WATCH: Socialist agitators lose it when cameras turn on them",
-      "category": "Politics",
-      "what": "CodePink and Singham-linked activists swarmed Congress on Veterans Day, but when cameras turned on them, they blocked lenses and hurled insults.",
+      "title": "Democratic Senate leader Schumer set to face leadership challenge",
+      "category": "World",
+      "what": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/watch-socialist-agitators-lose-when-cameras-turn-them",
+      "source": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
       "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss"
+        },
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/watch-socialist-agitators-lose-when-cameras-turn-them"
+          "url": "https://www.foxnews.com/politics/van-hollen-challenges-schumer-senate-leadership-after-democratic-election-sweep"
         }
       ]
     },
     {
-      "title": "Mysterious object moving through space could be lost Soviet probe as NASA weighs in on theory",
-      "category": "U.S.",
-      "what": "Near-Earth asteroid 1998 KY26 shows nongravitational acceleration, and Harvard researchers say it closely matches lost Soviet spacecraft Phobos 1.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/mysterious-object-moving-through-space-could-be-lost-soviet-probe-nasa-weighs-theory",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/mysterious-object-moving-through-space-could-be-lost-soviet-probe-nasa-weighs-theory"
-        }
-      ]
-    },
-    {
-      "title": "Fox News ‘Antisemitism Exposed’ Newsletter: Hate strikes out in Philly",
-      "category": "U.S.",
-      "what": "Fox News' \"Antisemitism Exposed\" newsletter brings you stories on the rising anti-Jewish prejudice across the U.S. and the world.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-hate-strikes-out-philly",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-hate-strikes-out-philly"
-        }
-      ]
-    },
-    {
-      "title": "NYC building collapse: Timeline of deadly disaster as rescuers race to pull survivors from rubble",
-      "category": "U.S.",
-      "what": "A timeline reveals how the deadly New York City building collapse at 1321 Flatbush Ave. unfolded, from the first 911 call to a frantic rescue.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/nyc-building-collapse-timeline-deadly-disaster-rescuers-race-pull-survivors-rubble",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/nyc-building-collapse-timeline-deadly-disaster-rescuers-race-pull-survivors-rubble"
-        }
-      ]
-    },
-    {
-      "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
+      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
       "category": "World",
-      "what": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
+      "what": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
+      "title": "Microsoft’s global outage may be worse than Amazon's or CrowdStrike's, expert says",
       "category": "Tech",
-      "what": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
+      "what": "Governments, hospitals, courts scrambled by global Microsoft outage.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/"
+          "url": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/"
         }
       ]
     },
     {
-      "title": "Nvidia CEO Jensen Huang has resigned",
+      "title": "At least 24 killed after bus collides with truck in north-east India ",
+      "category": "World",
+      "what": "Several of the deceased are college students, according to local official Atul Bora, but they have not yet been publicly identified.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "It's the end of the world as we know it, per a physicist's 1960 prediction",
       "category": "Tech",
-      "what": "The FBI is investigating as Nvidia’s board holds urgent talks over Huang’s future.",
+      "what": "Heinz von Foerster thought population would grow exponentially and \"squeeze\" us all to death.",
       "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
       "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
+      "source": "https://arstechnica.com/science/2026/11/its-the-end-of-the-world-as-we-know-it-per-a-physicists-1960-prediction/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/"
+          "url": "https://arstechnica.com/science/2026/11/its-the-end-of-the-world-as-we-know-it-per-a-physicists-1960-prediction/"
         }
       ]
     },
     {
-      "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
-      "category": "World",
-      "what": "A suspected gang leader considered a \"priority target\" was among those killed, the Colombian president says.",
+      "title": "Empire State Building climbers face deportation fears after attorney claims plea deal fell apart",
+      "category": "U.S.",
+      "what": "Angela Nikolau and Ivan Kuznetsov might face deportation and jail time after their viral Empire State Building climb, with a plea deal now in dispute.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.foxnews.com/us/empire-state-building-climbers-face-deportation-fears-attorney-claims-plea-deal-fell-apart",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
-      "category": "World",
-      "what": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss"
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/empire-state-building-climbers-face-deportation-fears-attorney-claims-plea-deal-fell-apart"
         }
       ]
     }
