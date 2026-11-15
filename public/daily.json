@@ -1,119 +1,203 @@
 {
-  "date": "Saturday, November 14, 2026",
+  "date": "Sunday, November 15, 2026",
   "stories": [
     {
-      "title": "Democrats eye killing Senate filibuster as lawmaker warns move could be a 'double-edged sword'",
+      "title": "NYC DSA urges AOC to run for president while planning to take over City Council",
       "category": "Politics",
-      "what": "Ed Markey says the filibuster must be \"on the table\" as Democrats take the Senate, while Andy Kim warns the move could be a \"double-edged sword.\"",
+      "what": "NYC's Democratic Socialists of America voted to urge AOC to run for president in 2028, but some resolutions sparked an AI-generated controversy.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/democrats-eye-killing-senate-filibuster-lawmaker-warns-move-could-double-edged-sword",
+      "source": "https://www.foxnews.com/politics/nyc-dsa-urges-aoc-run-president-planning-take-over-city-council",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/democrats-eye-killing-senate-filibuster-lawmaker-warns-move-could-double-edged-sword"
+          "url": "https://www.foxnews.com/politics/nyc-dsa-urges-aoc-run-president-planning-take-over-city-council"
         }
       ]
     },
     {
-      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-      "category": "World",
-      "what": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+      "title": "Congress' incoming wealthiest member vows to crack down on politicians getting rich in office",
+      "category": "Politics",
+      "what": "Joe Strada said he plans to crack down on congressional insider trading and politicians enriching themselves, drawing on his rise from bowling alley mechanic.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Dems descend on Denver to size up 2028. We asked who wants in the race",
-      "category": "Politics",
-      "what": "Josh Shapiro, Elissa Slotkin, Cory Booker and Ruben Gallego tested 2028 messaging at a Denver conference as Chris Van Hollen bowed out early.",
-      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
-      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
-      "source": "https://www.foxnews.com/politics/dems-descend-denver-size-2028-who-wants-race",
+      "source": "https://www.foxnews.com/politics/congress-incoming-wealthiest-member-vows-crack-down-politicians-getting-rich-office",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/dems-descend-denver-size-2028-who-wants-race"
+          "url": "https://www.foxnews.com/politics/congress-incoming-wealthiest-member-vows-crack-down-politicians-getting-rich-office"
         }
       ]
     },
     {
-      "title": "Dems' California redistricting mastermind flips script after helping party win 5 GOP seats: 'Kill'",
-      "category": "Politics",
-      "what": "Paul Mitchell, architect of California's Prop 50, claims Democrats should establish national standards to end partisan gerrymandering for good.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/politics/architect-dems-california-redistricting-win-makes-ironic-call-helping-flip-5-gop-seats-kill",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/architect-dems-california-redistricting-win-makes-ironic-call-helping-flip-5-gop-seats-kill"
-        }
-      ]
-    },
-    {
-      "title": "What we know about the ground stop and what to do if you're affected",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says ",
       "category": "World",
-      "what": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+      "what": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Second catch attempt for SpaceX Starship rocket",
+      "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision ",
       "category": "World",
-      "what": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "what": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss"
         },
         {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/100-people-pulled-mississippi-river-new-orleans-ship-crash-salvage-effort"
+        }
+      ]
+    },
+    {
+      "title": "Virginia parents charged after house party draws hundreds of teens, fireworks and alleged underage drinking",
+      "category": "U.S.",
+      "what": "Fairfax County police charged Lisa and Aubrey Vaughan after their 13-year-old sons' small backyard party spiraled into a massive gathering with fireworks and crowds.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/us/virginia-parents-charged-house-party-hundreds-teens-fireworks-alleged-underage-drinking",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/virginia-parents-charged-house-party-hundreds-teens-fireworks-alleged-underage-drinking"
+        }
+      ]
+    },
+    {
+      "title": "OnlyFans model Courtney Clenney moved to new prison, listed as minimum custody inmate: records",
+      "category": "U.S.",
+      "what": "Courtney Clenney is now minimum custody at a Florida prison. The National Domestic Violence Hotline offers help for those in abusive situations.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/onlyfans-model-courtney-clenney-moved-new-prison-listed-minimum-custody-inmate-records",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/onlyfans-model-courtney-clenney-moved-new-prison-listed-minimum-custody-inmate-records"
+        }
+      ]
+    },
+    {
+      "title": "Iran targets US military base in Bahrain with drone attack",
+      "category": "World",
+      "what": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+      "category": "World",
+      "what": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Murders plunge in US cities as Americans reclaim their streets from thugs",
+      "category": "U.S.",
+      "what": "Major U.S. cities saw violent crime drop in 2026, with Tulsa, Oklahoma, leading homicide reductions at 71%, according to the MCCA report.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/murders-plunge-us-cities-americans-reclaim-streets-thugs",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/murders-plunge-us-cities-americans-reclaim-streets-thugs"
+        }
+      ]
+    },
+    {
+      "title": "Trump's top officials retreat behind military gates as ex-FBI deputy points to what's fueling threats",
+      "category": "Politics",
+      "what": "Scott Bessent joins Todd Blanche, Marco Rubio and Pete Hegseth at Washington D.C. military bases amid Iranian assassination threats.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/trumps-top-officials-retreat-behind-military-gates-ex-fbi-deputy-points-whats-fueling-threats",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/trumps-top-officials-retreat-behind-military-gates-ex-fbi-deputy-points-whats-fueling-threats"
+        }
+      ]
+    },
+    {
+      "title": "How the world’s fires changed while humanity hit pause",
+      "category": "Tech",
+      "what": "COVID-19 lockdowns cut global fire activity by 12.3 percent.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
+      "sources": [
+        {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/"
+          "url": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/"
         }
       ]
     },
     {
-      "title": "Pentagon's former UFO investigator offers simple theory for mysterious jellyfish-shaped object on video",
+      "title": "'Purge'-masked suspect accused of killing college student at Halloween bash — before his sister helps nab him",
       "category": "U.S.",
-      "what": "Video near Joint Base Elmendorf-Richardson captures a jellyfish-shaped object with dangling strands, but a former Pentagon UFO investigator suggests kite.",
+      "what": "Omar Perez's sister identified him using police photos and the family's Life360 app after the University of Colorado Boulder student's killing.",
       "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
       "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/pentagons-former-ufo-investigator-offers-simple-theory-mysterious-jellyfish-shaped-object-video",
+      "source": "https://www.foxnews.com/us/purge-masked-suspect-accused-killing-college-student-halloween-bash-sister-helps-nab-him",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/pentagons-former-ufo-investigator-offers-simple-theory-mysterious-jellyfish-shaped-object-video"
+          "url": "https://www.foxnews.com/us/purge-masked-suspect-accused-killing-college-student-halloween-bash-sister-helps-nab-him"
         }
       ]
     },
     {
-      "title": "Natalee Holloway's confessed killer caught trying to extort $250K from grieving mother in FBI sting video",
-      "category": "U.S.",
-      "what": "Previously unseen FBI sting video captures Joran van der Sloot's attempt to extort Beth Holloway for information about her daughter Natalee Holloway.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/natalee-holloway-confessed-killer-caught-trying-extort-250k-grieving-mother-fbi-sting-video",
+      "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+      "category": "World",
+      "what": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/natalee-holloway-confessed-killer-caught-trying-extort-250k-grieving-mother-fbi-sting-video"
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
+      "category": "Tech",
+      "what": "It felt like stepping into the future.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/"
         }
       ]
     },
@@ -128,90 +212,6 @@
         {
           "name": "Ars Technica",
           "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/"
-        }
-      ]
-    },
-    {
-      "title": "Winemakers are learning that conservation can be good for business",
-      "category": "Tech",
-      "what": "Healthy soils, native plants, and fewer chemicals are helping vineyards adapt.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/"
-        }
-      ]
-    },
-    {
-      "title": "MICHAEL RUIZ: Montauk bikini designer's $50M yacht death lawsuit frozen as owner asks judge for exoneration",
-      "category": "U.S.",
-      "what": "Christopher Durnan invoked maritime law to cap liability after Martha Nolan-O'Slatarra was found dead on a New York yacht at Montauk Yacht Club.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/michael-ruiz-montauk-bikini-designer-50m-yacht-death-lawsuit-frozen-owner-asks-judge-exoneration",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/michael-ruiz-montauk-bikini-designer-50m-yacht-death-lawsuit-frozen-owner-asks-judge-exoneration"
-        }
-      ]
-    },
-    {
-      "title": "Sexual predator deported to Mexico hauled back to US for assault and murder of American mom",
-      "category": "U.S.",
-      "what": "Miguel Angel Urbano-Vazquez was deported to Mexico after Sharon Van Gilder's 2002 murder but was later extradited and convicted decades later.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/sexual-predator-deported-mexico-hauled-back-us-assault-murder-american-mom",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/sexual-predator-deported-mexico-hauled-back-us-assault-murder-american-mom"
-        }
-      ]
-    },
-    {
-      "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
-      "category": "World",
-      "what": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Microsoft says services fully restored after day-long global outage",
-      "category": "World",
-      "what": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
-      "category": "Tech",
-      "what": "One way or another, the company will get some more data on Saturday.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/"
         }
       ]
     }
