@@ -1,217 +1,221 @@
 {
-  "date": "Sunday, November 15, 2026",
+  "date": "Monday, November 16, 2026",
   "stories": [
     {
-      "title": "NYC DSA urges AOC to run for president while planning to take over City Council",
-      "category": "Politics",
-      "what": "NYC's Democratic Socialists of America voted to urge AOC to run for president in 2028, but some resolutions sparked an AI-generated controversy.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/nyc-dsa-urges-aoc-run-president-planning-take-over-city-council",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/nyc-dsa-urges-aoc-run-president-planning-take-over-city-council"
-        }
-      ]
-    },
-    {
-      "title": "Congress' incoming wealthiest member vows to crack down on politicians getting rich in office",
-      "category": "Politics",
-      "what": "Joe Strada said he plans to crack down on congressional insider trading and politicians enriching themselves, drawing on his rise from bowling alley mechanic.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/congress-incoming-wealthiest-member-vows-crack-down-politicians-getting-rich-office",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/congress-incoming-wealthiest-member-vows-crack-down-politicians-getting-rich-office"
-        }
-      ]
-    },
-    {
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says ",
-      "category": "World",
-      "what": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "title": "When will humans actually fly on Starship?",
+      "category": "Tech",
+      "what": "All estimates of human spaceflight on Starship should be taken with a gigantic grain of salt.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "source": "https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss"
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/"
         }
       ]
     },
     {
-      "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision ",
+      "title": "Two public safety officers shot at NYC housing complex; suspect dead",
+      "category": "U.S.",
+      "what": "Two Co-op City security guards were shot at a New York City housing complex before the suspect barricaded himself in an apartment, police said.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/two-public-safety-officers-shot-nyc-housing-complex-suspect-dead",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/two-public-safety-officers-shot-nyc-housing-complex-suspect-dead"
+        }
+      ]
+    },
+    {
+      "title": "Police groups condemn Mamdani over axing elite NYPD unit",
+      "category": "Politics",
+      "what": "Police union leaders slam NYC Mayor Zohran Mamdani's disbanding of the NYPD's Strategic Response Group, claiming the move puts public safety at risk.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/politics/police-groups-condemn-mamdani-axing-elite-nypd-unit",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/mamdani-guts-elite-nypd-tactical-unit-backs-civilian-led-approach-responding-protests"
+        },
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/police-groups-condemn-mamdani-axing-elite-nypd-unit"
+        }
+      ]
+    },
+    {
+      "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
       "category": "World",
-      "what": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
+      "what": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/100-people-pulled-mississippi-river-new-orleans-ship-crash-salvage-effort"
+          "url": "https://www.foxnews.com/us/lindsay-clancy-retried-murder-killing-three-children"
         }
       ]
     },
     {
-      "title": "Virginia parents charged after house party draws hundreds of teens, fireworks and alleged underage drinking",
-      "category": "U.S.",
-      "what": "Fairfax County police charged Lisa and Aubrey Vaughan after their 13-year-old sons' small backyard party spiraled into a massive gathering with fireworks and crowds.",
+      "title": "Forensic expert says his analysis raises doubts about how Epstein died",
+      "category": "World",
+      "what": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+      "category": "World",
+      "what": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/us/virginia-parents-charged-house-party-hundreds-teens-fireworks-alleged-underage-drinking",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/virginia-parents-charged-house-party-hundreds-teens-fireworks-alleged-underage-drinking"
-        }
-      ]
-    },
-    {
-      "title": "OnlyFans model Courtney Clenney moved to new prison, listed as minimum custody inmate: records",
-      "category": "U.S.",
-      "what": "Courtney Clenney is now minimum custody at a Florida prison. The National Domestic Violence Hotline offers help for those in abusive situations.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/onlyfans-model-courtney-clenney-moved-new-prison-listed-minimum-custody-inmate-records",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/onlyfans-model-courtney-clenney-moved-new-prison-listed-minimum-custody-inmate-records"
-        }
-      ]
-    },
-    {
-      "title": "Iran targets US military base in Bahrain with drone attack",
-      "category": "World",
-      "what": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
-      "category": "World",
-      "what": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+      "title": "US moves to cut China’s remote access to AI chips",
+      "category": "Tech",
+      "what": "Trump bets China won’t mind US blocking remote access to AI chips.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss"
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/"
         }
       ]
     },
     {
-      "title": "Murders plunge in US cities as Americans reclaim their streets from thugs",
-      "category": "U.S.",
-      "what": "Major U.S. cities saw violent crime drop in 2026, with Tulsa, Oklahoma, leading homicide reductions at 71%, according to the MCCA report.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/murders-plunge-us-cities-americans-reclaim-streets-thugs",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/murders-plunge-us-cities-americans-reclaim-streets-thugs"
-        }
-      ]
-    },
-    {
-      "title": "Trump's top officials retreat behind military gates as ex-FBI deputy points to what's fueling threats",
+      "title": "Senate Dem challenging Sen Chuck Schumer for leadership post backs Hakeem Jeffries for House speaker",
       "category": "Politics",
-      "what": "Scott Bessent joins Todd Blanche, Marco Rubio and Pete Hegseth at Washington D.C. military bases amid Iranian assassination threats.",
+      "what": "Sen. Chris Van Hollen, who is currently challenging Sen. Chuck Schumer for a leadership role, backed Rep. Hakeem Jeffries for the House speakership.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/trumps-top-officials-retreat-behind-military-gates-ex-fbi-deputy-points-whats-fueling-threats",
+      "source": "https://www.foxnews.com/politics/senate-dem-challenging-sen-chuck-schumer-leadership-post-backs-hakeem-jeffries-house-speaker",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trumps-top-officials-retreat-behind-military-gates-ex-fbi-deputy-points-whats-fueling-threats"
+          "url": "https://www.foxnews.com/politics/senate-dem-challenging-sen-chuck-schumer-leadership-post-backs-hakeem-jeffries-house-speaker"
         }
       ]
     },
     {
-      "title": "How the world’s fires changed while humanity hit pause",
-      "category": "Tech",
-      "what": "COVID-19 lockdowns cut global fire activity by 12.3 percent.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
+      "title": "Trump brings two divided Cabinet heavyweights to China as controversy hangs over high-stakes talks",
+      "category": "Politics",
+      "what": "President Donald Trump said Scott Bessent and Howard Lutnick hold opposing views on China as both join his high-stakes Asia trip to meet Xi Jinping.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/trump-brings-two-divided-cabinet-heavyweights-china-controversy-hangs-over-high-stakes-talks",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/"
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/trump-brings-two-divided-cabinet-heavyweights-china-controversy-hangs-over-high-stakes-talks"
         }
       ]
     },
     {
-      "title": "'Purge'-masked suspect accused of killing college student at Halloween bash — before his sister helps nab him",
+      "title": "Elderly homeowner’s hired help turns into squatter nightmare made worse by blue state laws: report",
       "category": "U.S.",
-      "what": "Omar Perez's sister identified him using police photos and the family's Life360 app after the University of Colorado Boulder student's killing.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/purge-masked-suspect-accused-killing-college-student-halloween-bash-sister-helps-nab-him",
+      "what": "Jordy Smith, 76, said a fake plumber locked her out of her San Diego home and rented rooms to over a dozen people before Squatter Squad intervened.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/elderly-homeowner-hired-help-turns-squatter-nightmare-made-worse-blue-state-laws-report",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/purge-masked-suspect-accused-killing-college-student-halloween-bash-sister-helps-nab-him"
+          "url": "https://www.foxnews.com/us/elderly-homeowner-hired-help-turns-squatter-nightmare-made-worse-blue-state-laws-report"
         }
       ]
     },
     {
-      "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+      "title": "US now \"comfortable\" with children dying of measles as death toll hits 10",
+      "category": "Tech",
+      "what": "International authorities will announce US lost its elimination status Tuesday.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10/"
+        }
+      ]
+    },
+    {
+      "title": "Five EU countries announce migrant deportation centre in Rwanda",
       "category": "World",
-      "what": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+      "what": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
-      "category": "Tech",
-      "what": "It felt like stepping into the future.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+      "title": "New Orleans cruise ship disaster timeline reveals tanker's troubled past and frantic final minutes",
+      "category": "U.S.",
+      "what": "The Atlantic Asphalt tanker lost steering just minutes before slamming into the docked American Heritage cruise ship in New Orleans on Friday.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/new-orleans-cruise-ship-disaster-timeline-reveals-tanker-troubled-past-frantic-final-minutes",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/"
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/new-orleans-cruise-ship-disaster-timeline-reveals-tanker-troubled-past-frantic-final-minutes"
         }
       ]
     },
     {
-      "title": "James Webb telescope finds ice older than the star it orbits",
-      "category": "Tech",
-      "what": "Radiation and collisions reshape the planetary building materials.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
+      "title": "Street cricket with a legend then metro ride as William and Kate begin India visit",
+      "category": "World",
+      "what": "The Prince and Princess of Wales are visiting Mumbai for the Earthshot Prize this week, but started their trip with some fun outings.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/videos/crkgvnl51w1vo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/"
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/crkgvnl51w1vo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Trump border crackdown drives encounters to record October low as zero-release streak hits 18 months, DHS says",
+      "category": "U.S.",
+      "what": "Border Patrol recorded just 8,288 southwest border apprehensions in October, marking a stunning 95% drop from the Biden administration's average.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/us/trump-border-crackdown-drives-encounters-record-october-low-zero-release-streak-hits-18-months-dhs-says",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/trump-border-crackdown-drives-encounters-record-october-low-zero-release-streak-hits-18-months-dhs-says"
         }
       ]
     }
