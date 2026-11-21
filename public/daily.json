@@ -1,213 +1,213 @@
 {
-  "date": "Friday, November 20, 2026",
+  "date": "Saturday, November 21, 2026",
   "stories": [
     {
-      "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
       "category": "World",
-      "what": "Other tech companies have also taken a hit as share markets broadly slump.",
-      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
-      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
-      "source": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "what": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-      "category": "World",
-      "what": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+      "title": "FBI probes second cyberattack in months as hackers breach key crime database, sources say",
+      "category": "Politics",
+      "what": "Hackers breached the FBI's National Crime Information Center, sources say, as the bureau probes the entry point and what data was compromised.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.foxnews.com/politics/fbi-probes-second-cyberattack-months-hackers-breach-key-crime-database-sources-say",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/fbi-probes-second-cyberattack-months-hackers-breach-key-crime-database-sources-say"
+        }
+      ]
+    },
+    {
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "category": "World",
+      "what": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Cost of living protests sweep across Europe",
-      "category": "World",
-      "what": "Thousands marched across European cities on Friday to protest against the cost of living and other issues.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "MICHAEL RUIZ: Resurfaced video appears to show NYC mayor arrested by NYPD group he is disbanding",
-      "category": "U.S.",
-      "what": "Resurfaced video shows Zohran Mamdani being detained by the NYPD Strategic Response Group, the same unit he later ordered dismantled as mayor.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/michael-ruiz-resurfaced-video-appears-show-nyc-mayor-arrested-nypd-group-disbanding",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/michael-ruiz-resurfaced-video-appears-show-nyc-mayor-arrested-nypd-group-disbanding"
-        }
-      ]
-    },
-    {
-      "title": "Suspect in alleged rape of LSU student killed by car fights to keep mom’s warning texts out of December trial",
-      "category": "U.S.",
-      "what": "Desmond Carter's texts about his mother's advice to stay silent are central to a court fight in the alleged rape of a Louisiana State University student.",
+      "title": "Top Trump officials' holiday emails to staff calling Jesus 'our Savior' went 'too far,' judge rules",
+      "category": "Politics",
+      "what": "Judge Trina Thompson blocked Brooke Rollins from sharing religious messaging, ruling her USDA Christmas and Easter emails were coercive to employees.",
       "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
       "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/suspect-alleged-rape-lsu-student-killed-car-fights-keep-moms-warning-texts-december-trial",
+      "source": "https://www.foxnews.com/politics/trump-officials-holiday-emails-staff-calling-jesus-savior-went-too-far-judge-rules",
       "sources": [
         {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/suspect-alleged-rape-lsu-student-killed-car-fights-keep-moms-warning-texts-december-trial"
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/trump-officials-holiday-emails-staff-calling-jesus-savior-went-too-far-judge-rules"
         }
       ]
     },
     {
-      "title": "Woman allegedly torments California family claiming to be toddler who vanished in 1984, refuses basic DNA test",
+      "title": "How a $1B Obama-era solar plant went bankrupt twice, leaving taxpayers with the tab",
+      "category": "Politics",
+      "what": "Crescent Dunes sold for just $7 million after more than $1 billion in federal backing, with the estimated taxpayer tab potentially reaching $507 million.",
+      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
+      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
+      "source": "https://www.foxnews.com/politics/how-1-obama-era-solar-plant-went-bankrupt-twice-costing-taxpayers-508m",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/how-1-obama-era-solar-plant-went-bankrupt-twice-costing-taxpayers-508m"
+        }
+      ]
+    },
+    {
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "category": "World",
+      "what": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "category": "World",
+      "what": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Inside the 'Lion’s Den': Real estate brothers bragged about 'hunting' women before 30-year prison terms",
       "category": "U.S.",
-      "what": "A Southern California family says Cindy Rae Enders, who claims to be missing toddler Laura Ann Bradbury, refuses a DNA test unless it's court-admissible.",
+      "what": "New Peacock docuseries \"The Wolves of Real Estate\" reveals texts where Oren Alexander wrote of \"hunting\" women before his 30-year sex trafficking sentence.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/inside-lions-den-real-estate-brothers-bragged-hunting-women-before-30-year-prison-terms",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/inside-lions-den-real-estate-brothers-bragged-hunting-women-before-30-year-prison-terms"
+        }
+      ]
+    },
+    {
+      "title": "Biotech CEO says the US is fighting fentanyl ‘all wrong,’ urges new Democratic Congress to step up",
+      "category": "U.S.",
+      "what": "Nearly a year after President Donald Trump designated illicit fentanyl a weapon of mass destruction, ARMR Sciences' CEO says treat it like a bioweapon.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/us/biotech-ceo-says-us-fighting-fentanyl-all-wrong-urges-new-democratic-congress-step-up",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/biotech-ceo-says-us-fighting-fentanyl-all-wrong-urges-new-democratic-congress-step-up"
+        }
+      ]
+    },
+    {
+      "title": "“Race realism” isn’t realistic—and it isn’t good science",
+      "category": "Tech",
+      "what": "Modern genetics does not support claims of innate racial differences in intelligence.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/"
+        }
+      ]
+    },
+    {
+      "title": "Utah mommy blogger Ruby Franke's daughter begs parole board not to let her out of prison: 'she is a monster'",
+      "category": "U.S.",
+      "what": "Shari Franke revealed weekly nightmares of her mother's house as she urged the Utah Board of Pardons and Parole to keep Ruby Franke behind bars.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/us/utah-mommy-blogger-ruby-franke-daughter-begs-parole-board-not-let-her-out-prison-she-is-monster",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/utah-mommy-blogger-ruby-franke-daughter-begs-parole-board-not-let-her-out-prison-she-is-monster"
+        }
+      ]
+    },
+    {
+      "title": "MICHAEL RUIZ: Half of California's DAs sue Newsom over death row clemency",
+      "category": "U.S.",
+      "what": "Gavin Newsom faces a lawsuit from 29 district attorneys and victims' families who say his mass clemency for 548 death row inmates skipped victim notice.",
       "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
       "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/woman-allegedly-torments-california-family-claiming-toddler-vanished-1984-refuses-basic-dna-test",
+      "source": "https://www.foxnews.com/us/michael-ruiz-half-california-das-sue-newsom-death-row-clemency",
       "sources": [
         {
           "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/woman-allegedly-torments-california-family-claiming-toddler-vanished-1984-refuses-basic-dna-test"
+          "url": "https://www.foxnews.com/us/michael-ruiz-half-california-das-sue-newsom-death-row-clemency"
         }
       ]
     },
     {
-      "title": "Valve says it might have to raise the price of supply-limited Steam Machines",
-      "category": "Tech",
-      "what": "\"We don't yet know the number we are able to make, and at what price...\"",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/"
-        }
-      ]
-    },
-    {
-      "title": "Biden memoir draws fire for ‘denial’ as critics flag Gaza, racial-equity omissions",
-      "category": "Politics",
-      "what": "Joe Biden's memoir \"Promise Me, America\" draws sharp reviews; critics say he stays \"stubbornly in denial\" about his age, Gaza, and his 2024 reelection bid.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/biden-memoir-draws-fire-denial-critics-flag-gaza-racial-equity-omissions",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/biden-memoir-draws-fire-denial-critics-flag-gaza-racial-equity-omissions"
-        }
-      ]
-    },
-    {
-      "title": "Nearly 600 women killed in South Africa within three months",
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
       "category": "World",
-      "what": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
+      "what": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
-      "category": "World",
-      "what": "Carys Douglas, 23, made her stage debut this year in Anton Chekhov's play, The Seagull, in the US.",
-      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
-      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
-      "source": "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Deadlocked Florida election decided by coin toss",
-      "category": "Politics",
-      "what": "Jennifer Lagner won the Atlantic Beach commissioner seat after a coin flip broke a 3,162-vote tie, with Duval County election officials running recounts.",
+      "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
+      "category": "Tech",
+      "what": "FCC preempts state rules that require AT&T to keep offering home phone service.",
       "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
       "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/deadlocked-florida-election-decided-coin-toss",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/deadlocked-florida-election-decided-coin-toss"
-        }
-      ]
-    },
-    {
-      "title": "Republican senator opens door on possibility of a presidential bid, in shift from past position",
-      "category": "Politics",
-      "what": "Republican Sen. Josh Hawley of Missouri, who previously said he did not intend to pursue a presidential bid, is now opening the door to the possibility.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/politics/republican-senator-opens-door-possibility-presidential-bid-shift-past-position",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/republican-senator-opens-door-possibility-presidential-bid-shift-past-position"
-        }
-      ]
-    },
-    {
-      "title": "US will soon announce root cause behind FAA nationwide ground stop",
-      "category": "Tech",
-      "what": "Former FAA insider on reducing the risks of upgrading a decades-old network.",
-      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
-      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
-      "source": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/",
+      "source": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/"
+          "url": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/"
         }
       ]
     },
     {
-      "title": "SpaceX lenders don’t want Elon Musk launching their collateral into space",
+      "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
       "category": "Tech",
-      "what": "Bondholders want SpaceX’s valuable chip collateral kept on Earth and within reach.",
+      "what": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/",
+      "source": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/"
-        }
-      ]
-    },
-    {
-      "title": "NYC Mayor Mamdani announces delayed plan to close city's largest jail",
-      "category": "U.S.",
-      "what": "New York City Mayor Zohran Mamdani says his administration is closing Rikers Island for good, with four new jails by 2029 near public transit.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/nyc-mayor-mamdani-announces-delayed-plan-close-citys-largest-jail",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/nyc-mayor-mamdani-announces-delayed-plan-close-citys-largest-jail"
+          "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/"
         }
       ]
     }
