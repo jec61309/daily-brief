@@ -1,87 +1,165 @@
 {
-  "date": "Saturday, November 21, 2026",
+  "date": "Sunday, November 22, 2026",
   "stories": [
     {
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
       "category": "World",
-      "what": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "what": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "FBI probes second cyberattack in months as hackers breach key crime database, sources say",
-      "category": "Politics",
-      "what": "Hackers breached the FBI's National Crime Information Center, sources say, as the bureau probes the entry point and what data was compromised.",
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "category": "World",
+      "what": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "FAA lifts ground stop on Atlanta-bound Delta flights after system outage",
+      "category": "U.S.",
+      "what": "Delta Air Lines says crews are using manual workarounds after an outage in its weight-and-balance system reportedly delayed at least 3,500 flights.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/politics/fbi-probes-second-cyberattack-months-hackers-breach-key-crime-database-sources-say",
+      "source": "https://www.foxnews.com/us/faa-lifts-ground-stop-atlanta-bound-delta-flights-system-outage",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/faa-lifts-ground-stop-atlanta-bound-delta-flights-system-outage"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/"
+        }
+      ]
+    },
+    {
+      "title": "DHS, Dem officials clash after ICE arrest at Seattle airport",
+      "category": "Politics",
+      "what": "DHS says a passenger threw hot coffee at ICE officers during a Seattle airport arrest of a visa overstay, as Washington Democrats blast the operation.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/politics/dhs-dem-officials-clash-ice-arrest-seattle-airport",
       "sources": [
         {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/fbi-probes-second-cyberattack-months-hackers-breach-key-crime-database-sources-say"
+          "url": "https://www.foxnews.com/politics/dhs-dem-officials-clash-ice-arrest-seattle-airport"
         }
       ]
     },
     {
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "category": "World",
-      "what": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "title": "'Crazy': Moderates fear Dem leadership promised far-left reparations and ICE demands in turn of votes",
+      "category": "Politics",
+      "what": "House Democrats are split as progressives' push to abolish ICE and reparations for descendants of slavery, while moderates warn it may hurt affordability.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/crazy-moderates-fear-dem-leadership-promised-far-left-reparations-ice-demands-turn-votes",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/crazy-moderates-fear-dem-leadership-promised-far-left-reparations-ice-demands-turn-votes"
         }
       ]
     },
     {
-      "title": "Top Trump officials' holiday emails to staff calling Jesus 'our Savior' went 'too far,' judge rules",
+      "title": "Mississippi mother, caregiver face charges after refusing to give cancer treatment to toddler",
+      "category": "U.S.",
+      "what": "Destiny Schliefert faces felony murder charges after police say she refused cancer treatment for her 3-year-old son, who weighed 24 pounds when he died.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/mississippi-mother-caregiver-face-charges-refusing-give-cancer-treatment-toddler",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/mississippi-mother-caregiver-face-charges-refusing-give-cancer-treatment-toddler"
+        }
+      ]
+    },
+    {
+      "title": "Newsom's bid to empty California's death row collides with voters' repeated rejection of abolition",
       "category": "Politics",
-      "what": "Judge Trina Thompson blocked Brooke Rollins from sharing religious messaging, ruling her USDA Christmas and Easter emails were coercive to employees.",
+      "what": "A lawsuit challenges Democratic California Gov. Gavin Newsom's effort to commute all 548 death sentences, citing failures to notify district attorneys.",
       "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
       "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/trump-officials-holiday-emails-staff-calling-jesus-savior-went-too-far-judge-rules",
+      "source": "https://www.foxnews.com/politics/newsoms-bid-empty-californias-death-row-collides-voters-repeated-rejection-abolition",
       "sources": [
         {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/michael-ruiz-half-california-das-sue-newsom-death-row-clemency"
+        },
+        {
           "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/trump-officials-holiday-emails-staff-calling-jesus-savior-went-too-far-judge-rules"
+          "url": "https://www.foxnews.com/politics/newsoms-bid-empty-californias-death-row-collides-voters-repeated-rejection-abolition"
         }
       ]
     },
     {
-      "title": "How a $1B Obama-era solar plant went bankrupt twice, leaving taxpayers with the tab",
-      "category": "Politics",
-      "what": "Crescent Dunes sold for just $7 million after more than $1 billion in federal backing, with the estimated taxpayer tab potentially reaching $507 million.",
-      "why": "This matters because it may influence legislation, executive action, or the national political mood.",
-      "watch": "Watch for the next policy move, official statement, or signs that this issue is gaining political momentum.",
-      "source": "https://www.foxnews.com/politics/how-1-obama-era-solar-plant-went-bankrupt-twice-costing-taxpayers-508m",
+      "title": "Illegal immigrant avoids charges after Florida grandmother killed outside grocery store, enraging family",
+      "category": "U.S.",
+      "what": "Prosecutors dropped all charges against Carlos Suarez-Contreras in Deborah Murphy's death at a Panama City Beach Publix, citing hurdles under Florida law.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/us/illegal-immigrant-avoids-charges-florida-grandmother-killed-outside-grocery-store-enraging-family",
       "sources": [
         {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/how-1-obama-era-solar-plant-went-bankrupt-twice-costing-taxpayers-508m"
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/illegal-immigrant-avoids-charges-florida-grandmother-killed-outside-grocery-store-enraging-family"
         }
       ]
     },
     {
-      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-      "category": "World",
-      "what": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+      "title": "Harvard scientist may never prove mysterious space object’s origin after mission scrapped",
+      "category": "U.S.",
+      "what": "Avi Loeb claims JAXA's canceled Hayabusa2 landing mission on 1998 KY26 ends the only chance to prove the object is the lost Soviet probe Phobos 1.",
       "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
       "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+      "source": "https://www.foxnews.com/us/harvard-scientist-may-never-prove-mysterious-space-objects-origin-after-mission-scrapped",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/harvard-scientist-may-never-prove-mysterious-space-objects-origin-after-mission-scrapped"
+        }
+      ]
+    },
+    {
+      "title": "South Korea education minister resigns over exam cheating scandal",
+      "category": "World",
+      "what": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "category": "World",
+      "what": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
+      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
+      "source": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -100,30 +178,16 @@
       ]
     },
     {
-      "title": "Inside the 'Lion’s Den': Real estate brothers bragged about 'hunting' women before 30-year prison terms",
-      "category": "U.S.",
-      "what": "New Peacock docuseries \"The Wolves of Real Estate\" reveals texts where Oren Alexander wrote of \"hunting\" women before his 30-year sex trafficking sentence.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/inside-lions-den-real-estate-brothers-bragged-hunting-women-before-30-year-prison-terms",
+      "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+      "category": "Tech",
+      "what": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
       "sources": [
         {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/inside-lions-den-real-estate-brothers-bragged-hunting-women-before-30-year-prison-terms"
-        }
-      ]
-    },
-    {
-      "title": "Biotech CEO says the US is fighting fentanyl ‘all wrong,’ urges new Democratic Congress to step up",
-      "category": "U.S.",
-      "what": "Nearly a year after President Donald Trump designated illicit fentanyl a weapon of mass destruction, ARMR Sciences' CEO says treat it like a bioweapon.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/us/biotech-ceo-says-us-fighting-fentanyl-all-wrong-urges-new-democratic-congress-step-up",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/biotech-ceo-says-us-fighting-fentanyl-all-wrong-urges-new-democratic-congress-step-up"
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/"
         }
       ]
     },
@@ -142,48 +206,6 @@
       ]
     },
     {
-      "title": "Utah mommy blogger Ruby Franke's daughter begs parole board not to let her out of prison: 'she is a monster'",
-      "category": "U.S.",
-      "what": "Shari Franke revealed weekly nightmares of her mother's house as she urged the Utah Board of Pardons and Parole to keep Ruby Franke behind bars.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/us/utah-mommy-blogger-ruby-franke-daughter-begs-parole-board-not-let-her-out-prison-she-is-monster",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/utah-mommy-blogger-ruby-franke-daughter-begs-parole-board-not-let-her-out-prison-she-is-monster"
-        }
-      ]
-    },
-    {
-      "title": "MICHAEL RUIZ: Half of California's DAs sue Newsom over death row clemency",
-      "category": "U.S.",
-      "what": "Gavin Newsom faces a lawsuit from 29 district attorneys and victims' families who say his mass clemency for 548 death row inmates skipped victim notice.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/michael-ruiz-half-california-das-sue-newsom-death-row-clemency",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/michael-ruiz-half-california-das-sue-newsom-death-row-clemency"
-        }
-      ]
-    },
-    {
-      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-      "category": "World",
-      "what": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
       "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
       "category": "Tech",
       "what": "FCC preempts state rules that require AT&T to keep offering home phone service.",
@@ -194,20 +216,6 @@
         {
           "name": "Ars Technica",
           "url": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/"
-        }
-      ]
-    },
-    {
-      "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
-      "category": "Tech",
-      "what": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/"
         }
       ]
     }
