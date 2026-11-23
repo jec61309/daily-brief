@@ -1,221 +1,213 @@
 {
-  "date": "Sunday, November 22, 2026",
+  "date": "Monday, November 23, 2026",
   "stories": [
     {
-      "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
-      "category": "World",
-      "what": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "category": "Tech",
+      "what": "X says every Grok output is screened, but state AGs say Grok is still making CSAM.",
+      "why": "This could shape how quickly new technology is adopted and how it affects business and daily life.",
+      "watch": "Watch for rollout details, rival announcements, and whether regulators or major platforms respond.",
+      "source": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
       "sources": [
         {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/"
         }
       ]
     },
     {
-      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "title": "Bessent gave Iran weeks before it had ‘nothing left to trade.’ New sanctions expose what survived",
+      "category": "Politics",
+      "what": "Scott Bessent warned Iran had two weeks. Two months later, Treasury hit over two dozen entities in Dubai, Hong Kong and Turkey moving billions for Tehran.",
+      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
+      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
+      "source": "https://www.foxnews.com/politics/bessent-gave-iran-weeks-before-nothing-left-trade-new-sanctions-expose-what-survived",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/bessent-gave-iran-weeks-before-nothing-left-trade-new-sanctions-expose-what-survived"
+        }
+      ]
+    },
+    {
+      "title": "Dem lawmaker to resign after report says he made 'unwelcome' sexual advances toward staffer",
+      "category": "Politics",
+      "what": "The House Ethics Committee says Rep. Jimmy Gomez's advances toward a House staffer could implicate D.C. laws on criminal sexual assault, its report claims.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/politics/dem-lawmaker-made-unwelcome-sexual-advances-toward-congressional-staffer-house-panel-finds",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/dem-lawmaker-made-unwelcome-sexual-advances-toward-congressional-staffer-house-panel-finds"
+        }
+      ]
+    },
+    {
+      "title": "California nursing student and mom arrested months after man’s body turns up in ravine: police",
+      "category": "U.S.",
+      "what": "A truck driver's call near Livermore, California, led police to Marcelino Perez Jimenez's body in a ravine and a murder investigation reaching San Jose.",
+      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
+      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
+      "source": "https://www.foxnews.com/us/california-nursing-student-mom-arrested-months-after-mans-body-turns-up-ravine-cops",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/california-nursing-student-mom-arrested-months-after-mans-body-turns-up-ravine-cops"
+        }
+      ]
+    },
+    {
+      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
       "category": "World",
-      "what": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+      "what": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret",
+      "category": "Tech",
+      "what": "\"I would ask you to please reach out to Roscosmos directly.\"",
       "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
       "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/"
+        }
+      ]
+    },
+    {
+      "title": "States rally behind Catholic church in first-of-its-kind Supreme Court fight over prayer shrine",
+      "category": "Politics",
+      "what": "A Kentucky Catholic community's Virgin Mary prayer grotto sparked a neighbors' zoning fight now at the Supreme Court in a RLUIPA religious liberty case.",
+      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
+      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
+      "source": "https://www.foxnews.com/politics/states-rally-behind-catholic-church-first-of-its-kind-supreme-court-fight-prayer-shrine",
+      "sources": [
+        {
+          "name": "Fox Politics",
+          "url": "https://www.foxnews.com/politics/states-rally-behind-catholic-church-first-of-its-kind-supreme-court-fight-prayer-shrine"
+        }
+      ]
+    },
+    {
+      "title": "Surveillance pricing uses our personal data to make us pay more",
+      "category": "Tech",
+      "what": "Personalized pricing can mean unfair, and even biased, prices.",
+      "why": "This could influence prices, jobs, markets, or the broader direction of the economy.",
+      "watch": "Watch for market reaction, policy responses, and whether the economic effects become more visible in coming weeks.",
+      "source": "https://arstechnica.com/tech-policy/2026/11/surveillance-pricing-uses-our-personal-data-to-make-us-pay-more/",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/11/surveillance-pricing-uses-our-personal-data-to-make-us-pay-more/"
+        }
+      ]
+    },
+    {
+      "title": "Rush hour road rage suspect’s bail revoked as slain utility worker’s supporters shout at accused murderer",
+      "category": "U.S.",
+      "what": "Retired NYPD officer Victor Romero, accused of killing Con Edison worker Koran Irvine on the George Washington Bridge, had his $1 million bond revoked.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/rush-hour-road-rage-suspects-bail-revoked-slain-utility-worker-supporters-shout-accused-murderer",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/rush-hour-road-rage-suspects-bail-revoked-slain-utility-worker-supporters-shout-accused-murderer"
+        }
+      ]
+    },
+    {
+      "title": "Ex-political aide faked anti-Trump attack by paying artist to slash her face and neck, prosecutors say",
+      "category": "U.S.",
+      "what": "Prosecutors say Natalie Greene paid a body modification artist $500 to slash her face and neck before staging an anti-Trump attack in New Jersey.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.foxnews.com/us/ex-political-aide-faked-anti-trump-attack-paying-artist-slash-face-neck-prosecutors-say",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/ex-political-aide-faked-anti-trump-attack-paying-artist-slash-face-neck-prosecutors-say"
+        }
+      ]
+    },
+    {
+      "title": "What failure of COP31 reveals about a divided world",
+      "category": "World",
+      "what": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Teacher’s aide rejected by NYPD admits killing jogger — and says ‘Allah told me to’: report",
+      "category": "U.S.",
+      "what": "Ex-cop and teacher's aide Sayed Mohassib faces murder charges in runner Katie Suarez's Brooklyn stabbing death, reportedly saying \"Allah\" told him to kill.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
+      "source": "https://www.foxnews.com/us/teachers-aide-rejected-nypd-admits-killing-jogger-allah-told-me-report",
+      "sources": [
+        {
+          "name": "Fox U.S.",
+          "url": "https://www.foxnews.com/us/teachers-aide-rejected-nypd-admits-killing-jogger-allah-told-me-report"
+        }
+      ]
+    },
+    {
+      "title": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
+      "category": "World",
+      "what": "The impersonator, Canadian comedian Mark Critch, poked fun at the US president's search for a new press secretary and US-Canada trade talks.",
+      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
+      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
+      "source": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+      "category": "World",
+      "what": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
+      "why": "This could affect international stability, security calculations, and the direction of global diplomacy.",
+      "watch": "Watch for retaliation, diplomatic statements, and whether allies or major powers shift their posture.",
+      "source": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+      "category": "World",
+      "what": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
+      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
+      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
       "source": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "name": "BBC World",
           "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "FAA lifts ground stop on Atlanta-bound Delta flights after system outage",
-      "category": "U.S.",
-      "what": "Delta Air Lines says crews are using manual workarounds after an outage in its weight-and-balance system reportedly delayed at least 3,500 flights.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/faa-lifts-ground-stop-atlanta-bound-delta-flights-system-outage",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/faa-lifts-ground-stop-atlanta-bound-delta-flights-system-outage"
-        },
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/"
-        }
-      ]
-    },
-    {
-      "title": "DHS, Dem officials clash after ICE arrest at Seattle airport",
-      "category": "Politics",
-      "what": "DHS says a passenger threw hot coffee at ICE officers during a Seattle airport arrest of a visa overstay, as Washington Democrats blast the operation.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/politics/dhs-dem-officials-clash-ice-arrest-seattle-airport",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/dhs-dem-officials-clash-ice-arrest-seattle-airport"
-        }
-      ]
-    },
-    {
-      "title": "'Crazy': Moderates fear Dem leadership promised far-left reparations and ICE demands in turn of votes",
-      "category": "Politics",
-      "what": "House Democrats are split as progressives' push to abolish ICE and reparations for descendants of slavery, while moderates warn it may hurt affordability.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://www.foxnews.com/politics/crazy-moderates-fear-dem-leadership-promised-far-left-reparations-ice-demands-turn-votes",
-      "sources": [
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/crazy-moderates-fear-dem-leadership-promised-far-left-reparations-ice-demands-turn-votes"
-        }
-      ]
-    },
-    {
-      "title": "Mississippi mother, caregiver face charges after refusing to give cancer treatment to toddler",
-      "category": "U.S.",
-      "what": "Destiny Schliefert faces felony murder charges after police say she refused cancer treatment for her 3-year-old son, who weighed 24 pounds when he died.",
-      "why": "This matters because it may affect national policy, public life, or how major institutions respond next.",
-      "watch": "Watch for how major institutions, state officials, or federal agencies respond as the story develops.",
-      "source": "https://www.foxnews.com/us/mississippi-mother-caregiver-face-charges-refusing-give-cancer-treatment-toddler",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/mississippi-mother-caregiver-face-charges-refusing-give-cancer-treatment-toddler"
-        }
-      ]
-    },
-    {
-      "title": "Newsom's bid to empty California's death row collides with voters' repeated rejection of abolition",
-      "category": "Politics",
-      "what": "A lawsuit challenges Democratic California Gov. Gavin Newsom's effort to commute all 548 death sentences, citing failures to notify district attorneys.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/politics/newsoms-bid-empty-californias-death-row-collides-voters-repeated-rejection-abolition",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/michael-ruiz-half-california-das-sue-newsom-death-row-clemency"
-        },
-        {
-          "name": "Fox Politics",
-          "url": "https://www.foxnews.com/politics/newsoms-bid-empty-californias-death-row-collides-voters-repeated-rejection-abolition"
-        }
-      ]
-    },
-    {
-      "title": "Illegal immigrant avoids charges after Florida grandmother killed outside grocery store, enraging family",
-      "category": "U.S.",
-      "what": "Prosecutors dropped all charges against Carlos Suarez-Contreras in Deborah Murphy's death at a Panama City Beach Publix, citing hurdles under Florida law.",
-      "why": "This could shape legal precedent, policy enforcement, or how similar disputes are handled next.",
-      "watch": "Watch for upcoming rulings, appeals, or how lower courts and agencies respond next.",
-      "source": "https://www.foxnews.com/us/illegal-immigrant-avoids-charges-florida-grandmother-killed-outside-grocery-store-enraging-family",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/illegal-immigrant-avoids-charges-florida-grandmother-killed-outside-grocery-store-enraging-family"
-        }
-      ]
-    },
-    {
-      "title": "Harvard scientist may never prove mysterious space object’s origin after mission scrapped",
-      "category": "U.S.",
-      "what": "Avi Loeb claims JAXA's canceled Hayabusa2 landing mission on 1998 KY26 ends the only chance to prove the object is the lost Soviet probe Phobos 1.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.foxnews.com/us/harvard-scientist-may-never-prove-mysterious-space-objects-origin-after-mission-scrapped",
-      "sources": [
-        {
-          "name": "Fox U.S.",
-          "url": "https://www.foxnews.com/us/harvard-scientist-may-never-prove-mysterious-space-objects-origin-after-mission-scrapped"
-        }
-      ]
-    },
-    {
-      "title": "South Korea education minister resigns over exam cheating scandal",
-      "category": "World",
-      "what": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-      "category": "World",
-      "what": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-      "why": "This could influence global stability, diplomacy, or economic conditions beyond a single country.",
-      "watch": "Watch for follow-up moves from governments, international organizations, and any broader regional effects.",
-      "source": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "category": "World",
-      "what": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
-      "category": "Tech",
-      "what": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/"
-        }
-      ]
-    },
-    {
-      "title": "“Race realism” isn’t realistic—and it isn’t good science",
-      "category": "Tech",
-      "what": "Modern genetics does not support claims of innate racial differences in intelligence.",
-      "why": "This matters because technology decisions increasingly shape business, policy, and everyday life.",
-      "watch": "Watch for competitor responses, regulatory attention, and signs of broader adoption or pushback.",
-      "source": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/"
-        }
-      ]
-    },
-    {
-      "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
-      "category": "Tech",
-      "what": "FCC preempts state rules that require AT&T to keep offering home phone service.",
-      "why": "This matters because it could affect elections, legislation, or the broader national political climate.",
-      "watch": "Watch for polling shifts, legislative movement, campaign reactions, or the next public response from key officials.",
-      "source": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/"
         }
       ]
     }
